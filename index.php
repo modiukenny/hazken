@@ -117,7 +117,7 @@
             <span class="carousel-control-next-icon"></span>
         </a>
     </div>
-    <!--SEND TO E-MAIL-->
+    <!--SEND TO E-MAIL
     <div class="container-fluid px-5 p-4 bg-danger">
         <form action="/action_page.php" class="input-opacity">
             <div class="form-group">
@@ -126,7 +126,7 @@
             </div>
             <button type="submit" class="btn btn-outline-light btn-block">Submit</button>
         </form>
-    </div>
+    </div>-->
 
 
 

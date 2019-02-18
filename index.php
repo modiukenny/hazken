@@ -335,7 +335,7 @@
 </body>
 
 <!--BRANDING DESIGN DETAILS-->
-<article class="cotainerfluid p-2 bg-dark text-center justify-content-center">
+<article class="cotainerfluid bg-dark d-flex flex-row justify-content-center p-2">
     <div id="branding-designs">
         <h3 class=" text-center text-white font-weight-bold">CREATIVE BRANDING</h3>
     </div>

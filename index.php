@@ -446,7 +446,7 @@
     </div>
 <hr>
     <div class="d-flex flex-row justify-content-center text-secondary">
-      <p>Copyright &copy; Hazken 2019 All rights reserved.</p>
+      <p style="font-size: 15px">Copyright &copy; Hazken 2019 All rights reserved.</p>
     </div>
 </footer>
 </body>

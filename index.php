@@ -322,7 +322,7 @@
             </div>
         </div>
         <button type="button" class="d-flex flex-row justify-content-center 
-        col-6 col-offset-6 btn btn-danger btn-lg 
+        col-offset-3 col-6  btn btn-danger btn-lg 
        ">Order Now</button>
     </section>
     <!--WEBD-ESIGNS DESIGN DETAILS-->

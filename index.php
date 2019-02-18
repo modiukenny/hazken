@@ -322,7 +322,7 @@
             </div>
         </div>
         <button type="button" class="d-flex flex-row justify-content-center btn btn-danger btn-lg 
-        ">Order Now</button>
+        btn-block">Order Now</button>
     </section>
     <!--WEBD-ESIGNS DESIGN DETAILS-->
     <section class="cotainerfluid p-2 bg-warning" id="web-designs">

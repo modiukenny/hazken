@@ -342,8 +342,8 @@
                 <img src="src/img/40.png" class="img-fluid m-1">
             </div>
         </div>
-        <div class="clearfix">
-        <button type="button" class="btn btn-danger btn-md m-1 mr-2 float-right"
+        <div class="d-flex flex-row justify-content-center">
+        <button type="button" class="btn btn-danger btn-md"
         data-toggle="modal" data-target="#exampleModal2">Order Now</button>
         </div>
     </section>
@@ -410,8 +410,8 @@
         </p>
         <img src="src/img/responsive web.jpg" class="img-fluid mx-auto m-1">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
-        <div class="clearfix">
-            <button type="button" class="btn btn-dark btn-md m-1 mr-1 float-right"
+        <div class="d-flex flex-row justify-content-center">
+            <button type="button" class="btn btn-dark btn-md"
             data-toggle="modal" data-target="#exampleModal3">Order Now</button>
             </div>
     </section>
@@ -543,8 +543,8 @@
             <img src="src/img/65.png" class="img-fluid m-1">
         </div>
         </div>
-        <div class="clearfix">
-            <button type="button" class="btn btn-outline-light btn-md m-1 mr-3 float-right"
+        <div class="d-flex flex-row justify-content-center">
+            <button type="button" class="btn btn-outline-light btn-md"
             data-toggle="modal" data-target="#exampleModal4">Order Now</button>
             </div>
 </article>

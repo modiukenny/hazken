@@ -125,7 +125,7 @@
                 <textarea class="form-control" rows="5" id="comment" name="message"
                 placeholder="Your Message"></textarea>
             </div>
-            <button type="submit" class="btn btn-outline-light btn-md float-right"
+            <button type="submit" class="btn btn-outline-light btn-md btn-block"
             data-toggle="modal" data-target="#exampleModal">SUBMIT</button>
         </form>
     </div>
@@ -343,7 +343,7 @@
             </div>
         </div>
         <div class="clearfix">
-        <button type="button" class="btn btn-danger btn-md m-1 mr-3 float-right"
+        <button type="button" class="btn btn-danger btn-md m-1 mr-2 float-right"
         data-toggle="modal" data-target="#exampleModal2">Order Now</button>
         </div>
     </section>
@@ -411,7 +411,7 @@
         <img src="src/img/responsive web.jpg" class="img-fluid mx-auto m-1">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
         <div class="clearfix">
-            <button type="button" class="btn btn-dark btn-md m-1 mr-3 float-right"
+            <button type="button" class="btn btn-dark btn-md m-1 mr-1 float-right"
             data-toggle="modal" data-target="#exampleModal3">Order Now</button>
             </div>
     </section>

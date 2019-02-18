@@ -322,7 +322,7 @@
             </div>
         </div>
         <button type="button" class="d-flex flex-row justify-content-center 
-        col-offset-3 col-6  btn btn-danger btn-lg 
+        col-3  btn btn-danger btn-lg float-right
        ">Order Now</button>
     </section>
     <!--WEBD-ESIGNS DESIGN DETAILS-->
@@ -334,8 +334,9 @@
         <img src="src/img/responsive web.jpg" class="img-fluid m-1">
         <img src="src/img/responsive web1.jpg" class="img-fluid m-1">
         </div>
-        <button type="button" class="d-flex flex-row justify-content-center btn btn-danger btn-lg 
-        btn-block">Order Now</button>
+        <button type="button" class="d-flex flex-row justify-content-center 
+        col-3  btn btn-danger btn-lg float-right
+       ">Order Now</button>
     </section>
 </body>
 
@@ -417,8 +418,9 @@
         <div class="col-4">
             <img src="src/img/65.png" class="img-fluid m-1">
         </div>
-        <button type="button" class="d-flex flex-row justify-content center btn btn-danger btn-lg 
-        ">Order Now</button>
+        <button type="button" class="d-flex flex-row justify-content-center 
+        col-3  btn btn-danger btn-lg float-right
+       ">Order Now</button>
 </article>
 
 <!--ABOUT US-->

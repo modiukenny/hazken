@@ -200,9 +200,9 @@
     </div>
 
     <!--GRAPHICS DESIGN DETAILS-->
-    <section class="cotainerfluid p-2" id="graphics-designs">
+    <section class="container-fluid p-2" id="graphics-designs">
         <h3 class=" text-center font-weight-bold">GRAPHICS DESIGNS/PRINTING</h3>
-        <div class="row">
+        <div class="row mx-auto">
             <div class="col-4">
                 <img src="src/img/1.png" class="img-fluid m-1">
             </div>
@@ -321,21 +321,26 @@
                 <img src="src/img/40.png" class="img-fluid m-1">
             </div>
         </div>
+        <div class="mx-auto">
+        <button type="button" class="btn btn-outline-light btn-lg">Order Now</button>
+        </div>
     </section>
     <!--WEBD-ESIGNS DESIGN DETAILS-->
-    <section class="cotainerfluid p-2 bg-warning" id="web-designs">
+    <section class="container-fluid p-2 bg-warning" id="web-designs">
         <h3 class=" text-center font-weight-bold">WEB DESIGNS</h3>
         <p class="text-center">For your Web Designs & Mobile
             Your can send us a mail<br><strong>hazkengraphics@gmail.com</strong>
         </p>
-        <img src="src/img/responsive web.jpg" class="img-fluid m-1">
-        <img src="src/img/responsive web1.jpg" class="img-fluid m-1">
+        <img src="src/img/responsive web.jpg" class="img-fluid mx-auto m-1">
+        <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
+        <div class="mx-auto">
+        <button type="button" class="btn btn-outline-light btn-lg">Order Now</button>
         </div>
     </section>
 </body>
 
 <!--BRANDING DESIGN DETAILS-->
-<article class="cotainerfluid p-2 bg-danger">
+<article class="container-fluid p-2 bg-danger">
     <div id="branding-designs">
         <h3 class=" text-center text-white font-weight-bold">CREATIVE BRANDING</h3>
     </div>
@@ -415,10 +420,11 @@
         </div>
         <div class="mx-auto">
         <button type="button" class="btn btn-outline-light btn-lg">Order Now</button>
+        </div>
 </article>
 
 <!--ABOUT US-->
-<footer class="cotainerfluid p-2 bg-light" id="about-us">
+<footer class="container-fluid p-2 bg-light" id="about-us">
     <h3 class=" text-center font-weight-bold">ABOUT US</h3>
     <p class="text-center">
         We do Graphics Design for Your Printing, Book Publishing, Light-Packaging,<br>

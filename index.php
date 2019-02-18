@@ -333,9 +333,7 @@
         </p>
         <img src="src/img/responsive web.jpg" class="img-fluid mx-auto m-1">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
-        <div class="mx-auto">
-        <button type="button" class="btn btn-outline-light btn-lg">Order Now</button>
-        </div>
+        <button type="button" class="mx-auto btn btn-outline-light btn-lg">Order Now</button>
     </section>
 </body>
 

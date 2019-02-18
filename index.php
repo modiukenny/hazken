@@ -434,9 +434,9 @@
         <a href="https://wa.me/2348176246387" target="_blank">
             <img src="src/img/whatsapp.png" class="m-1" style="widows: 23px;height: 23px;"></a>
     </div>
-
+<hr>
     <div class="d-flex flex-row justify-content-center text-secondary">
-       Copyright &copy; Hazken 2019 All rights reserved.
+      <p>Copyright &copy; Hazken 2019 All rights reserved.</p>
     </div>
 </footer>
 </body>

@@ -119,7 +119,7 @@
     </div>
     <!--TO E-MAIL-->
     <div class="container-fluid p-4 bg-danger">
-        <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
+        <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform">
             <div class="form-group">
                 <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
                 <textarea class="form-control" rows="5" id="comment" name="message"

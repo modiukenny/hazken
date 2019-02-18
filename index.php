@@ -412,6 +412,9 @@
         <div class="col-4">
             <img src="src/img/65.png" class="img-fluid m-1">
         </div>
+        <div class="mx-auto">
+        <button type="button" class="btn btn-default btn-lg">Order Now</button>
+        </div>
 </article>
 
 <!--ABOUT US-->
@@ -426,6 +429,7 @@
         <strong>E-mail: hazkengraphics@gmail.com<br>
             Contact: +234 817 6246 387</strong>
     </p>
+    <br><br>
     <div class="d-flex flex-row justify-content-center">
         <a href="https://www.instagram.com/hazken_graphics/" target="_blank">
             <img src="src/img/instagram_icon.png" class="m-1" style="widows: 23px;height: 23px;"></a>

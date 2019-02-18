@@ -412,6 +412,7 @@
         <div class="col-4">
             <img src="src/img/65.png" class="img-fluid m-1">
         </div>
+        <div class="text-center btn btn-danger btn-lg">Order Now</div>
 </article>
 
 <!--ABOUT US-->
@@ -436,7 +437,7 @@
     </div>
 
     <div class="d-flex flex-row justify-content-center text-secondary">
-        &copy; Hazken 2019
+       Copyright &copy; Hazken 2019 All rights reserved.
     </div>
 </footer>
 </body>

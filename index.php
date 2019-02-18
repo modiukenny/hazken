@@ -321,8 +321,8 @@
                 <img src="src/img/40.png" class="img-fluid m-1">
             </div>
         </div>
-        <div class="mx-auto">
-        <button type="button" class="btn btn-outline-light btn-lg">Order Now</button>
+        <div class="clearfix">
+        <button type="button" class="btn btn-outline-danger btn-lg float-right">Order Now</button>
         </div>
     </section>
     <!--WEBD-ESIGNS DESIGN DETAILS-->
@@ -333,7 +333,7 @@
         </p>
         <img src="src/img/responsive web.jpg" class="img-fluid mx-auto m-1">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
-        <button type="button" class="mx-auto btn btn-outline-light btn-lg">Order Now</button>
+        <button type="button" class="ml-2 btn btn-outline-dark btn-lg">Order Now</button>
     </section>
 </body>
 
@@ -433,7 +433,6 @@
         <strong>E-mail: hazkengraphics@gmail.com<br>
             Contact: +234 817 6246 387</strong>
     </p>
-    <br>
     <br><br>
     <div class="d-flex flex-row justify-content-center">
         <a href="https://www.instagram.com/hazken_graphics/" target="_blank">

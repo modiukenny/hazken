@@ -343,7 +343,7 @@
             </div>
         </div>
         <div class="d-flex flex-row justify-content-center">
-        <button type="button" class="btn btn-danger btn-md"
+        <button type="button" class="btn btn-danger btn-md m-1"
         data-toggle="modal" data-target="#exampleModal2">Order Now</button>
         </div>
     </section>
@@ -371,11 +371,7 @@
                 <h2><em>Thanks</em> for contacting us! We will get back to you soon!
                 </h2>
                </div>
-               <div style="display:none" class="thankyou_message">
-                <!-- You can customize the thankyou message by editing the code below -->
-                <h2><em>Thanks</em> for contacting us! We will get back to you soon!
-                </h2>
-               </div>
+            
         </form>
         </div>
       </div>
@@ -411,7 +407,7 @@
         <img src="src/img/responsive web.jpg" class="img-fluid mx-auto m-1">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
         <div class="d-flex flex-row justify-content-center">
-            <button type="button" class="btn btn-dark btn-md"
+            <button type="button" class="btn btn-dark btn-md m-1"
             data-toggle="modal" data-target="#exampleModal3">Order Now</button>
             </div>
     </section>
@@ -544,7 +540,7 @@
         </div>
         </div>
         <div class="d-flex flex-row justify-content-center">
-            <button type="button" class="btn btn-outline-light btn-md"
+            <button type="button" class="btn btn-outline-light btn-md m-1"
             data-toggle="modal" data-target="#exampleModal4">Order Now</button>
             </div>
 </article>

@@ -321,9 +321,6 @@
                 <img src="src/img/40.png" class="img-fluid m-1">
             </div>
         </div>
-        <button type="button" class="d-flex flex-row justify-content-center 
-        col-3  btn btn-danger btn-lg float-right
-       ">Order Now</button>
     </section>
     <!--WEBD-ESIGNS DESIGN DETAILS-->
     <section class="cotainerfluid p-2 bg-warning" id="web-designs">
@@ -334,14 +331,11 @@
         <img src="src/img/responsive web.jpg" class="img-fluid m-1">
         <img src="src/img/responsive web1.jpg" class="img-fluid m-1">
         </div>
-        <button type="button" class="d-flex flex-row justify-content-center 
-        col-3  btn btn-danger btn-lg float-right
-       ">Order Now</button>
     </section>
 </body>
 
 <!--BRANDING DESIGN DETAILS-->
-<article class="cotainerfluid p-2 bg-dark text-center justify-content-center">
+<article class="cotainerfluid p-2 bg-danger">
     <div id="branding-designs">
         <h3 class=" text-center text-white font-weight-bold">CREATIVE BRANDING</h3>
     </div>
@@ -418,9 +412,6 @@
         <div class="col-4">
             <img src="src/img/65.png" class="img-fluid m-1">
         </div>
-        <button type="button" class="d-flex flex-row justify-content-center 
-        col-3  btn btn-danger btn-lg float-right
-       ">Order Now</button>
 </article>
 
 <!--ABOUT US-->

@@ -335,7 +335,7 @@
 </body>
 
 <!--BRANDING DESIGN DETAILS-->
-<article class="cotainerfluid p-2 bg-danger">
+<article class="cotainerfluid p-2 bg-danger text-center">
     <div id="branding-designs">
         <h3 class=" text-center text-white font-weight-bold">CREATIVE BRANDING</h3>
     </div>
@@ -412,7 +412,7 @@
         <div class="col-4">
             <img src="src/img/65.png" class="img-fluid m-1">
         </div>
-        <div class="text-center btn btn-danger btn-lg">Order Now</div>
+        <div class="text-center btn btn-white btn-lg">Order Now</div>
 </article>
 
 <!--ABOUT US-->

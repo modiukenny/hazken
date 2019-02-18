@@ -413,7 +413,7 @@
             <img src="src/img/65.png" class="img-fluid m-1">
         </div>
         <div class="mx-auto">
-        <button type="button" class="btn btn-outline-white btn-sm">Order Now</button>
+        <button type="button" class="btn btn-outline-light btn-lg">Order Now</button>
         </div>
 </article>
 

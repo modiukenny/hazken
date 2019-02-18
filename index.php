@@ -339,7 +339,7 @@
     <div id="branding-designs">
         <h3 class=" text-center text-white font-weight-bold">CREATIVE BRANDING</h3>
     </div>
-    <div class="row">
+    <div class="row mx-auto">
         <div class="col-4">
             <img src="src/img/41.png" class="img-fluid m-1">
         </div>
@@ -412,9 +412,9 @@
         <div class="col-4">
             <img src="src/img/65.png" class="img-fluid m-1">
         </div>
+        </div>
         <div class="mx-auto">
         <button type="button" class="btn btn-outline-light btn-lg">Order Now</button>
-        </div>
 </article>
 
 <!--ABOUT US-->

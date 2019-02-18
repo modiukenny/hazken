@@ -73,32 +73,12 @@
                         <li class="nav-item"><a href="https://wa.me/2348176246387" target="_blank">
                                 <img src="src/img/whatsapp.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
                         </li>
-                        <li class="nav-item">
-                        <img src="src/img/tellphonecall.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
-                        </li>
 
                     </ul>
                 </div>
             </nav>
         </div>
     </div>
-
-<!--CONTACT MODAL-->
-<div class="modal fade text-dark" id="contactModal">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="contactModalTitle">
-                    contact us
-                </h5>
-            </div>
-            <div class="modal-body">
-                <h3>
-                    +234 8176246387
-                </h3>
-        </div>
-    </div>
-</div>
     <!--Image Slides-->
 
     <div id="demo" class="carousel slide" data-ride="carousel">

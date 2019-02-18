@@ -322,7 +322,7 @@
             </div>
         </div>
         <div class="clearfix">
-        <button type="button" class="btn btn-danger btn-lg m-1 float-right">Order Now</button>
+        <button type="button" class="btn btn-danger btn-md m-1 float-right">Order Now</button>
         </div>
     </section>
     <!--WEBD-ESIGNS DESIGN DETAILS-->
@@ -334,7 +334,7 @@
         <img src="src/img/responsive web.jpg" class="img-fluid mx-auto m-1">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
         <div class="clearfix">
-        <button type="button" class="btn btn-dark btn-lg m-1 float-right">Order Now</button>
+        <button type="button" class="btn btn-dark btn-md m-1 float-right">Order Now</button>
         </div>
     </section>
 </body>
@@ -419,7 +419,7 @@
         </div>
         </div>
         <div class="clearfix">
-        <button type="button" class="btn btn-outline-light btn-lg m-1 float-right">Order Now</button>
+        <button type="button" class="btn btn-outline-light btn-md m-1 float-right">Order Now</button>
         </div>
 </article>
 

@@ -412,7 +412,7 @@
         <div class="col-4">
             <img src="src/img/65.png" class="img-fluid m-1">
         </div>
-        <button type="btn" class="text-center btn btn-danger btn-lg">Order Now</button>
+        <button type="button" class="text-center btn btn-danger btn-lg">Order Now</button>
 </article>
 
 <!--ABOUT US-->

@@ -125,7 +125,7 @@
                 <textarea class="form-control" rows="5" id="comment" name="message"
                 placeholder="Your Message"></textarea>
             </div>
-            <div class="mx-auto"
+            <div class="mx-auto">
             <button type="submit" class="btn btn-outline-light btn-md"
             data-toggle="modal" data-target="#exampleModal">SUBMIT</button></div>
         </form>

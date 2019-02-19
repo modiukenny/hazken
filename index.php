@@ -91,8 +91,7 @@
                 <img src="/src/img/hazken-image.png" alt="Hazken Graphics" width="1100" height="500">
                 <div class="carousel-caption">
                     <h3 style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">
-                        I am <span class="font-weight-bold">Modiu Kenny</span></h3>
-                    <p class="font-weight-bold">A Graphics Artist and <br>A Intermediate Web Developer</p>
+                    <p class="font-weight-bold">Web Designs for Mobile & Laptop</p>
                 </div>
             </div>
             <div class="carousel-item">

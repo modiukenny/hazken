@@ -80,10 +80,8 @@
         </div>
     </div>
     <!--Image Slides-->
-<div class="container-fluid bg-light" style="height:10px">
-
-</div>
-    <div id="demo" class="carousel slide" data-ride="carousel">
+<div style="margin-top: 75px">
+    <div id="demo" class="carousel slide " data-ride="carousel">
         <ul class="carousel-indicators">
             <li data-target="#demo" data-slide-to="0" class="active"></li>
             <li data-target="#demo" data-slide-to="1"></li>
@@ -119,8 +117,9 @@
             <span class="carousel-control-next-icon"></span>
         </a>
     </div>
+</div>
     <!--TO E-MAIL-->
-    <div class="container-fluid px-5 p-4 bg-danger">
+    <div class="container-fluid p-4 bg-danger">
         <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
             <div class="form-group">
                 <input type="email" class="form-control mb-3" placeholder="Your-Email" name="email">

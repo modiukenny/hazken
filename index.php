@@ -80,8 +80,10 @@
         </div>
     </div>
     <!--Image Slides-->
+<div class="container-fluid bg-light" style="height:10px">
 
-    <div id="demo" class="carousel slide m-3" data-ride="carousel">
+</div>
+    <div id="demo" class="carousel slide" data-ride="carousel">
         <ul class="carousel-indicators">
             <li data-target="#demo" data-slide-to="0" class="active"></li>
             <li data-target="#demo" data-slide-to="1"></li>

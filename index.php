@@ -617,7 +617,7 @@
     </div>
 <hr>
     <div class="d-flex flex-row justify-content-center text-secondary">
-      <p style="font-size: 7px">Copyright &copy; Hazken 2019 All rights reserved.</p>
+      <p style="font-size: 13px">Copyright &copy; Hazken 2019 All rights reserved.</p>
     </div>
 </footer>
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>

@@ -90,8 +90,7 @@
             <div class="carousel-item active">
                 <img src="/src/img/hazken-image.png" alt="Hazken Graphics" width="1100" height="500">
                 <div class="carousel-caption">
-                    <h3 style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">
-                    <p class="font-weight-bold">Web Designs for Mobile & Laptop</p>
+            
                 </div>
             </div>
             <div class="carousel-item">

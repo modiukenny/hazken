@@ -80,8 +80,7 @@
         </div>
     </div>
     <!--Image Slides-->
-<div style="margin-top: 75px">
-    <div id="demo" class="carousel slide " data-ride="carousel">
+    <div id="demo" class="carousel slide " data-ride="carousel" style="margin-top: 75px">
         <ul class="carousel-indicators">
             <li data-target="#demo" data-slide-to="0" class="active"></li>
             <li data-target="#demo" data-slide-to="1"></li>
@@ -91,10 +90,6 @@
             <div class="carousel-item active">
                 <img src="/src/img/hazken-image.png" alt="Hazken Graphics" width="1100" height="500">
                 <div class="carousel-caption">
-                    <h3 style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">
-                        I am <span class="font-weight-bold">Modiu Kenny</span></h3>
-                    <p class="font-weight-bold">A Graphics Artist and <br>A Intermediate Web Developer</p>
-                </div>
             </div>
             <div class="carousel-item">
                 <img src="/src/img/hazken-image-printing-wedo.png" alt="Hazken-Graphics" width="1100" height="500">
@@ -117,7 +112,6 @@
             <span class="carousel-control-next-icon"></span>
         </a>
     </div>
-</div>
     <!--TO E-MAIL-->
     <div class="container-fluid p-4 bg-danger">
         <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">

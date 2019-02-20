@@ -343,8 +343,8 @@
             </div>
         </div>
         <div class="d-flex flex-row justify-content-center">
-        <button type="button" class="btn btn-danger btn-md m-1 text-capitalize"
-        data-toggle="modal" data-target="#exampleModal2">Order Now</button>
+        <button type="button" class="btn btn-danger btn-md m-1"
+        data-toggle="modal" data-target="#exampleModal2">ORDER NOW</button>
         </div>
     </section>
 <!-- Modal -->
@@ -408,7 +408,7 @@
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
         <div class="d-flex flex-row justify-content-center">
             <button type="button" class="btn btn-dark btn-md m-1 text-capitalize"
-            data-toggle="modal" data-target="#exampleModal3">Order Now</button>
+            data-toggle="modal" data-target="#exampleModal3">ORDER NOW</button>
             </div>
     </section>
 </body>
@@ -541,7 +541,7 @@
         </div>
         <div class="d-flex flex-row justify-content-center">
             <button type="button" class="btn btn-outline-light btn-md m-1 text-capitalize"
-            data-toggle="modal" data-target="#exampleModal4">Order Now</button>
+            data-toggle="modal" data-target="#exampleModal4">ORDER NOW</button>
             </div>
 </article>
 <!-- Modal -->

@@ -127,6 +127,7 @@
     <div class="container-fluid p-4 bg-danger">
         <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform">
             <div class="form-group">
+            <label for="exampleInputEmail1">Email address</label>
                 <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
                 <textarea class="form-control" rows="5" id="comment" name="message"
                 placeholder="Your Message"></textarea>
@@ -156,7 +157,56 @@
   </div>
 
 
-
+<!--WHO WE ARE-->
+<div class="container">
+        <div class="col-sm-8">
+        <div id="accordion">
+                <div class="card">
+                  <div class="card-header" id="headingOne">
+                    <h5 class="mb-0">
+                      <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        WEB DESIGNS
+                      </button>
+                    </h5>
+                  </div>
+              
+                  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                    <div class="card-body">
+                            who specializes in the development of applications relating to the World Wide Web or distributed network applications, which typically run protocols like HTTP from a Web server to a client browser using associated programming languages like HTML/CSS, JAVASCRIPT etc.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingTwo">
+                    <h5 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        GRAPHIC DESIGNS
+                      </button>
+                    </h5>
+                  </div>
+                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                    <div class="card-body">
+                            We creates graphics primarily for published, printed or electronic media, such as brochures and advertising, responsible illustration, user interfaces, and web design. A core responsibility of the designer's job is to present information in a way that is both accessible and memorable.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingThree">
+                    <h5 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        CREATIVE BRANDING
+                      </button>
+                    </h5>
+                  </div>
+                  <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                    <div class="card-body">
+                            The process involved in creating a unique name and image for a product in the consumers’ mind, mainly through advertising campaigns with a consistent theme. Branding aims to establish a significant and differentiated presence in the market that attracts and retains loyal customers.
+                    </div>
+                  </div>
+                </div>
+              </div>
+    </div>
+</div>
 
 
 

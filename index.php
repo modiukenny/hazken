@@ -415,7 +415,7 @@
         </div>
         <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
             <div class="form-group p-2">
-                <input type="email" class="form-control mb-3" placeholder="Your-Email" name="email">
+                <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
                 <textarea class="form-control" rows="5" id="comment" name="message"
                 placeholder="Your Message"></textarea>
             </div>
@@ -479,7 +479,7 @@
         </div>
         <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
             <div class="form-group p-2">
-                <input type="email" class="form-control mb-3" placeholder="Your-Email" name="email">
+                <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
                 <textarea class="form-control" rows="5" id="comment" name="message"
                 placeholder="Your Message"></textarea>
             </div>
@@ -611,7 +611,7 @@
         </div>
         <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
             <div class="form-group p-2">
-                <input type="email" class="form-control mb-3" placeholder="Your-Email" name="email">
+                <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
                 <textarea class="form-control" rows="5" id="comment" name="message"
                 placeholder="Your Message"></textarea>
             </div>
@@ -649,32 +649,35 @@
   </div>
 
 <!--ABOUT US-->
-<footer class="container-fluid p-2 bg-light" id="about-us">
-    <h3 class=" text-center font-weight-bold">ABOUT US</h3>
-    <p class="text-center">
-        We do Graphics Design for Your Printing, Book Publishing, Light-Packaging,<br>
-        Creative Branding, Business Cards, Office Stationaries, Handbill,<br>
-        Creative Logo, General Printing and Creative Branding.<br>
-        We do Web Reponsive Designs for mobile Phone, Tablets, Mini Laptops,
-        and Large Screens and for Applications. <br>
-        <strong>E-mail: hazkengraphics@gmail.com<br>
-            Contact: +234 817 6246 387</strong>
-    </p>
-    <br><br>
+<footer class="container-fluid bg-light pt-3" id="about-us">
+        <div class="container bg-light">
+                <div class="media border p-3">
+                  <img src="./src/img/hazkenceo.png" alt="John Doe" class="mr-3 mt-4" style="width:95px; height: 120px">
+                  <div class="media-body mt-4">
+                    <h4>ABOUT US</h4>
+                    <p style="font-size: 15px">Modiu Kehinde Hazzan the CEO and founder of HAZKEN GRAPHICS.
+                        As an experienced professional, He is committed to raising awareness
+                        about how to create a Reponsive Website Design and App,
+                        Also specialize Graphics Designs for Printing and adverts.     
+                  </div>
+                </div>
+              </div>
+    <div class="d-flex flex-row justify-content-center m-3">
+            <a href="tel:+2348176246387" class="btn btn-danger">CONTACT US</a>
+        </div>
     <div class="d-flex flex-row justify-content-center">
         <a href="https://www.instagram.com/hazken_graphics/" target="_blank">
-            <img src="src/img/instagram_icon.png" class="m-1" style="widows: 23px;height: 23px;"></a>
+            <img src="src/img/instagram_icon.png" class="m-1" style="widows: 40px;height: 40px;"></a>
         <a href="https://www.facebook.com/hazkengraphics/" target="_blank">
-            <img src="src/img/facebook.png" class="m-1" style="widows: 23px;height: 23px;"></a>
+            <img src="src/img/facebook.png" class="m-1" style="widows: 40px;height: 40px;"></a>
         <a href="https://wa.me/2348176246387" target="_blank">
-            <img src="src/img/whatsapp.png" class="m-1" style="widows: 23px;height: 23px;"></a>
+            <img src="src/img/whatsapp.png" class="m-1" style="widows: 40px;height: 40px;"></a>
             <a href="https://twitter.com/HazkenG" target="_blank">
-            <img src="src/img/twitter.png" class="m-1" style="widows: 23px;height: 23px;"></a>
+            <img src="src/img/twitter.png" class="m-1" style="widows: 40px;height: 40px;"></a>
             <a href="mailto:hazkengraphics@gmail.com">
-            <img src="src/img/email.png" class="m-1" style="widows: 23px;height: 23px;"></a>
-            <a href="tel:+2348176246387" target="_blank">
-            <img src="src/img/tell.png" class="m-1" style="widows: 23px;height: 23px;"></a>
+            <img src="src/img/email.png" class="m-1" style="widows: 40px;height: 40px;"></a>
     </div>
+    
 <hr>
     <div class="d-flex flex-row justify-content-center text-secondary">
       <p style="font-size: 13px">Copyright &copy; Hazken 2019 All rights reserved.</p>

@@ -127,8 +127,8 @@
     <div class="container-fluid p-4 bg-danger">
         <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform">
             <div class="form-group">
-            <label for="exampleInputEmail1">Email address</label>
-                <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
+            <label for="exampleInputEmail1" class="text-light font-weight-bold">EMAIL ADDRESS</label>
+                <input type="email" class="form-control mb-3" placeholder="Your Mail" name="email">
                 <textarea class="form-control" rows="5" id="comment" name="message"
                 placeholder="Your Message"></textarea>
             </div>
@@ -158,13 +158,13 @@
 
 
 <!--WHO WE ARE-->
-<div class="container">
-        <div class="col-sm-8">
+<div class="container p-3">
+        <div class="col-sm-12">
         <div id="accordion">
                 <div class="card">
-                  <div class="card-header" id="headingOne">
+                  <div class="card-header" id="headingOne" style="background: #D2D3D5">
                     <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                      <button class="btn btn-secondary" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                         WEB DESIGNS
                       </button>
                     </h5>
@@ -172,35 +172,35 @@
               
                   <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                            who specializes in the development of applications relating to the World Wide Web or distributed network applications, which typically run protocols like HTTP from a Web server to a client browser using associated programming languages like HTML/CSS, JAVASCRIPT etc.
+                            We specializes in the development of applications relating to the World Wide Web or distributed network applications, which typically run protocols like HTTP from a Web Server to a client browser using associated programming languages like HTML/CSS, JAVASCRIPT, PYTHON etc.
                     </div>
                   </div>
                 </div>
                 <div class="card">
-                  <div class="card-header" id="headingTwo">
+                  <div class="card-header" id="headingTwo" style="background: #D2D3D5">
                     <h5 class="mb-0">
-                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                      <button class="btn btn-secondary collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                         GRAPHIC DESIGNS
                       </button>
                     </h5>
                   </div>
                   <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                     <div class="card-body">
-                            We creates graphics primarily for published, printed or electronic media, such as brochures and advertising, responsible illustration, user interfaces, and web design. A core responsibility of the designer's job is to present information in a way that is both accessible and memorable.
+                            We creates graphics primarily for published, printing, such as brochures and advertising, responsible illustration, user interfaces, and web design. A core responsibility of the designer's job is to present information in a way that is both accessible and memorable.
                     </div>
                   </div>
                 </div>
                 <div class="card">
-                  <div class="card-header" id="headingThree">
+                  <div class="card-header" id="headingThree" style="background: #D2D3D5">
                     <h5 class="mb-0">
-                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                      <button class="btn btn-secondary collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                         CREATIVE BRANDING
                       </button>
                     </h5>
                   </div>
                   <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                     <div class="card-body">
-                            The process involved in creating a unique name and image for a product in the consumers’ mind, mainly through advertising campaigns with a consistent theme. Branding aims to establish a significant and differentiated presence in the market that attracts and retains loyal customers.
+                            We a unique name and image for a product in the consumers mind, mainly through advertising campaigns with a consistent theme. Branding aims to establish a significant and differentiated presence in the market that attracts and retains loyal customers.
                     </div>
                   </div>
                 </div>
@@ -211,10 +211,10 @@
 
 
     <!--DETAILS ABOUT HAZKEN GRAPHICS-->
-    <div class="container-fluid bg-warning" id="ourfeatures">
+    <div class="container-fluid bg-danger" id="ourfeatures">
         <div class="container p-2">
             <div>
-                <h3 class="text-center font-weight-bold">SERVICE WE PROVIDE</h3>
+                <h3 class="text-center font-weight-bold text-light">SERVICE WE PROVIDE</h3>
             </div>
             <div class="row justify-content-center">
                 <a href="#graphics-designs" class="col-lg-3 p-3 m-3 rounded 
@@ -455,10 +455,9 @@
   
 
     <!--WEB DESIGNS DESIGN DETAILS-->
-    <section class="container-fluid p-2 bg-warning" id="web-designs">
-        <h3 class=" text-center font-weight-bold">WEB DESIGNS</h3>
-        <p class="text-center">For your Web Designs & Mobile
-            Your can send us a mail<br><strong>hazkengraphics@gmail.com</strong>
+    <section class="container-fluid p-2 bg-danger" id="web-designs">
+        <h3 class=" text-center font-weight-bold text-light">WEB DESIGNS</h3>
+        <p class="text-center text-light">Web Designs JavaScript for Mobile and Laptops
         </p>
         <img src="src/img/responsive web.jpg" class="img-fluid mx-auto m-1">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">

@@ -76,6 +76,12 @@
                         <li class="nav-item"><a href="https://twitter.com/HazkenG" target="_blank">
                                 <img src="src/img/twitter.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
                         </li>
+                        <li class="nav-item"><a href="mailto:hazkengraphics@gmail.com">
+                                <img src="src/img/mail.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
+                        </li>
+                        <li class="nav-item"><a href="tel:+2348176246387">
+                                <img src="src/img/tell.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
+                        </li>
 
                     </ul>
                 </div>
@@ -615,6 +621,10 @@
             <img src="src/img/whatsapp.png" class="m-1" style="widows: 23px;height: 23px;"></a>
             <a href="https://twitter.com/HazkenG" target="_blank">
             <img src="src/img/twitter.png" class="m-1" style="widows: 23px;height: 23px;"></a>
+            <a href="mailto:hazkengraphics@gmail.com">
+            <img src="src/img/mail.png" class="m-1" style="widows: 23px;height: 23px;"></a>
+            <a href="tel:+2348176246387" target="_blank">
+            <img src="src/img/tell.png" class="m-1" style="widows: 23px;height: 23px;"></a>
     </div>
 <hr>
     <div class="d-flex flex-row justify-content-center text-secondary">

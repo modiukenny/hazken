@@ -462,7 +462,7 @@
         <img src="src/img/responsive web.jpg" class="img-fluid mx-auto m-1">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
         <div class="d-flex flex-row justify-content-center">
-            <button type="button" class="btn btn-dark btn-md m-1 text-capitalize"
+            <button type="button" class="btn btn-danger btn-md m-1 text-capitalize"
             data-toggle="modal" data-target="#exampleModal3">ORDER NOW</button>
             </div>
     </section>

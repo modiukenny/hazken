@@ -45,7 +45,7 @@
     <div class="container-fluid bg-light" id="home-navigation">
         <div class="container">
             <nav class="navbar navbar-expand-md bg-light navbar-light fixed-top"
-            style="border-bottom: 4px solid #7E2726; border-top: 4px solid #7E2726">
+            style="border-bottom: 4px solid #7E2726;">
                 <a class="navbar-brand" href="#home-navigation">
                     <img src="src/img/HAZ-KEN GRAPHICS.png" alt="HAZKEN GRAPHICS" style="width: 190px; height:50px;">
                 </a>

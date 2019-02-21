@@ -128,7 +128,7 @@
         <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform">
             <div class="form-group">
             <label for="exampleInputEmail1" class="text-light font-weight-bold">EMAIL ADDRESS</label>
-                <input type="email" class="form-control mb-3" placeholder="Your Mail" name="email">
+                <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
                 <textarea class="form-control" rows="5" id="comment" name="message"
                 placeholder="Your Message"></textarea>
             </div>

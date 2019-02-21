@@ -186,7 +186,7 @@
                   </div>
                   <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                     <div class="card-body">
-                            We creates graphics primarily for published, printing, such as brochures and advertising, responsible illustration, user interfaces, and web design. A core responsibility of the designer's job is to present information in a way that is both accessible and memorable.
+                            We creates graphics primarily for Book Publishing, and Printing such as brochures and advertising, responsible illustration, user interfaces, and UI Design. A core responsibility of the designer's job is to present information in a way that is both accessible and memorable.
                     </div>
                   </div>
                 </div>

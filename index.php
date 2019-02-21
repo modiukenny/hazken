@@ -455,9 +455,9 @@
   
 
     <!--WEB DESIGNS DESIGN DETAILS-->
-    <section class="container-fluid p-2 bg-danger" id="web-designs">
-        <h3 class=" text-center font-weight-bold text-light">WEB DESIGNS</h3>
-        <p class="text-center text-light">Web Designs JavaScript for Mobile and Laptops
+    <section class="container-fluid p-2 bg-light" id="web-designs">
+        <h3 class=" text-center font-weight-bold">WEB DESIGNS</h3>
+        <p class="text-center">Web Designs JavaScript for Mobile and Laptops
         </p>
         <img src="src/img/responsive web.jpg" class="img-fluid mx-auto m-1">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">

@@ -45,7 +45,7 @@
     <div class="container-fluid bg-light" id="home-navigation">
         <div class="container">
             <nav class="navbar navbar-expand-md bg-light navbar-light fixed-top"
-            style="border-bottom: 4px solid #7E2726">
+            style="border-bottom: 4px solid #7E2726; border-top: 4px solid #7E2726">
                 <a class="navbar-brand" href="#home-navigation">
                     <img src="src/img/HAZ-KEN GRAPHICS.png" alt="HAZKEN GRAPHICS" style="width: 190px; height:50px;">
                 </a>
@@ -415,7 +415,7 @@
         </div>
         <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
             <div class="form-group p-2">
-            <label for="exampleInputEmail1" class="text-light font-weight-bold">EMAIL ADDRESS</label>
+            <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
                 <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
                 <textarea class="form-control" rows="5" id="comment" name="message"
                 placeholder="Your Message"></textarea>
@@ -480,7 +480,7 @@
         </div>
         <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
             <div class="form-group p-2">
-            <label for="exampleInputEmail1" class="text-light font-weight-bold">EMAIL ADDRESS</label>
+            <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
                 <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
                 <textarea class="form-control" rows="5" id="comment" name="message"
                 placeholder="Your Message"></textarea>
@@ -613,7 +613,7 @@
         </div>
         <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
             <div class="form-group p-2">
-            <label for="exampleInputEmail1" class="text-light font-weight-bold">EMAIL ADDRESS</label>
+            <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
                 <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
                 <textarea class="form-control" rows="5" id="comment" name="message"
                 placeholder="Your Message"></textarea>

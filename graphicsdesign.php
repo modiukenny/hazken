@@ -113,129 +113,11 @@
     </div>
     <div class="container-fluid px-5 p-4 bg-danger">
 
-        <!--WHO WE ARE-->
-    <div class="container">
-        <div class="col-sm-8">
-        <div id="accordion">
-                <div class="card">
-                  <div class="card-header" id="headingOne">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        WEB DESIGNS
-                      </button>
-                    </h5>
-                  </div>
-              
-                  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                            who specializes in the development of applications relating to the World Wide Web or distributed network applications, which typically run protocols like HTTP from a Web server to a client browser using associated programming languages like HTML/CSS, JAVASCRIPT etc.
-                    </div>
-                  </div>
-                </div>
-                <div class="card">
-                  <div class="card-header" id="headingTwo">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        GRAPHIC DESIGNS
-                      </button>
-                    </h5>
-                  </div>
-                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-                    <div class="card-body">
-                            We creates graphics primarily for published, printed or electronic media, such as brochures and advertising, responsible illustration, user interfaces, and web design. A core responsibility of the designer's job is to present information in a way that is both accessible and memorable.
-                    </div>
-                  </div>
-                </div>
-                <div class="card">
-                  <div class="card-header" id="headingThree">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        CREATIVE BRANDING
-                      </button>
-                    </h5>
-                  </div>
-                  <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                    <div class="card-body">
-                            The process involved in creating a unique name and image for a product in the consumers’ mind, mainly through advertising campaigns with a consistent theme. Branding aims to establish a significant and differentiated presence in the market that attracts and retains loyal customers.
-                    </div>
-                  </div>
-                </div>
-              </div>
-    </div>
-</div>
-
-
-
-    <!--DETAILS ABOUT HAZKEN GRAPHICS-->
-    <div class="container-fluid bg-warning" id="ourfeatures">
-        <div class="container p-5">
-            <div>
-                <h3 class="text-center font-weight-bold">SERVICE WE PROVIDE</h3>
-            </div>
-            <div class="row justify-content-center">
-                <a href="#graphics-designs" class="col-lg-3 p-3 m-3 rounded 
-                        shadow shadow-small border border-4 bg-light
-                        text-dark" style="text-decoration: none">
-                    <div class="text-center">
-                        <img src="src/img/graphics artist.png" alt="graphics_icon" style="width:48px; height:48px;">
-                        <h5 class="font-weight-bold">GRAPHICS DESIGN</h5>
-                        <p><span class="text-uppercase">Logos, Light-Packaging,
-                                Megazines, Office Stationaries Designs, etc...</span></p>
-                    </div>
-                </a>
-
-                <a href="#web-designs" class="col-lg-3 p-3 m-3 rounded 
-                    shadow shadow-small border border-4 bg-light
-                    text-dark" style="text-decoration: none">
-                    <div class="text-center">
-                        <img src="src/img/webdesign_icon.png" alt="webdesign_icon" style="width:48px; height:48px;">
-                        <h5 class="font-weight-bold">WEB DESIGNS</h5>
-                        <p><span class="text-uppercase">JAVASCRIPT FOR <br>WEB & MOBILE</span></p>
-                    </div>
-                </a>
-                <a href="#graphics-designs" class="col-lg-3 p-3 m-3 rounded 
-                shadow shadow-small border border-4 bg-light
-                text-dark" style="text-decoration: none">
-                    <div class="text-center">
-                        <img src="src/img/printing.png" alt="printing_icon" style="width:48px; height:48px;">
-                        <h5 class="font-weight-bold">GENERAL PRINTING</h5>
-                        <p>WEDDING PROGRAM,
-                            OFFICE STATIONARIES, BOOK PUBLISHING,
-                            LIGHT-PACKAGING, ETC...</p>
-                    </div>
-                </a>
-
-                <a href="#branding-designs" class="col-lg-3 p-3 m-3 rounded 
-            shadow shadow-small border border-4 bg-light
-            text-dark" style="text-decoration: none">
-                    <div class="text-center">
-                        <img src="src/img/branding.png" alt="branding_icon" style="width:48px; height:48px;">
-                        <h5 class="font-weight-bold">CREATIVE BRANDING</h5>
-                        <p>CAR BRANDING, BOOK BRANDING, ETC...</p>
-                    </div>
-                </a>
-
-                <a href="https://www.instagram.com/hazken_graphics/" target="_blank" class="col-lg-3 p-3 m-3 rounded 
-         shadow shadow-small border border-4 bg-light
-        text-dark" style="text-decoration: none">
-                    <div class="text-center">
-                        <img src="src/img/porfolio.png" alt="graphics_icon" style="width:48px; height:48px;">
-                        <h5 class="font-weight-bold">MY PORTFOLIO</h5>
-                        <p>Go to our link on<br><strong>INSTAGRAM</strong></p>
-                    </div>
-                </a>
-
-            </div>
-
-
-
-        </div>
-    </div>
-
     <!--GRAPHICS DESIGN DETAILS-->
-    <section class="cotainerfluid p-2" id="graphics-designs">
+    <!--GRAPHICS DESIGN DETAILS-->
+    <section class="container-fluid p-2" id="graphics-designs">
         <h3 class=" text-center font-weight-bold">GRAPHICS DESIGNS/PRINTING</h3>
-        <div class="row">
+        <div class="row mx-auto">
             <div class="col-4">
                 <img src="src/img/1.png" class="img-fluid m-1">
             </div>
@@ -354,111 +236,61 @@
                 <img src="src/img/40.png" class="img-fluid m-1">
             </div>
         </div>
-    </section>
-    <!--WEBD-ESIGNS DESIGN DETAILS-->
-    <section class="cotainerfluid p-2 bg-warning" id="web-designs">
-        <h3 class=" text-center font-weight-bold">WEB DESIGNS</h3>
-        <p class="text-center">For your Web Designs & Mobile
-            Your can send us a mail<br><strong>hazkengraphics@gmail.com</strong>
-        </p>
-        <img src="src/img/responsive web.jpg" class="img-fluid m-1">
-        <img src="src/img/responsive web1.jpg" class="img-fluid m-1">
+        <div class="d-flex flex-row justify-content-center">
+        <button type="button" class="btn btn-danger btn-md m-1"
+        data-toggle="modal" data-target="#exampleModal2">ORDER NOW</button>
         </div>
     </section>
-</body>
 
-<!--BRANDING DESIGN DETAILS-->
-<article class="cotainerfluid p-2 bg-danger">
-    <div id="branding-designs">
-        <h3 class=" text-center text-white font-weight-bold">CREATIVE BRANDING</h3>
+    <!-- Modal -->
+<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
+            <div class="form-group p-2">
+                <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
+                <textarea class="form-control" rows="5" id="comment" name="message"
+                placeholder="Your Message"></textarea>
+            </div>
+            <button type="submit" class="btn btn-danger m-2"
+            data-toggle="modal" data-target="#exampleModal5"
+            >SUBMIT</button>
+            <div style="display:none" class="thankyou_message">
+                <!-- You can customize the thankyou message by editing the code below -->
+                <h2><em>Thanks</em> for contacting us! We will get back to you soon!
+                </h2>
+               </div>
+            
+        </form>
+        </div>
+      </div>
     </div>
-    <div class="row">
-        <div class="col-4">
-            <img src="src/img/41.png" class="img-fluid m-1">
+  </div>
+  <!-- Modal -->
+<div class="modal fade" id="exampleModal5" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel"></h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
         </div>
-        <div class="col-4">
-            <img src="src/img/42.png" class="img-fluid m-1">
+        <div class="modal-body">
+          MESSAGE SENT SUCCESSFULLY
         </div>
-        <div class="col-4">
-            <img src="src/img/43.png" class="img-fluid m-1">
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
         </div>
-        <div class="col-4">
-            <img src="src/img/45.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/46.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/47.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/48.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/49.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/50.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/51.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/52.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/53.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/54.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/55.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/56.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/57.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/58.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/59.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/60.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/61.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/62.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/63.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/64.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/65.png" class="img-fluid m-1">
-        </div>
-</article>
-
-<!--ABOUT US-->
-<footer class="cotainerfluid p-2 bg-light" id="about-us">
-    <h3 class=" text-center font-weight-bold">ABOUT US</h3>
-    <p class="text-center">
-        We do Graphics Design for Your Printing, Book Publishing, Light-Packaging,<br>
-        Creative Branding, Business Cards, Office Stationaries, Handbill,<br>
-        Creative Logo, General Printing and Creative Branding.<br>
-        We do Web Reponsive Designs for mobile Phone, Tablets, Mini Laptops,
-        and Large Screens and for Applications. <br>
-        <strong>E-mail: hazkengraphics@gmail.com<br>
-            Contact: +234 817 6246 387</strong>
-    </p>
+      </div>
+    </div>
+  </div>
     <div class="d-flex flex-row justify-content-center">
         <a href="https://www.instagram.com/hazken_graphics/" target="_blank">
             <img src="src/img/instagram_icon.png" class="m-1" style="widows: 23px;height: 23px;"></a>

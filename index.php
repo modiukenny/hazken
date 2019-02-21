@@ -217,7 +217,7 @@
                 <h3 class="text-center font-weight-bold text-light">SERVICE WE PROVIDE</h3>
             </div>
             <div class="row justify-content-center">
-                <a href="#graphics-designs" class="col-lg-3 p-3 m-3 rounded 
+                <a href="graphicsdesign.php" class="col-lg-3 p-3 m-3 rounded 
                         shadow shadow-small border border-4 bg-light
                         text-dark" style="text-decoration: none">
                     <div class="text-center">

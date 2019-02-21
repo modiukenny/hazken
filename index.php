@@ -455,14 +455,14 @@
   
 
     <!--WEB DESIGNS DESIGN DETAILS-->
-    <section class="container-fluid p-2 bg-light" id="web-designs" style="background: #D2D3D5">
-        <h3 class=" text-center font-weight-bold">WEB DESIGNS</h3>
-        <p class="text-center">Web Designs JavaScript for Mobile and Laptops
+    <section class="container-fluid p-2 bg-danger id="web-designs">
+        <h3 class=" text-center font-weight-bold text-light">WEB DESIGNS</h3>
+        <p class="text-center text-light">Web Designs JavaScript for Mobile and Laptops
         </p>
         <img src="src/img/responsive web.jpg" class="img-fluid mx-auto m-1">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
         <div class="d-flex flex-row justify-content-center">
-            <button type="button" class="btn btn-danger btn-md m-1 text-capitalize"
+            <button type="button" class="btn btn-outline-light btn-md m-1 text-capitalize"
             data-toggle="modal" data-target="#exampleModal3">ORDER NOW</button>
             </div>
     </section>
@@ -516,9 +516,9 @@
   </div>
   
 <!--BRANDING DESIGN DETAILS-->
-<article class="container-fluid p-2 bg-danger">
+<article class="container-fluid p-2 bg-light">
     <div id="branding-designs">
-        <h3 class=" text-center text-white font-weight-bold">CREATIVE BRANDING</h3>
+        <h3 class=" text-center font-weight-bold">CREATIVE BRANDING</h3>
     </div>
     <div class="row mx-auto">
         <div class="col-4">
@@ -595,7 +595,7 @@
         </div>
         </div>
         <div class="d-flex flex-row justify-content-center">
-            <button type="button" class="btn btn-outline-light btn-md m-1 text-capitalize"
+            <button type="button" class="btn btn-danger btn-md m-1"
             data-toggle="modal" data-target="#exampleModal4">ORDER NOW</button>
             </div>
 </article>

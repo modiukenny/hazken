@@ -658,9 +658,7 @@
                   <img src="./src/img/hazkenceo.png" alt="John Doe" class="mr-3 mt-4" style="width:95px; height: 120px">
                   <div class="media-body mt-4">
                     <h4>ABOUT US</h4>
-                    <p class="text-justify" style="font-size: 15px">
-                        Modiu Kehinde Hazzan the 
-                        CEO and founder of HAZKEN GRAPHICS.
+                    <p style="font-size: 15px">Modiu Kehinde Hazzan the CEO and founder of HAZKEN GRAPHICS.
                         As an experienced professional, He is committed to raising awareness
                         about how to create a Reponsive Website Design and App,
                         Also specialize Graphics Designs for Printing and adverts.     

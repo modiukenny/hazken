@@ -64,6 +64,8 @@
                         <li class="nav-item">
                             <a class="nav-link" href="#about-us">ABOUT US</a>
                         </li>
+                        <a href="tel:+2348176246387" class="btn btn-danger">CONTACT US</a>
+                        </li>
                         <li class="nav-item"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank">
                                 <img src="src/img/instagram_icon.png" class="m-1 mt-2"
                                     style="widows: 23px;height: 23px;"></a></li>
@@ -79,10 +81,7 @@
                         <li class="nav-item"><a href="mailto:hazkengraphics@gmail.com">
                                 <img src="src/img/email.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
                         </li>
-                        <li class="nav-item"><a href="tel:+2348176246387">
-                                <img src="src/img/tell.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
-                        </li>
-
+                        <li class="nav-item">
                     </ul>
                 </div>
             </nav>

@@ -455,7 +455,7 @@
   
 
     <!--WEB DESIGNS DESIGN DETAILS-->
-    <section class="container-fluid p-2 bg-danger id="web-designs">
+    <section class="container-fluid p-2 bg-danger" id="web-designs">
         <h3 class=" text-center font-weight-bold text-light">WEB DESIGNS</h3>
         <p class="text-center text-light">Web Designs JavaScript for Mobile and Laptops
         </p>

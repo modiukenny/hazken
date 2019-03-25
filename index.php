@@ -65,23 +65,23 @@
                             <a class="nav-link" href="#about-us">ABOUT US</a>
                         <li class="nav-item"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank">
                                 <img src="src/img/instagram_icon.png" class="m-1 mt-2"
-                                    style="widows: 23px;height: 23px;"></a></li>
+                                    style="width: 23px;height: 23px;"></a></li>
                         <li class="nav-item"><a href="https://www.facebook.com/hazkengraphics/" target="_blank">
-                                <img src="src/img/facebook.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
+                                <img src="src/img/facebook.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
                         </li>
                         <li class="nav-item"><a href="https://wa.me/2348176246387" target="_blank">
-                                <img src="src/img/whatsapp.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
+                                <img src="src/img/whatsapp.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
                         </li>
                         <li class="nav-item"><a href="https://twitter.com/HazkenG" target="_blank">
-                                <img src="src/img/twitter.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
+                                <img src="src/img/twitter.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
                         </li>
                         <a href="https://plus.google.com/u/1/112044312784836222934/posts?h1=en" rel="author">
-                        <img src="src/img/googleplus.png" class="m-1" style="widows: 40px;height: 40px;"></a>
+                        <img src="src/img/googleplus.png" class="m-1" style="widows: 23px;height: 23px;"></a>
                         <li class="nav-item"><a href="mailto:hazkengraphics@gmail.com">
-                                <img src="src/img/email.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
+                                <img src="src/img/email.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
                         </li>
                         <li class="nav-item"><a href="tel:+2348176246387">
-                            <img src="src/img/tellphonecall.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
+                            <img src="src/img/tellphonecall.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
                     </li>
                         <li class="nav-item">
                     </ul>
@@ -671,17 +671,17 @@
         </div>
     <div class="d-flex flex-row justify-content-center">
         <a href="https://www.instagram.com/hazken_graphics/" target="_blank">
-            <img src="src/img/instagram_icon.png" class="m-1" style="widows: 40px;height: 40px;"></a>
+            <img src="src/img/instagram_icon.png" class="m-1" style="width: 40px;height: 40px;"></a>
         <a href="https://www.facebook.com/hazkengraphics/" target="_blank">
-            <img src="src/img/facebook.png" class="m-1" style="widows: 40px;height: 40px;"></a>
+            <img src="src/img/facebook.png" class="m-1" style="width: 40px;height: 40px;"></a>
         <a href="https://wa.me/2348176246387" target="_blank">
-            <img src="src/img/whatsapp.png" class="m-1" style="widows: 40px;height: 40px;"></a>
+            <img src="src/img/whatsapp.png" class="m-1" style="width: 40px;height: 40px;"></a>
             <a href="https://twitter.com/HazkenG" target="_blank">
-            <img src="src/img/twitter.png" class="m-1" style="widows: 40px;height: 40px;"></a>
+            <img src="src/img/twitter.png" class="m-1" style="width: 40px;height: 40px;"></a>
             <a href="https://plus.google.com/u/1/112044312784836222934/posts?h1=en" rel="author">
-            <img src="src/img/googleplus.png" class="m-1" style="widows: 40px;height: 40px;"></a>
+            <img src="src/img/googleplus.png" class="m-1" style="width: 40px;height: 40px;"></a>
             <a href="mailto:hazkengraphics@gmail.com">
-            <img src="src/img/email.png" class="m-1" style="widows: 40px;height: 40px;"></a>
+            <img src="src/img/email.png" class="m-1" style="width: 40px;height: 40px;"></a>
     </div>
     
 <hr>

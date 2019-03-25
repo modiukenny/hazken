@@ -697,7 +697,7 @@
                     <h4 class="font-weight-bolder">ABOUT THE AUTHOR</h4>
                     <p style="font-size: 15px">Modiu Kehinde Hazzan the CEO and Founder of HAZKEN GRAPHICS.
                         As an experienced professional, He is committed to raising awareness
-                        about how to create a Reponsive Website Design and App,
+                        about how to create a Reponsive Website and application,
                         Also specialize Graphics Designs for Printing and adverts.
                   </div>
                 </div>

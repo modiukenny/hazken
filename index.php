@@ -704,7 +704,7 @@
                   class="mr-3 mt-4 align-self-lg-start" style="width:95px; height: 120px">
                   <div class="media-body mt-4 align-self-center">
                     <h4 class="font-weight-bolder" title="ABOUT HAZKEN GRAPHICS">ABOUT THE AUTHOR</h4>
-                    <p style="font-size: 15px"><span class="font-weigth-bolder" title="Hazken Graphics CEO">
+                    <p style="font-size: 15px"><span class="font-weight-bolder" title="Hazken Graphics CEO">
                         Modiu Kehinde Hazzan</span> the CEO and Founder of 
                         <span title="HAZKEN GRAPHICS">HAZKEN GRAPHICS.</span>
                         As an experienced professional, He is committed to raising awareness

@@ -62,7 +62,7 @@
                             <a class="nav-link" href="#ourfeatures">FEATURES</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#about-us">ABOUT US</a>
+                            <a class="nav-link" href="#about-us">ABOUT THE AUTHOR</a>
                         <li class="nav-item"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank">
                                 <img src="src/img/instagram_icon.png" class="m-1 mt-2"
                                     style="width: 23px;height: 23px;"></a></li>
@@ -658,11 +658,11 @@
                 <div class="media border p-3">
                   <img src="./src/img/hazkenceo.png" alt="John Doe" class="mr-3 mt-4" style="width:95px; height: 120px">
                   <div class="media-body mt-4">
-                    <h4>ABOUT US</h4>
-                    <p style="font-size: 15px">Modiu Kehinde Hazzan the CEO and founder of HAZKEN GRAPHICS.
+                    <h4>ABOUT THE AUTHOR</h4>
+                    <p style="font-size: 15px">Modiu Kehinde Hazzan the CEO and Founder of HAZKEN GRAPHICS.
                         As an experienced professional, He is committed to raising awareness
                         about how to create a Reponsive Website Design and App,
-                        Also specialize Graphics Designs for Printing and adverts.     
+                        Also specialize Graphics Designs for Printing and adverts.
                   </div>
                 </div>
               </div>

@@ -706,7 +706,7 @@
                     <h4 class="font-weight-bolder" title="ABOUT HAZKEN GRAPHICS">ABOUT THE AUTHOR</h4>
                     <p style="font-size: 15px"><span class="font-weight-bolder" title="Hazken Graphics CEO">
                         Modiu Kehinde Hazzan</span> the CEO and Founder of 
-                        <span title="HAZKEN GRAPHICS">HAZKEN GRAPHICS.</span>
+                        <span title="HAZKEN GRAPHICS" class="font-weight-bolder">HAZKEN GRAPHICS.</span>
                         As an experienced professional, He is committed to raising awareness
                         about how to create a Reponsive Website and application,
                         Also specialize Graphics Designs for Printing and adverts.

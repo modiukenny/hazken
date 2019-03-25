@@ -47,7 +47,8 @@
             <nav class="navbar navbar-expand-md bg-light navbar-light fixed-top"
             style="border-bottom: 4px solid #7E2726;">
                 <a class="navbar-brand" href="#home-navigation">
-                    <img src="src/img/HAZ-KEN GRAPHICS.png" alt="HAZKEN GRAPHICS" style="width: 190px; height:50px;">
+                    <img src="src/img/HAZ-KEN GRAPHICS.png" alt="HAZKEN GRAPHICS"
+                    title="HAZKEN GRAPHICS LOGO" style="width: 190px; height:50px;">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                     <span class="navbar-toggler-icon"></span>
@@ -56,31 +57,37 @@
                     <ul class="navbar-nav ml-auto font-weight-bold text-capitalize"
                         style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
                         <li class="nav-item">
-                            <a class="nav-link" href="#home-navigation">HOME</a>
+                            <a class="nav-link" title="WELCOME TO HAZKEN GRAPHICS" href="#home-navigation">HOME</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#ourfeatures">FEATURES</a>
+                            <a class="nav-link" title="HAZKEN GRAPHICS SERVICES" href="#ourfeatures">OUR SERVICES</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#about-us">ABOUT THE AUTHOR</a>
-                        <li class="nav-item"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank">
+                            <a class="nav-link" title="ABOUT HAZKEN GRAPHICS" href="#about-us">ABOUT THE AUTHOR</a>
+                        <li class="nav-item"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
+                        title="HAZKEN GRAPHICS INSTAGRAM">
                                 <img src="src/img/instagram_icon.png" class="m-1 mt-2"
                                     style="width: 23px;height: 23px;"></a></li>
-                        <li class="nav-item"><a href="https://www.facebook.com/hazkengraphics/" target="_blank">
+                        <li class="nav-item"><a href="https://www.facebook.com/hazkengraphics/" target="_blank"
+                        title="HAZKEN GRAPHICS FACEBOOK">
                                 <img src="src/img/facebook.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
                         </li>
-                        <li class="nav-item"><a href="https://wa.me/2348176246387" target="_blank">
+                        <li class="nav-item"><a href="https://wa.me/2348176246387" target="_blank"
+                        title="HAZKEN GRAPHICS WHATSAPP">
                                 <img src="src/img/whatsapp.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
                         </li>
-                        <li class="nav-item"><a href="https://twitter.com/HazkenG" target="_blank">
+                        <li class="nav-item"><a href="https://twitter.com/HazkenG" target="_blank"
+                        title="HAZKEN GRAPHICS TWITTER">
                                 <img src="src/img/twitter.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
                         </li>
-                        <a href="https://plus.google.com/u/1/112044312784836222934/posts?h1=en" rel="author" target="_blank">
+                        <a href="https://plus.google.com/u/1/112044312784836222934/posts?h1=en" rel="author" 
+                        title="HAZKEN GRAPHICS GOOGLE PLUS" target="_blank">
                         <img src="src/img/googleplus.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
-                        <li class="nav-item"><a href="mailto:hazkengraphics@gmail.com">
+                        <li class="nav-item"><a href="mailto:hazkengraphics@gmail.com"
+                        title="HAZKEN GRAPHICS MAIL">
                                 <img src="src/img/email.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
                         </li>
-                        <li class="nav-item"><a href="tel:+2348176246387">
+                        <li class="nav-item"><a href="tel:+2348176246387" title="CONTACT HAZKEN GRAPHICS">
                             <img src="src/img/tellphonecall.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
                     </li>
                         <li class="nav-item">
@@ -106,7 +113,7 @@
             <div class="carousel-item">
                 <img src="/src/img/hazken-image-printing-wedo.png" alt="Hazken-Graphics" width="1100" height="500">
                 <div class="carousel-caption">
-                    <p>|GRAPHICS DESIGNS| |JAVASCRIPT FOR WEB & MOBILE| |BRANDING| |PRINTING|</p>
+                    <p>|GRAPHICS DESIGNS| |JAVASCRIPT FOR WEBSITE & APPLICATIONS| |BRANDING| |PRINTING|</p>
                 </div>
             </div>
             <div class="carousel-item">
@@ -689,13 +696,16 @@
   </div>
 
 <!--ABOUT US-->
-<footer class="container-fluid bg-light pt-3" id="about-us">
-        <div class="container bg-light">
-                <div class="media border p-3 d-flex flex-row">
+<footer class="container-fluid bg-light  pt-3" id="about-us">
+        <div class="container bg-light ">
+                <div class="media border p-3 d-flex flex-row border border-5"
+                style="background: #DCDDDF; border-radius: 25px">
                   <img src="./src/img/hazkenceo.png" alt="John Doe" class="mr-3 mt-4 align-self-lg-start" style="width:95px; height: 120px">
                   <div class="media-body mt-4 align-self-center">
-                    <h4 class="font-weight-bolder">ABOUT THE AUTHOR</h4>
-                    <p style="font-size: 15px">Modiu Kehinde Hazzan the CEO and Founder of HAZKEN GRAPHICS.
+                    <h4 class="font-weight-bolder" title="ABOUT HAZKEN GRAPHICS">ABOUT THE AUTHOR</h4>
+                    <p style="font-size: 15px"><span class="font-weigth-bolder" title="Hazken Graphics CEO">
+                        Modiu Kehinde Hazzan</span>the CEO and Founder of 
+                        <span title="HAZKEN GRAPHICS">HAZKEN GRAPHICS.</span>
                         As an experienced professional, He is committed to raising awareness
                         about how to create a Reponsive Website and application,
                         Also specialize Graphics Designs for Printing and adverts.
@@ -703,20 +713,26 @@
                 </div>
               </div>
     <div class="d-flex flex-row justify-content-center m-3">
-            <a href="tel:+2348176246387" class="btn btn-danger">CONTACT US</a>
+            <a href="tel:+2348176246387" class="btn btn-danger"
+            title="HAZKEN GRAPHICS CONTACT">CONTACT US</a>
         </div>
     <div class="d-flex flex-row justify-content-center">
-        <a href="https://www.instagram.com/hazken_graphics/" target="_blank">
+        <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
+        title="HAZKEN GRAPHICS INSTAGRAM">
             <img src="src/img/instagram_icon.png" class="m-1" style="width: 40px;height: 40px;"></a>
-        <a href="https://www.facebook.com/hazkengraphics/" target="_blank">
+        <a href="https://www.facebook.com/hazkengraphics/" target="_blank"
+        title="HAZKEN GRAPHICS FACEBOOK">
             <img src="src/img/facebook.png" class="m-1" style="width: 40px;height: 40px;"></a>
-        <a href="https://wa.me/2348176246387" target="_blank">
+        <a href="https://wa.me/2348176246387" target="_blank"
+        title="HAZKEN GRAPHICS WHATSAPP">
             <img src="src/img/whatsapp.png" class="m-1" style="width: 40px;height: 40px;"></a>
-            <a href="https://twitter.com/HazkenG" target="_blank">
+            <a href="https://twitter.com/HazkenG" target="_blank"
+            title="HAZKEN GRAPHICS TWITTER">
             <img src="src/img/twitter.png" class="m-1" style="width: 40px;height: 40px;"></a>
-            <a href="https://plus.google.com/u/1/112044312784836222934/posts?h1=en" rel="author">
+            <a href="https://plus.google.com/u/1/112044312784836222934/posts?h1=en" rel="author"
+            title="HAZKEN GRAPHICS GOOGLE PLUS">
             <img src="src/img/googleplus.png" class="m-1" style="width: 40px;height: 40px;"></a>
-            <a href="mailto:hazkengraphics@gmail.com">
+            <a href="mailto:hazkengraphics@gmail.com" title="HAZKEN GRAPHICS MAIL">
             <img src="src/img/email.png" class="m-1" style="width: 40px;height: 40px;"></a>
     </div>
     

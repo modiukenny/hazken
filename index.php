@@ -2,20 +2,20 @@
 <html lang="en">
 
 <head>
-<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/manifest.json">
+<link rel="apple-touch-icon" sizes="57x57" href="./favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="./favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="./favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="./favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="./favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="./favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="./favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="./favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="./favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="./favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png">
+<link rel="manifest" href="./favicon/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
@@ -398,6 +398,42 @@
             <div class="col-4">
                 <img src="src/img/40.png" class="img-fluid m-1">
             </div>
+            <div class="col-4">
+                <img src="src/img/66.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/67.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/68.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/69.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/70.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/71.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/72.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/73.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/74.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/75.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/76.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/77.png" class="img-fluid m-1">
+            </div>
         </div>
         <div class="d-flex flex-row justify-content-center">
         <button type="button" class="btn btn-danger btn-md m-1"
@@ -655,10 +691,10 @@
 <!--ABOUT US-->
 <footer class="container-fluid bg-light pt-3" id="about-us">
         <div class="container bg-light">
-                <div class="media border p-3">
-                  <img src="./src/img/hazkenceo.png" alt="John Doe" class="mr-3 mt-4" style="width:95px; height: 120px">
-                  <div class="media-body mt-4">
-                    <h4>ABOUT THE AUTHOR</h4>
+                <div class="media border p-3 d-flex flex-row">
+                  <img src="./src/img/hazkenceo.png" alt="John Doe" class="mr-3 mt-4 align-self-lg-start" style="width:95px; height: 120px">
+                  <div class="media-body mt-4 align-self-center">
+                    <h4 class="font-weight-bolder">ABOUT THE AUTHOR</h4>
                     <p style="font-size: 15px">Modiu Kehinde Hazzan the CEO and Founder of HAZKEN GRAPHICS.
                         As an experienced professional, He is committed to raising awareness
                         about how to create a Reponsive Website Design and App,

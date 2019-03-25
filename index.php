@@ -75,6 +75,8 @@
                         <li class="nav-item"><a href="https://twitter.com/HazkenG" target="_blank">
                                 <img src="src/img/twitter.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
                         </li>
+                        <a href="https://plus.google.com/u/1/112044312784836222934/posts?h1=en" rel="author">
+                        <img src="src/img/googleplus.png" class="m-1" style="widows: 40px;height: 40px;"></a>
                         <li class="nav-item"><a href="mailto:hazkengraphics@gmail.com">
                                 <img src="src/img/email.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
                         </li>
@@ -676,6 +678,8 @@
             <img src="src/img/whatsapp.png" class="m-1" style="widows: 40px;height: 40px;"></a>
             <a href="https://twitter.com/HazkenG" target="_blank">
             <img src="src/img/twitter.png" class="m-1" style="widows: 40px;height: 40px;"></a>
+            <a href="https://plus.google.com/u/1/112044312784836222934/posts?h1=en" rel="author">
+            <img src="src/img/googleplus.png" class="m-1" style="widows: 40px;height: 40px;"></a>
             <a href="mailto:hazkengraphics@gmail.com">
             <img src="src/img/email.png" class="m-1" style="widows: 40px;height: 40px;"></a>
     </div>

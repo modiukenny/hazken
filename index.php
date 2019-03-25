@@ -75,7 +75,7 @@
                         <li class="nav-item"><a href="https://twitter.com/HazkenG" target="_blank">
                                 <img src="src/img/twitter.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
                         </li>
-                        <a href="https://plus.google.com/u/1/112044312784836222934/posts?h1=en" rel="author">
+                        <a href="https://plus.google.com/u/1/112044312784836222934/posts?h1=en" rel="author" target="_blank">
                         <img src="src/img/googleplus.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
                         <li class="nav-item"><a href="mailto:hazkengraphics@gmail.com">
                                 <img src="src/img/email.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>

@@ -113,7 +113,7 @@
             <div class="carousel-item">
                 <img src="/src/img/hazken-image-printing-wedo.png" alt="Hazken-Graphics" width="1100" height="500">
                 <div class="carousel-caption">
-                    <p>|GRAPHICS DESIGNS| |WEB APPLICATIONS| |CREATIVE BRANDING| |PRINTING|</p>
+                    <p>|WEB DESIGNS| |GRAPHICS DESIGNS| |CREATIVE BRANDING| |PRINTING|</p>
                 </div>
             </div>
             <div class="carousel-item">

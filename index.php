@@ -500,12 +500,92 @@
   
 
     <!--WEB DESIGNS DESIGN DETAILS-->
-    <section class="container-fluid p-2 bg-danger" id="web-designs">
-        <h3 class=" text-center font-weight-bold text-light">WEB DESIGNS</h3>
+    <section class="container-fluid p-2 bg-dark m-auto" id="web-designs">
+        <h3 class=" text-center font-weight-bold text-light" title="HAZKEN GRAPHICS WEB DESIGNS">WEB DESIGNS</h3>
         <p class="text-center text-light">Web Designs JavaScript for Mobile and Laptops
         </p>
-        <img src="src/img/responsive web.jpg" class="img-fluid mx-auto m-1">
+        <img src="src/img/responsive web.jpg" class="img-fluid mx-auto">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
+        <h3 class=" text-center font-weight-bold text-light" title="HAZKEN GRAPHICS UI/UX DESIGNS">UI/UX DESIGNS</h3>
+        <p class="text-center text-light">Web Designs JavaScript for Mobile and Laptops
+        </p>
+        <div class="d-flex flex-row justify-content-around mb-2">
+            <div class="col-4">
+                <img src="src/img/78.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="src/img/79.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="src/img/80.png" class="img-fluid">
+            </div>
+        </div>
+        <div class="d-flex flex-row justify-content-around mb-2">
+            <div class="col-4">
+                <img src="src/img/81.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="src/img/82.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="src/img/83.png" class="img-fluid">
+            </div>
+        </div>
+        <div class="d-flex flex-row justify-content-around mb-2">
+            <div class="col-4">
+                <img src="src/img/84.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="src/img/85.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="src/img/86.png" class="img-fluid">
+            </div>
+        </div>
+        <div class="d-flex flex-row justify-content-around mb-2">
+            <div class="col-4">
+                <img src="src/img/88.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="src/img/89.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="src/img/90.png" class="img-fluid">
+            </div>
+        </div>
+        <div class="d-flex flex-row justify-content-around mb-2">
+            <div class="col-4">
+                <img src="src/img/91.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="src/img/92.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="src/img/93.png" class="img-fluid">
+            </div>
+        </div>
+        <div class="d-flex flex-row justify-content-around mb-2">
+            <div class="col-4">
+                <img src="src/img/94.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="src/img/95.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="src/img/96.png" class="img-fluid">
+            </div>
+        </div>
+        <div class="d-flex flex-row justify-content-around mb-2">
+            <div class="col-4">
+                <img src="src/img/97.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="src/img/98.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="src/img/99.png" class="img-fluid">
+            </div>
+        </div>
         <div class="d-flex flex-row justify-content-center">
             <button type="button" class="btn btn-outline-light btn-md m-1 text-capitalize"
             data-toggle="modal" data-target="#exampleModal3">ORDER NOW</button>
@@ -560,7 +640,6 @@
       </div>
     </div>
   </div>
-  
 <!--BRANDING DESIGN DETAILS-->
 <article class="container-fluid p-2 bg-light">
     <div id="branding-designs">

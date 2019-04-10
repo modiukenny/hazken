@@ -286,21 +286,6 @@
         <h3 class=" text-center font-weight-bold">GRAPHICS DESIGNS/PRINTING</h3>
         <div class="row mx-auto">
             <div class="col-4">
-                <img src="src/img/1.png" class="img-fluid m-1">
-            </div>
-            <div class="col-4">
-                <img src="src/img/2.png" class="img-fluid m-1">
-            </div>
-            <div class="col-4">
-                <img src="src/img/3.png" class="img-fluid m-1">
-            </div>
-            <div class="col-4">
-                <img src="src/img/5.png" class="img-fluid m-1">
-            </div>
-            <div class="col-4">
-                <img src="src/img/6.png" class="img-fluid m-1">
-            </div>
-            <div class="col-4">
                 <img src="src/img/7.png" class="img-fluid m-1">
             </div>
             <div class="col-4">
@@ -660,15 +645,6 @@
             <img src="src/img/50.png" class="img-fluid m-1">
         </div>
         <div class="col-4">
-            <img src="src/img/51.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/52.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/53.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
             <img src="src/img/54.png" class="img-fluid m-1">
         </div>
         <div class="col-4">
@@ -694,15 +670,6 @@
         </div>
         <div class="col-4">
             <img src="src/img/62.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/63.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/64.png" class="img-fluid m-1">
-        </div>
-        <div class="col-4">
-            <img src="src/img/65.png" class="img-fluid m-1">
         </div>
         </div>
         <div class="d-flex flex-row justify-content-center">

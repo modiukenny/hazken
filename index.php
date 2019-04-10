@@ -80,9 +80,6 @@
                         title="HAZKEN GRAPHICS TWITTER">
                                 <img src="src/img/twitter.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
                         </li>
-                        <a href="https://plus.google.com/u/1/112044312784836222934/posts?h1=en" rel="author" 
-                        title="HAZKEN GRAPHICS GOOGLE PLUS" target="_blank">
-                        <img src="src/img/googleplus.png" class="m-1 mt-2" style="widows: 23px;height: 23px;"></a>
                         <li class="nav-item"><a href="mailto:hazkengraphics@gmail.com"
                         title="HAZKEN GRAPHICS MAIL">
                                 <img src="src/img/email.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
@@ -506,88 +503,77 @@
         </p>
         <img src="src/img/responsive web.jpg" class="img-fluid mx-auto">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
-        <h3 class=" text-center font-weight-bold text-light" title="HAZKEN GRAPHICS UI/UX DESIGNS">UI/UX DESIGNS</h3>
+        <h3 class=" text-center font-weight-bold text-light mt-2" title="HAZKEN GRAPHICS UI/UX DESIGNS">UI/UX DESIGNS</h3>
         <p class="text-center text-light">Web Designs JavaScript for Mobile and Laptops
         </p>
+        <p>
+  <button class="btn btn-outline-light m-auto d-block btn-md font-weight-bold"  data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" >
+    VIEW
+  </button>
+ 
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
         <div class="d-flex flex-row justify-content-around mb-2">
-            <div class="col-4">
-                <img src="src/img/78.png" class="img-fluid">
+                <div class="col-4">
+                    <img style="border-radius: 12px"src="src/img/78.png" class="img-fluid">
+                </div>
+                <div class="col-4">
+                    <img style="border-radius: 12px" style="border-radius: 12px" src="src/img/79.png" class="img-fluid">
+                </div>
+                <div class="col-4">
+                    <img style="border-radius: 12px" src="src/img/80.png" class="img-fluid">
+                </div>
             </div>
-            <div class="col-4">
-                <img src="src/img/79.png" class="img-fluid">
+            <div class="d-flex flex-row justify-content-around mb-2">
+                <div class="col-4">
+                    <img style="border-radius: 12px" src="src/img/81.png" class="img-fluid">
+                </div>
+                <div class="col-4">
+                    <img style="border-radius: 12px" src="src/img/82.png" class="img-fluid">
+                </div>
+                <div class="col-4">
+                    <img style="border-radius: 12px" src="src/img/83.png" class="img-fluid">
+                </div>
             </div>
-            <div class="col-4">
-                <img src="src/img/80.png" class="img-fluid">
+            <div class="d-flex flex-row justify-content-around mb-2">
+                <div class="col-4">
+                    <img style="border-radius: 12px" src="src/img/84.png" class="img-fluid">
+                </div>
+                <div class="col-4">
+                    <img style="border-radius: 12px" src="src/img/85.png" class="img-fluid">
+                </div>
+                <div class="col-4">
+                    <img style="border-radius: 12px" src="src/img/86.png" class="img-fluid">
+                </div>
             </div>
-        </div>
-        <div class="d-flex flex-row justify-content-around mb-2">
-            <div class="col-4">
-                <img src="src/img/81.png" class="img-fluid">
+            <div class="d-flex flex-row justify-content-around mb-2">
+                <div class="col-4">
+                    <img style="border-radius: 12px" src="src/img/87.png" class="img-fluid">
+                </div>
+                <div class="col-4">
+                    <img style="border-radius: 12px" src="src/img/88.png" class="img-fluid">
+                </div>
+                <div class="col-4">
+                    <img style="border-radius: 12px" src="src/img/89.png" class="img-fluid">
+                </div>
             </div>
-            <div class="col-4">
-                <img src="src/img/82.png" class="img-fluid">
+            <div class="d-flex flex-row justify-content-around mb-2">
+                <div style="border-radius: 12px" class="col-4">
+                    <img style="border-radius: 12px" src="src/img/90.png" class="img-fluid">
+                </div>
+                <div style="border-radius: 12px" class="col-4">
+                    <img style="border-radius: 12px" src="src/img/91.png" class="img-fluid">
+                </div>
+                <div class="col-4">
+                    <img style="border-radius: 12px" src="src/img/92.png" class="img-fluid">
+                </div>
             </div>
-            <div class="col-4">
-                <img src="src/img/83.png" class="img-fluid">
-            </div>
-        </div>
-        <div class="d-flex flex-row justify-content-around mb-2">
-            <div class="col-4">
-                <img src="src/img/84.png" class="img-fluid">
-            </div>
-            <div class="col-4">
-                <img src="src/img/85.png" class="img-fluid">
-            </div>
-            <div class="col-4">
-                <img src="src/img/86.png" class="img-fluid">
-            </div>
-        </div>
-        <div class="d-flex flex-row justify-content-around mb-2">
-            <div class="col-4">
-                <img src="src/img/88.png" class="img-fluid">
-            </div>
-            <div class="col-4">
-                <img src="src/img/89.png" class="img-fluid">
-            </div>
-            <div class="col-4">
-                <img src="src/img/90.png" class="img-fluid">
-            </div>
-        </div>
-        <div class="d-flex flex-row justify-content-around mb-2">
-            <div class="col-4">
-                <img src="src/img/91.png" class="img-fluid">
-            </div>
-            <div class="col-4">
-                <img src="src/img/92.png" class="img-fluid">
-            </div>
-            <div class="col-4">
-                <img src="src/img/93.png" class="img-fluid">
-            </div>
-        </div>
-        <div class="d-flex flex-row justify-content-around mb-2">
-            <div class="col-4">
-                <img src="src/img/94.png" class="img-fluid">
-            </div>
-            <div class="col-4">
-                <img src="src/img/95.png" class="img-fluid">
-            </div>
-            <div class="col-4">
-                <img src="src/img/96.png" class="img-fluid">
-            </div>
-        </div>
-        <div class="d-flex flex-row justify-content-around mb-2">
-            <div class="col-4">
-                <img src="src/img/97.png" class="img-fluid">
-            </div>
-            <div class="col-4">
-                <img src="src/img/98.png" class="img-fluid">
-            </div>
-            <div class="col-4">
-                <img src="src/img/99.png" class="img-fluid">
-            </div>
-        </div>
+  </div>
+</div>
+        
         <div class="d-flex flex-row justify-content-center">
-            <button type="button" class="btn btn-outline-light btn-md m-1 text-capitalize"
+            <button type="button" class="btn btn-outline-light btn-md m-2 text-capitalize"
             data-toggle="modal" data-target="#exampleModal3">ORDER NOW</button>
             </div>
     </section>
@@ -779,7 +765,7 @@
         <div class="container bg-light ">
                 <div class="media border p-3 d-flex flex-row border border-5"
                 style="background: #DCDDDF; border-radius: 25px">
-                  <img src="./src/img/hazkenceo.png" title="Modiu Kehinde Hazzan" alt="John Doe"
+                  <img src="./src/img/hazkenceo.png" title="Modiu Kehinde Hazzan" alt="Modiu Kehinde Hazzan"
                   class="mr-3 mt-4 align-self-lg-start" style="width:95px; height: 120px">
                   <div class="media-body mt-4 align-self-center">
                     <h4 class="font-weight-bolder" title="ABOUT HAZKEN GRAPHICS">ABOUT THE AUTHOR</h4>
@@ -792,6 +778,23 @@
                   </div>
                 </div>
               </div>
+              <div class="container mt-2">
+              <div class="progress m-2">
+                    <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 95%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">HTML 95%</div>
+                  </div>
+                  <div class="progress m-2">
+                    <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 93%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">CSS 93%</div>
+                  </div>
+                  <div class="progress m-2">
+                    <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 92%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">JAVASCRIPT 92%</div>
+                  </div>
+                  <div class="progress m-2">
+                    <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 98%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">GRAPHICS 98%</div>
+                  </div>
+                  <div class="progress m-2">
+                    <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 97%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">UI/UX DESIGNS 97%</div>
+                  </div>
+                </div>
     <div class="d-flex flex-row justify-content-center m-3">
             <a href="tel:+2348176246387" class="btn btn-danger"
             title="HAZKEN GRAPHICS CONTACT">CONTACT US</a>
@@ -809,9 +812,6 @@
             <a href="https://twitter.com/HazkenG" target="_blank"
             title="HAZKEN GRAPHICS TWITTER">
             <img src="src/img/twitter.png" class="m-1" style="width: 40px;height: 40px;"></a>
-            <a href="https://plus.google.com/u/1/112044312784836222934/posts?h1=en" rel="author"
-            title="HAZKEN GRAPHICS GOOGLE PLUS">
-            <img src="src/img/googleplus.png" class="m-1" style="width: 40px;height: 40px;"></a>
             <a href="mailto:hazkengraphics@gmail.com" title="HAZKEN GRAPHICS MAIL">
             <img src="src/img/email.png" class="m-1" style="width: 40px;height: 40px;"></a>
     </div>

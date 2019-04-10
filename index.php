@@ -425,7 +425,7 @@
             </div>
         </div>
         <div class="d-flex flex-row justify-content-center">
-        <button type="button" class="btn btn-danger btn-md m-1"
+        <button type="button" class="btn btn-danger btn-md m-1 font-weight-bold"
         data-toggle="modal" data-target="#exampleModal2">ORDER NOW</button>
         </div>
     </section>
@@ -558,7 +558,7 @@
 </div>
         
         <div class="d-flex flex-row justify-content-center">
-            <button type="button" class="btn btn-outline-light btn-md m-2 text-capitalize"
+            <button type="button" class="btn btn-outline-light btn-md m-2 font-weight-bold"
             data-toggle="modal" data-target="#exampleModal3">ORDER NOW</button>
             </div>
     </section>
@@ -673,7 +673,7 @@
         </div>
         </div>
         <div class="d-flex flex-row justify-content-center">
-            <button type="button" class="btn btn-danger btn-md m-1"
+            <button type="button" class="btn btn-danger btn-md m-1 font-weight-bold"
             data-toggle="modal" data-target="#exampleModal4">ORDER NOW</button>
             </div>
 </article>

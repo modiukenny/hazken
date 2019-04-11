@@ -744,16 +744,16 @@
               </div>
               <div class="container mt-2">
               <div class="progress m-2" style="height: 30px">
-                    <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 95%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 mr-3">HTML 95%</h5></div>
+                    <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 95%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"><div class="col-1"></div><h5 class="mt-1">HTML 95%</h5></div>
                   </div>
                   <div class="progress m-2" style="height: 30px">
-                    <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 93%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1">CSS 93%</h5></div>
+                    <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 93%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><div class="col-2 ml-1"></div><h5 class="mt-1">CSS 93%</h5></div>
                   </div>
                   <div class="progress m-2" style="height: 30px">
-                    <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 92%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 ml-4">JAVASCRIPT 92%</h5></div>
+                    <div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 92%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 ml-4">JAVASCRIPT 92%</h5></div>
                   </div>
                   <div class="progress m-2" style="height: 30px">
-                    <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 98%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 mr-4 text-dark">GRAPHICS DESIGN 98%</h5></div>
+                    <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 98%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 text-dark">GRAPHICS DESIGN 98%</h5></div>
                   </div>
                   <div class="progress m-2" style="height: 30px">
                     <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 97%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 mr-1">UI/UX DESIGNS 97%</h5></div>
@@ -782,7 +782,7 @@
     
 <hr>
     <div class="d-flex flex-row justify-content-center text-secondary">
-      <p style="font-size: 13px">Copyright &copy; Hazken 2019 All rights reserved.</p>
+      <p style="font-size: 13px">Copyright &copy; Hazken Graphics 2018 All rights reserved.</p>
     </div>
 </footer>
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>

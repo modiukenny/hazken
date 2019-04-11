@@ -16,6 +16,10 @@
 <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="manifest" href="manifest.json">
+ 
+<!-- CSS Front Template -->
+ <link rel="stylesheet" href="./src/css/theme.css">
+
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
@@ -486,7 +490,10 @@
         <img src="src/img/responsive web.jpg" class="img-fluid mx-auto">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
         <h3 class=" text-center font-weight-bold text-light mt-2" title="HAZKEN GRAPHICS UI/UX DESIGNS">UI/UX DESIGNS</h3>
-        <p class="text-center text-light">Web Designs JavaScript for Mobile and Laptops
+        <p class="text-center text-light">User Interface, focuses on the look and layouts.
+                <span class="text-primary">
+                        <strong class="u-text-animation u-text-animation--typing"></strong>
+                      </span>
         </p>
         <p>
   <button class="btn btn-outline-light m-auto d-block btn-md font-weight-bold"  data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" >
@@ -786,6 +793,68 @@
     </div>
 </footer>
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
+<script>
+    $(window).on('load', function () {
+      // initialization of HSMegaMenu component
+      $('.js-mega-menu').HSMegaMenu({
+        event: 'hover',
+        pageContainer: $('.container'),
+        breakpoint: 767.98,
+        hideTimeOut: 0
+      });
+
+      // initialization of svg injector module
+      $.HSCore.components.HSSVGIngector.init('.js-svg-injector');
+    });
+
+    $(document).on('ready', function () {
+      // initialization of header
+      $.HSCore.components.HSHeader.init($('#header'));
+
+      // initialization of unfold component
+      $.HSCore.components.HSUnfold.init($('[data-unfold-target]'), {
+        afterOpen: function () {
+          $(this).find('input[type="search"]').focus();
+        }
+      });
+
+      // initialization of malihu scrollbar
+      $.HSCore.components.HSMalihuScrollBar.init($('.js-scrollbar'));
+
+      // initialization of forms
+      $.HSCore.components.HSFocusState.init();
+
+      // initialization of form validation
+      $.HSCore.components.HSValidation.init('.js-validate', {
+        rules: {
+          confirmPassword: {
+            equalTo: '#signupPassword'
+          }
+        }
+      });
+
+      // initialization of show animations
+      $.HSCore.components.HSShowAnimation.init('.js-animation-link');
+
+      // initialization of fancybox
+      $.HSCore.components.HSFancyBox.init('.js-fancybox');
+
+      // initialization of text animation (typing)
+      var typed = new Typed(".u-text-animation.u-text-animation--typing", {
+        strings: ["more professional.", "perfect in every way.", "astonishing."],
+        typeSpeed: 60,
+        loop: true,
+        backSpeed: 25,
+        backDelay: 1500
+      });
+
+      // initialization of slick carousel
+      $.HSCore.components.HSSlickCarousel.init('.js-slick-carousel');
+
+      // initialization of go to
+      $.HSCore.components.HSGoTo.init('.js-go-to');
+    });
+  </script>
 </body>
 
 </html>

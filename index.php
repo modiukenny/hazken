@@ -768,6 +768,7 @@
                   <div class="progress m-2" style="height: 30px">
                     <div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 92%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 ml-4">JAVASCRIPT 93%</h5></div>
                   </div>
+                  <div class="progress m-2" style="height: 30px">
                   <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 95%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"><div class="col-1"></div><h5 class="mt-1">REACT 95%</h5></div>
                   </div>
                   <div class="progress m-2" style="height: 30px">

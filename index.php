@@ -2,6 +2,15 @@
 <html lang="en">
 
 <head>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'GA_MEASUREMENT_ID');
+</script>
 <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
@@ -759,6 +768,8 @@
                   <div class="progress m-2" style="height: 30px">
                     <div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 92%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 ml-4">JAVASCRIPT 92%</h5></div>
                   </div>
+                  <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 95%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"><div class="col-1"></div><h5 class="mt-1">REACT 95%</h5></div>
+                  </div>
                   <div class="progress m-2" style="height: 30px">
                     <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 98%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 text-dark">GRAPHICS DESIGN 98%</h5></div>
                   </div>
@@ -793,68 +804,6 @@
     </div>
 </footer>
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
-<script>
-    $(window).on('load', function () {
-      // initialization of HSMegaMenu component
-      $('.js-mega-menu').HSMegaMenu({
-        event: 'hover',
-        pageContainer: $('.container'),
-        breakpoint: 767.98,
-        hideTimeOut: 0
-      });
-
-      // initialization of svg injector module
-      $.HSCore.components.HSSVGIngector.init('.js-svg-injector');
-    });
-
-    $(document).on('ready', function () {
-      // initialization of header
-      $.HSCore.components.HSHeader.init($('#header'));
-
-      // initialization of unfold component
-      $.HSCore.components.HSUnfold.init($('[data-unfold-target]'), {
-        afterOpen: function () {
-          $(this).find('input[type="search"]').focus();
-        }
-      });
-
-      // initialization of malihu scrollbar
-      $.HSCore.components.HSMalihuScrollBar.init($('.js-scrollbar'));
-
-      // initialization of forms
-      $.HSCore.components.HSFocusState.init();
-
-      // initialization of form validation
-      $.HSCore.components.HSValidation.init('.js-validate', {
-        rules: {
-          confirmPassword: {
-            equalTo: '#signupPassword'
-          }
-        }
-      });
-
-      // initialization of show animations
-      $.HSCore.components.HSShowAnimation.init('.js-animation-link');
-
-      // initialization of fancybox
-      $.HSCore.components.HSFancyBox.init('.js-fancybox');
-
-      // initialization of text animation (typing)
-      var typed = new Typed(".u-text-animation.u-text-animation--typing", {
-        strings: ["more professional.", "perfect in every way.", "astonishing."],
-        typeSpeed: 60,
-        loop: true,
-        backSpeed: 25,
-        backDelay: 1500
-      });
-
-      // initialization of slick carousel
-      $.HSCore.components.HSSlickCarousel.init('.js-slick-carousel');
-
-      // initialization of go to
-      $.HSCore.components.HSGoTo.init('.js-go-to');
-    });
-  </script>
 </body>
 
 </html>

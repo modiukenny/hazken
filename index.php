@@ -143,9 +143,9 @@
     </div>
     <!--TO E-MAIL-->
     <div class="m-4 text-center">
-        <h2 class="pb-2" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Creativity as it speaks
+        <h2 class="pb-2" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Creativity as it speaks for
                 <a href="" class="typewrite" data-period="2000" data-type='[ "For your Web Design", "Graphic Design", "UI/UX Design", "General Printing" ]'>
-                  <span class="wrap"></span>
+                  <span class="wrap" style="text-decoration: none;"></span>
                 </a>
             </h2>
     <button type="button" class="btn btn-danger m-auto d-block btn-md font-weight-bold"

@@ -3,13 +3,13 @@
 
 <head>
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-138230632-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'GA_MEASUREMENT_ID');
+  gtag('config', 'UA-138230632-1');
 </script>
 <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
@@ -27,12 +27,12 @@
 <link rel="manifest" href="manifest.json">
  
 <!-- CSS Front Template -->
- <link rel="stylesheet" href="./src/css/theme.css">
+ <link rel="stylesheet" href="src/css/style.css">
 
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
-    <title>::HAZKEN GRAPHICS::</title>
+    <title>::HAZKEN GRAPHICS:: WEB DESIGN GRAPHICS DESIGN</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
@@ -142,40 +142,47 @@
         </a>
     </div>
     <!--TO E-MAIL-->
-    <div class="container-fluid p-4 bg-danger">
-        <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform">
-            <div class="form-group">
-            <label for="exampleInputEmail1" class="text-light font-weight-bold">EMAIL ADDRESS</label>
-                <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
-                <textarea class="form-control" rows="5" id="comment" name="message"
-                placeholder="Your Message"></textarea>
-            </div>
-            <button type="submit" class="btn btn-outline-light btn-md btn-block"
-            data-toggle="modal" data-target="#exampleModal">SUBMIT</button>
-        </form>
+    <div class="m-4 text-center">
+        <h2 class="pb-2" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Creativity as it speaks
+                <a href="" class="typewrite" data-period="2000" data-type='[ "For your Web Design", "Graphic Design", "UI/UX Design", "General Printing" ]'>
+                  <span class="wrap"></span>
+                </a>
+            </h2>
+    <button type="button" class="btn btn-danger m-auto d-block btn-md font-weight-bold"
+        data-toggle="modal" data-target="#exampleModal2">SEND US A MAIL</button>
     </div>
-    <!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<!-- Modal -->
+<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel"></h5>
+          <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
-        <div class="modal-body">
-          MESSAGE SENT SUCCESSFULLY
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
+            <div class="form-group p-2">
+            <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
+                <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
+                <textarea class="form-control" rows="5" id="comment" name="message"
+                placeholder="Your Message"></textarea>
+            </div>
+            <button type="submit" class="btn btn-danger m-2"
+            data-toggle="modal" data-target="#exampleModal5"
+            >SUBMIT</button>
+            <div style="display:none" class="thankyou_message">
+                <!-- You can customize the thankyou message by editing the code below -->
+                <h2><em>Thanks</em> for contacting us! We will get back to you soon!
+                </h2>
+               </div>
+            
+        </form>
         </div>
       </div>
     </div>
-  </div>
-
-
 <!--WHO WE ARE-->
+<div class="container-fluid">
 <div class="container p-3">
         <div class="col-sm-12">
         <div id="accordion">
@@ -183,7 +190,7 @@
                   <div class="card-header" id="headingOne" style="background: #D2D3D5">
                     <h5 class="mb-0">
                       <button class="btn btn-secondary" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        WEB DESIGNS
+                        WEB DESIGN
                       </button>
                     </h5>
                   </div>
@@ -198,7 +205,7 @@
                   <div class="card-header" id="headingTwo" style="background: #D2D3D5">
                     <h5 class="mb-0">
                       <button class="btn btn-secondary collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        GRAPHIC DESIGNS
+                        GRAPHIC DESIGN
                       </button>
                     </h5>
                   </div>
@@ -225,6 +232,8 @@
               </div>
     </div>
 </div>
+</div>
+
 
 
 
@@ -240,7 +249,7 @@
                         text-dark" style="text-decoration: none">
                     <div class="text-center">
                         <img src="src/img/graphics artist.png" alt="graphics_icon" style="width:48px; height:48px;">
-                        <h5 class="font-weight-bold">GRAPHICS DESIGN</h5>
+                        <h5 class="font-weight-bold">GRAPHIC DESIGN</h5>
                         <p><span class="text-uppercase">Logos, Light-Packaging,
                                 Megazines, Office Stationaries Designs, etc...</span></p>
                     </div>
@@ -251,7 +260,7 @@
                     text-dark" style="text-decoration: none">
                     <div class="text-center">
                         <img src="src/img/webdesign_icon.png" alt="webdesign_icon" style="width:48px; height:48px;">
-                        <h5 class="font-weight-bold">WEB DESIGNS</h5>
+                        <h5 class="font-weight-bold">WEB DESIGN</h5>
                         <p><span class="text-uppercase">JAVASCRIPT FOR <br>WEB & MOBILE</span></p>
                     </div>
                 </a>
@@ -296,7 +305,7 @@
 
     <!--GRAPHICS DESIGN DETAILS-->
     <section class="container-fluid p-2" id="graphics-designs">
-        <h3 class=" text-center font-weight-bold">GRAPHICS DESIGNS/PRINTING</h3>
+        <h3 class=" text-center font-weight-bold">GRAPHIC DESIGN/PRINTING</h3>
         <div class="row mx-auto">
             <div class="col-4">
                 <img src="src/img/7.png" class="img-fluid m-1">
@@ -493,8 +502,8 @@
 
     <!--WEB DESIGNS DESIGN DETAILS-->
     <section class="container-fluid p-2 bg-dark m-auto" id="web-designs">
-        <h3 class=" text-center font-weight-bold text-light" title="HAZKEN GRAPHICS WEB DESIGNS">WEB DESIGNS</h3>
-        <p class="text-center text-light">Web Designs JavaScript for Mobile and Laptops
+        <h3 class=" text-center font-weight-bold text-light" title="HAZKEN GRAPHICS WEB DESIGNS">WEB DESIGN</h3>
+        <p class="text-center text-light">Web Design JavaScript for Mobile and Laptops
         </p>
         <img src="src/img/responsive web.jpg" class="img-fluid mx-auto">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
@@ -805,6 +814,7 @@
     </div>
 </footer>
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
+<script src="main.js"></script>
 </body>
 
 </html>

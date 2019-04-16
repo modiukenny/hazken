@@ -168,9 +168,12 @@
                 <textarea class="form-control" rows="5" id="comment" name="message"
                 placeholder="Your Message"></textarea>
             </div>
+            <div class="clearfix">
             <button type="submit" class="btn btn-danger m-2"
             data-toggle="modal" data-target="#exampleModal5"
             >SUBMIT</button>
+            <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
+        </div>
             <div style="display:none" class="thankyou_message">
                 <!-- You can customize the thankyou message by editing the code below -->
                 <h2><em>Thanks</em> for contacting us! We will get back to you soon!
@@ -261,7 +264,7 @@
                     <div class="text-center">
                         <img src="src/img/webdesign_icon.png" alt="webdesign_icon" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">WEB DESIGN</h5>
-                        <p><span class="text-uppercase">JAVASCRIPT FOR <br>WEB & MOBILE</span></p>
+                        <p><span class="text-uppercase">UI/UX DESIGNS, JAVASCRIPT FOR <br>WEB & MOBILE</span></p>
                     </div>
                 </a>
                 <a href="#graphics-designs" class="col-lg-3 p-3 m-3 rounded 
@@ -602,8 +605,11 @@
                 <textarea class="form-control" rows="5" id="comment" name="message"
                 placeholder="Your Message"></textarea>
             </div>
+            <div class="clearfix">
             <button type="submit" class="btn btn-danger m-2"
             data-toggle="modal" data-target="#exampleModal8" >SUBMIT</button>
+            <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
+            </div>
             <div style="display:none" class="thankyou_message">
                 <!-- You can customize the thankyou message by editing the code below -->
                 <h2><em>Thanks</em> for contacting us! We will get back to you soon!
@@ -716,8 +722,11 @@
                 <textarea class="form-control" rows="5" id="comment" name="message"
                 placeholder="Your Message"></textarea>
             </div>
+            <div class="clearfix">
             <button type="submit" class="btn btn-danger m-2"
             data-toggle="modal" data-target="#exampleModal10">SUBMIT</button>
+            <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
+            </div>
             <div style="display:none" class="thankyou_message">
                 <!-- You can customize the thankyou message by editing the code below -->
                 <h2><em>Thanks</em> for contacting us! We will get back to you soon!

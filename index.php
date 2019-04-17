@@ -11,6 +11,8 @@
 
   gtag('config', 'UA-138230632-1');
 </script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" 
+integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
@@ -77,6 +79,7 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" title="ABOUT HAZKEN GRAPHICS" href="#about-us">ABOUT THE AUTHOR</a>
+                        </li>
                         <li class="nav-item"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
                         title="HAZKEN GRAPHICS INSTAGRAM">
                                 <img src="src/img/instagram_icon.png" class="m-1 mt-2"
@@ -100,7 +103,6 @@
                         <li class="nav-item"><a href="tel:+2348176246387" title="CONTACT HAZKEN GRAPHICS">
                             <img src="src/img/tellphonecall.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
                     </li>
-                        <li class="nav-item">
                     </ul>
                 </div>
             </nav>
@@ -149,7 +151,9 @@
                 </a>
             </h2>
     <button type="button" class="btn btn-danger m-auto d-block btn-md font-weight-bold"
-        data-toggle="modal" data-target="#exampleModal2">SEND US A MAIL</button>
+        data-toggle="modal" data-target="#exampleModal2">
+        <span class="bell fa fa-bell"></span> SEND US A MAIL
+    </button>
     </div>
 <!-- Modal -->
 <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">

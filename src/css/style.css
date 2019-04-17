@@ -1,6 +1,23 @@
 .wrap{
     color:#727376; text-decoration: none;
 }
+.font-social-media{
+    font-size: 23px;
+    color: #727376;
+    margin-top: 8px;
+    margin-right: 7px;
+}
+.font-social-medias{
+    font-size: 40px;
+    color: #727376;
+    margin-right: 7px;
+}
+.font-social-media:hover{
+    color: #474748;
+}
+.font-social-medias:hover{
+    color: #474748;
+}
 .bell{
     
     color: white;

@@ -11,8 +11,7 @@
 
   gtag('config', 'UA-138230632-1');
 </script>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" 
-integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
@@ -81,27 +80,26 @@ integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28an
                             <a class="nav-link" title="ABOUT HAZKEN GRAPHICS" href="#about-us">ABOUT THE AUTHOR</a>
                         </li>
                         <li class="nav-item"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
-                        title="HAZKEN GRAPHICS INSTAGRAM">
-                                <img src="src/img/instagram_icon.png" class="m-1 mt-2"
-                                    style="width: 23px;height: 23px;"></a></li>
+                        title="HAZKEN GRAPHICS INSTAGRAM"><i class="fa fa-instagram font-social-media"></i>
+                                </a></li>
                         <li class="nav-item"><a href="https://www.facebook.com/hazkengraphics/" target="_blank"
                         title="HAZKEN GRAPHICS FACEBOOK">
-                                <img src="src/img/facebook.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
+                        <i class="fa fa-facebook-square font-social-media"></i>
                         </li>
                         <li class="nav-item"><a href="https://wa.me/2348176246387" target="_blank"
                         title="HAZKEN GRAPHICS WHATSAPP">
-                                <img src="src/img/whatsapp.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
+                        <i class="fa fa-whatsapp font-social-media"></i>
                         </li>
                         <li class="nav-item"><a href="https://twitter.com/HazkenG" target="_blank"
                         title="HAZKEN GRAPHICS TWITTER">
-                                <img src="src/img/twitter.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
+                        <i class="fa fa-twitter font-social-media"></i>
                         </li>
                         <li class="nav-item"><a href="mailto:hazkengraphics@gmail.com"
                         title="HAZKEN GRAPHICS MAIL">
-                                <img src="src/img/email.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
+                        <i class="fa fa-envelope font-social-media"></i>
                         </li>
                         <li class="nav-item"><a href="tel:+2348176246387" title="CONTACT HAZKEN GRAPHICS">
-                            <img src="src/img/tellphonecall.png" class="m-1 mt-2" style="width: 23px;height: 23px;"></a>
+                         <i class="fa fa-phone font-social-media"></i>
                     </li>
                     </ul>
                 </div>
@@ -807,18 +805,18 @@ integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28an
     <div class="d-flex flex-row justify-content-center">
         <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
         title="HAZKEN GRAPHICS INSTAGRAM">
-            <img src="src/img/instagram_icon.png" class="m-1" style="width: 40px;height: 40px;"></a>
+        <i class="fa fa-instagram font-social-medias"></i></a>
         <a href="https://www.facebook.com/hazkengraphics/" target="_blank"
         title="HAZKEN GRAPHICS FACEBOOK">
-            <img src="src/img/facebook.png" class="m-1" style="width: 40px;height: 40px;"></a>
+        <i class="fa fa-facebook-square font-social-medias"></i></a>
         <a href="https://wa.me/2348176246387" target="_blank"
         title="HAZKEN GRAPHICS WHATSAPP">
-            <img src="src/img/whatsapp.png" class="m-1" style="width: 40px;height: 40px;"></a>
-            <a href="https://twitter.com/HazkenG" target="_blank"
-            title="HAZKEN GRAPHICS TWITTER">
-            <img src="src/img/twitter.png" class="m-1" style="width: 40px;height: 40px;"></a>
-            <a href="mailto:hazkengraphics@gmail.com" title="HAZKEN GRAPHICS MAIL">
-            <img src="src/img/email.png" class="m-1" style="width: 40px;height: 40px;"></a>
+        <i class="fa fa-whatsapp font-social-medias"></i></a>
+        <a href="https://twitter.com/HazkenG" target="_blank"
+        title="HAZKEN GRAPHICS TWITTER">
+        <i class="fa fa-twitter font-social-medias"></i></a>
+        <a href="mailto:hazkengraphics@gmail.com" title="HAZKEN GRAPHICS MAIL">
+        <i class="fa fa-envelope font-social-medias"></i></a></a>
     </div>
     
 <hr>

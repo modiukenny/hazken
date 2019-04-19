@@ -64,7 +64,7 @@
                     <img src="src/img/HAZ-KEN GRAPHICS.png" alt="HAZKEN GRAPHICS"
                     title="HAZKEN GRAPHICS LOGO" style="width: 190px; height:50px;">
                 </a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="collapsibleNavbar">
@@ -107,7 +107,7 @@
         </div>
     </div>
     <!--Image Slides-->
-    <div id="demo" class="carousel slide " data-ride="carousel" style="margin-top: 60px">
+    <div id="demo" class="carousel slide " data-ride="carousel" style="margin-top: 55px">
         <ul class="carousel-indicators">
             <li data-target="#demo" data-slide-to="0" class="active"></li>
             <li data-target="#demo" data-slide-to="1"></li>

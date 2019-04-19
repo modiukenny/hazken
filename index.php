@@ -801,7 +801,7 @@
             <a href="tel:+2348176246387" class="btn btn-danger"
             title="HAZKEN GRAPHICS CONTACT">CONTACT US</a>
         </div>
-    <div class="d-flex flex-row justify-content-center">
+    <div class="d-flex flex-row justify-content-center mb-1">
         <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
         title="HAZKEN GRAPHICS INSTAGRAM">
         <i class="fa fa-instagram font-social-medias"></i></a>

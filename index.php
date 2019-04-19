@@ -277,7 +277,7 @@
                         <h5 class="font-weight-bold">GENERAL PRINTING</h5>
                         <p>WEDDING PROGRAM,
                             OFFICE STATIONARIES, BOOK PUBLISHING,
-                            LIGHT-PACKAGING, ETC...</p>
+                            LIGHT-PACKAGING, ETC..</p>
                     </div>
                 </a>
 

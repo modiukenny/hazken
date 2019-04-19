@@ -30,10 +30,10 @@
 <!-- CSS Front Template -->
  <link rel="stylesheet" href="src/css/style.css">
 
-<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileColor" content="#ffffff">WEB DESIGN, GRAPHIC DESIGN & GENERAL PRINTING
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
-    <title>::HAZKEN GRAPHICS:: WEB DESIGN, GRAPHIC DESIGN & GENERAL PRINTING</title>
+    <title>::HAZKEN GRAPHICS:: </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
@@ -817,7 +817,7 @@
         <a href="mailto:hazkengraphics@gmail.com" title="HAZKEN GRAPHICS MAIL">
         <i class="fa fa-envelope font-social-medias"></i></a></a>
     </div>
-    
+    <p class="text-center text-secodary" style="font-size: 13px">Web Design, Graphic Design & General Printing in Lagos, Nigeria</p>
 <hr>
     <div class="d-flex flex-row justify-content-center text-secondary">
       <p style="font-size: 13px">Copyright &copy; 2019 Hazken Graphics all rights reserved.</p>

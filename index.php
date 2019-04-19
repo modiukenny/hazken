@@ -107,7 +107,7 @@
         </div>
     </div>
     <!--Image Slides-->
-    <div id="demo" class="carousel slide " data-ride="carousel" style="margin-top: 55px">
+    <div id="demo" class="carousel slide mt-5" data-ride="carousel">
         <ul class="carousel-indicators">
             <li data-target="#demo" data-slide-to="0" class="active"></li>
             <li data-target="#demo" data-slide-to="1"></li>

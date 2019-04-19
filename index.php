@@ -769,9 +769,9 @@
                   class="mr-3 mt-4 align-self-lg-start" style="width:95px; height: 120px">
                   <div class="media-body mt-4 align-self-center">
                     <h4 class="font-weight-bolder" title="ABOUT HAZKEN GRAPHICS">ABOUT THE AUTHOR</h4>
-                    <p style="font-size: 15px"><span class="font-weight-bolder" title="Hazken Graphics CEO">
-                        MODIU KEHINDE HAZZAN a freelance artist,
-                        as an experienced professional, He is committed to raising awareness
+                    <p style="font-size: 15px"><span class="font-weight-bolder" title="Hazken Graphics Founder">
+                        MODIU KEHINDE HAZZAN</span> a freelance artist
+                        as an experienced professional, who is committed to raising awareness
                         about how to create a Reponsive Website and Application,
                         also specialize in Graphics Design for Printing and Adverts.
                   </div>

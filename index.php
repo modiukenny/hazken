@@ -265,7 +265,7 @@
                     text-dark" style="text-decoration: none">
                     <div class="text-center">
                         <img src="src/img/webdesign_icon.png" alt="webdesign_icon" style="width:48px; height:48px;">
-                        <h5 class="font-weight-bold">WEB DESIGN</h5>
+                        <h5 class="font-weight-bold">WEB DESIGNS</h5>
                         <p><span class="text-uppercase">UI/UX DESIGNS, JAVASCRIPT FOR <br>WEB & MOBILE</span></p>
                     </div>
                 </a>
@@ -310,7 +310,7 @@
 
     <!--GRAPHICS DESIGN DETAILS-->
     <section class="container-fluid p-2" id="graphics-designs">
-        <h3 class=" text-center font-weight-bold">GRAPHIC DESIGN/PRINTING</h3>
+        <h3 class=" text-center font-weight-bold">GRAPHIC DESIGNS/PRINTING</h3>
         <div class="row mx-auto">
             <div class="col-4">
                 <img src="src/img/7.png" class="img-fluid m-1">

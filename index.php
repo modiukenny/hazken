@@ -817,7 +817,7 @@
         <a href="mailto:hazkengraphics@gmail.com" title="HAZKEN GRAPHICS MAIL">
         <i class="fa fa-envelope font-social-medias"></i></a></a>
     </div>
-    <p class="text-center text-secodary" style="font-size: 13px">Web Design, Graphic Design & General Printing in Lagos, Nigeria</p>
+    <p class="text-center text-secondary" style="font-size: 13px">Web Design, Graphic Design & General Printing in Lagos, Nigeria</p>
 <hr>
     <div class="d-flex flex-row justify-content-center text-secondary">
       <p style="font-size: 13px">Copyright &copy; 2019 Hazken Graphics all rights reserved.</p>

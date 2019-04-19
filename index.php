@@ -61,7 +61,7 @@
             <nav class="navbar navbar-expand-md bg-light navbar-light fixed-top"
             style="border-bottom: 4px solid #7E2726;">
                 <a class="navbar-brand" href="#home-navigation">
-                    <img src="src/img/HAZ-KEN GRAPHICS.png" alt="HAZKEN GRAPHICS"
+                    <img src="src/img/HAZ-KEN GRAPHICS.png" alt="hazken_graphics_logo.png"
                     title="HAZKEN GRAPHICS LOGO" style="width: 190px; height:50px;">
                 </a>
                 <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -277,7 +277,7 @@
                         <h5 class="font-weight-bold">GENERAL PRINTING</h5>
                         <p>WEDDING PROGRAM,
                             OFFICE STATIONARIES, BOOK PUBLISHING,
-                            LIGHT-PACKAGING, ETC..</p>
+                            LIGHT-PACKAGING, ETC...</p>
                     </div>
                 </a>
 
@@ -292,8 +292,8 @@
                 </a>
 
                 <a href="https://www.instagram.com/hazken_graphics/" target="_blank" class="col-lg-3 p-3 m-3 rounded 
-         shadow shadow-small border border-4 bg-light
-        text-dark" style="text-decoration: none">
+                    shadow shadow-small border border-4 bg-light
+                    text-dark" style="text-decoration: none">
                     <div class="text-center">
                         <img src="src/img/porfolio.png" alt="graphics_icon" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">MY PORTFOLIO</h5>
@@ -313,139 +313,184 @@
         <h3 class=" text-center font-weight-bold">GRAPHIC DESIGNS/PRINTING</h3>
         <div class="row mx-auto">
             <div class="col-4">
-                <img src="src/img/7.png" class="img-fluid m-1">
+                <img src="src/img/7.png" class="img-fluid m-1"
+                alt="7.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/8.png" class="img-fluid m-1">
+                <img src="src/img/8.png" class="img-fluid m-1"
+                alt="8.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/9.png" class="img-fluid m-1">
+                <img src="src/img/9.png" class="img-fluid m-1"
+                alt="9.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/10.png" class="img-fluid m-1">
+                <img src="src/img/10.png" class="img-fluid m-1"
+                alt="10.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/11.png" class="img-fluid m-1">
+                <img src="src/img/11.png" class="img-fluid m-1"
+                alt="11.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/12.png" class="img-fluid m-1">
+                <img src="src/img/12.png" class="img-fluid m-1"
+                alt="12.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/13.png" class="img-fluid m-1">
+                <img src="src/img/13.png" class="img-fluid m-1"
+                alt="13.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/14.png" class="img-fluid m-1">
+                <img src="src/img/14.png" class="img-fluid m-1"
+                alt="14.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/15.png" class="img-fluid m-1">
+                <img src="src/img/15.png" class="img-fluid m-1"
+                alt="15.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/16.png" class="img-fluid m-1">
+                <img src="src/img/16.png" class="img-fluid m-1"
+                alt="16.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/17.png" class="img-fluid m-1">
+                <img src="src/img/17.png" class="img-fluid m-1"
+                alt="17.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/18.png" class="img-fluid m-1">
+                <img src="src/img/18.png" class="img-fluid m-1"
+                alt="18.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/19.png" class="img-fluid m-1">
+                <img src="src/img/19.png" class="img-fluid m-1"
+                alt="19.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/20.png" class="img-fluid m-1">
+                <img src="src/img/20.png" class="img-fluid m-1"
+                alt="20.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/21.png" class="img-fluid m-1">
+                <img src="src/img/21.png" class="img-fluid m-1"
+                alt="21.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/22.png" class="img-fluid m-1">
+                <img src="src/img/22.png" class="img-fluid m-1"
+                alt="22.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/23.png" class="img-fluid m-1">
+                <img src="src/img/23.png" class="img-fluid m-1"
+                alt="23.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/24.png" class="img-fluid m-1">
+                <img src="src/img/24.png" class="img-fluid m-1"
+                alt="24.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/25.png" class="img-fluid m-1">
+                <img src="src/img/25.png" class="img-fluid m-1"
+                alt="25.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/26.png" class="img-fluid m-1">
+                <img src="src/img/26.png" class="img-fluid m-1"
+                alt="26.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/27.png" class="img-fluid m-1">
+                <img src="src/img/27.png" class="img-fluid m-1"
+                alt="27.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/28.png" class="img-fluid m-1">
+                <img src="src/img/28.png" class="img-fluid m-1"
+                alt="28.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/29.png" class="img-fluid m-1">
+                <img src="src/img/29.png" class="img-fluid m-1"
+                alt="29.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/30.png" class="img-fluid m-1">
+                <img src="src/img/30.png" class="img-fluid m-1"
+                alt="30.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/31.png" class="img-fluid m-1">
+                <img src="src/img/31.png" class="img-fluid m-1"
+                alt="31.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/32.png" class="img-fluid m-1">
+                <img src="src/img/32.png" class="img-fluid m-1"
+                alt="32.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/33.png" class="img-fluid m-1">
+                <img src="src/img/33.png" class="img-fluid m-1"
+                alt="33.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/34.png" class="img-fluid m-1">
+                <img src="src/img/34.png" class="img-fluid m-1"
+                alt="34.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/35.png" class="img-fluid m-1">
+                <img src="src/img/35.png" class="img-fluid m-1"
+                alt="34.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/36.png" class="img-fluid m-1">
+                <img src="src/img/36.png" class="img-fluid m-1"
+                alt="36.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/37.png" class="img-fluid m-1">
+                <img src="src/img/37.png" class="img-fluid m-1"
+                alt="37.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/38.png" class="img-fluid m-1">
+                <img src="src/img/38.png" class="img-fluid m-1"
+                alt="38.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/39.png" class="img-fluid m-1">
+                <img src="src/img/39.png" class="img-fluid m-1"
+                alt="39.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/40.png" class="img-fluid m-1">
+                <img src="src/img/40.png" class="img-fluid m-1"
+                alt="40.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/66.png" class="img-fluid m-1">
+                <img src="src/img/66.png" class="img-fluid m-1"
+                alt="66.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/67.png" class="img-fluid m-1">
+                <img src="src/img/67.png" class="img-fluid m-1"
+                alt="67.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/68.png" class="img-fluid m-1">
+                <img src="src/img/68.png" class="img-fluid m-1"
+                alt="68.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/69.png" class="img-fluid m-1">
+                <img src="src/img/69.png" class="img-fluid m-1"
+                alt="69.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/70.png" class="img-fluid m-1">
+                <img src="src/img/70.png" class="img-fluid m-1"
+                alt="70.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/71.png" class="img-fluid m-1">
+                <img src="src/img/71.png" class="img-fluid m-1"
+                alt="71.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/72.png" class="img-fluid m-1">
+                <img src="src/img/72.png" class="img-fluid m-1"
+                alt="72.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/73.png" class="img-fluid m-1">
+                <img src="src/img/73.png" class="img-fluid m-1"
+                alt="73.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/74.png" class="img-fluid m-1">
+                <img src="src/img/74.png" class="img-fluid m-1"
+                alt="74.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/75.png" class="img-fluid m-1">
+                <img src="src/img/75.png" class="img-fluid m-1"
+                alt="75.jpg">
             </div>
             <div class="col-4">
-                <img src="src/img/76.png" class="img-fluid m-1">
+                <img src="src/img/76.png" class="img-fluid m-1"
+                alt="76.jpg">
             </div>
         </div>
         <div class="d-flex flex-row justify-content-center">
@@ -510,8 +555,8 @@
         <h3 class=" text-center font-weight-bold text-light" title="HAZKEN GRAPHICS WEB DESIGNS">WEB DESIGN</h3>
         <p class="text-center text-light">Web Design JavaScript for Mobile and Laptops
         </p>
-        <img src="src/img/responsive web.jpg" class="img-fluid mx-auto">
-        <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1">
+        <img src="src/img/responsive web.jpg" class="img-fluid mx-auto" alt="web.jpg">
+        <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1" alt="web1.jpg">
         <h3 class=" text-center font-weight-bold text-light mt-2" title="HAZKEN GRAPHICS UI/UX DESIGNS">UI/UX DESIGNS</h3>
         <p class="text-center text-light">User Interface, focuses on the look and layouts.
                 <span class="text-primary">
@@ -528,57 +573,72 @@
   <div class="card card-body">
         <div class="d-flex flex-row justify-content-around mb-2">
                 <div class="col-4">
-                    <img style="border-radius: 12px"src="src/img/78.png" class="img-fluid">
+                    <img style="border-radius: 12px"src="src/img/78.png" class="img-fluid"
+                    alt="78.jpg">
                 </div>
                 <div class="col-4">
-                    <img style="border-radius: 12px" style="border-radius: 12px" src="src/img/79.png" class="img-fluid">
+                    <img style="border-radius: 12px" style="border-radius: 12px" src="src/img/79.png" class="img-fluid"
+                    alt="79.jpg">
                 </div>
                 <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/80.png" class="img-fluid">
-                </div>
-            </div>
-            <div class="d-flex flex-row justify-content-around mb-2">
-                <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/81.png" class="img-fluid">
-                </div>
-                <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/82.png" class="img-fluid">
-                </div>
-                <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/83.png" class="img-fluid">
+                    <img style="border-radius: 12px" src="src/img/80.png" class="img-fluid"
+                    alt="80.jpg">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
                 <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/84.png" class="img-fluid">
+                    <img style="border-radius: 12px" src="src/img/81.png" class="img-fluid"
+                    alt="81.jpg">
                 </div>
                 <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/85.png" class="img-fluid">
+                    <img style="border-radius: 12px" src="src/img/82.png" class="img-fluid"
+                    alt="82.jpg">
                 </div>
                 <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/86.png" class="img-fluid">
+                    <img style="border-radius: 12px" src="src/img/83.png" class="img-fluid"
+                    alt="83.jpg">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
                 <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/87.png" class="img-fluid">
+                    <img style="border-radius: 12px" src="src/img/84.png" class="img-fluid"
+                    alt="84.jpg">
                 </div>
                 <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/88.png" class="img-fluid">
+                    <img style="border-radius: 12px" src="src/img/85.png" class="img-fluid"
+                    alt="85.jpg">
                 </div>
                 <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/89.png" class="img-fluid">
+                    <img style="border-radius: 12px" src="src/img/86.png" class="img-fluid"
+                    alt="86.jpg">
+                </div>
+            </div>
+            <div class="d-flex flex-row justify-content-around mb-2">
+                <div class="col-4">
+                    <img style="border-radius: 12px" src="src/img/87.png" class="img-fluid"
+                    alt="87.jpg">
+                </div>
+                <div class="col-4">
+                    <img style="border-radius: 12px" src="src/img/88.png" class="img-fluid"
+                    alt="88.jpg">
+                </div>
+                <div class="col-4">
+                    <img style="border-radius: 12px" src="src/img/89.png" class="img-fluid"
+                    alt="89.jpg">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
                 <div style="border-radius: 12px" class="col-4">
-                    <img style="border-radius: 12px" src="src/img/90.png" class="img-fluid">
+                    <img style="border-radius: 12px" src="src/img/90.png" class="img-fluid"
+                    alt="90.jpg">
                 </div>
                 <div style="border-radius: 12px" class="col-4">
-                    <img style="border-radius: 12px" src="src/img/91.png" class="img-fluid">
+                    <img style="border-radius: 12px" src="src/img/91.png" class="img-fluid"
+                    alt="91.jpg">
                 </div>
                 <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/92.png" class="img-fluid">
+                    <img style="border-radius: 12px" src="src/img/92.png" class="img-fluid"
+                    alt="92.jpg">
                 </div>
             </div>
   </div>
@@ -648,58 +708,76 @@
     </div>
     <div class="row mx-auto">
         <div class="col-4">
-            <img src="src/img/41.png" class="img-fluid m-1">
+            <img src="src/img/41.png" class="img-fluid m-1"
+            alt="41.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/42.png" class="img-fluid m-1">
+            <img src="src/img/42.png" class="img-fluid m-1"
+            alt="42.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/43.png" class="img-fluid m-1">
+            <img src="src/img/43.png" class="img-fluid m-1"
+            alt="43.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/45.png" class="img-fluid m-1">
+            <img src="src/img/45.png" class="img-fluid m-1"
+            alt="45.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/46.png" class="img-fluid m-1">
+            <img src="src/img/46.png" class="img-fluid m-1"
+            alt="46.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/47.png" class="img-fluid m-1">
+            <img src="src/img/47.png" class="img-fluid m-1"
+            alt="47.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/48.png" class="img-fluid m-1">
+            <img src="src/img/48.png" class="img-fluid m-1"
+            alt="48.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/49.png" class="img-fluid m-1">
+            <img src="src/img/49.png" class="img-fluid m-1"
+            alt="49.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/50.png" class="img-fluid m-1">
+            <img src="src/img/50.png" class="img-fluid m-1"
+            alt="50.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/54.png" class="img-fluid m-1">
+            <img src="src/img/54.png" class="img-fluid m-1"
+            alt="51.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/55.png" class="img-fluid m-1">
+            <img src="src/img/55.png" class="img-fluid m-1"
+            alt="55.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/56.png" class="img-fluid m-1">
+            <img src="src/img/56.png" class="img-fluid m-1"
+            alt="56.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/57.png" class="img-fluid m-1">
+            <img src="src/img/57.png" class="img-fluid m-1"
+            alt="57.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/58.png" class="img-fluid m-1">
+            <img src="src/img/58.png" class="img-fluid m-1"
+            alt="58.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/59.png" class="img-fluid m-1">
+            <img src="src/img/59.png" class="img-fluid m-1"
+            alt="59.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/60.png" class="img-fluid m-1">
+            <img src="src/img/60.png" class="img-fluid m-1"
+            alt="60.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/61.png" class="img-fluid m-1">
+            <img src="src/img/61.png" class="img-fluid m-1"
+            alt="61.jpg">
         </div>
         <div class="col-4">
-            <img src="src/img/62.png" class="img-fluid m-1">
+            <img src="src/img/62.png" class="img-fluid m-1"
+            alt="62.jpg">
         </div>
         </div>
         <div class="d-flex flex-row justify-content-center">

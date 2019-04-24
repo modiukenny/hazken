@@ -897,7 +897,7 @@
     </div>
     <p class="text-center text-secondary" style="font-size: 13px"><span title="Web Designer in Lagos">Web Design,</span> <span title="Graphics Designer in Lagos">Graphic Design</span> & 
     <span title="Printing in Lagos">General Printing</span> in Lagos, Nigeria.</p>
-    <p class="text-center text-secondary font-weight-bold">Hazken Digital</p>
+    <p class="text-center text-secondary font-weight-bold" title="HAZKEN DIGITAL">>Hazken Digital</p>
 <hr>
     <div class="d-flex flex-row justify-content-center text-secondary">
       <p style="font-size: 11px">Copyright &copy; 2019 Hazken Graphics all rights reserved.</p>

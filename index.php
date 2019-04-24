@@ -253,7 +253,7 @@
                         shadow shadow-small border border-4 bg-light
                         text-dark" style="text-decoration: none">
                     <div class="text-center">
-                        <img src="src/img/graphics artist.png" alt="graphics_icon" style="width:48px; height:48px;">
+                        <img src="src/img/graphics artist.png" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">GRAPHIC DESIGN</h5>
                         <p><span class="text-uppercase">Logos, Light-Packaging,
                                 Megazines, Office Stationaries Designs, etc...</span></p>
@@ -264,7 +264,7 @@
                     shadow shadow-small border border-4 bg-light
                     text-dark" style="text-decoration: none">
                     <div class="text-center">
-                        <img src="src/img/webdesign_icon.png" alt="webdesign_icon" style="width:48px; height:48px;">
+                        <img src="src/img/webdesign_icon.png" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">WEB DESIGNS</h5>
                         <p><span class="text-uppercase">UI/UX DESIGNS, JAVASCRIPT FOR <br>WEB & MOBILE</span></p>
                     </div>
@@ -273,7 +273,7 @@
                 shadow shadow-small border border-4 bg-light
                 text-dark" style="text-decoration: none">
                     <div class="text-center">
-                        <img src="src/img/printing.png" alt="printing_icon" style="width:48px; height:48px;">
+                        <img src="src/img/printing.png" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">GENERAL PRINTING</h5>
                         <p>WEDDING PROGRAM,
                             OFFICE STATIONARIES, BOOK PUBLISHING,
@@ -285,7 +285,7 @@
             shadow shadow-small border border-4 bg-light
             text-dark" style="text-decoration: none">
                     <div class="text-center">
-                        <img src="src/img/branding.png" alt="branding_icon" style="width:48px; height:48px;">
+                        <img src="src/img/branding.png" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">CREATIVE BRANDING</h5>
                         <p>CAR BRANDING, BOOK BRANDING, ETC...</p>
                     </div>
@@ -295,7 +295,7 @@
                     shadow shadow-small border border-4 bg-light
                     text-dark" style="text-decoration: none">
                     <div class="text-center">
-                        <img src="src/img/porfolio.png" alt="graphics_icon" style="width:48px; height:48px;">
+                        <img src="src/img/porfolio.png" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">MY PORTFOLIO</h5>
                         <p>Go to our link on<br><strong>INSTAGRAM</strong></p>
                     </div>
@@ -897,6 +897,7 @@
     </div>
     <p class="text-center text-secondary" style="font-size: 13px"><span title="Web Designer in Lagos">Web Design,</span> <span title="Graphics Designer in Lagos">Graphic Design</span> & 
     <span title="Printing in Lagos">General Printing</span> in Lagos, Nigeria.</p>
+    <p class="text-center text-secondary font-weight-bold">Hazken Digital</p>
 <hr>
     <div class="d-flex flex-row justify-content-center text-secondary">
       <p style="font-size: 11px">Copyright &copy; 2019 Hazken Graphics all rights reserved.</p>

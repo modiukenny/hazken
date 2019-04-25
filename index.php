@@ -106,48 +106,7 @@
             </nav>
         </div>
     </div>
-    <!--Image Slides
-    <div id="demo" class="carousel slide " data-ride="carousel" style="margin-top: 32px">
-        <ul class="carousel-indicators">
-            <li data-target="#demo" data-slide-to="0" class="active"></li>
-            <li data-target="#demo" data-slide-to="1"></li>
-            <li data-target="#demo" data-slide-to="2"></li>
-        </ul>
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="/src/img/hazken-image.png" alt="HazkenGraphics" width="1100" height="500">
-                <div class="carousel-caption">
-            
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="/src/img/hazken-image-printing-wedo.png" alt="Hazken-Graphics" width="1100" height="500">
-                <div class="carousel-caption">
-                    <p>|WEB DESIGNS| |GRAPHICS DESIGNS| |CREATIVE BRANDING| |PRINTING|</p>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="src/img/hazken-image-printing.png" alt="Hazken" width="1100" height="500">
-                <div class="carousel-caption">
-                    <h3 class="text-uppercase">Call us today</h3>
-                    <p class="text-uppercase">We give out the best</p>
-                </div>
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#demo" data-slide="prev">
-            <span class="carousel-control-prev-icon"></span>
-        </a>
-        <a class="carousel-control-next" href="#demo" data-slide="next">
-            <span class="carousel-control-next-icon"></span>
-        </a>
-    </div>-->
-
-
-
-
-
-
-    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="margin-top: 32px">>
+    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="margin-top: 32px">
   <div class="carousel-inner">
     <div class="carousel-item active">
     <img src="/src/img/hazken-image.png" alt="HazkenGraphics" width="1100" height="500">

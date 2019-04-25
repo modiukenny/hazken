@@ -849,7 +849,7 @@
                   class="mr-3 mt-4 align-self-lg-start" style="width:95px; height: 120px">
                   <div class="media-body mt-4 align-self-center">
                     <h4 class="font-weight-bolder" title="ABOUT HAZKEN GRAPHICS">ABOUT THE AUTHOR</h4>
-                    <p style="font-size: 15px"><span class="font-weight-bolder" title="Hazken Graphics Founder">
+                    <p style="font-size: 15px"><span class="font-weight-bolder" title="Hazken Graphics CEO and Founder">
                         MODIU KEHINDE HAZZAN</span> <span title="A FREELANCE DESIGNER IN LAGOS">a freelance web designer in Lagos</span>
                         as an experienced professional, who is committed to raising awareness
                         about how to create a Reponsive Website and Application,

@@ -255,7 +255,8 @@
                     <div class="text-center">
                         <img src="src/img/graphics artist.png" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">GRAPHIC DESIGN</h5>
-                        <p><span class="text-uppercase">Logos, Light-Packaging,
+                        <p><span class="text-uppercase">logo designer
+                                , Light-Packaging,
                                 Megazines, Office Stationaries Designs, etc...</span></p>
                     </div>
                 </a>
@@ -266,7 +267,8 @@
                     <div class="text-center">
                         <img src="src/img/webdesign_icon.png" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">WEB DESIGNS</h5>
-                        <p><span class="text-uppercase">UI/UX DESIGNS, JAVASCRIPT FOR <br>WEB & MOBILE</span></p>
+                        <p><span class="text-uppercase">UI/UX DESIGNS, ECOMMERCE WEBSITE
+                        JAVASCRIPT FOR <br>WEB & MOBILE</span></p>
                     </div>
                 </a>
                 <a href="#graphics-designs" class="col-lg-3 p-3 m-3 rounded 
@@ -287,7 +289,7 @@
                     <div class="text-center">
                         <img src="src/img/branding.png" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">CREATIVE BRANDING</h5>
-                        <p>CAR BRANDING, BOOK BRANDING, ETC...</p>
+                        <p>CAR BRANDING, BROCHURE DESIGN, BOOK BRANDING, ETC...</p>
                     </div>
                 </a>
 
@@ -848,7 +850,7 @@
                   <div class="media-body mt-4 align-self-center">
                     <h4 class="font-weight-bolder" title="ABOUT HAZKEN GRAPHICS">ABOUT THE AUTHOR</h4>
                     <p style="font-size: 15px"><span class="font-weight-bolder" title="Hazken Graphics Founder">
-                        MODIU KEHINDE HAZZAN</span> a freelance artist
+                        MODIU KEHINDE HAZZAN</span> <span title="A FREELANCE DESIGNER IN LAGOS">a freelance designer in Lagos</span>
                         as an experienced professional, who is committed to raising awareness
                         about how to create a Reponsive Website and Application,
                         also specialize in Graphics Design for Printing and Adverts.
@@ -896,7 +898,7 @@
         <i class="fa fa-envelope font-social-medias"></i></a></a>
     </div>
     <p class="text-center text-secondary" style="font-size: 13px"><span title="Web Designer in Lagos">Web Design,</span> <span title="Graphics Designer in Lagos">Graphic Design</span> & 
-    <span title="Printing in Lagos">General Printing</span> in Lagos, Nigeria.</p>
+    <span title="Printing in Lagos">General Printing</span> in Lagos State, Nigeria.</p>
     <p class="text-center text-secondary font-weight-bold" title="HAZKEN DIGITAL">HAZKEN DIGITAL</p>
 <hr>
     <div class="d-flex flex-row justify-content-center text-secondary">

@@ -183,8 +183,8 @@
       </div>
     </div>
     <div>
-    <a class="btn btn-dark btn-md m-auto d-block 
-    font-weight-bold col-4" href="blog.html">MORE INFO</a>
+      <button type="button" class="btn btn-dark m-auto d-block btn-md font-weight-bold">
+      <a href="blog.html" class="text-white" style="text-decoration: none">MORE INFO</a></button>
     </div>
 
 <!--WHO WE ARE-->

@@ -182,7 +182,7 @@
     </div>
     <div>
     <a class="btn btn-dark btn-md m-auto d-block 
-    font-weight-bold col-sm-1" href="blog.html">MORE INFO</a>
+    font-weight-bold col-1" href="blog.html">MORE INFO</a>
     </div>
 
 <!--WHO WE ARE-->

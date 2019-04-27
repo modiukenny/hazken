@@ -106,6 +106,8 @@
             </nav>
         </div>
     </div>
+
+    <!--slide-->
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="margin-top: 32px">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -182,7 +184,7 @@
     </div>
     <div>
     <a class="btn btn-dark btn-md m-auto d-block 
-    font-weight-bold col-3" href="blog.html">MORE INFO</a>
+    font-weight-bold col-4" href="blog.html">MORE INFO</a>
     </div>
 
 <!--WHO WE ARE-->

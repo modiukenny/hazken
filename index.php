@@ -29,7 +29,7 @@
 <link rel="stylesheet" type="text/css" href="assets/vendor/themify-icons/css/themify-icons.css" />
  
 <!-- CSS Front Template -->
- <link rel="stylesheet" href="src/css/style.css">
+<link rel="stylesheet" href="src/css/styles.css">
 <title>::HAZKEN GRAPHICS:: WEB DESIGN, GRAPHIC DESIGN & GENERAL PRINTING </title>
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">

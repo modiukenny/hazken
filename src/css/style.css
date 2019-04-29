@@ -1,3 +1,76 @@
+.back-top i {
+  font-size: 12px;
+  color: #ffffff;
+  margin: 0 !important;
+  display: block;
+}
+
+.back-top.btn-show {
+  visibility: visible;
+  opacity: 1;
+  transform: translateY(0%);
+}
+
+/*PRE LOADER*/
+.preloader {
+  background-color: #ffffff;
+  position: fixed;
+  z-index: 999999;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.preloader img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+/*Animation delay*/
+.dealy-200 {
+  -webkit-animation-delay: .2s;
+  animation-delay: .2s;
+}
+
+.dealy-500 {
+  -webkit-animation-delay: .5s;
+  animation-delay: .5s;
+}
+
+.dealy-700 {
+  -webkit-animation-delay: .7s;
+  animation-delay: .7s;
+}
+
+.dealy-1000 {
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+
+.dealy-1500 {
+  -webkit-animation-delay: 1.5s;
+  animation-delay: 1.5s;
+}
+
+.dealy-2000 {
+  -webkit-animation-delay: 2s;
+  animation-delay: 2s;
+}
+
+.dealy-2500 {
+  -webkit-animation-delay: 2.5s;
+  animation-delay: 2.5s;
+}
+
+.dealy-3000 {
+  -webkit-animation-delay: 3s;
+  animation-delay: 3s;
+}
 .wrap{
     color:#727376; text-decoration: none;
 }
@@ -134,77 +207,4 @@
     transition: all 0.3s ease-in-out;
   }
   
-  .back-top i {
-    font-size: 12px;
-    color: #ffffff;
-    margin: 0 !important;
-    display: block;
-  }
-  
-  .back-top.btn-show {
-    visibility: visible;
-    opacity: 1;
-    transform: translateY(0%);
-  }
-  
-  /*PRE LOADER*/
-  .preloader {
-    background-color: #ffffff;
-    position: fixed;
-    z-index: 999999;
-    height: 100%;
-    width: 100%;
-    top: 0;
-    left: 0;
-  }
-  
-  .preloader img {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    text-align: center;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-  }
-  
-  /*Animation delay*/
-  .dealy-200 {
-    -webkit-animation-delay: .2s;
-    animation-delay: .2s;
-  }
-  
-  .dealy-500 {
-    -webkit-animation-delay: .5s;
-    animation-delay: .5s;
-  }
-  
-  .dealy-700 {
-    -webkit-animation-delay: .7s;
-    animation-delay: .7s;
-  }
-  
-  .dealy-1000 {
-    -webkit-animation-delay: 1s;
-    animation-delay: 1s;
-  }
-  
-  .dealy-1500 {
-    -webkit-animation-delay: 1.5s;
-    animation-delay: 1.5s;
-  }
-  
-  .dealy-2000 {
-    -webkit-animation-delay: 2s;
-    animation-delay: 2s;
-  }
-  
-  .dealy-2500 {
-    -webkit-animation-delay: 2.5s;
-    animation-delay: 2.5s;
-  }
-  
-  .dealy-3000 {
-    -webkit-animation-delay: 3s;
-    animation-delay: 3s;
-  }
   

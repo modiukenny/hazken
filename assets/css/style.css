@@ -12596,15 +12596,15 @@ textarea {
 }
 
 .primary-hover a:hover {
-  color: #4cbd89 !important;
+  color: #303331 !important;
 }
 
 a.primary-hover {
-  color: #8f9397;
+  color:  #303331;
 }
 
 a.primary-hover:hover {
-  color: #4cbd89 !important;
+  color:  #303331 !important;
 }
 
 .primary-hover li {
@@ -12612,7 +12612,7 @@ a.primary-hover:hover {
 }
 
 .primary-hover li:hover {
-  color: #4cbd89 !important;
+  color:  #303331 !important;
 }
 
 /*rotate*/
@@ -13383,11 +13383,11 @@ footer .widget {
 
 .footer-dark *,
 .footer-dark .widget a {
-  color: #d5d5d5;
+  color: #928d8d;
 }
 
 .footer-dark .widget a:hover {
-  color: #4cbd89;
+  color: #262927;
 }
 
 /*===============================
@@ -16511,16 +16511,16 @@ footer .widget {
 
 .team-item .team-name a {
   display: block;
-  color: #8f9397;
+  color: #303336;
 }
 
 .team-item .team-name a:hover {
-  color: #4cbd89;
+  color: #303336;
 }
 
 .team-item .team-position {
   font-size: 0.8125rem;
-  color: #4cbd89;
+  color: #303336;
 }
 
 .team-item p {

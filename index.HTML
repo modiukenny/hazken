@@ -26,20 +26,20 @@
 <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="manifest" href="manifest.json">
+<link rel="stylesheet" type="text/css" href="assets/vendor/themify-icons/css/themify-icons.css" />
  
 <!-- CSS Front Template -->
  <link rel="stylesheet" href="src/css/style.css">
-
+<title>::HAZKEN GRAPHICS:: WEB DESIGN, GRAPHIC DESIGN & GENERAL PRINTING </title>
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
-    <title>::HAZKEN GRAPHICS:: WEB DESIGN, GRAPHIC DESIGN & GENERAL PRINTING </title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
 
     <style>
         /* Make the image fully responsive */
@@ -54,8 +54,10 @@
     </style>
 </head>
 
-<body>
-    <!--NAVIGATION HOME-->
+<body><div class="preloader">
+		<img src="assets/images/preloader.svg" alt="Pre-loader">
+	</div>
+<!--Header-->
     <div class="container-fluid bg-light" id="home-navigation">
         <div class="container">
             <nav class="navbar navbar-expand-md bg-light navbar-light fixed-top"
@@ -905,9 +907,21 @@
     <div class="d-flex flex-row justify-content-center text-secondary">
       <p style="font-size: 11px">Copyright &copy; 2019 Hazken Graphics all rights reserved.</p>
     </div>
+
 </footer>
+
+<!--Scroll-->
+<div> <a href="#" class="back-top btn btn-danger"><i class="ti-angle-up"></i></a> </div>
+
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 <script src="main.js"></script>
+
+<!--Global JS-->
+<script src="assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!--Template Functions-->
+<script src="assets/js/functions.js"></script>
+
 </body>
 
 </html>

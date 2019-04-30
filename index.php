@@ -81,6 +81,9 @@
                         <li class="nav-item">
                             <a class="nav-link" title="ABOUT HAZKEN GRAPHICS" href="#about-us">ABOUT THE AUTHOR</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" title="MORE INFO HAZKEN DIGITAL" href="blog.html">MORE INFO</a>
+                        </li>
                         <li class="nav-item"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
                         title="HAZKEN GRAPHICS INSTAGRAM"><i class="fa fa-instagram font-social-media"></i>
                                 </a></li>

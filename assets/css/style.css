@@ -16072,7 +16072,7 @@ footer .widget {
 
 /*border*/
 .social-icons.si-border .social-icons-link {
-  border: 1px solid #8f9397;
+  border: 1px solid #f8f8f8;
 }
 
 /*large*/
@@ -18434,4 +18434,22 @@ xpush
   background: -webkit-linear-gradient(150deg, #13547a, #80d0c7);
   background: -moz-linear-gradient(150deg, #13547a, #80d0c7);
   background: linear-gradient(150deg, #13547a, #80d0c7);
+}
+
+.font-social-media{
+  font-size: 23px;
+  color: #727376;
+  margin-top: 8px;
+  margin-right: 7px;
+}
+.font-social-medias{
+  font-size: 40px;
+  color: #727376;
+  margin-right: 7px;
+}
+.font-social-media:hover{
+  color: #474748;
+}
+.font-social-medias:hover{
+  color: #474748;
 }

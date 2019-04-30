@@ -917,6 +917,7 @@
 <script src="main.js"></script>
 
 <!--Global JS-->
+
 	<script src="assets/vendor/jquery-easing/jquery.easing.min.js"></script>
 <!--Template Functions-->
 <script src="assets/js/functions.js"></script>

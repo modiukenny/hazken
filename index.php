@@ -58,9 +58,9 @@
 		<img src="assets/images/preloader.svg" alt="Pre-loader">
 	</div>
 <!--Header-->
-    <div class="container-fluid bg-light" id="home-navigation">
+    <div class="container-fluid bg-light" id="home-navigation" style="margin-bottom: 75px">
         <div class="container">
-            <nav class="navbar navbar-expand-md bg-light navbar-light fixed-top"
+            <nav class="navbar navbar-expand-lg bg-light navbar-light fixed-top"
             style="border-bottom: 4px solid #7E2726;">
                 <a class="navbar-brand" href="#home-navigation">
                     <img src="src/img/HAZ-KEN GRAPHICS.png" alt="hazken_graphics_logo.png"

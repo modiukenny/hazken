@@ -147,8 +147,8 @@
     
     <!--TO E-MAIL-->
     <div class="m-4 text-center">
-        <h2 class="pb-2 font-weight-bolder" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Creativity as it speaks excellence! for your
-                <a href="" class="typewrite" data-period="2000" data-type='[ "Web Design", "Graphic Design", "UI/UX Design", "General Printing"]'>
+        <h2 class="pb-2 font-weight-bolder" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Creativity as it speaks excellence!
+                <a href="" class="typewrite" data-period="2000" data-type='[ "WEB DESIGN", "GRAPHIC DESIGN", "UI/UX DESIGN", "GENERAL PRINTING"]'>
                   <span class="wrap" style="text-decoration: none;"></span>
                 </a>
             </h2>
@@ -866,28 +866,36 @@
                   </div>
                 </div>
               </div>
+              
+              <!----Skills Start---->
               <div class="container mt-2">
               <div class="progress m-2" style="height: 30px">
-                    <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 95%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"><div class="col-1"></div><h5 class="mt-1">HTML 95%</h5></div>
+                    <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 90%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 ml-2 float-left mr-auto">HTML 90%</h5></div>
                   </div>
                   <div class="progress m-2" style="height: 30px">
-                    <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 93%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><div class="col-2 ml-1"></div><h5 class="mt-1">CSS 94%</h5></div>
+                    <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 88%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 ml-2 mr-auto">CSS 88%</h5></div>
                   </div>
                   <div class="progress m-2" style="height: 30px">
-                    <div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 92%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 ml-4">JAVASCRIPT 93%</h5></div>
+                    <div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 86%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 ml-2 mr-auto">JAVASCRIPT 86%</h5></div>
                   </div>
                   <div class="progress m-2" style="height: 30px">
-                  <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 95%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"><div class="col-1"></div><h5 class="mt-1">REACT 95%</h5></div>
+                  <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 87%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 ml-2 mr-auto">REACT 87%</h5></div>
                   </div>
                   <div class="progress m-2" style="height: 30px">
-                    <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 98%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 text-dark">GRAPHICS DESIGN 98%</h5></div>
+                    <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 95%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 ml-2 mr-auto text-dark">GRAPHICS DESIGN 95%</h5></div>
                   </div>
                   <div class="progress m-2" style="height: 30px">
-                    <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 97%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 mr-1">UI/UX DESIGNS 97%</h5></div>
+                    <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 92%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 ml-2 mr-auto">UI/UX DESIGNS 92%</h5></div>
                   </div>
                 </div>
+                <div class="d-flex flex-row justify-content-center m-3">
+                    <a href="aboutme.html" class="btn btn-dark"
+                    title="HAZKEN GRAPHICS CONTACT font-weight-bolder">MORE INFO ABOUT US</a></div>
+                    <!----Skills End---->
+                <hr>
+                
     <div class="d-flex flex-row justify-content-center m-3">
-            <a href="tel:+2348176246387" class="btn btn-danger"
+            <a href="tel:+2348176246387" class="btn btn-outline-danger font-weight-bolder"
             title="HAZKEN GRAPHICS CONTACT">CONTACT US</a>
         </div>
     <div class="d-flex flex-row justify-content-center mb-1">
@@ -906,12 +914,12 @@
         <a href="mailto:hazkengraphics@gmail.com" title="HAZKEN GRAPHICS MAIL">
         <i class="fa fa-envelope font-social-medias"></i></a></a>
     </div>
-    <p class="text-center text-secondary" style="font-size: 13px"><span title="Web Designer in Lagos">Web Design,</span> <span title="Graphics Designer in Lagos">Graphic Design</span> & 
+    <p class="text-center text-secondary" style="font-size: 16px"><span title="Web Designer in Lagos">Web Design,</span> <span title="Graphics Designer in Lagos">Graphic Design</span> & 
     <span title="Printing in Lagos">General Printing</span> in Lagos State, Nigeria.</p>
     <p class="text-center text-secondary font-weight-bold" title="HAZKEN DIGITAL">HAZKEN DIGITAL</p>
 <hr>
     <div class="d-flex flex-row justify-content-center text-secondary">
-      <p style="font-size: 11px">Copyright &copy; 2019 Hazken Graphics all rights reserved.</p>
+      <p style="font-size: 14px">Copyright &copy; 2019 Hazken Graphics all rights reserved.</p>
     </div>
 
 </footer>

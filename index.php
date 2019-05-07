@@ -889,7 +889,7 @@
                   </div>
                 </div>
                 <div class="d-flex flex-row justify-content-center m-3">
-                    <a href="aboutme.html" class="btn btn-dark"
+                    <a href="aboutus.html" class="btn btn-dark"
                     title="HAZKEN GRAPHICS CONTACT font-weight-bolder">MORE INFO ABOUT US</a></div>
                     <!----Skills End---->
                 <hr>

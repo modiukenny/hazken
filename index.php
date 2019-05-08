@@ -30,6 +30,9 @@
 <!-- CSS Front Template -->
 <link rel="stylesheet" href="src/css/styles.css">
 <title>::HAZKEN GRAPHICS:: WEB DESIGN, GRAPHIC DESIGN & GENERAL PRINTING </title>
+<!-- Plugins CSS -->
+<link rel="stylesheet" type="text/css" href="assets/vendor/themify-icons/css/themify-icons.css" />
+
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">

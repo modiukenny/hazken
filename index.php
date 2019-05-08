@@ -26,7 +26,6 @@
 <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="manifest" href="manifest.json">
-<link rel="stylesheet" type="text/css" href="assets/vendor/themify-icons/css/themify-icons.css" />
  
 <!-- CSS Front Template -->
 <link rel="stylesheet" href="src/css/styles.css">
@@ -38,7 +37,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="hazken.com">
-<meta name="description" content="Hazken Web Design Graphic Design Printing">
+<meta name="description" content="Hazken Web Design, Graphic Design, Creative Branding and Printing in Lagos Nigeria">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>

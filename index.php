@@ -257,7 +257,7 @@
     <div class="container-fluid bg-danger" id="ourfeatures">
         <div class="container p-2">
             <div>
-                <h3 class="text-center font-weight-bold text-light">SERVICE WE PROVIDE</h3>
+                <h3 class="text-center font-weight-bold text-light">SERVICES WE PROVIDE</h3>
             </div>
             <div class="row justify-content-center">
                 <a href="#graphics-designs" class="col-lg-3 p-3 m-3 rounded 
@@ -266,9 +266,8 @@
                     <div class="text-center">
                         <img src="src/img/graphics artist.png" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">GRAPHIC DESIGN</h5>
-                        <p><span class="text-uppercase">logo designer
-                                , Light-Packaging,
-                                Megazines, Office Stationaries Designs, etc...</span></p>
+                        <p><span class="text-uppercase">logo design, Light-Packaging, Magazines, Brochures,
+                          Office Stationary Designs, etc...</span></p>
                     </div>
                 </a>
 
@@ -278,8 +277,8 @@
                     <div class="text-center">
                         <img src="src/img/webdesign_icon.png" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">WEB DESIGNS</h5>
-                        <p><span class="text-uppercase">UI/UX DESIGNS, ECOMMERCE WEBSITE
-                        JAVASCRIPT FOR <br>WEB & MOBILE</span></p>
+                        <p><span class="text-uppercase">UI/UX DESIGN, E-COMMERCE WEBSITE
+                        FOR <br>WEB & MOBILE</span></p>
                     </div>
                 </a>
                 <a href="#graphics-designs" class="col-lg-3 p-3 m-3 rounded 
@@ -288,7 +287,7 @@
                     <div class="text-center">
                         <img src="src/img/printing.png" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">GENERAL PRINTING</h5>
-                        <p>WEDDING PROGRAM,
+                        <p>WEDDING PROGRAMS, MAGAZINES
                             OFFICE STATIONARIES, BOOK PUBLISHING,
                             LIGHT-PACKAGING, ETC...</p>
                     </div>
@@ -323,7 +322,7 @@
 
     <!--GRAPHICS DESIGN DETAILS-->
     <section class="container-fluid p-2" id="graphics-designs">
-        <h3 class=" text-center font-weight-bold">GRAPHIC DESIGNS/PRINTING</h3>
+        <h3 class=" text-center font-weight-bold">GRAPHIC DESIGNS AND PRINTING</h3>
         <div class="row mx-auto">
             <div class="col-4">
                 <img src="src/img/7.png" class="img-fluid m-1"

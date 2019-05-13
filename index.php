@@ -68,7 +68,7 @@
             <nav class="navbar navbar-expand-lg bg-light navbar-light fixed-top"
             style="border-bottom: 4px solid #7E2726;">
                 <a class="navbar-brand" href="#home-navigation">
-                    <img src="src/img/HAZ-KEN GRAPHICS.png" alt="hazken_graphics_logo.png"
+                    <img src="src/img/HAZ-KEN GRAPHICS.png" alt="hazken digital graphics prints web logo"
                     title="HAZKEN GRAPHICS LOGO" style="width: 190px; height:50px;">
                 </a>
                 <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -121,16 +121,16 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="margin-top: 32px">
   <div class="carousel-inner">
     <div class="carousel-item active">
-    <img src="/src/img/hazken-image.png" alt="HazkenGraphics" width="1100" height="500">
+    <img src="/src/img/hazken-image.png" alt="Hazken Digital Graphics Web" width="1100" height="500">
     </div>
     <div class="carousel-item">
-    <img src="/src/img/hazken-image-printing-wedo.png" alt="Hazken-Graphics" width="1100" height="500">
+    <img src="/src/img/hazken-image-printing-wedo.png" alt="Hazken websites page ui" width="1100" height="500">
     <div class="carousel-caption">
         <p>|WEB DESIGNS| |GRAPHICS DESIGNS| |CREATIVE BRANDING| |PRINTING|</p>
     </div>
     </div>
     <div class="carousel-item">
-    <img src="src/img/hazken-image-printing.png" alt="Hazken" width="1100" height="500">
+    <img src="src/img/hazken-image-printing.png" alt="Hazken Web Digital Graphics Prints UI Mac Mockups" width="1100" height="500">
     <div class="carousel-caption">
         <h3 class="text-uppercase">Call us today</h3>
         <p class="text-uppercase">We give out the best</p>
@@ -326,183 +326,183 @@
         <div class="row mx-auto">
             <div class="col-4">
                 <img src="src/img/7.png" class="img-fluid m-1"
-                alt="7.jpg">
+                alt="hazken paper bag">
             </div>
             <div class="col-4">
                 <img src="src/img/8.png" class="img-fluid m-1"
-                alt="8.jpg">
+                alt="fliers mockups psd hazken">
             </div>
             <div class="col-4">
                 <img src="src/img/9.png" class="img-fluid m-1"
-                alt="9.jpg">
+                alt="calender mockup psd hazken">
             </div>
             <div class="col-4">
                 <img src="src/img/10.png" class="img-fluid m-1"
-                alt="10.jpg">
+                alt="Note Pad Jotter Printing Hazken">
             </div>
             <div class="col-4">
                 <img src="src/img/11.png" class="img-fluid m-1"
-                alt="11.jpg">
+                alt="Branding Rubber Mockups psd 927 Cakes international">
             </div>
             <div class="col-4">
                 <img src="src/img/12.png" class="img-fluid m-1"
-                alt="12.jpg">
+                alt="Hazken Business Cards Mockups psd photoshop">
             </div>
             <div class="col-4">
                 <img src="src/img/13.png" class="img-fluid m-1"
-                alt="13.jpg">
+                alt="Wedding Papper Bag Mockups Branding Carrier Bag Lagos Nigeria Hazken">
             </div>
             <div class="col-4">
                 <img src="src/img/14.png" class="img-fluid m-1"
-                alt="14.jpg">
+                alt="Paper Fold Tri fold mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/15.png" class="img-fluid m-1"
-                alt="15.jpg">
+                alt="Programme Card Mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/16.png" class="img-fluid m-1"
-                alt="16.jpg">
+                alt="Papper Bag Carrier Bag Mockup">
             </div>
             <div class="col-4">
                 <img src="src/img/17.png" class="img-fluid m-1"
-                alt="17.jpg">
+                alt="Fliers Handbills Mockups psd photoshop hazken prints">
             </div>
             <div class="col-4">
                 <img src="src/img/18.png" class="img-fluid m-1"
-                alt="18.jpg">
+                alt="Business Cards Mockups psd photoshop hazken prints Lagos Nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/19.png" class="img-fluid m-1"
-                alt="19.jpg">
+                alt="Fliers Handbills Mockups psd photoshop hazken prints">
             </div>
             <div class="col-4">
                 <img src="src/img/20.png" class="img-fluid m-1"
-                alt="20.jpg">
+                alt="Fliers Handbills Mockups psd photoshop hazken prints">
             </div>
             <div class="col-4">
                 <img src="src/img/21.png" class="img-fluid m-1"
-                alt="21.jpg">
+                alt="Fliers Handbills Mockups psd photoshop hazken prints">
             </div>
             <div class="col-4">
                 <img src="src/img/22.png" class="img-fluid m-1"
-                alt="22.jpg">
+                alt="jekalo t-shirts screen printing riders in lagos nigeria hazken brands">
             </div>
             <div class="col-4">
                 <img src="src/img/23.png" class="img-fluid m-1"
-                alt="23.jpg">
+                alt="jekalo business card">
             </div>
             <div class="col-4">
                 <img src="src/img/24.png" class="img-fluid m-1"
-                alt="24.jpg">
+                alt="Programme Book Designs Mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/25.png" class="img-fluid m-1"
-                alt="25.jpg">
+                alt="gifts mockups psd photoshop hazken brand">
             </div>
             <div class="col-4">
                 <img src="src/img/26.png" class="img-fluid m-1"
-                alt="26.jpg">
+                alt="business cards mockups psd photoshop">
             </div>
             <div class="col-4">
                 <img src="src/img/27.png" class="img-fluid m-1"
-                alt="27.jpg">
+                alt="church programs brochure hazken prints mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/28.png" class="img-fluid m-1"
-                alt="28.jpg">
+                alt="birthday designs paper bag carrier bag mockups psd download">
             </div>
             <div class="col-4">
                 <img src="src/img/29.png" class="img-fluid m-1"
-                alt="29.jpg">
+                alt="tri-fold mockups psd photoshop">
             </div>
             <div class="col-4">
                 <img src="src/img/30.png" class="img-fluid m-1"
-                alt="30.jpg">
+                alt="brochure design mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/31.png" class="img-fluid m-1"
-                alt="31.jpg">
+                alt="wedding jotter memo pad mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/32.png" class="img-fluid m-1"
-                alt="32.jpg">
+                alt="roll up banners psd photoshop">
             </div>
             <div class="col-4">
                 <img src="src/img/33.png" class="img-fluid m-1"
-                alt="33.jpg">
+                alt="Fliers Handbills Mockups psd photoshop hazken prints">
             </div>
             <div class="col-4">
                 <img src="src/img/34.png" class="img-fluid m-1"
-                alt="34.jpg">
+                alt="birthday poster mockups psd photoshop bicycle">
             </div>
             <div class="col-4">
                 <img src="src/img/35.png" class="img-fluid m-1"
-                alt="34.jpg">
+                alt="birthday invitation card mockups hazken prints">
             </div>
             <div class="col-4">
                 <img src="src/img/36.png" class="img-fluid m-1"
-                alt="36.jpg">
+                alt="tri-fold golden tulip mockups psd hazken prints">
             </div>
             <div class="col-4">
                 <img src="src/img/37.png" class="img-fluid m-1"
-                alt="37.jpg">
+                alt="food dish rollup banner mockup psd">
             </div>
             <div class="col-4">
                 <img src="src/img/38.png" class="img-fluid m-1"
-                alt="38.jpg">
+                alt="wedding carrier paper bag mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/39.png" class="img-fluid m-1"
-                alt="39.jpg">
+                alt="business card mockups">
             </div>
             <div class="col-4">
                 <img src="src/img/40.png" class="img-fluid m-1"
-                alt="40.jpg">
+                alt="carrier paper bag psd psd mockups download">
             </div>
             <div class="col-4">
                 <img src="src/img/66.png" class="img-fluid m-1"
-                alt="66.jpg">
+                alt="jekalo poster rides in lagos nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/67.png" class="img-fluid m-1"
-                alt="67.jpg">
+                alt="Birthday Designs Rollup Banner @50">
             </div>
             <div class="col-4">
                 <img src="src/img/68.png" class="img-fluid m-1"
-                alt="68.jpg">
+                alt="Programme Birthday Designs Mockups psd download">
             </div>
             <div class="col-4">
                 <img src="src/img/69.png" class="img-fluid m-1"
-                alt="69.jpg">
+                alt="927 cakes int'l business cards internation mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/70.png" class="img-fluid m-1"
-                alt="70.jpg">
+                alt="brochures company designs square mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/71.png" class="img-fluid m-1"
-                alt="71.jpg">
+                alt="programs graduation designs mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/72.png" class="img-fluid m-1"
-                alt="72.jpg">
+                alt="foods carrier bags mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/73.png" class="img-fluid m-1"
-                alt="73.jpg">
+                alt="rccg redeemed christian church of God programs designs mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/74.png" class="img-fluid m-1"
-                alt="74.jpg">
+                alt="rollup banner health and care mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/75.png" class="img-fluid m-1"
-                alt="75.jpg">
+                alt="birthday designs @60 iv invitaion cards mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/76.png" class="img-fluid m-1"
-                alt="76.jpg">
+                alt="business cards mockup psd">
             </div>
         </div>
         <div class="d-flex flex-row justify-content-center">
@@ -567,8 +567,8 @@
         <h3 class=" text-center font-weight-bold text-light" title="HAZKEN GRAPHICS WEB DESIGNS">WEB DESIGN</h3>
         <p class="text-center text-light">Web Design JavaScript for Mobile and Laptops
         </p>
-        <img src="src/img/responsive web.jpg" class="img-fluid mx-auto" alt="web.jpg">
-        <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1" alt="web1.jpg">
+        <img src="src/img/responsive web.jpg" class="img-fluid mx-auto" alt="ui ux designs hazken web">
+        <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1" alt="ui ux designs hazken web">
         <h3 class=" text-center font-weight-bold text-light mt-2" title="HAZKEN GRAPHICS UI/UX DESIGNS">UI/UX DESIGNS</h3>
         <p class="text-center text-light">User Interface, focuses on the look and layouts.
                 <span class="text-primary">
@@ -586,71 +586,71 @@
         <div class="d-flex flex-row justify-content-around mb-2">
                 <div class="col-4">
                     <img style="border-radius: 12px"src="src/img/78.png" class="img-fluid"
-                    alt="78.jpg">
+                    alt="ui ux designs">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" style="border-radius: 12px" src="src/img/79.png" class="img-fluid"
-                    alt="79.jpg">
+                    alt="ui ux designs">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/80.png" class="img-fluid"
-                    alt="80.jpg">
+                    alt="ui ux designs">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/81.png" class="img-fluid"
-                    alt="81.jpg">
+                    alt="ui ux designs hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/82.png" class="img-fluid"
-                    alt="82.jpg">
+                    alt="ui ux designs hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/83.png" class="img-fluid"
-                    alt="83.jpg">
+                    alt="ui ux designs hazken web">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/84.png" class="img-fluid"
-                    alt="84.jpg">
+                    alt="ui ux designs hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/85.png" class="img-fluid"
-                    alt="85.jpg">
+                    alt="ui ux designs hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/86.png" class="img-fluid"
-                    alt="86.jpg">
+                    alt="ui ux designs hazken web">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/87.png" class="img-fluid"
-                    alt="87.jpg">
+                    alt="ui ux designs hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/88.png" class="img-fluid"
-                    alt="88.jpg">
+                    alt="ui ux designs hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/89.png" class="img-fluid"
-                    alt="89.jpg">
+                    alt="ui ux designs hazken web">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
                 <div style="border-radius: 12px" class="col-4">
                     <img style="border-radius: 12px" src="src/img/90.png" class="img-fluid"
-                    alt="90.jpg">
+                    alt="ui ux designs hazken web">
                 </div>
                 <div style="border-radius: 12px" class="col-4">
                     <img style="border-radius: 12px" src="src/img/91.png" class="img-fluid"
-                    alt="91.jpg">
+                    alt="ui ux designs hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/92.png" class="img-fluid"
-                    alt="92.jpg">
+                    alt="ui ux designs hazken web">
                 </div>
             </div>
   </div>

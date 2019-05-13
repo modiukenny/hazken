@@ -855,7 +855,7 @@
         <div class="container bg-light ">
                 <div class="media border p-3 d-flex flex-row border border-5"
                 style="background: #DCDDDF; border-radius: 25px">
-                  <img src="./src/img/hazkenceo.png" title="Hazken Graphics CEO" alt="Modiu Kehinde Hazzan"
+                  <img src="./src/img/hazkenceo.png" title="Hazken Graphics CEO Founder" alt="Modiu Kehinde Hazzan Kenny Adeneye"
                   class="mr-3 mt-4 align-self-lg-start" style="width:95px; height: 120px">
                   <div class="media-body mt-4 align-self-center">
                     <h4 class="font-weight-bolder" title="ABOUT HAZKEN GRAPHICS">ABOUT THE AUTHOR</h4>

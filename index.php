@@ -334,7 +334,7 @@
             </div>
             <div class="col-4">
                 <img src="src/img/9.png" class="img-fluid m-1"
-                alt="calender mockup psd hazken">
+                alt="calendar designs mockups psd hazken sierra leone airport authority">
             </div>
             <div class="col-4">
                 <img src="src/img/10.png" class="img-fluid m-1"
@@ -721,75 +721,71 @@
     <div class="row mx-auto">
         <div class="col-4">
             <img src="src/img/41.png" class="img-fluid m-1"
-            alt="41.jpg">
+            alt="car branding mockups psd hazken">
         </div>
         <div class="col-4">
             <img src="src/img/42.png" class="img-fluid m-1"
-            alt="42.jpg">
+            alt="pillow mockups printing download">
         </div>
         <div class="col-4">
             <img src="src/img/43.png" class="img-fluid m-1"
-            alt="43.jpg">
+            alt="cosmectics mockups psd download">
         </div>
         <div class="col-4">
-            <img src="src/img/45.png" class="img-fluid m-1"
-            alt="45.jpg">
+            <img src="src/img/44.png" class="img-fluid m-1"
+            alt="jekalo rides aston martin car branding mockups psd">
         </div>
         <div class="col-4">
             <img src="src/img/46.png" class="img-fluid m-1"
-            alt="46.jpg">
+            alt="table calendar mockups download golden tulip">
         </div>
         <div class="col-4">
             <img src="src/img/47.png" class="img-fluid m-1"
-            alt="47.jpg">
+            alt="programs book graduation designs mockups download">
         </div>
         <div class="col-4">
             <img src="src/img/48.png" class="img-fluid m-1"
-            alt="48.jpg">
+            alt="samsung s9 s8 s10 + mockup ui hazken psd">
         </div>
         <div class="col-4">
             <img src="src/img/49.png" class="img-fluid m-1"
-            alt="49.jpg">
+            alt="table calendar designs mockups psd">
         </div>
         <div class="col-4">
             <img src="src/img/50.png" class="img-fluid m-1"
-            alt="50.jpg">
-        </div>
-        <div class="col-4">
-            <img src="src/img/54.png" class="img-fluid m-1"
-            alt="51.jpg">
+            alt="hazken car branding mockups">
         </div>
         <div class="col-4">
             <img src="src/img/55.png" class="img-fluid m-1"
-            alt="55.jpg">
+            alt="lanyard mockup psd download">
         </div>
         <div class="col-4">
             <img src="src/img/56.png" class="img-fluid m-1"
-            alt="56.jpg">
+            alt="carrier paper bag mockup download accessories bydiva">
         </div>
         <div class="col-4">
             <img src="src/img/57.png" class="img-fluid m-1"
-            alt="57.jpg">
+            alt="cups">
         </div>
         <div class="col-4">
             <img src="src/img/58.png" class="img-fluid m-1"
-            alt="58.jpg">
+            alt="honey bee rubber plastic mockups">
         </div>
         <div class="col-4">
             <img src="src/img/59.png" class="img-fluid m-1"
-            alt="59.jpg">
+            alt="927 cakes int'l international carrier paper bag">
         </div>
         <div class="col-4">
             <img src="src/img/60.png" class="img-fluid m-1"
-            alt="60.jpg">
+            alt="mens bussiness cards mockups black psd">
         </div>
         <div class="col-4">
             <img src="src/img/61.png" class="img-fluid m-1"
-            alt="61.jpg">
+            alt="hazken mug mockups">
         </div>
         <div class="col-4">
             <img src="src/img/62.png" class="img-fluid m-1"
-            alt="62.jpg">
+            alt="rubber plastic mockups jarind">
         </div>
         </div>
         <div class="d-flex flex-row justify-content-center">

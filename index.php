@@ -756,21 +756,25 @@
             alt="hazken car branding mockups">
         </div>
         <div class="col-4">
-            <img src="src/img/55.png" class="img-fluid m-1"
+            <img src="src/img/54.png" class="img-fluid m-1"
             alt="lanyard mockup psd download">
         </div>
         <div class="col-4">
-            <img src="src/img/56.png" class="img-fluid m-1"
+            <img src="src/img/55.png" class="img-fluid m-1"
             alt="carrier paper bag mockup download accessories bydiva">
         </div>
         <div class="col-4">
-            <img src="src/img/57.png" class="img-fluid m-1"
-            alt="cups">
+            <img src="src/img/56.png" class="img-fluid m-1"
+            alt="branded cups">
         </div>
         <div class="col-4">
-            <img src="src/img/58.png" class="img-fluid m-1"
+            <img src="src/img/57.png" class="img-fluid m-1"
             alt="honey bee rubber plastic mockups">
         </div>
+        <div class="col-4">
+          <img src="src/img/58.png" class="img-fluid m-1"
+          alt="cosmectics mockups download psd">
+      </div>
         <div class="col-4">
             <img src="src/img/59.png" class="img-fluid m-1"
             alt="927 cakes int'l international carrier paper bag">
@@ -886,8 +890,8 @@
                   </div>
                 </div>
                 <div class="d-flex flex-row justify-content-center m-3">
-                    <a href="aboutus.html" class="btn btn-dark"
-                    title="HAZKEN GRAPHICS CONTACT font-weight-bolder">MORE INFO ABOUT US</a></div>
+                    <a href="aboutus.html" class="btn btn-dark font-weight-bolder"
+                    title="HAZKEN MORE INFO ABOUT US">MORE INFO ABOUT US</a></div>
                     <!----Skills End---->
                 <hr>
                 

@@ -906,22 +906,22 @@ Creativity as it speaks excellence!">
         </div>
     <div class="d-flex flex-row justify-content-center mb-1">
         <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
-        title="HAZKEN GRAPHICS INSTAGRAM">
+        title="HAZKEN GRAPHICS INSTAGRAM" class="m-1">
         <i class="fa fa-instagram font-social-medias"></i></a>
         <a href="https://www.facebook.com/hazkengraphics/" target="_blank"
-        title="HAZKEN GRAPHICS FACEBOOK">
+        class="m-1" title="HAZKEN GRAPHICS FACEBOOK">
         <i class="fa fa-facebook-square font-social-medias"></i></a>
         <a href="https://wa.me/2348176246387" target="_blank"
-        title="HAZKEN GRAPHICS WHATSAPP">
+        class="m-1" title="HAZKEN GRAPHICS WHATSAPP">
         <i class="fa fa-whatsapp font-social-medias"></i></a>
         <a href="https://www.linkedin.com/in/hazken-graphics-868054187" target="_blank"
-        title="HAZKEN GRAPHICS LINKEDIN">
+        class="m-1" title="HAZKEN GRAPHICS LINKEDIN">
         <i class="fa fa-linkedin font-social-medias"></i></a>
         <a href="https://twitter.com/HazkenG" target="_blank"
-        title="HAZKEN GRAPHICS TWITTER">
+        class="m-1" title="HAZKEN GRAPHICS TWITTER">
         <i class="fa fa-twitter font-social-medias"></i></a>
-        <a href="mailto:hazkengraphics@gmail.com" title="HAZKEN GRAPHICS MAIL">
-        <i class="fa fa-envelope font-social-medias"></i></a></a>
+        <a href="mailto:hazkengraphics@gmail.com" title="HAZKEN GRAPHICS MAIL" class="m-1">
+        <i class="fa fa-envelope font-social-medias"></i></a>
     </div>
     <p class="text-center text-secondary" style="font-size: 16px"><span title="Web Designer in Lagos">Web Design,</span> <span title="Graphics Designer in Lagos">Graphic Design</span> & 
     <span title="Printing in Lagos">General Printing</span> in Lagos State, Nigeria.</p>

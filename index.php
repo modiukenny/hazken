@@ -917,7 +917,9 @@
     </div>
     <p class="text-center text-secondary" style="font-size: 16px"><span title="Web Designer in Lagos">Web Design,</span> <span title="Graphics Designer in Lagos">Graphic Design</span> & 
     <span title="Printing in Lagos">General Printing</span> in Lagos State, Nigeria.</p>
-    <p class="text-center text-secondary font-weight-bold" title="HAZKEN DIGITAL">HAZKEN DIGITAL</p>
+
+    <p class="text-center text-secondary font-weight-bold" title="HAZKEN DIGITAL">Subsidiary of HAZKEN DIGITAL</p>
+    <address class="text-center text-secondary">17, Rasheed Akotun Street, Bariga, Lagos.</address>
 <hr>
     <div class="d-flex flex-row justify-content-center text-secondary">
       <p style="font-size: 14px">Copyright &copy; 2019 Hazken Graphics all rights reserved.</p>

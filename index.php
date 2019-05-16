@@ -919,7 +919,8 @@
     <span title="Printing in Lagos">General Printing</span> in Lagos State, Nigeria.</p>
 
     <p class="text-center text-secondary font-weight-bold" title="HAZKEN DIGITAL">Subsidiary of HAZKEN DIGITAL</p>
-    <address class="text-center text-secondary font-italic">17, Rasheed Akotun Street, Bariga, Lagos.</address>
+    <address class="text-center text-secondary font-italic"
+    style="font-size: 13px">17, Rasheed Akotun Street, Bariga, Lagos.</address>
 <hr>
     <div class="d-flex flex-row justify-content-center text-secondary">
       <p style="font-size: 14px">Copyright &copy; 2019 Hazken Graphics all rights reserved.</p>

@@ -101,6 +101,10 @@ Creativity as it speaks excellence!">
                         title="HAZKEN GRAPHICS WHATSAPP">
                         <i class="fa fa-whatsapp font-social-media"></i></a>
                         </li>
+                        <li class="nav-item"><a href="https://www.linkedin.com/in/hazken-graphics-868054187" target="_blank"
+                        title="HAZKEN GRAPHICS LINKEDIN">
+                        <i class="fa fa-linkedin font-social-media"></i></a>
+                        </li>
                         <li class="nav-item"><a href="https://twitter.com/HazkenG" target="_blank"
                         title="HAZKEN GRAPHICS TWITTER">
                         <i class="fa fa-twitter font-social-media"></i></a>
@@ -910,6 +914,9 @@ Creativity as it speaks excellence!">
         <a href="https://wa.me/2348176246387" target="_blank"
         title="HAZKEN GRAPHICS WHATSAPP">
         <i class="fa fa-whatsapp font-social-medias"></i></a>
+        <a href="https://www.linkedin.com/in/hazken-graphics-868054187" target="_blank"
+        title="HAZKEN GRAPHICS LINKEDIN">
+        <i class="fa fa-linkedin font-social-medias"></i></a>
         <a href="https://twitter.com/HazkenG" target="_blank"
         title="HAZKEN GRAPHICS TWITTER">
         <i class="fa fa-twitter font-social-medias"></i></a>

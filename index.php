@@ -88,6 +88,9 @@ Creativity as it speaks excellence!">
                             <a class="nav-link" title="ABOUT HAZKEN GRAPHICS" href="#about-us">ABOUT THE AUTHOR</a>
                         </li>
                         <li class="nav-item">
+                          <a class="nav-link" title="ABOUT HAZKEN GRAPHICS" href="portfolio.html">PORTFOLIO</a>
+                      </li>
+                        <li class="nav-item">
                             <a class="nav-link" title="MORE INFO HAZKEN DIGITAL" href="blog.html">MORE INFO</a>
                         </li>
                         <li class="nav-item"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
@@ -201,7 +204,7 @@ Creativity as it speaks excellence!">
       <button type="button" class="btn btn-dark m-auto d-block btn-md font-weight-bold">
       <a href="blog.html" class="text-white" style="text-decoration: none">MORE INFO</a></button>
     </div>
-
+   
 <!--WHO WE ARE-->
 <div class="container-fluid">
 <div class="container p-3">

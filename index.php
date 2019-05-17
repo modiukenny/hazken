@@ -40,7 +40,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="hazken.com">
-<meta name="description" content="Hazken::: Web Design, Graphic Design, Creative Branding and General Printing in Lagos Nigeria.
+<meta name="description" content="Hazken:::
+ Web Design, Graphic Design, Creative Branding and General Printing in Lagos Nigeria.
 Creativity as it speaks excellence!">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -421,10 +422,6 @@ Creativity as it speaks excellence!">
                 alt="birthday designs paper bag carrier bag mockups psd download">
             </div>
             <div class="col-4">
-                <img src="src/img/29.png" class="img-fluid m-1"
-                alt="tri-fold mockups psd photoshop">
-            </div>
-            <div class="col-4">
                 <img src="src/img/30.png" class="img-fluid m-1"
                 alt="brochure design mockups psd">
             </div>
@@ -435,10 +432,6 @@ Creativity as it speaks excellence!">
             <div class="col-4">
                 <img src="src/img/32.png" class="img-fluid m-1"
                 alt="roll up banners psd photoshop">
-            </div>
-            <div class="col-4">
-                <img src="src/img/33.png" class="img-fluid m-1"
-                alt="Fliers Handbills Mockups psd photoshop hazken prints">
             </div>
             <div class="col-4">
                 <img src="src/img/34.png" class="img-fluid m-1"
@@ -455,10 +448,6 @@ Creativity as it speaks excellence!">
             <div class="col-4">
                 <img src="src/img/37.png" class="img-fluid m-1"
                 alt="food dish rollup banner mockup psd">
-            </div>
-            <div class="col-4">
-                <img src="src/img/38.png" class="img-fluid m-1"
-                alt="wedding carrier paper bag mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/39.png" class="img-fluid m-1"

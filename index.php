@@ -40,7 +40,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="hazken.com">
-<meta name="description" content="Hazken:::
+<meta name="description" content="Hazken::
  Web Design, Graphic Design, Creative Branding and General Printing in Lagos Nigeria.
 Creativity as it speaks excellence!">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
@@ -65,66 +65,70 @@ Creativity as it speaks excellence!">
 		<img src="assets/images/preloader.svg" alt="Pre-loader">
 	</div>
 <!--Header-->
-    <div class="container-fluid bg-light" id="home-navigation" style="margin-bottom: 75px">
-        <div class="container">
-            <nav class="navbar navbar-expand-lg bg-light navbar-light fixed-top"
-            style="border-bottom: 4px solid #7E2726;">
-                <a class="navbar-brand" href="#home-navigation">
-                    <img src="src/img/HAZ-KEN GRAPHICS.png" alt="hazken digital graphics prints web logo"
-                    title="HAZKEN GRAPHICS LOGO" style="width: 190px; height:50px;">
-                </a>
-                <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="collapsibleNavbar">
-                    <ul class="navbar-nav ml-auto font-weight-bold text-capitalize"
-                        style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
-                        <li class="nav-item">
-                            <a class="nav-link" title="WELCOME TO HAZKEN GRAPHICS" href="#home-navigation">HOME</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" title="HAZKEN GRAPHICS SERVICES" href="#ourfeatures">OUR SERVICES</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" title="ABOUT HAZKEN GRAPHICS" href="#about-us">ABOUT THE AUTHOR</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" title="ABOUT HAZKEN GRAPHICS" href="portfolio.html">PORTFOLIO</a>
-                      </li>
-                        <li class="nav-item">
-                            <a class="nav-link" title="MORE INFO HAZKEN DIGITAL" href="blog.html">MORE INFO</a>
-                        </li>
-                        <li class="nav-item"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
-                        title="HAZKEN GRAPHICS INSTAGRAM"><i class="fa fa-instagram font-social-media"></i>
-                                </a></li>
-                        <li class="nav-item"><a href="https://www.facebook.com/hazkengraphics/" target="_blank"
-                        title="HAZKEN GRAPHICS FACEBOOK">
-                        <i class="fa fa-facebook-square font-social-media"></i></a>
-                        </li>
-                        <li class="nav-item"><a href="https://wa.me/2348176246387" target="_blank"
-                        title="HAZKEN GRAPHICS WHATSAPP">
-                        <i class="fa fa-whatsapp font-social-media"></i></a>
-                        </li>
-                        <li class="nav-item"><a href="https://www.linkedin.com/in/hazken-graphics-868054187" target="_blank"
-                        title="HAZKEN GRAPHICS LINKEDIN">
-                        <i class="fa fa-linkedin font-social-media"></i></a>
-                        </li>
-                        <li class="nav-item"><a href="https://twitter.com/HazkenG" target="_blank"
-                        title="HAZKEN GRAPHICS TWITTER">
-                        <i class="fa fa-twitter font-social-media"></i></a>
-                        </li>
-                        <li class="nav-item"><a href="mailto:hazkengraphics@gmail.com"
-                        title="HAZKEN GRAPHICS MAIL">
-                        <i class="fa fa-envelope font-social-media"></i></a>
-                        </li>
-                        <li class="nav-item"><a href="tel:+2348176246387" title="CONTACT HAZKEN GRAPHICS">
-                         <i class="fa fa-phone font-social-media"></i></a>
+<div class="container-fluid bg-light" id="home-navigation" style="margin-bottom: 75px">
+  <div class="container">
+      <nav class="navbar navbar-expand-lg bg-light navbar-light fixed-top"
+      style="border-bottom: 4px solid #7E2726;">
+          <a class="navbar-brand" href="index.php">
+              <img src="src/img/HAZ-KEN GRAPHICS.png" alt="hazken_graphics_logo.png"
+              title="HAZKEN GRAPHICS LOGO" style="width: 190px; height:50px;">
+          </a>
+          <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="collapsibleNavbar">
+              <ul class="navbar-nav ml-auto font-weight-bold text-capitalize"
+                  style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+                  <li class="nav-item">
+                      <a class="nav-link" title="WELCOME TO HAZKEN GRAPHICS" href="index.php"
+                      style="color: #4B4B4D; font-size: 15px; font-weight: bold">HOME</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" title="MORE INFO" href="index.php#ourfeatures"
+                      style="color: #4B4B4D; font-size: 15px; font-weight: bold">OUR SERVICES</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" title="MORE INFO" href="blog.html"
+                    style="color: #4B4B4D; font-size: 15px; font-weight: bold">MORE INFO</a>
+                </li>
+                  <li class="nav-item">
+                      <a class="nav-link" title="HAZKEN PORTFOLIO" href="portfolio.html"
+                      style="color: #4B4B4D; font-size: 15px; font-weight: bold">PORTFOLIO</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" title="ABOUT HAZKEN GRAPHICS" href="aboutus.html"
+                      style="color: #4B4B4D; font-size: 15px; font-weight: bold">ABOUT US</a>
+                  </li>
+                  <li class="nav-item" style="padding-top: 20px"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
+                    title="HAZKEN GRAPHICS INSTAGRAM" ><i class="fa fa-instagram font-social-media"></i>
+                            </a></li>
+                    <li class="nav-item" style="padding-top: 20px"><a href="https://www.facebook.com/hazkengraphics/" target="_blank"
+                     title="HAZKEN GRAPHICS FACEBOOK">
+                    <i class="fa fa-facebook-square font-social-media"></i></a>
                     </li>
-                    </ul>
-                </div>
-            </nav>
-        </div>
-    </div>
+                    <li class="nav-item" style="padding-top: 20px"><a href="https://wa.me/2348176246387" target="_blank"
+                    title="HAZKEN GRAPHICS WHATSAPP">
+                    <i class="fa fa-whatsapp font-social-media"></i></a>
+                    </li>
+                    <li class="nav-item" style="padding-top: 20px"><a href="https://www.linkedin.com/in/hazken-graphics-868054187" target="_blank"
+                      title="HAZKEN GRAPHICS LINKEDIN">
+                      <i class="fa fa-linkedin font-social-media"></i></a>
+                      </li>
+                    <li class="nav-item" style="padding-top: 20px"><a href="https://twitter.com/HazkenG" target="_blank"
+                    title="HAZKEN GRAPHICS TWITTER">
+                    <i class="fa fa-twitter font-social-media"></i></a>
+                    </li>
+                    <li class="nav-item" style="padding-top: 20px"><a href="mailto:hazkengraphics@gmail.com"
+                    title="HAZKEN GRAPHICS MAIL">
+                    <i class="fa fa-envelope font-social-media"></i></a>
+                    </li>
+                    <li class="nav-item" style="padding-top: 20px"><a href="tel:+2348176246387" title="CONTACT HAZKEN GRAPHICS">
+                     <i class="fa fa-phone font-social-media"></i></a>
+                </li>
+          </div>
+      </nav>
+  </div>
+</div>
 
     <!--slide-->
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="margin-top: 32px">
@@ -848,7 +852,7 @@ Creativity as it speaks excellence!">
   </div>
 
 <!--ABOUT US-->
-<footer class="container-fluid bg-light  pt-3" id="about-us">
+<article class="container-fluid bg-light  pt-3" id="about-us">
         <div class="container bg-light">
                 <div class="media border p-3 d-flex flex-row border border-5"
                 style="background: #DCDDDF; border-radius: 25px">
@@ -896,7 +900,7 @@ Creativity as it speaks excellence!">
             <a href="tel:+2348176246387" class="btn btn-outline-danger font-weight-bolder"
             title="HAZKEN GRAPHICS CONTACT">CONTACT US</a>
         </div>
-    <div class="d-flex flex-row justify-content-center mb-1">
+    <div class="d-flex flex-row justify-content-center">
         <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
         title="HAZKEN GRAPHICS INSTAGRAM" class="m-1">
         <i class="fa fa-instagram font-social-medias"></i></a>
@@ -915,17 +919,72 @@ Creativity as it speaks excellence!">
         <a href="mailto:hazkengraphics@gmail.com" title="HAZKEN GRAPHICS MAIL" class="m-1">
         <i class="fa fa-envelope font-social-medias"></i></a>
     </div>
-    <p class="text-center text-secondary" style="font-size: 16px"><span title="Web Designer in Lagos">Web Design,</span> <span title="Graphics Designer in Lagos">Graphic Design</span> & 
-    <span title="Printing in Lagos">General Printing</span> in Lagos State, Nigeria.</p>
-
-    <p class="text-center text-secondary font-weight-bold" title="HAZKEN DIGITAL">Subsidiary of HAZKEN DIGITAL</p>
-    <address class="text-center text-secondary font-italic"
-    style="font-size: 13px">17, Rasheed Akotun Street, Bariga, Lagos.</address>
-<hr>
-    <div class="d-flex flex-row justify-content-center text-secondary">
-      <p style="font-size: 14px">Copyright &copy; 2019 Hazken Graphics all rights reserved.</p>
-    </div>
-        </footer>
+  </article>
+        	<!-- =======================
+	footer  -->
+	<footer class="footer bg-light pt-6">
+		<div class="footer-content pb-3">
+			<div class="container">
+				<div class="row">
+					<!-- Footer widget 1 -->
+					<div class="col-md-4">
+						<div class="widget">
+							<a href="index.php" class="footer-logo">
+								<!-- footer IMG logo Start -->
+								<img src="src/img/HAZ-KEN GRAPHICS.png" alt="hazken_graphics_logo.png"
+                    title="HAZKEN DIGITAL LOGO" style="width: 190px; height:50px;">
+								<!-- footer IMG logo End -->
+							</a>
+							<p class="mt-3">Web Design, Apllication, Graphic Design and General Printing</p>
+							<p>Full Reponsive Websites and Application, Graphic Desisgn for Advert and Printing. </p>
+							<p style="font-style: italic">Creativity as it speaks excellence!</p>
+						</div>
+					</div>
+					<!-- Footer widget 2 -->
+					<div class="col-md-3 col-sm-6">
+						<div class="widget address" style="background-image: url('assets/images/world-map.png'); background-position: 50% 20px; background-repeat: no-repeat; background-size: contain;">
+							<ul class="list-unstyled">
+								<li class="media mb-3"><i class="mr-3 display-8 ti-map-alt"></i><address>17, Rasheed Akotun Street, Bariga, Lagos.</address> </li>
+								<li class="media mb-3"><i class="mr-3 display-8 ti-headphone-alt"></i> +234 817 6246 387, +234 902 9480 399 </li>
+								<li class="media mb-3"><i class="mr-3 display-8 ti-email"></i> hazkengraphics<br>@gmail.com</li>
+								<li class="media mb-3"><i class="mr-3 display-8 ti-time"></i>
+									<p>Mon - Fri: <strong>09:00 - 17:00</strong> <br>Mon - Fri: <strong>Closed</strong></p>
+								</li>
+							</ul>
+						</div>
+					</div>
+						<!-- Footer widget 3 -->
+						<div class="col-md-2 col-sm-6">
+							<div class="widget">
+								<h6>Quick LInks</h6>
+								<ul class="nav flex-column primary-hover">
+									<li class="nav-item"><a class="nav-link text-dark" href="aboutus.html" >About</a></li>
+									<li class="nav-item"><a class="nav-link text-dark" href="index.php#about-us">Contact</a></li>
+									<li class="nav-item"><a class="nav-link text-dark" href="index.php">Home</a></li>
+									<li class="nav-item"><a class="nav-link text-dark" href="portfolio.html">Portfolio</a></li>
+								</ul>
+							</div>
+						</div>
+					<!-- Footer widget 4 -->
+					<div class="col-md-3">
+						<div class="widget bg-dark p-4 border-radius-3">
+							<i class="ti-email newsletter-icon text-white"></i>
+							<p class="mb-2 text-white">Subscribe to our newsletter to receive exclusive offers.</p>
+							<div class="form-group mb-0">
+								<input class="form-control border-white mb-3" type="email" placeholder="Enter email...">
+								<button class="btn btn-outline-light mb-0 bg-dark"><a href="mailto:hazkengraphics@gmail.com" class="text-white">Join us</a></button>
+							</div>
+						</div>
+					</div>
+				</div>
+        <!-- Footer widget 4 -->
+        <hr>
+        <div class="d-flex flex-row justify-content-center text-secondary">
+          <p style="font-size: 14px">Copyright &copy; 2019 Hazken Graphics all rights reserved.</p>
+        </div>
+        </div>
+      </div>
+      </footer>
 <!--Scroll-->
 <div> <a href="#" class="back-top btn btn-danger"><i class="ti-angle-up"></i></a> </div>
 

@@ -943,7 +943,7 @@ Creativity as it speaks excellence!">
 					</div>
 					<!-- Footer widget 2 -->
 					<div class="col-md-3 col-sm-6">
-						<div class="widget address" style="background-image: url('assets/images/world-map.png'); background-position: 50% 20px; background-repeat: no-repeat; background-size: contain;">
+						<div class="widget address">
 							<ul class="list-unstyled">
 								<li class="media mb-3"><i class="mr-3 display-8 ti-map-alt"></i><address>17, Rasheed Akotun Street, Bariga, Lagos.</address> </li>
 								<li class="media mb-3"><i class="mr-3 display-8 ti-headphone-alt"></i> +234 817 6246 387, +234 902 9480 399 </li>

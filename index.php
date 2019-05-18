@@ -28,7 +28,8 @@
 <link rel="manifest" href="manifest.json">
  
 <!-- CSS Front Template -->
-<link rel="stylesheet" href="src/css/styles.css">
+<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+
 <title>::HAZKEN GRAPHICS:: WEB DESIGN, GRAPHIC DESIGN & GENERAL PRINTING </title>
 <!-- Plugins CSS -->
 <link rel="stylesheet" type="text/css" href="assets/vendor/themify-icons/css/themify-icons.css" />

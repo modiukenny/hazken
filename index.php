@@ -40,7 +40,7 @@
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="author" content="hazken.com">
+<meta name="author" content="hazken">
 <meta name="description" content="Hazken::
  Web Design, Graphic Design, Creative Branding and General Printing in Lagos Nigeria.
 Creativity as it speaks excellence!">
@@ -339,10 +339,6 @@ Creativity as it speaks excellence!">
         <h3 class=" text-center font-weight-bold">GRAPHIC DESIGNS AND PRINTING</h3>
         <div class="row mx-auto">
             <div class="col-4">
-                <img src="src/img/7.png" class="img-fluid m-1"
-                alt="hazken paper bag">
-            </div>
-            <div class="col-4">
                 <img src="src/img/8.png" class="img-fluid m-1"
                 alt="fliers mockups psd hazken">
             </div>
@@ -375,10 +371,6 @@ Creativity as it speaks excellence!">
                 alt="Programme Card Mockups psd">
             </div>
             <div class="col-4">
-                <img src="src/img/16.png" class="img-fluid m-1"
-                alt="Papper Bag Carrier Bag Mockup">
-            </div>
-            <div class="col-4">
                 <img src="src/img/17.png" class="img-fluid m-1"
                 alt="Fliers Handbills Mockups psd photoshop hazken prints">
             </div>
@@ -409,10 +401,6 @@ Creativity as it speaks excellence!">
             <div class="col-4">
                 <img src="src/img/24.png" class="img-fluid m-1"
                 alt="Programme Book Designs Mockups psd">
-            </div>
-            <div class="col-4">
-                <img src="src/img/25.png" class="img-fluid m-1"
-                alt="gifts mockups psd photoshop hazken brand">
             </div>
             <div class="col-4">
                 <img src="src/img/26.png" class="img-fluid m-1"

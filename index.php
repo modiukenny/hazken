@@ -355,10 +355,6 @@ Creativity as it speaks excellence!">
                 alt="Note Pad Jotter Printing Hazken">
             </div>
             <div class="col-4">
-                <img src="src/img/11.png" class="img-fluid m-1"
-                alt="Branding Rubber Mockups psd 927 Cakes international">
-            </div>
-            <div class="col-4">
                 <img src="src/img/12.png" class="img-fluid m-1"
                 alt="Hazken Business Cards Mockups psd photoshop">
             </div>
@@ -375,10 +371,6 @@ Creativity as it speaks excellence!">
                 alt="Programme Card Mockups psd">
             </div>
             <div class="col-4">
-                <img src="src/img/18.png" class="img-fluid m-1"
-                alt="Business Cards Mockups psd photoshop hazken prints Lagos Nigeria">
-            </div>
-            <div class="col-4">
                 <img src="src/img/21.png" class="img-fluid m-1"
                 alt="Fliers Handbills Mockups psd photoshop hazken prints">
             </div>
@@ -387,16 +379,8 @@ Creativity as it speaks excellence!">
                 alt="jekalo t-shirts screen printing riders in lagos nigeria hazken brands">
             </div>
             <div class="col-4">
-                <img src="src/img/23.png" class="img-fluid m-1"
-                alt="jekalo business card">
-            </div>
-            <div class="col-4">
                 <img src="src/img/24.png" class="img-fluid m-1"
                 alt="Programme Book Designs Mockups psd">
-            </div>
-            <div class="col-4">
-                <img src="src/img/26.png" class="img-fluid m-1"
-                alt="business cards mockups psd photoshop">
             </div>
             <div class="col-4">
                 <img src="src/img/27.png" class="img-fluid m-1"
@@ -425,14 +409,6 @@ Creativity as it speaks excellence!">
             <div class="col-4">
                 <img src="src/img/35.png" class="img-fluid m-1"
                 alt="birthday invitation card mockups hazken prints">
-            </div>
-            <div class="col-4">
-                <img src="src/img/36.png" class="img-fluid m-1"
-                alt="tri-fold golden tulip mockups psd hazken prints">
-            </div>
-            <div class="col-4">
-                <img src="src/img/37.png" class="img-fluid m-1"
-                alt="food dish rollup banner mockup psd">
             </div>
             <div class="col-4">
                 <img src="src/img/39.png" class="img-fluid m-1"

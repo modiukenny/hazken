@@ -100,6 +100,10 @@ Creativity as it speaks excellence!">
                       <a class="nav-link" title="ABOUT HAZKEN GRAPHICS" href="aboutus.html"
                       style="color: #4B4B4D; font-size: 15px; font-weight: bold">ABOUT US</a>
                   </li>
+                  <li class="nav-item">
+                      <a class="nav-link" title="ABOUT HAZKEN GRAPHICS" href="contact.html"
+                      style="color: #4B4B4D; font-size: 15px; font-weight: bold">CONTACT US</a>
+                  </li>
                   <li class="nav-item" style="padding-top: 20px"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
                     title="HAZKEN GRAPHICS INSTAGRAM" ><i class="fa fa-instagram font-social-media"></i>
                             </a></li>
@@ -371,20 +375,8 @@ Creativity as it speaks excellence!">
                 alt="Programme Card Mockups psd">
             </div>
             <div class="col-4">
-                <img src="src/img/17.png" class="img-fluid m-1"
-                alt="Fliers Handbills Mockups psd photoshop hazken prints">
-            </div>
-            <div class="col-4">
                 <img src="src/img/18.png" class="img-fluid m-1"
                 alt="Business Cards Mockups psd photoshop hazken prints Lagos Nigeria">
-            </div>
-            <div class="col-4">
-                <img src="src/img/19.png" class="img-fluid m-1"
-                alt="Fliers Handbills Mockups psd photoshop hazken prints">
-            </div>
-            <div class="col-4">
-                <img src="src/img/20.png" class="img-fluid m-1"
-                alt="Fliers Handbills Mockups psd photoshop hazken prints">
             </div>
             <div class="col-4">
                 <img src="src/img/21.png" class="img-fluid m-1"
@@ -718,10 +710,6 @@ Creativity as it speaks excellence!">
             alt="pillow mockups printing download">
         </div>
         <div class="col-4">
-            <img src="src/img/43.png" class="img-fluid m-1"
-            alt="cosmectics mockups psd download">
-        </div>
-        <div class="col-4">
             <img src="src/img/44.png" class="img-fluid m-1"
             alt="jekalo rides aston martin car branding mockups psd">
         </div>
@@ -752,14 +740,6 @@ Creativity as it speaks excellence!">
         <div class="col-4">
             <img src="src/img/55.png" class="img-fluid m-1"
             alt="carrier paper bag mockup download accessories bydiva">
-        </div>
-        <div class="col-4">
-            <img src="src/img/56.png" class="img-fluid m-1"
-            alt="branded cups">
-        </div>
-        <div class="col-4">
-            <img src="src/img/57.png" class="img-fluid m-1"
-            alt="honey bee rubber plastic mockups">
         </div>
         <div class="col-4">
           <img src="src/img/58.png" class="img-fluid m-1"
@@ -884,30 +864,6 @@ Creativity as it speaks excellence!">
                     title="HAZKEN MORE INFO ABOUT US">MORE INFO ABOUT US</a></div>
                     <!----Skills End---->
                 <hr>
-                
-    <div class="d-flex flex-row justify-content-center m-3">
-            <a href="tel:+2348176246387" class="btn btn-outline-danger font-weight-bolder"
-            title="HAZKEN GRAPHICS CONTACT">CONTACT US</a>
-        </div>
-    <div class="d-flex flex-row justify-content-center">
-        <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
-        title="HAZKEN GRAPHICS INSTAGRAM" class="m-1">
-        <i class="fa fa-instagram font-social-medias"></i></a>
-        <a href="https://www.facebook.com/hazkengraphics/" target="_blank"
-        class="m-1" title="HAZKEN GRAPHICS FACEBOOK">
-        <i class="fa fa-facebook-square font-social-medias"></i></a>
-        <a href="https://wa.me/2348176246387" target="_blank"
-        class="m-1" title="HAZKEN GRAPHICS WHATSAPP">
-        <i class="fa fa-whatsapp font-social-medias"></i></a>
-        <a href="https://www.linkedin.com/in/hazken-graphics-868054187" target="_blank"
-        class="m-1" title="HAZKEN GRAPHICS LINKEDIN">
-        <i class="fa fa-linkedin font-social-medias"></i></a>
-        <a href="https://twitter.com/HazkenG" target="_blank"
-        class="m-1" title="HAZKEN GRAPHICS TWITTER">
-        <i class="fa fa-twitter font-social-medias"></i></a>
-        <a href="mailto:hazkengraphics@gmail.com" title="HAZKEN GRAPHICS MAIL" class="m-1">
-        <i class="fa fa-envelope font-social-medias"></i></a>
-    </div>
   </article>
         	<!-- =======================
 	footer  -->
@@ -924,8 +880,8 @@ Creativity as it speaks excellence!">
                     title="HAZKEN DIGITAL LOGO" style="width: 190px; height:50px;">
 								<!-- footer IMG logo End -->
 							</a>
-							<p class="mt-3">Web Design, Apllication, Graphic Design and General Printing</p>
-							<p>Full Reponsive Websites and Application, Graphic Desisgn for Advert and Printing. </p>
+							<p class="mt-3">Web Design, Apllication, Brand Identity, Graphic Design and General Printing.</p>
+							<p>Full Reponsive Websites and Application, Creative Branding, Graphic Desisgn for Advert and Printing. </p>
 							<p style="font-style: italic">Creativity as it speaks excellence!</p>
 						</div>
 					</div>
@@ -948,7 +904,7 @@ Creativity as it speaks excellence!">
 								<h6>Quick LInks</h6>
 								<ul class="nav flex-column primary-hover">
 									<li class="nav-item"><a class="nav-link text-dark" href="aboutus.html" >About</a></li>
-									<li class="nav-item"><a class="nav-link text-dark" href="index.php#about-us">Contact</a></li>
+									<li class="nav-item"><a class="nav-link text-dark" href="contact.html">Contact</a></li>
 									<li class="nav-item"><a class="nav-link text-dark" href="index.php">Home</a></li>
 									<li class="nav-item"><a class="nav-link text-dark" href="portfolio.html">Portfolio</a></li>
 								</ul>
@@ -973,6 +929,25 @@ Creativity as it speaks excellence!">
         </div>
         </div>
       </div>
+      <div class="d-flex flex-row justify-content-center">
+        <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
+        title="HAZKEN GRAPHICS INSTAGRAM" class="m-1">
+        <i class="fa fa-instagram font-social-medias"></i></a>
+        <a href="https://www.facebook.com/hazkengraphics/" target="_blank"
+        class="m-1" title="HAZKEN GRAPHICS FACEBOOK">
+        <i class="fa fa-facebook-square font-social-medias"></i></a>
+        <a href="https://wa.me/2348176246387" target="_blank"
+        class="m-1" title="HAZKEN GRAPHICS WHATSAPP">
+        <i class="fa fa-whatsapp font-social-medias"></i></a>
+        <a href="https://www.linkedin.com/in/hazken-graphics-868054187" target="_blank"
+        class="m-1" title="HAZKEN GRAPHICS LINKEDIN">
+        <i class="fa fa-linkedin font-social-medias"></i></a>
+        <a href="https://twitter.com/HazkenG" target="_blank"
+        class="m-1" title="HAZKEN GRAPHICS TWITTER">
+        <i class="fa fa-twitter font-social-medias"></i></a>
+        <a href="mailto:hazkengraphics@gmail.com" title="HAZKEN GRAPHICS MAIL" class="m-1">
+        <i class="fa fa-envelope font-social-medias"></i></a>
+    </div>
       </footer>
 <!--Scroll-->
 <div> <a href="#" class="back-top btn btn-danger"><i class="ti-angle-up"></i></a> </div>

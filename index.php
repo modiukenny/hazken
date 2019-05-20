@@ -85,12 +85,8 @@ Creativity as it speaks excellence!">
                       style="color: #4B4B4D; font-size: 15px; font-weight: bold">HOME</a>
                   </li>
                   <li class="nav-item">
-                      <a class="nav-link" title="MORE INFO" href="index.php#ourfeatures"
-                      style="color: #4B4B4D; font-size: 15px; font-weight: bold">OUR SERVICES</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" title="MORE INFO" href="blog.html"
-                    style="color: #4B4B4D; font-size: 15px; font-weight: bold">MORE INFO</a>
+                    <a class="nav-link" title="MORE INFO" href="service.html"
+                    style="color: #4B4B4D; font-size: 15px; font-weight: bold">OUR SERVICE</a>
                 </li>
                   <li class="nav-item">
                       <a class="nav-link" title="HAZKEN PORTFOLIO" href="portfolio.html"
@@ -102,7 +98,7 @@ Creativity as it speaks excellence!">
                   </li>
                   <li class="nav-item">
                       <a class="nav-link" title="ABOUT HAZKEN GRAPHICS" href="contact.html"
-                      style="color: #4B4B4D; font-size: 15px; font-weight: bold">CONTACT US</a>
+                      style="color: #4B4B4D; font-size: 15px; font-weight: bold">CONTACT</a>
                   </li>
                   <li class="nav-item" style="padding-top: 20px"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
                     title="HAZKEN GRAPHICS INSTAGRAM" ><i class="fa fa-instagram font-social-media"></i>
@@ -212,7 +208,7 @@ Creativity as it speaks excellence!">
     </div>
     <div>
       <button type="button" class="btn btn-dark m-auto d-block btn-md font-weight-bold">
-      <a href="blog.html" class="text-white" style="text-decoration: none">MORE INFO</a></button>
+      <a href="service.html" class="text-white" style="text-decoration: none">MORE INFO</a></button>
     </div>
    
 <!--WHO WE ARE-->
@@ -879,10 +875,11 @@ Creativity as it speaks excellence!">
 							<div class="widget">
 								<h6>Quick LInks</h6>
 								<ul class="nav flex-column primary-hover">
-									<li class="nav-item"><a class="nav-link text-dark" href="aboutus.html" >About</a></li>
+                  <li class="nav-item"><a class="nav-link text-dark" href="aboutus.html" >About</a></li>
+                  <li class="nav-item"><a class="nav-link  text-dark" href="service.html">Service</a></li>
 									<li class="nav-item"><a class="nav-link text-dark" href="contact.html">Contact</a></li>
-									<li class="nav-item"><a class="nav-link text-dark" href="index.php">Home</a></li>
-									<li class="nav-item"><a class="nav-link text-dark" href="portfolio.html">Portfolio</a></li>
+                  <li class="nav-item"><a class="nav-link text-dark" href="portfolio.html">Portfolio</a></li>
+                  <li class="nav-item"><a class="nav-link text-dark" href="index.php">Home</a></li>
 								</ul>
 							</div>
 						</div>
@@ -907,22 +904,22 @@ Creativity as it speaks excellence!">
       </div>
       <div class="d-flex flex-row justify-content-center">
         <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
-        title="HAZKEN GRAPHICS INSTAGRAM" class="m-1">
-        <i class="fa fa-instagram font-social-medias"></i></a>
+        title="HAZKEN GRAPHICS INSTAGRAM" class="m-1" >
+        <i class="fa fa-instagram font-social-medias" style="font-size: 23px"></i></a>
         <a href="https://www.facebook.com/hazkengraphics/" target="_blank"
         class="m-1" title="HAZKEN GRAPHICS FACEBOOK">
-        <i class="fa fa-facebook-square font-social-medias"></i></a>
+        <i class="fa fa-facebook-square font-social-medias" style="font-size: 23px"></i></a>
         <a href="https://wa.me/2348176246387" target="_blank"
         class="m-1" title="HAZKEN GRAPHICS WHATSAPP">
-        <i class="fa fa-whatsapp font-social-medias"></i></a>
+        <i class="fa fa-whatsapp font-social-medias" style="font-size: 23px"></i></a>
         <a href="https://www.linkedin.com/in/hazken-graphics-868054187" target="_blank"
         class="m-1" title="HAZKEN GRAPHICS LINKEDIN">
-        <i class="fa fa-linkedin font-social-medias"></i></a>
+        <i class="fa fa-linkedin font-social-medias" style="font-size: 23px"></i></a>
         <a href="https://twitter.com/HazkenG" target="_blank"
         class="m-1" title="HAZKEN GRAPHICS TWITTER">
-        <i class="fa fa-twitter font-social-medias"></i></a>
+        <i class="fa fa-twitter font-social-medias" style="font-size: 23px"></i></a>
         <a href="mailto:hazkengraphics@gmail.com" title="HAZKEN GRAPHICS MAIL" class="m-1">
-        <i class="fa fa-envelope font-social-medias"></i></a>
+        <i class="fa fa-envelope font-social-medias" style="font-size: 23px"></i></a>
     </div>
       </footer>
 <!--Scroll-->

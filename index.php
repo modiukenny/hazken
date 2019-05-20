@@ -97,7 +97,7 @@ Creativity as it speaks excellence!">
                       style="color: #4B4B4D; font-size: 15px; font-weight: bold">ABOUT US</a>
                   </li>
                   <li class="nav-item">
-                      <a class="nav-link" title="ABOUT HAZKEN GRAPHICS" href="contact.html"
+                      <a class="nav-link" title="CONTACT HAZKEN GRAPHICS" href="contact.html"
                       style="color: #4B4B4D; font-size: 15px; font-weight: bold">CONTACT</a>
                   </li>
                   <li class="nav-item" style="padding-top: 20px"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"

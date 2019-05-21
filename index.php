@@ -126,6 +126,7 @@ Creativity as it speaks excellence!">
                     <li class="nav-item" style="padding-top: 20px"><a href="tel:+2348176246387" title="CONTACT HAZKEN GRAPHICS">
                      <i class="fa fa-phone font-social-media"></i></a>
                 </li>
+              </ul>
           </div>
       </nav>
   </div>

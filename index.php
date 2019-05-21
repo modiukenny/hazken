@@ -580,8 +580,8 @@ Creativity as it speaks excellence!">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
-                <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/87.png" class="img-fluid"
+                <div style="border-radius: 12px" class="col-4">
+                    <img style="border-radius: 12px" src="src/img/91.png" class="img-fluid"
                     alt="ui ux designs hazken web">
                 </div>
                 <div class="col-4">
@@ -590,20 +590,6 @@ Creativity as it speaks excellence!">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/89.png" class="img-fluid"
-                    alt="ui ux designs hazken web">
-                </div>
-            </div>
-            <div class="d-flex flex-row justify-content-around mb-2">
-                <div style="border-radius: 12px" class="col-4">
-                    <img style="border-radius: 12px" src="src/img/90.png" class="img-fluid"
-                    alt="ui ux designs hazken web">
-                </div>
-                <div style="border-radius: 12px" class="col-4">
-                    <img style="border-radius: 12px" src="src/img/91.png" class="img-fluid"
-                    alt="ui ux designs hazken web">
-                </div>
-                <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/92.png" class="img-fluid"
                     alt="ui ux designs hazken web">
                 </div>
             </div>

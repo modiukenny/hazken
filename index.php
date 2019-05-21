@@ -81,11 +81,11 @@ Creativity as it speaks excellence!">
               <ul class="navbar-nav ml-auto font-weight-bold text-capitalize"
                   style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
                   <li class="nav-item">
-                      <a class="nav-link" title="WELCOME TO HAZKEN GRAPHICS" href="index.php"
+                      <a class="nav-link text-secondary" title="WELCOME TO HAZKEN GRAPHICS" href="index.php"
                       style="color: #4B4B4D; font-size: 15px; font-weight: bold">HOME</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" title="MORE INFO" href="service.html"
+                    <a class="nav-link" title="OUR SERVICE" href="service.html"
                     style="color: #4B4B4D; font-size: 15px; font-weight: bold">OUR SERVICE</a>
                 </li>
                   <li class="nav-item">

@@ -62,7 +62,8 @@ Creativity as it speaks excellence!">
     </style>
 </head>
 
-<body><div class="preloader">
+<body>
+  <div class="preloader">
 		<img src="assets/images/preloader.svg" alt="Pre-loader">
 	</div>
 <!--Header-->
@@ -102,7 +103,7 @@ Creativity as it speaks excellence!">
                   </li>
                   <li class="nav-item" style="padding-top: 20px"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
                     title="HAZKEN GRAPHICS INSTAGRAM" ><i class="fa fa-instagram font-social-media"></i>
-                            </a></li>
+                    </a></li>
                     <li class="nav-item" style="padding-top: 20px"><a href="https://www.facebook.com/hazkengraphics/" target="_blank"
                      title="HAZKEN GRAPHICS FACEBOOK">
                     <i class="fa fa-facebook-square font-social-media"></i></a>

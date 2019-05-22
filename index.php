@@ -40,7 +40,7 @@
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="author" content="hazken">
+<meta name="author" content="Hazken Graphics">
 <meta name="description" content="Hazken::
  Web Design, Graphic Design, Creative Branding and General Printing in Lagos Nigeria.
 Creativity as it speaks excellence!">

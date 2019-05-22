@@ -72,7 +72,7 @@ Creativity as it speaks excellence!">
       <nav class="navbar navbar-expand-lg bg-light navbar-light fixed-top"
       style="border-bottom: 4px solid #7E2726;">
           <a class="navbar-brand" href="index.php">
-              <img src="src/img/HAZ-KEN GRAPHICS.png" alt="hazken_graphics_logo.png"
+              <img src="src/img/HAZ-KEN GRAPHICS.png" alt="hazken graphics logo"
               title="HAZKEN GRAPHICS LOGO" style="width: 190px; height:50px;">
           </a>
           <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">

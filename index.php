@@ -786,14 +786,14 @@ Creativity as it speaks excellence!">
                 <div class="media border p-3 d-flex flex-row border border-5"
                 style="background: #DCDDDF; border-radius: 25px">
                   <img src="./src/img/hazkenceo.png" title="Hazken Graphics CEO Founder" alt="Modiu Kehinde Hazzan Kenny Adeneye Hazken mkh"
-                  class="mr-3 mt-4 align-self-lg-start" style="width:95px; height: 120px">
+                  class="mr-3 mt-4 align-self-lg-start" style="width:95px; height: 120px; border: 2px solid rgb(141, 141, 141); border-radius: 10px">
                   <div class="media-body mt-4 align-self-center">
                     <h4 class="font-weight-bolder" title="ABOUT HAZKEN GRAPHICS">ABOUT THE AUTHOR</h4>
                     <p style="font-size: 15px"><span class="font-weight-bolder" title="Hazken Graphics CEO and Founder">
                         MODIU KEHINDE HAZZAN</span><span title="A FREELANCE DESIGNER IN LAGOS"> a freelance web designer in Lagos</span>
                         as an experienced professional, who is committed to raising awareness
                         about how to create a Reponsive Website and Application,
-                        also specialize in Graphics Design for Printing and Adverts.
+                        also specialize in Graphics Design for Printing and Adverts.</p>
                   </div>
                 </div>
               </div>
@@ -819,12 +819,11 @@ Creativity as it speaks excellence!">
                     <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 92%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"><h5 class="mt-1 ml-2 mr-auto">UI/UX DESIGNS 92%</h5></div>
                   </div>
                 </div>
-                <div class="d-flex flex-row justify-content-center m-3">
+                <div class="d-flex flex-row justify-content-center mt-3">
                     <a href="aboutus.html" class="btn btn-dark font-weight-bolder"
                     title="HAZKEN MORE INFO ABOUT US">MORE INFO ABOUT US</a></div>
-                    <!----Skills End---->
-                <hr>
   </article>
+  <!----Skills End---->
         	<!-- =======================
 	footer  -->
 	<footer class="footer bg-light pt-6">

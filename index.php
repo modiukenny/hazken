@@ -41,7 +41,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Hazken Graphics">
-<meta name="description" content="Hazken::
+<meta name="description" content="Hazken Graphics::
  Web Design, Graphic Design, Creative Branding and General Printing in Lagos Nigeria.
 Creativity as it speaks excellence!">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">

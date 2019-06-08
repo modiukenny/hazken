@@ -30,7 +30,7 @@
 <!-- CSS Front Template -->
 <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
-<title>::HAZKEN GRAPHICS:: WEB DESIGN, GRAPHIC DESIGN & GENERAL PRINTING </title>
+<title>::HAZKEN GRAPHICS:: WEB DESIGN, GRAPHIC DESIGN, CREATIVE BRANDING & GENERAL PRINTING </title>
 <!-- Plugins CSS -->
 <link rel="stylesheet" type="text/css" href="assets/vendor/themify-icons/css/themify-icons.css" />
 

@@ -38,7 +38,6 @@
     "https://www.instagram.com/hazken_graphics/",
     "https://twitter.com/HazkenG",
     "https://wa.me/2348176246387",
-    "https://wa.me/2348176246387",
     "https://www.linkedin.com/in/hazken-graphics-868054187"
   ]
 }

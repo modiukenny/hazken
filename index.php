@@ -26,7 +26,23 @@
 <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="manifest" href="manifest.json">
- 
+<!--Schema Icons -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Hazken Graphics",
+  "url": "http://www.hazken.com",
+  "sameAs": [
+    "https://www.facebook.com/hazkengraphics/",
+    "https://www.instagram.com/hazken_graphics/",
+    "https://twitter.com/HazkenG",
+    "https://wa.me/2348176246387",
+    "https://wa.me/2348176246387",
+    "https://www.linkedin.com/in/hazken-graphics-868054187"
+  ]
+}
+</script>
 <!-- CSS Front Template -->
 <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 

@@ -295,7 +295,7 @@ Creativity as it speaks excellence!">
 								<span class="price text-white">
 								<sup class="text-white">₦120,000
 							</div>
-							<p class="text-white">Get a Responsive Website, Ui Ux Design and Web Hosting.</pc>
+							<p class="text-white">Website Designs</p>
 							<a class="btn btn-outline-light mt-4" href="#!"
 							data-toggle="modal" data-target="#exampleModal2">Order now!</a>
 							<!-- Modal -->

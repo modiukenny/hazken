@@ -248,8 +248,8 @@ Creativity as it speaks excellence!">
 								<span class="price text-white">
 								₦7,000 </span>
 							</div>
-							<p class="text-white">Get a Pillow Branded with your company name</p>
-							<a class="btn btn-outline-white mt-4" href="#!"
+							<p class="text-white">Get a Pillow Branded with your Company Name.</p>
+              <a class="btn btn-outline-light mt-4" href="#!"
 							data-toggle="modal" data-target="#exampleModal2">Order now!</a>
 							<!-- Modal -->
 <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -295,8 +295,8 @@ Creativity as it speaks excellence!">
 								<span class="price text-white">
 								<sup class="text-white">₦120,000
 							</div>
-							<p class="text-white">Get a Responsive Website, Ui Ux Design, Web Hosting and a Domain name</pc>
-							<a class="btn btn-outline-white mt-4" href="#!"
+							<p class="text-white">Get a Responsive Website, Ui Ux Design and Web Hosting.</pc>
+							<a class="btn btn-outline-light mt-4" href="#!"
 							data-toggle="modal" data-target="#exampleModal2">Order now!</a>
 							<!-- Modal -->
 <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -342,7 +342,7 @@ Creativity as it speaks excellence!">
 								₦42,000 </span>
 							</div>
 							<p class="text-white">Brochure Printing Square Size 100 Copies 8 X 8 (12 pages)</p>
-							<a class="btn btn-outline-white mt-4" href="#!"
+							<a class="btn btn-outline-light mt-4" href="#!"
 							data-toggle="modal" data-target="#exampleModal2">Order now!</a>
 							<!-- Modal -->
 <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">

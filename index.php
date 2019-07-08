@@ -227,7 +227,171 @@ Creativity as it speaks excellence!">
       <button type="button" class="btn btn-dark m-auto d-block btn-md font-weight-bold">
       <a href="service.html" class="text-white" style="text-decoration: none">MORE INFO</a></button>
     </div>
-   
+   <!-- =======================
+	Pricing -->
+	<section class="pricing-page pricing pricing-center">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 mb-0 mb-md-5">
+						<div class="p-0 text-center text-md-left">
+							<h2 >Affordable Pricing Packages</h2>
+							<p>We can design and develop a website that specifically meets your unique needs, and meets your required standards as well as industry related standards</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<!-- pricing item -->
+					<div class="col-md-4 mb-5 ">
+						<div class="pricing-box h-100 rounded" style="background-image:url(assets/images/portfolio/044.jpg); background-position: center top; background-size: cover;">
+							<h5 class="text-white">Personal Plan</h5>
+							<div class="plan-price text-white">
+								<span class="price text-white">
+								₦7,000 </span>
+							</div>
+							<p class="text-white">Get a Pillow Branded with your company name</p>
+							<a class="btn btn-outline-white mt-4" href="#!"
+							data-toggle="modal" data-target="#exampleModal2">Order now!</a>
+							<!-- Modal -->
+<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
+			  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				<span aria-hidden="true">&times;</span>
+			  </button>
+			</div>
+			<form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
+				<div class="form-group p-2">
+				<label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
+					<input type="email" class="form-control mb-3" placeholder="E-mail" name="email">
+					<textarea class="form-control" rows="5" id="comment" name="message"
+					placeholder="Your Message"></textarea>
+				</div>
+				<div class="clearfix">
+				<button type="submit" class="btn btn-danger m-2"
+				data-toggle="modal" data-target="#exampleModal5"
+				>SUBMIT</button>
+				<button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
+			</div>
+				<div style="display:none" class="thankyou_message">
+					<!-- You can customize the thankyou message by editing the code below -->
+					<h2><em>Thanks</em> for contacting us! We will get back to you soon!
+					</h2>
+				   </div>
+				
+			</form>
+			</div>
+		  </div>
+		</div>
+						</div>
+					</div>
+					<!-- pricing item -->
+					<div class="col-md-4 mb-5">
+						<div class="pricing-box h-100 shadow no-border box rounded"style="background-image:url(assets/images/portfolio/013.jpg); background-position: center top; background-size: cover;">
+							<div class="ribbon"><span>POPULAR</span></div>
+							<h5 class="text-white">Business Plan</h5>
+							<div class="plan-price text-white">
+								<span class="price text-white">
+								<sup class="text-white">₦120,000
+							</div>
+							<p class="text-white">Get a Responsive Website, Ui Ux Design, Web Hosting and a Domain name</pc>
+							<a class="btn btn-outline-white mt-4" href="#!"
+							data-toggle="modal" data-target="#exampleModal2">Order now!</a>
+							<!-- Modal -->
+<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
+			  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				<span aria-hidden="true">&times;</span>
+			  </button>
+			</div>
+			<form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
+				<div class="form-group p-2">
+				<label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
+					<input type="email" class="form-control mb-3" placeholder="E-mail" name="email">
+					<textarea class="form-control" rows="5" id="comment" name="message"
+					placeholder="Your Message"></textarea>
+				</div>
+				<div class="clearfix">
+				<button type="submit" class="btn btn-danger m-2"
+				data-toggle="modal" data-target="#exampleModal5"
+				>SUBMIT</button>
+				<button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
+			</div>
+				<div style="display:none" class="thankyou_message">
+					<!-- You can customize the thankyou message by editing the code below -->
+					<h2><em>Thanks</em> for contacting us! We will get back to you soon!
+					</h2>
+				   </div>
+				
+			</form>
+			</div>
+		  </div>
+		</div>
+						</div>
+					</div>
+					<!-- pricing item -->
+					<div class="col-md-4 mb-5">
+						<div class="pricing-box h-100 rounded" style="background-image:url(assets/images/portfolio/07.jpg); background-position: center top; background-size: cover;">
+							<h5 class="text-white">Ultimate Plan</h5>
+							<div class="plan-price">
+								<span class="price text-white">
+								₦42,000 </span>
+							</div>
+							<p class="text-white">Brochure Printing Square Size 100 Copies 8 X 8 (12 pages)</p>
+							<a class="btn btn-outline-white mt-4" href="#!"
+							data-toggle="modal" data-target="#exampleModal2">Order now!</a>
+							<!-- Modal -->
+<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
+			  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				<span aria-hidden="true">&times;</span>
+			  </button>
+			</div>
+			<form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
+				<div class="form-group p-2">
+				<label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
+					<input type="email" class="form-control mb-3" placeholder="I need a brochure design and printing" name="email">
+					<textarea class="form-control" rows="5" id="comment" name="message"
+					placeholder="Your Message"></textarea>
+				</div>
+				<div class="clearfix">
+				<button type="submit" class="btn btn-danger m-2"
+				data-toggle="modal" data-target="#exampleModal5"
+				>SUBMIT</button>
+				<button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
+			</div>
+				<div style="display:none" class="thankyou_message">
+					<!-- You can customize the thankyou message by editing the code below -->
+					<h2><em>Thanks</em> for contacting us! We will get back to you soon!
+					</h2>
+				   </div>
+				
+			</form>
+			</div>
+		  </div>
+		</div>
+						</div>
+					</div>
+				</div>
+				<!-- pricing enterprise -->
+				<div class="row">
+					<div class="col-sm-12 mt-2 mt-md-4">
+						<div class="text-center">
+							<h4>Looking for enterprise plan? We offer discounts for large teams! </h4>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- =======================
+		Pricing -->
 <!--WHO WE ARE-->
 <div class="container-fluid">
 <div class="container p-3">
@@ -280,9 +444,6 @@ Creativity as it speaks excellence!">
     </div>
 </div>
 </div>
-
-
-
 
     <!--DETAILS ABOUT HAZKEN GRAPHICS-->
     <div class="container-fluid bg-danger" id="ourfeatures">
@@ -877,6 +1038,7 @@ Creativity as it speaks excellence!">
 							<div class="widget">
 								<h6>Quick LInks</h6>
 								<ul class="nav flex-column primary-hover">
+                  <li class="nav-item"><a class="nav-link text-dark" href="blog.html" >Blog</a></li>
                   <li class="nav-item"><a class="nav-link text-dark" href="aboutus.html" >About</a></li>
                   <li class="nav-item"><a class="nav-link  text-dark" href="service.html">Service</a></li>
 									<li class="nav-item"><a class="nav-link text-dark" href="contact.html">Contact</a></li>

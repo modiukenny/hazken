@@ -186,43 +186,62 @@ Creativity as it speaks excellence!">
                 </a>
             </h2>
     <button type="button" class="btn btn-danger m-auto d-block btn-md font-weight-bold"
-        data-toggle="modal" data-target="#exampleModal2">
+        data-toggle="modal" data-target="#exampleModal112">
         <span class="bell fa fa-bell"></span> SEND US A MAIL
     </button>
     </div>
 <!-- Modal -->
-<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
-            <div class="form-group p-2">
-            <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
-                <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
-                <textarea class="form-control" rows="5" id="comment" name="message"
-                placeholder="Your Message"></textarea>
-            </div>
-            <div class="clearfix">
-            <button type="submit" class="btn btn-danger m-2"
-            data-toggle="modal" data-target="#exampleModal5"
-            >SUBMIT</button>
-            <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
-        </div>
-            <div style="display:none" class="thankyou_message">
-                <!-- You can customize the thankyou message by editing the code below -->
-                <h2><em>Thanks</em> for contacting us! We will get back to you soon!
-                </h2>
-               </div>
-            
-        </form>
-        </div>
+<div class="modal fade" id="exampleModal112" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
+          <div class="form-group p-2">
+          <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
+              <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
+              <textarea class="form-control" rows="5" id="comment" name="message"
+              placeholder="What kind of service would you like us to offer you?"></textarea>
+          </div>
+          <div class="clearfix">
+          <button type="submit" class="btn btn-danger ml-2 mb-2 float-left"
+          data-toggle="modal" data-target="#exampleModal119">SUBMIT</button>
+          <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
+          </div>
+          <div style="display:none" class="thankyou_message">
+              <!-- You can customize the thankyou message by editing the code below -->
+              <h2><em>Thanks</em> for contacting us! We will get back to you soon!
+              </h2>
+             </div>
+      </form>
       </div>
     </div>
+  </div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal119" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        MESSAGE SENT SUCCESSFULLY
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!--modal close-->
     <div>
       <button type="button" class="btn btn-dark m-auto d-block btn-md font-weight-bold">
       <a href="blog.html" class="text-white" style="text-decoration: none">BLOG</a></button>
@@ -245,45 +264,65 @@ Creativity as it speaks excellence!">
 						<div class="pricing-box h-100 rounded" style="background-image:url(assets/images/portfolio/044.jpg); background-position: center top; background-size: cover;">
 							<h5 class="text-white">Personal Plan</h5>
 							<div class="plan-price text-white">
-								<span class="price text-white">
+								<span class="price text-warning">
 								₦7,000 </span>
 							</div>
 							<p class="text-white">Get a Pillow Branded with your Company Name.</p>
-              <a class="btn btn-outline-light mt-4" href="#!"
-							data-toggle="modal" data-target="#exampleModal2">Order now!</a>
+              <a class="btn btn-outline-light mt-4 font-weight-bold" href="#!"
+							data-toggle="modal" data-target="#exampleModal15">Order now!</a>
 							<!-- Modal -->
-<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-		<div class="modal-dialog" role="document">
-		  <div class="modal-content">
-			<div class="modal-header">
-			  <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
-			  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-				<span aria-hidden="true">&times;</span>
-			  </button>
-			</div>
-			<form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
-				<div class="form-group p-2">
-				<label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
-					<input type="email" class="form-control mb-3" placeholder="E-mail" name="email">
-					<textarea class="form-control" rows="5" id="comment" name="message"
-					placeholder="Your Message"></textarea>
-				</div>
-				<div class="clearfix">
-				<button type="submit" class="btn btn-danger m-2"
-				data-toggle="modal" data-target="#exampleModal5"
-				>SUBMIT</button>
-				<button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
-			</div>
-				<div style="display:none" class="thankyou_message">
-					<!-- You can customize the thankyou message by editing the code below -->
-					<h2><em>Thanks</em> for contacting us! We will get back to you soon!
-					</h2>
-				   </div>
-				
-			</form>
-			</div>
-		  </div>
-		</div>
+<!-- Modal -->
+<div class="modal fade" id="exampleModal15" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
+          <div class="form-group p-2">
+          <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
+              <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
+              <textarea class="form-control" rows="5" id="comment" name="message"
+              placeholder="Like to order for some printing products"></textarea>
+          </div>
+          <div class="clearfix">
+          <button type="submit" class="btn btn-danger ml-2 mb-2 float-left"
+          data-toggle="modal" data-target="#exampleModal19">SUBMIT</button>
+          <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
+          </div>
+          <div style="display:none" class="thankyou_message">
+              <!-- You can customize the thankyou message by editing the code below -->
+              <h2><em>Thanks</em> for contacting us! We will get back to you soon!
+              </h2>
+             </div>
+      </form>
+      </div>
+    </div>
+  </div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal19" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        MESSAGE SENT SUCCESSFULLY
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!--modal close-->
 						</div>
 					</div>
 					<!-- pricing item -->
@@ -292,45 +331,64 @@ Creativity as it speaks excellence!">
 							<div class="ribbon"><span>POPULAR</span></div>
 							<h5 class="text-white">Business Plan</h5>
 							<div class="plan-price text-white">
-								<span class="price text-white">
-								<sup class="text-white">₦120,000
+								<span class="price text-warning">
+								₦120,000
 							</div>
-							<p class="text-white">Website Designs</p>
-							<a class="btn btn-outline-light mt-4" href="#!"
-							data-toggle="modal" data-target="#exampleModal2">Order now!</a>
+							<p class="text-white">Responsive Website + UX UX Design + Web Hosting + Domain Name.</p>
+							<a class="btn btn-outline-warning mt-4 font-weight-bold" href="#!"
+							data-toggle="modal" data-target="#exampleModal16">Order now!</a>
 							<!-- Modal -->
-<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-		<div class="modal-dialog" role="document">
-		  <div class="modal-content">
-			<div class="modal-header">
-			  <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
-			  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-				<span aria-hidden="true">&times;</span>
-			  </button>
-			</div>
-			<form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
-				<div class="form-group p-2">
-				<label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
-					<input type="email" class="form-control mb-3" placeholder="E-mail" name="email">
-					<textarea class="form-control" rows="5" id="comment" name="message"
-					placeholder="Your Message"></textarea>
-				</div>
-				<div class="clearfix">
-				<button type="submit" class="btn btn-danger m-2"
-				data-toggle="modal" data-target="#exampleModal5"
-				>SUBMIT</button>
-				<button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
-			</div>
-				<div style="display:none" class="thankyou_message">
-					<!-- You can customize the thankyou message by editing the code below -->
-					<h2><em>Thanks</em> for contacting us! We will get back to you soon!
-					</h2>
-				   </div>
-				
-			</form>
-			</div>
-		  </div>
-		</div>
+<div class="modal fade" id="exampleModal16" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
+          <div class="form-group p-2">
+          <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
+              <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
+              <textarea class="form-control" rows="5" id="comment" name="message"
+              placeholder="You need a Responsive Website for your Business?"></textarea>
+          </div>
+          <div class="clearfix">
+          <button type="submit" class="btn btn-danger ml-2 mb-2 float-left"
+          data-toggle="modal" data-target="#exampleModal20">SUBMIT</button>
+          <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
+          </div>
+          <div style="display:none" class="thankyou_message">
+              <!-- You can customize the thankyou message by editing the code below -->
+              <h2><em>Thanks</em> for contacting us! We will get back to you soon!
+              </h2>
+             </div>
+      </form>
+      </div>
+    </div>
+  </div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal20" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        MESSAGE SENT SUCCESSFULLY
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!--modal close-->
 						</div>
 					</div>
 					<!-- pricing item -->
@@ -338,45 +396,64 @@ Creativity as it speaks excellence!">
 						<div class="pricing-box h-100 rounded" style="background-image:url(assets/images/portfolio/07.jpg); background-position: center top; background-size: cover;">
 							<h5 class="text-white">Ultimate Plan</h5>
 							<div class="plan-price">
-								<span class="price text-white">
+								<span class="price text-warning">
 								₦42,000 </span>
 							</div>
 							<p class="text-white">Brochure Printing Square Size 100 Copies 8 X 8 (12 pages)</p>
-							<a class="btn btn-outline-light mt-4" href="#!"
-							data-toggle="modal" data-target="#exampleModal2">Order now!</a>
-							<!-- Modal -->
-<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-		<div class="modal-dialog" role="document">
-		  <div class="modal-content">
-			<div class="modal-header">
-			  <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
-			  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-				<span aria-hidden="true">&times;</span>
-			  </button>
-			</div>
-			<form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
-				<div class="form-group p-2">
-				<label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
-					<input type="email" class="form-control mb-3" placeholder="I need a brochure design and printing" name="email">
-					<textarea class="form-control" rows="5" id="comment" name="message"
-					placeholder="Your Message"></textarea>
-				</div>
-				<div class="clearfix">
-				<button type="submit" class="btn btn-danger m-2"
-				data-toggle="modal" data-target="#exampleModal5"
-				>SUBMIT</button>
-				<button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
-			</div>
-				<div style="display:none" class="thankyou_message">
-					<!-- You can customize the thankyou message by editing the code below -->
-					<h2><em>Thanks</em> for contacting us! We will get back to you soon!
-					</h2>
-				   </div>
-				
-			</form>
-			</div>
-		  </div>
-		</div>
+							<a class="btn btn-outline-light mt-4 font-weight-bold" href="#!"
+							data-toggle="modal" data-target="#exampleModal17">Order now!</a>
+						<!-- Modal -->
+<div class="modal fade" id="exampleModal17" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
+          <div class="form-group p-2">
+          <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
+              <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
+              <textarea class="form-control" rows="5" id="comment" name="message"
+              placeholder="Your Message"></textarea>
+          </div>
+          <div class="clearfix">
+          <button type="submit" class="btn btn-danger ml-2 mb-2 float-left"
+          data-toggle="modal" data-target="#exampleModal21">SUBMIT</button>
+          <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
+          </div>
+          <div style="display:none" class="thankyou_message">
+              <!-- You can customize the thankyou message by editing the code below -->
+              <h2><em>Thanks</em> for contacting us! We will get back to you soon!
+              </h2>
+             </div>
+      </form>
+      </div>
+    </div>
+  </div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal21" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        MESSAGE SENT SUCCESSFULLY
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!--modal close-->
 						</div>
 					</div>
 				</div>

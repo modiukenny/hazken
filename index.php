@@ -225,7 +225,7 @@ Creativity as it speaks excellence!">
     </div>
     <div>
       <button type="button" class="btn btn-dark m-auto d-block btn-md font-weight-bold">
-      <a href="service.html" class="text-white" style="text-decoration: none">MORE INFO</a></button>
+      <a href="blog.html" class="text-white" style="text-decoration: none">BLOG</a></button>
     </div>
    <!-- =======================
 	Pricing -->

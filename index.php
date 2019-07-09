@@ -261,7 +261,7 @@ Creativity as it speaks excellence!">
 				<div class="row">
 					<!-- pricing item -->
 					<div class="col-md-4 mb-5 ">
-						<div class="pricing-box h-100 rounded" style="background-image:url(assets/images/portfolio/044.jpg); background-position: center top; background-size: cover;">
+						<div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/044.jpg); background-position: center top; background-size: cover;">
 							<h5 class="text-white">Personal Plan</h5>
               <h1 class="text-warning">
 								₦7,000 </h1>
@@ -389,7 +389,7 @@ Creativity as it speaks excellence!">
 					</div>
 					<!-- pricing item -->
 					<div class="col-md-4 mb-5">
-						<div class="pricing-box h-100 rounded" style="background-image:url(assets/images/portfolio/07.jpg); background-position: center top; background-size: cover;">
+						<div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/07.jpg); background-position: center top; background-size: cover;">
 							<h5 class="text-white">Ultimate Plan</h5>
 								<h1 class="text-warning">
 								₦42,000 </h1>

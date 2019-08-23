@@ -243,7 +243,7 @@ Creativity as it speaks excellence!">
 </div>
 <!--modal close-->
     <div>
-      <button type="button" class="btn btn-grad m-auto d-block btn-md font-weight-bold">
+      <button type="button" class="btn btn-dark m-auto d-block btn-md font-weight-bold">
       <a href="blog.html" class="text-white" style="text-decoration: none">BLOG</a></button>
     </div>
    <!-- =======================
@@ -1067,7 +1067,7 @@ Creativity as it speaks excellence!">
                   </div>
                 </div>
                 <div class="d-flex flex-row justify-content-center mt-3">
-                    <a href="aboutus.html" class="btn btn-grad font-weight-bolder"
+                    <a href="aboutus.html" class="btn btn-dark font-weight-bolder"
                     title="HAZKEN MORE INFO ABOUT US">MORE INFO ABOUT US</a></div>
   </article>
   <!----Skills End---->

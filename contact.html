@@ -169,7 +169,8 @@
 			<form>
 					<script src="https://js.paystack.co/v1/inline.js"></script>
 					  <span class="row justify-content-center">
-						<input name="email" type="email" id="input" class="form-control col-4 mr-3" placeholder="your email">
+						<input name="email" type="email" id="input" class="form-control col-3 mr-3" placeholder="your email">
+						<input name="number" type="number" id="amt" class="form-control col-3 mr-3" value="1000">
 						<button type="button" class="btn h-25 btn-grad text-center" onclick="payWithPaystack()">Pay Online</button>
 					</span>
 				  </form>
@@ -408,7 +409,7 @@
 			  var handler = PaystackPop.setup({
 				key: "pk_live_ccaea32edf1fd16136152fc58d4826148beacdfe",
 				email: inputMail.value,
-				amount: 10000,
+				amount: document.getElementById("amt").value * 100,
 				currency: "NGN",
 				ref: "" + Math.floor(Math.random() * 1000000000 + 1), // generates a pseudo-unique reference. Please replace with a reference you generated. Or remove the line entirely so our API will generate one for you
 				metadata: {

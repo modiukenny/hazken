@@ -11,6 +11,22 @@
 
   gtag('config', 'UA-138230632-1');
 </script>
+<!--Schema Icons -->
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Hazken Graphics",
+    "url": "http://www.hazken.com",
+    "sameAs": [
+      "https://www.facebook.com/hazkengraphics/",
+      "https://www.instagram.com/hazken_graphics/",
+      "https://twitter.com/HazkenG",
+      "https://wa.me/2348176246387",
+      "https://www.linkedin.com/in/hazken-graphics-868054187"
+    ]
+  }
+  </script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.png">
@@ -26,22 +42,6 @@
 <link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
 <link rel="manifest" href="favicon/manifest.json">
-<!--Schema Icons -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Hazken Graphics",
-  "url": "http://www.hazken.com",
-  "sameAs": [
-    "https://www.facebook.com/hazkengraphics/",
-    "https://www.instagram.com/hazken_graphics/",
-    "https://twitter.com/HazkenG",
-    "https://wa.me/2348176246387",
-    "https://www.linkedin.com/in/hazken-graphics-868054187"
-  ]
-}
-</script>
 <!-- CSS Front Template -->
 <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
@@ -1039,7 +1039,7 @@ Creativity as it speaks excellence!">
                     <p style="font-size: 15px"><span class="font-weight-bolder" title="Hazken Graphics CEO and Founder">
                         MODIU KEHINDE HAZZAN</span><span title="A FREELANCE DESIGNER IN LAGOS"> a freelance web designer in Lagos</span>
                         as an experienced professional, who is committed to raising awareness
-                        about how to create a Reponsive Website and Application,
+                        about how to create a Responsive Website and Application,
                         also specialize in Graphics Design for Printing and Adverts.</p>
                   </div>
                 </div>
@@ -1099,8 +1099,7 @@ Creativity as it speaks excellence!">
 								<li class="media mb-3"><i class="mr-3 display-8 ti-headphone-alt"></i> +234 817 6246 387, +234 902 9480 399 </li>
 								<li class="media mb-3"><i class="mr-3 display-8 ti-email"></i> hazkengraphics<br>@gmail.com</li>
 								<li class="media mb-3"><i class="mr-3 display-8 ti-time"></i>
-									<p>Mon - Fri: <strong>09:00 - 17:00</strong> <br>Mon - Fri: <strong>Closed</strong></p>
-								</li>
+                <p>Mon - Fri: <strong>09:00 - 17:00.</strong> <br>Sat: <strong>10:00 - 18:00.</strong> Sun: <strong>Closed</strong></p>
 							</ul>
 						</div>
 					</div>

@@ -254,7 +254,7 @@ Creativity as it speaks excellence!">
 					<div class="col-md-8 mb-0 mb-md-5">
 						<div class="p-0 text-center text-md-left">
 							<h2 >Affordable Pricing Packages</h2>
-							<p>We can design and develop a website that specifically meets your unique needs, and meets your required standards as well as industry related standards</p>
+							<p>We can design and develop a website that specifically meets your unique needs, and meets your required standards as well as industry related standards.</p>
 						</div>
 					</div>
 				</div>

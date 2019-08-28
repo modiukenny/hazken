@@ -152,10 +152,10 @@ Creativity as it speaks excellence!">
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="margin-top: 32px">
   <div class="carousel-inner">
     <div class="carousel-item active">
-    <img src="/src/img/hazken-image.png" alt="Hazken Digital Graphics Web" width="1100" height="500">
+    <img src="src/img/hazken-image.png" alt="Hazken Digital Graphics Web" width="1100" height="500">
     </div>
     <div class="carousel-item">
-    <img src="/src/img/hazken-image-printing-wedo.png" alt="Hazken websites page ui" width="1100" height="500">
+    <img src="src/img/hazken-image-printing-wedo.png" alt="Hazken websites page ui" width="1100" height="500">
     <div class="carousel-caption">
         <p>|WEB DESIGNS| |GRAPHICS DESIGNS| |CREATIVE BRANDING| |PRINTING|</p>
     </div>
@@ -247,7 +247,7 @@ Creativity as it speaks excellence!">
       <a href="blog.html" class="text-white" style="text-decoration: none">BLOG</a></button>
     </div>
    <!-- =======================
-	Pricing -->
+  Pricing -->
 	<section class="pricing-page pricing pricing-center">
 			<div class="container">
 				<div class="row">

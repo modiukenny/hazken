@@ -155,13 +155,13 @@ Creativity as it speaks excellence!">
     <img src="src/img/hazken-image.png" alt="Hazken Digital Graphics Web" width="1100" height="500">
     </div>
     <div class="carousel-item">
-    <img src="src/img/hazken-image-printing-wedo.png" alt="Hazken websites page ui" width="1100" height="500">
+    <img src="src/img/hazken-image-printing-wedo.png" alt="Hazken Graphics Websites page ui web designer in lagos nigeria" width="1100" height="500">
     <div class="carousel-caption">
         <p>|WEB DESIGNS| |GRAPHICS DESIGNS| |CREATIVE BRANDING| |PRINTING|</p>
     </div>
     </div>
     <div class="carousel-item">
-    <img src="src/img/hazken-image-printing.png" alt="Hazken Web Digital Graphics Prints UI Mac Mockups" width="1100" height="500">
+    <img src="src/img/hazken-image-printing.png" alt="Hazken Web Digital Graphics Prints best graphic design in lagos nigeria" width="1100" height="500">
     <div class="carousel-caption">
         <h3 class="text-uppercase">Call us today</h3>
         <p class="text-uppercase">We give out the best</p>

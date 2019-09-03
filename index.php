@@ -197,7 +197,7 @@ Creativity as it speaks excellence!">
               <input type="email" class="form-control mb-3" placeholder="Your Email" name="email1" id="con-email">
               <p class="text-danger" id="emptyMessage" style="display: none">*Empty Message</p>
               <textarea class="form-control" rows="5" id="comment" name="message1"
-              placeholder="What kind of service would you like us to offer you?"></textarea>
+              placeholder="We would Love to hear from you!"></textarea>
           </div>
           <div class="clearfix">
           <button type="button" onclick="mailUs()" class="btn btn-danger ml-2 mb-2 float-left"
@@ -276,7 +276,7 @@ Creativity as it speaks excellence!">
               <input type="email" class="form-control mb-3" placeholder="Your Email" name="email2">
               <p class="text-danger float-left" id="emptyMessage1" style="display: none">*Empty Message</p>
               <textarea class="form-control" rows="5" id="comment" name="message2"
-              placeholder="Like to order for some printing products"></textarea>
+              placeholder="What kind of service would you like us to offer you?"></textarea>
           </div>
           <div class="clearfix">
             <button type="button" onclick="mailUsForPillows()" class="btn btn-danger ml-2 mb-2 float-left"

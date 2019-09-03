@@ -94,55 +94,44 @@ Creativity as it speaks excellence!">
               <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="collapsibleNavbar">
-              <ul class="navbar-nav ml-auto font-weight-bold text-capitalize"
-                  style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
-                  <li class="nav-item">
-                      <a class="nav-link text-secondary" title="WELCOME TO HAZKEN GRAPHICS" href="index.php"
-                      style="color: #4B4B4D; font-size: 15px; font-weight: bold">HOME</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" title="OUR SERVICE" href="service.html"
-                    style="color: #4B4B4D; font-size: 15px; font-weight: bold">OUR SERVICE</a>
-                </li>
-                  <li class="nav-item">
-                      <a class="nav-link" title="HAZKEN PORTFOLIO" href="portfolio.html"
-                      style="color: #4B4B4D; font-size: 15px; font-weight: bold">PORTFOLIO</a>
-                  </li>
-                  <li class="nav-item">
-                      <a class="nav-link" title="ABOUT HAZKEN GRAPHICS" href="aboutus.html"
-                      style="color: #4B4B4D; font-size: 15px; font-weight: bold">ABOUT US</a>
-                  </li>
-                  <li class="nav-item">
-                      <a class="nav-link" title="CONTACT HAZKEN GRAPHICS" href="contact.html"
-                      style="color: #4B4B4D; font-size: 15px; font-weight: bold">CONTACT</a>
-                  </li>
-                  <li class="nav-item" style="padding-top: 20px"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
-                    title="HAZKEN GRAPHICS INSTAGRAM" ><i class="fa fa-instagram font-social-media"></i>
-                    </a></li>
-                    <li class="nav-item" style="padding-top: 20px"><a href="https://www.facebook.com/hazkengraphics/" target="_blank"
-                     title="HAZKEN GRAPHICS FACEBOOK">
-                    <i class="fa fa-facebook-square font-social-media"></i></a>
-                    </li>
-                    <li class="nav-item" style="padding-top: 20px"><a href="https://wa.me/2348176246387" target="_blank"
-                    title="HAZKEN GRAPHICS WHATSAPP">
-                    <i class="fa fa-whatsapp font-social-media"></i></a>
-                    </li>
-                    <li class="nav-item" style="padding-top: 20px"><a href="https://www.linkedin.com/in/hazken-graphics-868054187" target="_blank"
-                      title="HAZKEN GRAPHICS LINKEDIN">
-                      <i class="fa fa-linkedin font-social-media"></i></a>
-                      </li>
-                    <li class="nav-item" style="padding-top: 20px"><a href="https://twitter.com/HazkenG" target="_blank"
-                    title="HAZKEN GRAPHICS TWITTER">
-                    <i class="fa fa-twitter font-social-media"></i></a>
-                    </li>
-                    <li class="nav-item" style="padding-top: 20px"><a href="mailto:hazkengraphics@gmail.com"
-                    title="HAZKEN GRAPHICS MAIL">
-                    <i class="fa fa-envelope font-social-media"></i></a>
-                    </li>
-                    <li class="nav-item" style="padding-top: 20px"><a href="tel:+2348176246387" title="CONTACT HAZKEN GRAPHICS">
-                     <i class="fa fa-phone font-social-media"></i></a>
-                </li>
-              </ul>
+            <ul class="navbar-nav ml-auto font-weight-bold text-capitalize"
+            style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+            <li class="nav-item pr-3">
+                <a class="nav-link text-secondary" title="WELCOME TO HAZKEN GRAPHICS" href="index.php"
+                style="color: #4B4B4D; font-size: 15px; font-weight: bold">HOME</a>
+            </li>
+            <li class="nav-item pr-3">
+                <a class="nav-link" title="OUR SERVICE" href="service.html"
+                style="color: #4B4B4D;pr-3 font-size: 15px; font-weight: bold">OUR SERVICE</a>
+            </li>
+            <li class="nav-item pr-3">
+              <a class="nav-link" title="OUR SERVICE" href="blog.html"
+              style="color: #4B4B4D; font-size: 15px; font-weight: bold">BLOG</a>
+          </li>
+            <li class="nav-item pr-3">
+                <a class="nav-link" title="HAZKEN PORTFOLIO" href="portfolio.html"
+                style="color: #4B4B4D; font-size: 15px; font-weight: bold">PORTFOLIO</a>
+            </li>
+            <li class="nav-item pr-3">
+                <a class="nav-link" title="ABOUT HAZKEN" href="aboutus.html"
+                style="color: #4B4B4D; font-size: 15px; font-weight: bold">ABOUT US</a>
+            </li>
+            <li class="nav-item pr-3">
+                <a class="nav-link" title="CONTACT HAZKEN" href="contact.html"
+                style="color: #4B4B4D; font-size: 15px; font-weight: bold">CONTACT</a>
+            </li>
+            <li class="nav-item" style="padding-top: 20px"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
+              title="HAZKEN GRAPHICS INSTAGRAM" ><i class="fa fa-instagram font-social-media"></i>
+                      </a></li>
+              <li class="nav-item" style="padding-top: 20px"><a href="https://www.facebook.com/hazkengraphics/" target="_blank"
+               title="HAZKEN GRAPHICS FACEBOOK">
+              <i class="fa fa-facebook-square font-social-media"></i></a>
+              </li>
+              <li class="nav-item" style="padding-top: 20px"><a href="https://twitter.com/HazkenG" target="_blank"
+              title="HAZKEN GRAPHICS TWITTER">
+              <i class="fa fa-twitter font-social-media"></i></a>
+              </li>
+          </ul>
           </div>
       </nav>
   </div>
@@ -200,47 +189,25 @@ Creativity as it speaks excellence!">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
+      <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" name="formMail" onsubmit="mailUs()" method="POST" class="gform input-opacity">
           <div class="form-group p-2">
           <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
-              <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
-              <textarea class="form-control" rows="5" id="comment" name="message"
+          <p class="text-success" id="alertMessage" style="display: none">*Message sent successfully, we will get back to you soon</p>
+          <p class="text-danger" id="emptyEmail" style="display: none">*Empty Email</p>
+              <input type="email" class="form-control mb-3" placeholder="Your Email" name="email1" id="con-email">
+              <p class="text-danger" id="emptyMessage" style="display: none">*Empty Message</p>
+              <textarea class="form-control" rows="5" id="comment" name="message1"
               placeholder="What kind of service would you like us to offer you?"></textarea>
           </div>
           <div class="clearfix">
-          <button type="submit" class="btn btn-danger ml-2 mb-2 float-left"
-          data-toggle="modal" data-target="#exampleModal119">SUBMIT</button>
+          <button type="button" onclick="mailUs()" class="btn btn-danger ml-2 mb-2 float-left"
+          >SUBMIT</button>
           <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
           </div>
-          <div style="display:none" class="thankyou_message">
-              <!-- You can customize the thankyou message by editing the code below -->
-              <h2><em>Thanks</em> for contacting us! We will get back to you soon!
-              </h2>
-             </div>
       </form>
       </div>
     </div>
   </div>
-
-<!-- Modal -->
-<div class="modal fade" id="exampleModal119" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel"></h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        MESSAGE SENT SUCCESSFULLY
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
 <!--modal close-->
     <div>
       <button type="button" class="btn btn-dark m-auto d-block btn-md font-weight-bold">
@@ -260,13 +227,35 @@ Creativity as it speaks excellence!">
 				</div>
 				<div class="row">
 					<!-- pricing item -->
-					<div class="col-md-4 mb-5 ">
+					<div class="col-md-4 mb-2 ">
 						<div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/044.jpg); background-position: center top; background-size: cover;">
 							<h5 class="text-white">Personal Plan</h5>
               <h1 class="text-warning">
 								₦7,000 </h1>
 							<p class="text-white">Get a Pillow Branded with your Company Name.</p>
-              <a class="btn btn-outline-light mt-4 font-weight-bold" href="#!"
+						</div>
+					</div>
+					<!-- pricing item -->
+					<div class="col-md-4 mb-2">
+						<div class="pricing-box h-100 shadow no-border box rounded"style="background-image:url(assets/images/portfolio/013.jpg); background-position: center top; background-size: cover;">
+							<div class="ribbon"><span>POPULAR</span></div>
+							<h5 class="text-white">Business Plan</h5>
+              <h1 class="text-warning">
+								₦120,000</h1>
+							<p class="text-white">Responsive Website + UX UX Design + Web Hosting + Domain Name.</p>
+						</div>
+					</div>
+					<!-- pricing item -->
+					<div class="col-md-4 mb-2">
+						<div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/07.jpg); background-position: center top; background-size: cover;">
+							<h5 class="text-white">Ultimate Plan</h5>
+								<h1 class="text-warning">
+								₦42,000 </h1>
+							<p class="text-white">Brochure Printing Square Size 100 Copies 8 X 8 (12 pages)</p>
+						</div>
+					</div>
+        </div>
+        <a class="btn btn-dark mt-4 font-weight-bold text-white" href="#!"
 							data-toggle="modal" data-target="#exampleModal15">Order now!</a>
 							<!-- Modal -->
 <!-- Modal -->
@@ -279,178 +268,25 @@ Creativity as it speaks excellence!">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
-          <div class="form-group p-2">
-          <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
-              <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
-              <textarea class="form-control" rows="5" id="comment" name="message"
+      <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" name="formPillow" onsubmit="mailUsForPillows()" method="POST" class="gform input-opacity">
+          <div class="form-group p-2 text-left">
+            <p for="exampleInputEmail1" class="font-weight-bold float-left">EMAIL ADDRESS</p>
+          <p class="text-success float-left" id="alertMessage1" style="display: none">*Message sent successfully, we will get back to you soon</p>
+          <p class="text-danger" id="emptyEmail1" style="display: none">*Empty Email</p>
+              <input type="email" class="form-control mb-3" placeholder="Your Email" name="email2">
+              <p class="text-danger float-left" id="emptyMessage1" style="display: none">*Empty Message</p>
+              <textarea class="form-control" rows="5" id="comment" name="message2"
               placeholder="Like to order for some printing products"></textarea>
           </div>
           <div class="clearfix">
-          <button type="submit" class="btn btn-danger ml-2 mb-2 float-left"
-          data-toggle="modal" data-target="#exampleModal19">SUBMIT</button>
-          <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
+            <button type="button" onclick="mailUsForPillows()" class="btn btn-danger ml-2 mb-2 float-left"
+            >SUBMIT</button>
+            <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
           </div>
-          <div style="display:none" class="thankyou_message">
-              <!-- You can customize the thankyou message by editing the code below -->
-              <h2><em>Thanks</em> for contacting us! We will get back to you soon!
-              </h2>
-             </div>
       </form>
       </div>
     </div>
   </div>
-
-<!-- Modal -->
-<div class="modal fade" id="exampleModal19" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel"></h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        MESSAGE SENT SUCCESSFULLY
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
-<!--modal close-->
-						</div>
-					</div>
-					<!-- pricing item -->
-					<div class="col-md-4 mb-5">
-						<div class="pricing-box h-100 shadow no-border box rounded"style="background-image:url(assets/images/portfolio/013.jpg); background-position: center top; background-size: cover;">
-							<div class="ribbon"><span>POPULAR</span></div>
-							<h5 class="text-white">Business Plan</h5>
-              <h1 class="text-warning">
-								₦120,000</h1>
-							<p class="text-white">Responsive Website + UX UX Design + Web Hosting + Domain Name.</p>
-							<a class="btn btn-outline-warning mt-4 font-weight-bold" href="#!"
-							data-toggle="modal" data-target="#exampleModal16">Order now!</a>
-							<!-- Modal -->
-<div class="modal fade" id="exampleModal16" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
-          <div class="form-group p-2">
-          <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
-              <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
-              <textarea class="form-control" rows="5" id="comment" name="message"
-              placeholder="You need a Responsive Website for your Business?"></textarea>
-          </div>
-          <div class="clearfix">
-          <button type="submit" class="btn btn-danger ml-2 mb-2 float-left"
-          data-toggle="modal" data-target="#exampleModal20">SUBMIT</button>
-          <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
-          </div>
-          <div style="display:none" class="thankyou_message">
-              <!-- You can customize the thankyou message by editing the code below -->
-              <h2><em>Thanks</em> for contacting us! We will get back to you soon!
-              </h2>
-             </div>
-      </form>
-      </div>
-    </div>
-  </div>
-
-<!-- Modal -->
-<div class="modal fade" id="exampleModal20" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel"></h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        MESSAGE SENT SUCCESSFULLY
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
-<!--modal close-->
-						</div>
-					</div>
-					<!-- pricing item -->
-					<div class="col-md-4 mb-5">
-						<div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/07.jpg); background-position: center top; background-size: cover;">
-							<h5 class="text-white">Ultimate Plan</h5>
-								<h1 class="text-warning">
-								₦42,000 </h1>
-							<p class="text-white">Brochure Printing Square Size 100 Copies 8 X 8 (12 pages)</p>
-							<a class="btn btn-outline-light mt-4 font-weight-bold" href="#!"
-							data-toggle="modal" data-target="#exampleModal17">Order now!</a>
-						<!-- Modal -->
-<div class="modal fade" id="exampleModal17" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
-          <div class="form-group p-2">
-          <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
-              <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
-              <textarea class="form-control" rows="5" id="comment" name="message"
-              placeholder="Your Message"></textarea>
-          </div>
-          <div class="clearfix">
-          <button type="submit" class="btn btn-danger ml-2 mb-2 float-left"
-          data-toggle="modal" data-target="#exampleModal21">SUBMIT</button>
-          <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
-          </div>
-          <div style="display:none" class="thankyou_message">
-              <!-- You can customize the thankyou message by editing the code below -->
-              <h2><em>Thanks</em> for contacting us! We will get back to you soon!
-              </h2>
-             </div>
-      </form>
-      </div>
-    </div>
-  </div>
-
-<!-- Modal -->
-<div class="modal fade" id="exampleModal21" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel"></h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        MESSAGE SENT SUCCESSFULLY
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
-<!--modal close-->
-						</div>
-					</div>
-				</div>
 				<!-- pricing enterprise -->
 				<div class="row">
 					<div class="col-sm-12 mt-2 mt-md-4">
@@ -708,62 +544,7 @@ Creativity as it speaks excellence!">
                 alt="business cards mockup psd">
             </div>
         </div>
-        <div class="d-flex flex-row justify-content-center">
-        <button type="button" class="btn btn-danger btn-md m-1 font-weight-bold"
-        data-toggle="modal" data-target="#exampleModal2">ORDER NOW</button>
-        </div>
     </section>
-<!-- Modal -->
-<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
-            <div class="form-group p-2">
-            <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
-                <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
-                <textarea class="form-control" rows="5" id="comment" name="message"
-                placeholder="Your Message"></textarea>
-            </div>
-            <button type="submit" class="btn btn-danger m-2"
-            data-toggle="modal" data-target="#exampleModal5"
-            >SUBMIT</button>
-            <div style="display:none" class="thankyou_message">
-                <!-- You can customize the thankyou message by editing the code below -->
-                <h2><em>Thanks</em> for contacting us! We will get back to you soon!
-                </h2>
-               </div>
-            
-        </form>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Modal -->
-<div class="modal fade" id="exampleModal5" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel"></h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="modal-body">
-          MESSAGE SENT SUCCESSFULLY
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-    </div>
-  </div>
-  
 
     <!--WEB DESIGNS DESIGN DETAILS-->
     <section class="container-fluid p-2 bg-dark m-auto" id="web-designs">
@@ -844,64 +625,8 @@ Creativity as it speaks excellence!">
             </div>
   </div>
 </div>
-        
-        <div class="d-flex flex-row justify-content-center">
-            <button type="button" class="btn btn-outline-light btn-md m-2 font-weight-bold"
-            data-toggle="modal" data-target="#exampleModal3">ORDER NOW</button>
-            </div>
     </section>
 </body>
-<!-- Modal -->
-<div class="modal fade" id="exampleModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
-            <div class="form-group p-2">
-            <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
-                <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
-                <textarea class="form-control" rows="5" id="comment" name="message"
-                placeholder="Your Message"></textarea>
-            </div>
-            <div class="clearfix">
-            <button type="submit" class="btn btn-danger m-2"
-            data-toggle="modal" data-target="#exampleModal8" >SUBMIT</button>
-            <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
-            </div>
-            <div style="display:none" class="thankyou_message">
-                <!-- You can customize the thankyou message by editing the code below -->
-                <h2><em>Thanks</em> for contacting us! We will get back to you soon!
-                </h2>
-               </div>
-        </form>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Modal -->
-<div class="modal fade" id="exampleModal8" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel"></h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="modal-body">
-          MESSAGE SENT SUCCESSFULLY
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-    </div>
-  </div>
 <!--BRANDING DESIGN DETAILS-->
 <article class="container-fluid p-2 bg-light">
     <div id="branding-designs">
@@ -969,64 +694,7 @@ Creativity as it speaks excellence!">
             alt="rubber plastic mockups jarind">
         </div>
         </div>
-        <div class="d-flex flex-row justify-content-center">
-            <button type="button" class="btn btn-danger btn-md m-1 font-weight-bold"
-            data-toggle="modal" data-target="#exampleModal4">ORDER NOW</button>
-            </div>
 </article>
-<!-- Modal -->
-<div class="modal fade" id="exampleModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">FILL IN</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" method="POST" class="gform input-opacity">
-            <div class="form-group p-2">
-            <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
-                <input type="email" class="form-control mb-3" placeholder="Your Email" name="email">
-                <textarea class="form-control" rows="5" id="comment" name="message"
-                placeholder="Your Message"></textarea>
-            </div>
-            <div class="clearfix">
-            <button type="submit" class="btn btn-danger m-2"
-            data-toggle="modal" data-target="#exampleModal10">SUBMIT</button>
-            <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
-            </div>
-            <div style="display:none" class="thankyou_message">
-                <!-- You can customize the thankyou message by editing the code below -->
-                <h2><em>Thanks</em> for contacting us! We will get back to you soon!
-                </h2>
-               </div>
-        </form>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- Modal -->
-<div class="modal fade" id="exampleModal10" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel"></h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="modal-body">
-          MESSAGE SENT SUCCESSFULLY
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-    </div>
-  </div>
-
 <!--ABOUT US-->
 <article class="container-fluid bg-light  pt-3" id="about-us">
         <div class="container bg-light">
@@ -1071,91 +739,106 @@ Creativity as it speaks excellence!">
                     title="HAZKEN MORE INFO ABOUT US">MORE INFO ABOUT US</a></div>
   </article>
   <!----Skills End---->
-        	<!-- =======================
+        <!-- =======================
 	footer  -->
 	<footer class="footer bg-light pt-6">
-		<div class="footer-content pb-3">
-			<div class="container">
-				<div class="row">
-					<!-- Footer widget 1 -->
-					<div class="col-md-4">
-						<div class="widget">
-							<a href="index.php" class="footer-logo">
-								<!-- footer IMG logo Start -->
-								<img src="src/img/HAZ-KEN GRAPHICS.png" alt="hazken_graphics_logo.png"
+    <div class="footer-content pb-3">
+      <div class="container">
+        <div class="row">
+          <!-- Footer widget 1 -->
+          <div class="col-md-4">
+            <div class="widget">
+              <a href="index.php" class="footer-logo">
+                <!-- footer IMG logo Start -->
+                <img src="src/img/HAZ-KEN GRAPHICS.png" alt="hazken_graphics_logo.png"
                     title="HAZKEN DIGITAL LOGO" style="width: 190px; height:50px;">
-								<!-- footer IMG logo End -->
-							</a>
-							<p class="mt-3">Web Design, Apllication, Brand Identity, Graphic Design and General Printing.</p>
-							<p>Full Reponsive Websites and Application, Creative Branding, Graphic Desisgn for Advert and Printing. </p>
-							<p style="font-style: italic">Creativity as it speaks excellence!</p>
-						</div>
-					</div>
-					<!-- Footer widget 2 -->
-					<div class="col-md-3 col-sm-6">
-						<div class="widget address">
-							<ul class="list-unstyled">
-								<li class="media mb-3"><i class="mr-3 display-8 ti-map-alt"></i><address>17, Rasheed Akotun Street, Bariga, Lagos.</address> </li>
-								<li class="media mb-3"><i class="mr-3 display-8 ti-headphone-alt"></i> +234 817 6246 387, +234 902 9480 399 </li>
-								<li class="media mb-3"><i class="mr-3 display-8 ti-email"></i> hazkengraphics<br>@gmail.com</li>
-								<li class="media mb-3"><i class="mr-3 display-8 ti-time"></i>
-                <p>Mon - Fri: <strong>09:00 - 17:00.</strong> <br>Sat: <strong>10:00 - 18:00.</strong> Sun: <strong>Closed</strong></p>
-							</ul>
-						</div>
-					</div>
-						<!-- Footer widget 3 -->
-						<div class="col-md-2 col-sm-6">
-							<div class="widget">
-								<h6>Quick LInks</h6>
-								<ul class="nav flex-column primary-hover">
-                  <li class="nav-item"><a class="nav-link text-dark" href="blog.html" >Blog</a></li>
-                  <li class="nav-item"><a class="nav-link text-dark" href="aboutus.html" >About</a></li>
-                  <li class="nav-item"><a class="nav-link  text-dark" href="service.html">Service</a></li>
-									<li class="nav-item"><a class="nav-link text-dark" href="contact.html">Contact</a></li>
-                  <li class="nav-item"><a class="nav-link text-dark" href="portfolio.html">Portfolio</a></li>
-                  <li class="nav-item"><a class="nav-link text-secondary" href="index.php">Home</a></li>
-								</ul>
-							</div>
-						</div>
-					<!-- Footer widget 4 -->
-					<div class="col-md-3">
-						<div class="widget bg-dark p-4 border-radius-3">
-							<i class="ti-email newsletter-icon text-white"></i>
-							<p class="mb-2 text-white">Subscribe to our newsletter to receive exclusive offers.</p>
-							<div class="form-group mb-0">
-								<input class="form-control border-white mb-3" type="email" placeholder="Enter email...">
-								<button class="btn btn-outline-light mb-0 bg-dark"><a href="mailto:hazkengraphics@gmail.com" class="text-white">Join us</a></button>
-							</div>
-						</div>
-					</div>
-				</div>
-        <!-- Footer widget 4 -->
-        <hr>
-        <div class="d-flex flex-row justify-content-center text-secondary">
-          <p style="font-size: 14px">Copyright &copy; 2019 Hazken Graphics all rights reserved.</p>
+                <!-- footer IMG logo End -->
+              </a>
+              <p class="mt-3">Web Design, Apllication, Brand Identity, Graphic Design and General Printing.</p>
+              <p>Full Reponsive Websites and Application, Creative Branding, Graphic Desisgn for Advert and Printing. </p>
+              <p style="font-style: italic">Creativity as it speaks excellence!</p>
+            </div>
+          </div>
+          <!-- Footer widget 2 -->
+          <div class="col-md-3 col-sm-6">
+            <div class="widget address">
+              <ul class="list-unstyled">
+                <li class="media mb-3"><i class="mr-3 display-8 ti-map-alt"></i>17, Rasheed Akotun Street, Bariga, Lagos. </li>
+                <li class="media mb-3"><i class="mr-3 display-8 ti-headphone-alt"></i> +234 817 6246 387, +234 902 9480 399 </li>
+                <li class="media mb-3"><i class="mr-3 display-8 ti-email"></i> <a href="mailto:hazkengraphics@gmail.com" class="text-dark pointer">hazkengraphics<br>@gmail.com</a></li>
+                <li class="media mb-3"><i class="mr-3 display-8 ti-time"></i>
+                  <p>Mon - Fri: <strong>09:00 - 17:00.</strong> <br>Sat: <strong>10:00 - 18:00.</strong> Sun: <strong>Closed</strong></p>
+                </li>
+              </ul>
+            </div>
+          </div>
+            <!-- Footer widget 3 -->
+            <div class="col-md-2 col-sm-6">
+              <div class="widget">
+                <h6>Quick LInks</h6>
+                <ul class="nav flex-column primary-hover">
+                    <li class="nav-item"><a class="nav-link" href="blog.html" >Blog</a></li>
+                  <li class="nav-item"><a class="nav-link" href="aboutus.html">About</a></li>
+                  <li class="nav-item"><a class="nav-link" href="service.html">Service</a></li>
+                  <li class="nav-item"><a class="nav-link" href="portfolio.html">Portfolio</a></li>
+                  <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                  <li class="nav-item"><a class="nav-link text-dark" href="index.php">Home</a></li>
+                </ul>
+              </div>
+            </div>
+          <!-- Footer widget 4 -->
+          <div class="col-md-3">
+            <div class="widget bg-dark p-4 all-text-white border-radius-3">
+              <i class="ti-email newsletter-icon"></i>
+              <p class="mb-2">Subscribe to our newsletter to receive exclusive offers.</p>
+              <div class="form-group mb-0">
+                <input class="form-control border-white mb-3" type="email" placeholder="Enter email...">
+                <button class="btn btn-outline-light mb-0"><a href="mailto:hazkengraphics@gmail.com">Join us</a></button>
+              </div>
+            </div>
+          </div>
         </div>
+        <!-- Footer widget 4 -->
+      </div>
+    </div>
+    <div class="divider mt-3"></div>
+    <!--footer copyright -->
+    <div class="footer-copyright py-3">
+      <div class="container">
+        <div class="d-md-flex justify-content-between align-items-center py-3 text-center text-md-left">
+          <!-- copyright text -->
+          <div class="copyright-text"><span class="text-secondary">©2019 All Rights Reserved by </span><a href="index.php" class="text-dark pointer"> Hazken Graphics</a></div>
+          <!-- copyright links-->
+          <div class="copyright-links primary-hover mt-3 mt-md-0">
+            <ul class="social-icons">
+                <li class="social-icons-item social-instagram m-0">
+                    <a class="social-icons-link w-auto px-2" href="https://www.instagram.com/hazken_graphics/" target="_blank"><i class="fa fa-instagram"></i></a>
+                  </li>
+              <li class="social-icons-item social-facebook m-0">
+                <a class="social-icons-link w-auto px-2" href="https://www.facebook.com/hazkengraphics/" target="_blank"><i class="fa fa-facebook"></i></a>
+              </li>
+              <li class="social-icons-item social-twitter m-0">
+                <a class="social-icons-link w-auto pl-2" href="https://twitter.com/HazkenG" target="_blank"><i class="fa fa-twitter"></i></a>
+              </li>
+              <li class="social-icons-item social-whatsapp m-0">
+                <a class="social-icons-link w-auto pl-3" href="https://wa.me/2348176246387" target="_blank"><i class="fa fa-whatsapp"></i></a>
+              </li>
+              <li class="social-icons-item social-linkedin m-0">
+                <a class="social-icons-link w-auto pl-3" href="https://www.linkedin.com/in/hazken-graphics-868054187" target="_blank"><i class="fa fa-linkedin"></i></a>
+              </li>
+              <li class="social-icons-item social-envelope m-0">
+                <a class="social-icons-link w-auto pl-3" href="mailto:hazkengraphics@gmail.com"><i class="fa fa-envelope"></i></a>
+              </li>
+              <li class="social-icons-item social-phone m-0">
+                <a class="social-icons-link w-auto pl-3" href="tel:+2348176246387"><i class="fa fa-phone"></i></a>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
-      <div class="d-flex flex-row justify-content-center">
-        <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
-        title="HAZKEN GRAPHICS INSTAGRAM" class="m-1" >
-        <i class="fa fa-instagram font-social-medias" style="font-size: 23px"></i></a>
-        <a href="https://www.facebook.com/hazkengraphics/" target="_blank"
-        class="m-1" title="HAZKEN GRAPHICS FACEBOOK">
-        <i class="fa fa-facebook-square font-social-medias" style="font-size: 23px"></i></a>
-        <a href="https://wa.me/2348176246387" target="_blank"
-        class="m-1" title="HAZKEN GRAPHICS WHATSAPP">
-        <i class="fa fa-whatsapp font-social-medias" style="font-size: 23px"></i></a>
-        <a href="https://www.linkedin.com/in/hazken-graphics-868054187" target="_blank"
-        class="m-1" title="HAZKEN GRAPHICS LINKEDIN">
-        <i class="fa fa-linkedin font-social-medias" style="font-size: 23px"></i></a>
-        <a href="https://twitter.com/HazkenG" target="_blank"
-        class="m-1" title="HAZKEN GRAPHICS TWITTER">
-        <i class="fa fa-twitter font-social-medias" style="font-size: 23px"></i></a>
-        <a href="mailto:hazkengraphics@gmail.com" title="HAZKEN GRAPHICS MAIL" class="m-1">
-        <i class="fa fa-envelope font-social-medias" style="font-size: 23px"></i></a>
     </div>
-      </footer>
+    
+  </footer>
 <!--Scroll-->
 <div> <a href="#" class="back-top btn btn-danger"><i class="ti-angle-up"></i></a> </div>
 
@@ -1163,7 +846,7 @@ Creativity as it speaks excellence!">
 <script src="main.js"></script>
 
 <!--Global JS-->
-
+<script src="contact.js"></script>
 	<script src="assets/vendor/jquery-easing/jquery.easing.min.js"></script>
 <!--Template Functions-->
 <script src="assets/js/functions.js"></script>

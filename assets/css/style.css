@@ -17887,3 +17887,6 @@ xpush
   background-color: green;
   color: white;
 }
+.pointer:hover{
+  text-decoration: none;
+}

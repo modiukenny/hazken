@@ -301,7 +301,7 @@ Creativity as it speaks excellence!">
 		Pricing -->
 <!--WHO WE ARE-->
 <div class="container-fluid">
-<div class="container p-3">
+<div class="container px-3">
         <div class="col-sm-12">
         <div id="accordion">
                 <div class="card">

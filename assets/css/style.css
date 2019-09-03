@@ -12336,7 +12336,7 @@ a.primary-hover:hover {
 
 section {
   padding-top: 5rem;
-  padding-bottom: 3.8rem;
+  padding-bottom: 1rem;
 }
 
 .section-pt {
@@ -12369,7 +12369,7 @@ section {
 @media (max-width: 991.98px) {
   section {
     padding-top: 4rem;
-    padding-bottom: 3rem;
+    padding-bottom: 1rem;
   }
   .section-pt {
     padding-top: 4rem;
@@ -12385,13 +12385,13 @@ section {
 @media (max-width: 767.98px) {
   section {
     padding-top: 4rem;
-    padding-bottom: 3rem;
+    padding-bottom: 1rem;
   }
   .section-pt {
     padding-top: 4rem;
   }
   .section-pb {
-    padding-bottom: 3rem;
+    padding-bottom: 1rem;
   }
   .md-center-all {
     top: 50%;

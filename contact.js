@@ -14,6 +14,7 @@ function contactUs() {
   }
   if (inputSubject === "") {
     document.getElementById("contact4").style.display = "block";
+    document.getElementById("contact2").style.display = "none";
     return false;
   }
   if (inputMessage === "") {
@@ -47,20 +48,56 @@ function mailUs() {
   }
 }
 function mailUsForPillows() {
-    var formPillowEmail = document.formPillow.email2.value;
-    var formPillowMessage = document.formPillow.message2.value;
-  
-    if (formPillowEmail === "") {
-      document.getElementById("emptyEmail1").style.display = "block";
-      return false;
-    }
-    if (formPillowMessage === "") {
-      document.getElementById("emptyMessage1").style.display = "block";
-      return false;
-    } else {
-      document.getElementById("alertMessage1").style.display = "block";
-      document.getElementById("emptyEmail1").style.display = "none";
-      document.getElementById("emptyMessage1").style.display = "none";
-      return true;
-    }
+  var formPillowEmail = document.formPillow.email2.value;
+  var formPillowMessage = document.formPillow.message2.value;
+
+  if (formPillowEmail === "") {
+    document.getElementById("emptyEmail1").style.display = "block";
+    return false;
   }
+  if (formPillowMessage === "") {
+    document.getElementById("emptyMessage1").style.display = "block";
+    return false;
+  } else {
+    document.getElementById("alertMessage1").style.display = "block";
+    document.getElementById("emptyEmail1").style.display = "none";
+    document.getElementById("emptyMessage1").style.display = "none";
+    return true;
+  }
+}
+const inputText = document.querySelector("#con-email1");
+inputText.addEventListener("input", () => {
+  const len = inputText.value;
+  if (len.length === 0) {
+    document.getElementById("emptyEmail").style.display = "block";
+  } else {
+    document.getElementById("emptyEmail").style.display = "none";
+  }
+});
+const inputMessage = document.querySelector("#con-message1");
+inputMessage.addEventListener("input", () => {
+  const message = inputMessage.value;
+  if (message.length === 0) {
+    document.getElementById("emptyMessage").style.display = "block";
+  } else {
+    document.getElementById("emptyMessage").style.display = "none";
+  }
+});
+const inputProduct = document.querySelector("#inputProduct");
+inputProduct.addEventListener("input", () => {
+  const inputEmail = inputProduct.value;
+  if (inputEmail.length === 0) {
+    document.getElementById("emptyEmail1").style.display = "block";
+  } else {
+    document.getElementById("emptyEmail1").style.display = "none";
+  }
+});
+const inputProduct1 = document.querySelector("#messageProduct");
+inputProduct1.addEventListener("input", () => {
+  const inputMessage1 = inputProduct1.value;
+  if (inputMessage1.length === 0) {
+    document.getElementById("emptyMessage1").style.display = "block";
+  } else {
+    document.getElementById("emptyMessage1").style.display = "none";
+  }
+});

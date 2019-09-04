@@ -194,9 +194,9 @@ Creativity as it speaks excellence!">
           <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
           <p class="text-success" id="alertMessage" style="display: none">*Message sent successfully, we will get back to you soon</p>
           <p class="text-danger" id="emptyEmail" style="display: none">*Empty Email</p>
-              <input type="email" class="form-control mb-3" placeholder="Your Email" name="email1" id="con-email">
+              <input type="email" class="form-control mb-3" placeholder="Your Email" name="email1" id="con-email1">
               <p class="text-danger" id="emptyMessage" style="display: none">*Empty Message</p>
-              <textarea class="form-control" rows="5" id="comment" name="message1"
+              <textarea class="form-control" rows="5" id="con-message1" name="message1"
               placeholder="We would Love to hear from you!"></textarea>
           </div>
           <div class="clearfix">
@@ -273,9 +273,9 @@ Creativity as it speaks excellence!">
             <p for="exampleInputEmail1" class="font-weight-bold float-left">EMAIL ADDRESS</p>
           <p class="text-success float-left" id="alertMessage1" style="display: none">*Message sent successfully, we will get back to you soon</p>
           <p class="text-danger" id="emptyEmail1" style="display: none">*Empty Email</p>
-              <input type="email" class="form-control mb-3" placeholder="Your Email" name="email2">
+              <input type="email" class="form-control mb-3" id="inputProduct" placeholder="Your Email" name="email2">
               <p class="text-danger float-left" id="emptyMessage1" style="display: none">*Empty Message</p>
-              <textarea class="form-control" rows="5" id="comment" name="message2"
+              <textarea class="form-control" rows="5" id="messageProduct" name="message2"
               placeholder="What kind of service would you like us to offer you?"></textarea>
           </div>
           <div class="clearfix">

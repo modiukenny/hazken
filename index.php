@@ -189,21 +189,59 @@ Creativity as it speaks excellence!">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" name="formMail" onsubmit="mailUs()" method="POST" class="gform input-opacity">
-          <div class="form-group p-2">
-          <label for="exampleInputEmail1" class="font-weight-bold">EMAIL ADDRESS</label>
-          <p class="text-success" id="alertMessage" style="display: none">*Message sent successfully, we will get back to you soon</p>
-          <p class="text-danger" id="emptyEmail" style="display: none">*Empty Email</p>
-              <input type="email" class="form-control mb-3" placeholder="Your Email" name="email1" id="con-email1">
-              <p class="text-danger" id="emptyMessage" style="display: none">*Empty Message</p>
-              <textarea class="form-control" rows="5" id="con-message1" name="message1"
-              placeholder="We would Love to hear from you!"></textarea>
+      <form class="contact-form p-2" id="contact-form" name="form" method="POST" onsubmit="contactUs()" action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec">
+        <!-- Start form message -->
+        <div class="row">
+          <div class="col-12">
+            <div class="alert alert-dark bg-success text-white " role="alert" id="contact1" style="display: none">
+              Your message was sent successfully.
+            </div>
+            <div class="alert alert-dark bg-danger text-white text-center" role="alert" id="contact2" style="display: none">
+              Name is required.
+            </div>
+            <div class="alert alert-dark bg-danger text-white" role="alert" id="contact3" style="display: none">
+              Email is required.
+            </div>
+            <div class="alert alert-dark bg-danger text-white" role="alert" id="contact4" style="display: none">
+              Subject is required.
+            </div>
+            <div class="alert alert-dark bg-danger text-white" role="alert" id="contact5" style="display: none">
+              Message is required.
+            </div>
           </div>
-          <div class="clearfix">
-          <button type="button" onclick="mailUs()" class="btn btn-danger ml-2 mb-2 float-left"
-          >SUBMIT</button>
-          <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
+        </div>
+        <!-- End form message -->
+
+        <!-- Start main form -->
+        <div class="row">
+          <div class="col-md-6 mb-2">
+            <!-- name -->
+            <span class="form-group">
+              <input id="con-name" name="name" type="text" class="form-control" placeholder="Name">
+            </span>
           </div>
+          <div class="col-md-6 mb-2">
+            <!-- email -->
+            <span class="form-group">
+              <input id="con-email" name="email" type="email" class="form-control" placeholder="E-mail">
+            </span>
+          </div>
+          <div class="col-md-12 mb-2">
+            <!-- Subject -->
+            <span class="form-group">
+              <input id="con-subject" name="subject" type="text" class="form-control" placeholder="Subject">
+            </span>
+          </div>
+          <div class="col-md-12 mb-2">
+            <!-- Message -->
+            <span class="form-group">
+              <textarea id="con-message" name="message" cols="40" rows="6" class="form-control" placeholder="Message"></textarea>
+            </span>
+          </div>
+          <!-- submit button -->
+          <div class="col-md-12 text-center"><button class="btn btn-dark btn-block">Send Message</button></div>
+        </div>
+        <!-- End main form -->
       </form>
       </div>
     </div>
@@ -268,21 +306,59 @@ Creativity as it speaks excellence!">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <form action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec" name="formPillow" onsubmit="mailUsForPillows()" method="POST" class="gform input-opacity">
-          <div class="form-group p-2 text-left">
-            <p for="exampleInputEmail1" class="font-weight-bold float-left">EMAIL ADDRESS</p>
-          <p class="text-success float-left" id="alertMessage1" style="display: none">*Message sent successfully, we will get back to you soon</p>
-          <p class="text-danger" id="emptyEmail1" style="display: none">*Empty Email</p>
-              <input type="email" class="form-control mb-3" id="inputProduct" placeholder="Your Email" name="email2">
-              <p class="text-danger float-left" id="emptyMessage1" style="display: none">*Empty Message</p>
-              <textarea class="form-control" rows="5" id="messageProduct" name="message2"
-              placeholder="What kind of service would you like us to offer you?"></textarea>
+      <form class="contact-form p-2" id="contact-form" name="form1" method="POST" onsubmit="contactUs1()" action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec">
+        <!-- Start form message -->
+        <div class="row">
+          <div class="col-12">
+            <div class="alert alert-dark bg-success text-white mx-auto" role="alert" id="contact11" style="display: none">
+              Your message was sent successfully.
+            </div>
+            <div class="alert alert-dark bg-danger text-white mx-auto" role="alert" id="contact21" style="display: none">
+              Name is Empty.
+            </div>
+            <div class="alert alert-dark bg-danger text-white mx-auto" role="alert" id="contact31" style="display: none">
+              Email is Empty.
+            </div>
+            <div class="alert alert-dark bg-danger text-white mx-auto" role="alert" id="contact41" style="display: none">
+              Subject is Empty.
+            </div>
+            <div class="alert alert-dark bg-danger text-white mx-auto" role="alert" id="contact51" style="display: none">
+              Message is Empty.
+            </div>
           </div>
-          <div class="clearfix">
-            <button type="button" onclick="mailUsForPillows()" class="btn btn-danger ml-2 mb-2 float-left"
-            >SUBMIT</button>
-            <button type="button" class="btn btn-secondary float-right mr-2" data-dismiss="modal">Close</button>
+        </div>
+        <!-- End form message -->
+
+        <!-- Start main form -->
+        <div class="row">
+          <div class="col-md-6 mb-2">
+            <!-- name -->
+            <span class="form-group">
+              <input id="con-name" name="name1" type="text" class="form-control" placeholder="Name">
+            </span>
           </div>
+          <div class="col-md-6 mb-2">
+            <!-- email -->
+            <span class="form-group">
+              <input id="con-email" name="email1" type="email" class="form-control" placeholder="E-mail">
+            </span>
+          </div>
+          <div class="col-md-12 mb-2">
+            <!-- Subject -->
+            <span class="form-group">
+              <input id="con-subject" name="subject1" type="text" class="form-control" placeholder="Subject">
+            </span>
+          </div>
+          <div class="col-md-12 mb-2">
+            <!-- Message -->
+            <span class="form-group">
+              <textarea id="con-message" name="message1" cols="40" rows="6" class="form-control" placeholder="Message"></textarea>
+            </span>
+          </div>
+          <!-- submit button -->
+          <div class="col-md-12 text-center"><button class="btn btn-dark btn-block">Send Message</button></div>
+        </div>
+        <!-- End main form -->
       </form>
       </div>
     </div>

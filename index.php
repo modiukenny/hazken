@@ -193,19 +193,19 @@ Creativity as it speaks excellence!">
         <!-- Start form message -->
         <div class="row">
           <div class="col-12">
-            <div class="alert alert-dark bg-success text-white " role="alert" id="contact1" style="display: none">
+            <div class="alert alert-dark bg-success text-white text-center" role="alert" id="contact1" style="display: none">
               Your message was sent successfully.
             </div>
             <div class="alert alert-dark bg-danger text-white text-center" role="alert" id="contact2" style="display: none">
               Name is required.
             </div>
-            <div class="alert alert-dark bg-danger text-white" role="alert" id="contact3" style="display: none">
+            <div class="alert alert-dark bg-danger text-white text-center" role="alert" id="contact3" style="display: none">
               Email is required.
             </div>
-            <div class="alert alert-dark bg-danger text-white" role="alert" id="contact4" style="display: none">
+            <div class="alert alert-dark bg-danger text-white text-center" role="alert" id="contact4" style="display: none">
               Subject is required.
             </div>
-            <div class="alert alert-dark bg-danger text-white" role="alert" id="contact5" style="display: none">
+            <div class="alert alert-dark bg-danger text-white text-center" role="alert" id="contact5" style="display: none">
               Message is required.
             </div>
           </div>
@@ -314,16 +314,16 @@ Creativity as it speaks excellence!">
               Your message was sent successfully.
             </div>
             <div class="alert alert-dark bg-danger text-white mx-auto" role="alert" id="contact21" style="display: none">
-              Name is Empty.
+            Name is required.
             </div>
             <div class="alert alert-dark bg-danger text-white mx-auto" role="alert" id="contact31" style="display: none">
-              Email is Empty.
+              Email is required.
             </div>
             <div class="alert alert-dark bg-danger text-white mx-auto" role="alert" id="contact41" style="display: none">
-              Subject is Empty.
+              Subject is required.
             </div>
             <div class="alert alert-dark bg-danger text-white mx-auto" role="alert" id="contact51" style="display: none">
-              Message is Empty.
+              Message is required.
             </div>
           </div>
         </div>

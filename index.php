@@ -196,6 +196,9 @@ Creativity as it speaks excellence!">
             <div class="alert alert-dark bg-success text-white text-center" role="alert" id="contact1" style="display: none">
               Your message was sent successfully.
             </div>
+            <div class="alert alert-dark bg-danger text-white text-center" role="alert" id="contact6" style="display: none">
+              one input is empty
+            </div>
             <div class="alert alert-dark bg-danger text-white text-center" role="alert" id="contact2" style="display: none">
               Name is required.
             </div>
@@ -217,25 +220,25 @@ Creativity as it speaks excellence!">
           <div class="col-md-6 mb-2">
             <!-- name -->
             <span class="form-group">
-              <input id="con-name" name="name" type="text" class="form-control" placeholder="Name">
+              <input id="con-name" name="name" type="text" class="form-control allContact" placeholder="Name">
             </span>
           </div>
           <div class="col-md-6 mb-2">
             <!-- email -->
             <span class="form-group">
-              <input id="con-email" name="email" type="email" class="form-control" placeholder="E-mail">
+              <input id="con-email" name="email" type="email" class="form-control allContact" placeholder="E-mail">
             </span>
           </div>
           <div class="col-md-12 mb-2">
             <!-- Subject -->
             <span class="form-group">
-              <input id="con-subject" name="subject" type="text" class="form-control" placeholder="Subject">
+              <input id="con-subject" name="subject" type="text" class="form-control allContact" placeholder="Subject">
             </span>
           </div>
           <div class="col-md-12 mb-2">
             <!-- Message -->
             <span class="form-group">
-              <textarea id="con-message" name="message" cols="40" rows="6" class="form-control" placeholder="Message"></textarea>
+              <textarea id="con-message" name="message" cols="40" rows="6" class="form-control allContact" placeholder="Message"></textarea>
             </span>
           </div>
           <!-- submit button -->
@@ -316,6 +319,9 @@ Creativity as it speaks excellence!">
             <div class="alert alert-dark bg-danger text-white mx-auto" role="alert" id="contact21" style="display: none">
             Name is required.
             </div>
+            <div class="alert alert-dark bg-danger text-white mx-auto" role="alert" id="contact61" style="display: none">
+              one input is empty.
+              </div>
             <div class="alert alert-dark bg-danger text-white mx-auto" role="alert" id="contact31" style="display: none">
               Email is required.
             </div>
@@ -334,25 +340,25 @@ Creativity as it speaks excellence!">
           <div class="col-md-6 mb-2">
             <!-- name -->
             <span class="form-group">
-              <input id="con-name" name="name1" type="text" class="form-control" placeholder="Name">
+              <input id="con-name" name="name1" type="text" class="form-control allMail" placeholder="Name">
             </span>
           </div>
           <div class="col-md-6 mb-2">
             <!-- email -->
             <span class="form-group">
-              <input id="con-email" name="email1" type="email" class="form-control" placeholder="E-mail">
+              <input id="con-email" name="email1" type="email" class="form-control allMail" placeholder="E-mail">
             </span>
           </div>
           <div class="col-md-12 mb-2">
             <!-- Subject -->
             <span class="form-group">
-              <input id="con-subject" name="subject1" type="text" class="form-control" placeholder="Subject">
+              <input id="con-subject" name="subject1" type="text" class="form-control allMail" placeholder="Subject">
             </span>
           </div>
           <div class="col-md-12 mb-2">
             <!-- Message -->
             <span class="form-group">
-              <textarea id="con-message" name="message1" cols="40" rows="6" class="form-control" placeholder="Message"></textarea>
+              <textarea id="con-message" name="message1" cols="40" rows="6" class="form-control allMail" placeholder="Message"></textarea>
             </span>
           </div>
           <!-- submit button -->

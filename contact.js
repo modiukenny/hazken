@@ -9,6 +9,8 @@ function contactUs() {
     document.getElementById("contact3").style.display = "none";
     document.getElementById("contact4").style.display = "none";
     document.getElementById("contact5").style.display = "none";
+    document.getElementById("contact1").style.display = "none";
+    document.getElementById("contact6").style.display = "none";
     return false;
   }
   if (inputEmail === "") {
@@ -16,6 +18,8 @@ function contactUs() {
     document.getElementById("contact2").style.display = "none";
     document.getElementById("contact4").style.display = "none";
     document.getElementById("contact5").style.display = "none";
+    document.getElementById("contact1").style.display = "none";
+    document.getElementById("contact6").style.display = "none";
     return false;
   }
   if (inputSubject === "") {
@@ -23,6 +27,8 @@ function contactUs() {
     document.getElementById("contact3").style.display = "none";
     document.getElementById("contact2").style.display = "none";
     document.getElementById("contact5").style.display = "none";
+    document.getElementById("contact1").style.display = "none";
+    document.getElementById("contact6").style.display = "none";
     return false;
   }
   if (inputMessage === "") {
@@ -34,6 +40,7 @@ function contactUs() {
     document.getElementById("contact3").style.display = "none";
     document.getElementById("contact4").style.display = "none";
     document.getElementById("contact5").style.display = "none";
+    document.getElementById("contact6").style.display = "none";
     return true;
   }
 }
@@ -48,6 +55,8 @@ function contactUs1() {
     document.getElementById("contact31").style.display = "none";
     document.getElementById("contact41").style.display = "none";
     document.getElementById("contact51").style.display = "none";
+    document.getElementById("contact11").style.display = "none";
+    document.getElementById("contact61").style.display = "none";
     return false;
   }
   if (inputEmail1 === "") {
@@ -55,6 +64,8 @@ function contactUs1() {
     document.getElementById("contact21").style.display = "none";
     document.getElementById("contact41").style.display = "none";
     document.getElementById("contact51").style.display = "none";
+    document.getElementById("contact11").style.display = "none";
+    document.getElementById("contact61").style.display = "none";
     return false;
   }
   if (inputSubject1 === "") {
@@ -62,6 +73,8 @@ function contactUs1() {
     document.getElementById("contact31").style.display = "none";
     document.getElementById("contact21").style.display = "none";
     document.getElementById("contact51").style.display = "none";
+    document.getElementById("contact11").style.display = "none";
+    document.getElementById("contact61").style.display = "none";
     return false;
   }
   if (inputMessage1 === "") {
@@ -69,6 +82,8 @@ function contactUs1() {
     document.getElementById("contact21").style.display = "none";
     document.getElementById("contact31").style.display = "none";
     document.getElementById("contact41").style.display = "none";
+    document.getElementById("contact11").style.display = "none";
+    document.getElementById("contact61").style.display = "none";
     return false;
   } else {
     document.getElementById("contact11").style.display = "block";
@@ -76,6 +91,39 @@ function contactUs1() {
     document.getElementById("contact31").style.display = "none";
     document.getElementById("contact41").style.display = "none";
     document.getElementById("contact51").style.display = "none";
+    document.getElementById("contact61").style.display = "none";
     return true;
   }
 }
+const mark = document.querySelectorAll(".allContact");
+mark.forEach(eachMark => {
+  eachMark.addEventListener("input", () => {
+    console.log("input");
+    if (eachMark.value === "") {
+      document.getElementById("contact6").style.display = "block";
+      document.getElementById("contact2").style.display = "none";
+      document.getElementById("contact3").style.display = "none";
+      document.getElementById("contact4").style.display = "none";
+      document.getElementById("contact5").style.display = "none";
+      document.getElementById("contact1").style.display = "none";
+    } else if (eachMark.value !== "") {
+      document.getElementById("contact6").style.display = "none";
+    }
+  });
+});
+const order = document.querySelectorAll(".allMail");
+order.forEach(orderAlert => {
+  orderAlert.addEventListener("input", () => {
+    console.log("input");
+    if (orderAlert.value === "") {
+      document.getElementById("contact61").style.display = "block";
+      document.getElementById("contact21").style.display = "none";
+      document.getElementById("contact31").style.display = "none";
+      document.getElementById("contact41").style.display = "none";
+      document.getElementById("contact51").style.display = "none";
+      document.getElementById("contact11").style.display = "none";
+    } else if (orderAlert.value !== "") {
+      document.getElementById("contact61").style.display = "none";
+    }
+  });
+});

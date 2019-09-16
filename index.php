@@ -197,7 +197,7 @@ Creativity as it speaks excellence!">
               Your message was sent successfully.
             </div>
             <div class="alert alert-dark bg-danger text-white text-center" role="alert" id="contact6" style="display: none">
-              one input is empty
+              one input is empty.
             </div>
             <div class="alert alert-dark bg-danger text-white text-center" role="alert" id="contact2" style="display: none">
               Name is required.
@@ -226,7 +226,7 @@ Creativity as it speaks excellence!">
           <div class="col-md-6 mb-2">
             <!-- email -->
             <span class="form-group">
-              <input id="con-email" name="email" type="email" class="form-control allContact" placeholder="E-mail">
+              <input id="con-email" name="email" type="email" class="form-control allContact" placeholder="Email">
             </span>
           </div>
           <div class="col-md-12 mb-2">
@@ -346,7 +346,7 @@ Creativity as it speaks excellence!">
           <div class="col-md-6 mb-2">
             <!-- email -->
             <span class="form-group">
-              <input id="con-email" name="email1" type="email" class="form-control allMail" placeholder="E-mail">
+              <input id="con-email" name="email1" type="email" class="form-control allMail" placeholder="Email">
             </span>
           </div>
           <div class="col-md-12 mb-2">

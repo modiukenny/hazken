@@ -45,7 +45,7 @@
 <!-- CSS Front Template -->
 <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
-<title>::HAZKEN GRAPHICS:: WEB DESIGN, GRAPHIC DESIGN, CREATIVE BRANDING and DIGITAL PRINTING SERVICES </title>
+<title>::HAZKEN GRAPHICS:: Web Design, Graphic Design, Creative Branding and Digital Printing Service </title>
 <!-- Plugins CSS -->
 <link rel="stylesheet" type="text/css" href="assets/vendor/themify-icons/css/themify-icons.css" />
 
@@ -57,7 +57,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Hazken Graphics">
 <meta name="description" content="Hazken Graphics::
- Web Design, Graphic Design, Creative Branding and Digital Printing Services in Lagos Nigeria.
+ Web Design, Graphic Design, Creative Branding and Digital Printing Service in Lagos Nigeria.
 Creativity as it speaks excellence!">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -170,7 +170,7 @@ Creativity as it speaks excellence!">
     <!--TO E-MAIL-->
     <div class="m-4 text-center">
         <h2 class="pb-2 font-weight-bolder" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Creativity as it speaks excellence!
-                <a href="" class="typewrite" data-period="2000" data-type='[ "WEB DESIGN", "GRAPHIC DESIGN", "UI/UX DESIGN", "PRINTING"]'>
+                <a href="" class="typewrite" data-period="2000" data-type='[ "WEB DESIGN", "GRAPHIC DESIGN", "UI/UX DESIGN", "DIGITAL PRINTING"]'>
                   <span class="wrap" style="text-decoration: none;"></span>
                 </a>
             </h2>
@@ -467,7 +467,7 @@ Creativity as it speaks excellence!">
                 text-dark" style="text-decoration: none">
                     <div class="text-center">
                         <img src="src/img/printing.png" style="width:48px; height:48px;">
-                        <h5 class="font-weight-bold">DIGITAL PRINTING SERVICES</h5>
+                        <h5 class="font-weight-bold">Digital Printing Service</h5>
                         <p>WEDDING PROGRAMS, MAGAZINES
                             OFFICE STATIONARIES, BOOK PUBLISHING,
                             LIGHT-PACKAGING, ETC...</p>
@@ -836,7 +836,7 @@ Creativity as it speaks excellence!">
                     title="HAZKEN DIGITAL LOGO" style="width: 190px; height:50px;">
                 <!-- footer IMG logo End -->
               </a>
-              <p class="mt-3">Web Design, Apllication, Brand Identity, Graphic Design and Digital Printing Services in Lagos Nigeria.</p>
+              <p class="mt-3">Web Design, Apllication, Brand Identity, Graphic Design and Digital Printing Service in Lagos Nigeria.</p>
               <p>Full Reponsive Websites and Application, Creative Branding, Graphic Desisgn for Advert and Printing. </p>
               <p style="font-style: italic">Creativity as it speaks excellence!</p>
             </div>

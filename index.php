@@ -397,7 +397,10 @@ Creativity as it speaks excellence!">
               
                   <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                            We specializes in the development of applications relating to the WORLD WIDE WEB or distributed network applications, which typically run protocols like HTTP from a Web Server to a client browser using associated programming languages like HTML/CSS, JAVASCRIPT, PYTHON etc.
+                            We specializes in the development of applications relating to the 
+                            WORLD WIDE WEB or distributed network applications, 
+                            which typically run protocols like HTTP from a Web Server to a client browser 
+                            using associated programming languages like HTML/CSS, JAVASCRIPT, REACT etc.
                     </div>
                   </div>
                 </div>

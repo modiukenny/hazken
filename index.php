@@ -170,7 +170,7 @@ Creativity as it speaks excellence!">
     <!--TO E-MAIL-->
     <div class="m-4 text-center">
         <h2 class="pb-2 font-weight-bolder" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Creativity as it speaks excellence!
-                <a href="" class="typewrite" data-period="2000" data-type='[ "WEB DESIGN", "GRAPHIC DESIGN", "UI/UX DESIGN", "DIGITAL PRINTING"]'>
+                <a href="" class="typewrite" data-period="2000" data-type='[ "WEB DESIGN", "GRAPHIC DESIGN", "UI/UX DESIGN", "DIGITAL PRINTING SERVICE"]'>
                   <span class="wrap" style="text-decoration: none;"></span>
                 </a>
             </h2>
@@ -510,31 +510,31 @@ Creativity as it speaks excellence!">
         <div class="row mx-auto">
             <div class="col-4">
                 <img src="src/img/8.png" class="img-fluid m-1"
-                alt="fliers mockups psd hazken">
+                alt="quality fliers printing in lagos">
             </div>
             <div class="col-4">
                 <img src="src/img/9.png" class="img-fluid m-1"
-                alt="calendar designs mockups psd hazken sierra leone airport authority">
+                alt="calendar designs printing in lagos sierra leone airport authority">
             </div>
             <div class="col-4">
                 <img src="src/img/10.png" class="img-fluid m-1"
-                alt="Note Pad Jotter Printing Hazken">
+                alt="Quality Note Pad Jotter Printing">
             </div>
             <div class="col-4">
                 <img src="src/img/12.png" class="img-fluid m-1"
-                alt="Hazken Business Cards Mockups psd photoshop">
+                alt="Graphic Design and Digital Printing Service in lagos Hazken Business Cards">
             </div>
             <div class="col-4">
                 <img src="src/img/13.png" class="img-fluid m-1"
-                alt="Wedding Papper Bag Mockups Branding Carrier Bag Lagos Nigeria Hazken">
+                alt="Paper Bag Printing in Lagos Nigeria Hazken">
             </div>
             <div class="col-4">
                 <img src="src/img/14.png" class="img-fluid m-1"
-                alt="Paper Fold Tri fold mockups psd">
+                alt="Paper Fold Tri fold in lagos">
             </div>
             <div class="col-4">
                 <img src="src/img/15.png" class="img-fluid m-1"
-                alt="Programme Card Mockups psd">
+                alt="Program printing in lagos nigeroa">
             </div>
             <div class="col-4">
                 <img src="src/img/21.png" class="img-fluid m-1"
@@ -566,15 +566,15 @@ Creativity as it speaks excellence!">
             </div>
             <div class="col-4">
                 <img src="src/img/32.png" class="img-fluid m-1"
-                alt="roll up banners psd photoshop">
+                alt="roll up banners printing in lagos nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/34.png" class="img-fluid m-1"
-                alt="birthday poster mockups psd photoshop bicycle">
+                alt="Quality birthday poster printing in lagos nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/35.png" class="img-fluid m-1"
-                alt="birthday invitation card mockups hazken prints">
+                alt="Digital printer in lagos nigeria birthday invitation card hazken prints">
             </div>
             <div class="col-4">
                 <img src="src/img/39.png" class="img-fluid m-1"
@@ -582,11 +582,11 @@ Creativity as it speaks excellence!">
             </div>
             <div class="col-4">
                 <img src="src/img/40.png" class="img-fluid m-1"
-                alt="carrier paper bag psd psd mockups download">
+                alt="carrier paper bag printing in lagos nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/66.png" class="img-fluid m-1"
-                alt="jekalo poster rides in lagos nigeria">
+                alt="jekalo poster riders in lagos nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/67.png" class="img-fluid m-1"
@@ -594,39 +594,39 @@ Creativity as it speaks excellence!">
             </div>
             <div class="col-4">
                 <img src="src/img/68.png" class="img-fluid m-1"
-                alt="Programme Birthday Designs Mockups psd download">
+                alt="Printing services in lagos nigeria Programme Birthday Designs">
             </div>
             <div class="col-4">
                 <img src="src/img/69.png" class="img-fluid m-1"
-                alt="927 cakes int'l business cards internation mockups psd">
+                alt="best printers in lagos nigeria 927 cakes int'l business cards">
             </div>
             <div class="col-4">
                 <img src="src/img/70.png" class="img-fluid m-1"
-                alt="brochures company designs square mockups psd">
+                alt="quality printing in lagos nigeria company brochures designs">
             </div>
             <div class="col-4">
                 <img src="src/img/71.png" class="img-fluid m-1"
-                alt="programs graduation designs mockups psd">
+                alt="print anything within 24hrs programs graduation designs">
             </div>
             <div class="col-4">
                 <img src="src/img/72.png" class="img-fluid m-1"
-                alt="foods carrier bags mockups psd">
+                alt="print made easy in lagos nigeria carrier bags mockups psd">
             </div>
             <div class="col-4">
                 <img src="src/img/73.png" class="img-fluid m-1"
-                alt="rccg redeemed christian church of God programs designs mockups psd">
+                alt="church programs design and printing in lagos">
             </div>
             <div class="col-4">
                 <img src="src/img/74.png" class="img-fluid m-1"
-                alt="rollup banner health and care mockups psd">
+                alt="rollup banner printing in lagos nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/75.png" class="img-fluid m-1"
-                alt="birthday designs @60 iv invitaion cards mockups psd">
+                alt="digital printing service birthday invitaion cards designs">
             </div>
             <div class="col-4">
                 <img src="src/img/76.png" class="img-fluid m-1"
-                alt="business cards mockup psd">
+                alt="digital printers in lagos nigeria business cards">
             </div>
         </div>
     </section>
@@ -659,53 +659,53 @@ Creativity as it speaks excellence!">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" style="border-radius: 12px" src="src/img/79.png" class="img-fluid"
-                    alt="ui ux designs">
+                    alt="ui/ux designs in lagos nigeria">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/80.png" class="img-fluid"
-                    alt="ui ux designs">
+                    alt="uiux designers in lagos">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/81.png" class="img-fluid"
-                    alt="ui ux designs hazken web">
+                    alt="ui ux designs in lagos hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/82.png" class="img-fluid"
-                    alt="ui ux designs hazken web">
+                    alt="uiuxdesigns in lagos hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/83.png" class="img-fluid"
-                    alt="ui ux designs hazken web">
+                    alt="user interface design in lagos hazken web">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/84.png" class="img-fluid"
-                    alt="ui ux designs hazken web">
+                    alt="user friendly design in lagos hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/85.png" class="img-fluid"
-                    alt="ui ux designs hazken web">
+                    alt="user experience design in lagos hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/86.png" class="img-fluid"
-                    alt="ui ux designs hazken web">
+                    alt="web designers in lagos nigeria hazken web">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
                 <div style="border-radius: 12px" class="col-4">
                     <img style="border-radius: 12px" src="src/img/91.png" class="img-fluid"
-                    alt="ui ux designs hazken web">
+                    alt="web designer in lagos nigeria hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/88.png" class="img-fluid"
-                    alt="ui ux designs hazken web">
+                    alt="web graphic design in lagos nigeria hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/89.png" class="img-fluid"
-                    alt="ui ux designs hazken web">
+                    alt="website designer in lagos nigeria hazken web">
                 </div>
             </div>
   </div>
@@ -720,19 +720,19 @@ Creativity as it speaks excellence!">
     <div class="row mx-auto">
         <div class="col-4">
             <img src="src/img/41.png" class="img-fluid m-1"
-            alt="car branding mockups psd hazken">
+            alt="creative branding in lagos nigeria rcar branding">
         </div>
         <div class="col-4">
             <img src="src/img/42.png" class="img-fluid m-1"
-            alt="pillow mockups printing download">
+            alt="quality throw pillow brands in lagos nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/44.png" class="img-fluid m-1"
-            alt="jekalo rides aston martin car branding mockups psd">
+            alt="offer rides within lagos nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/46.png" class="img-fluid m-1"
-            alt="table calendar mockups download golden tulip">
+            alt="quality table calendar printing and design in lagos">
         </div>
         <div class="col-4">
             <img src="src/img/47.png" class="img-fluid m-1"
@@ -740,7 +740,7 @@ Creativity as it speaks excellence!">
         </div>
         <div class="col-4">
             <img src="src/img/48.png" class="img-fluid m-1"
-            alt="samsung s9 s8 s10 + mockup ui hazken psd">
+            alt="uiux designers in lagos nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/49.png" class="img-fluid m-1"
@@ -748,19 +748,19 @@ Creativity as it speaks excellence!">
         </div>
         <div class="col-4">
             <img src="src/img/50.png" class="img-fluid m-1"
-            alt="hazken car branding mockups">
+            alt="creative branding in lagos nigeria hazken car branding">
         </div>
         <div class="col-4">
             <img src="src/img/54.png" class="img-fluid m-1"
-            alt="lanyard mockup psd download">
+            alt="lanyard printing in lagos nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/55.png" class="img-fluid m-1"
-            alt="carrier paper bag mockup download accessories bydiva">
+            alt="carrier paper bag printing in lagos nigeria">
         </div>
         <div class="col-4">
           <img src="src/img/58.png" class="img-fluid m-1"
-          alt="cosmectics mockups download psd">
+          alt="cosmectics printing in lagos nigeria">
       </div>
         <div class="col-4">
             <img src="src/img/59.png" class="img-fluid m-1"
@@ -768,15 +768,15 @@ Creativity as it speaks excellence!">
         </div>
         <div class="col-4">
             <img src="src/img/60.png" class="img-fluid m-1"
-            alt="mens bussiness cards mockups black psd">
+            alt="Digital printing service in lagos nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/61.png" class="img-fluid m-1"
-            alt="hazken mug mockups">
+            alt="mug printing in lagos nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/62.png" class="img-fluid m-1"
-            alt="rubber plastic mockups jarind">
+            alt="rubber plastic brand in lagos nigeria">
         </div>
         </div>
 </article>

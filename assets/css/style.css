@@ -10390,6 +10390,26 @@ a.text-dark:hover, a.text-dark:focus {
   line-height: 1.92;
 }
 
+.btn-grad-danger {
+  color: #ffffff;
+  background: -moz-linear-gradient(150deg, #2c2c2c 0%, #dc3545 50%, #2c2c2c 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #2c2c2c), color-stop(50%, #dc3545), color-stop(100%, #2c2c2c));
+  background: -webkit-linear-gradient(150deg, #2c2c2c 0%, #dc3545 50%, #2c2c2c 100%);
+  background: -o-linear-gradient(150deg, #2c2c2c 0%, #dc3545 50%, #2c2c2c 100%);
+  background: -ms-linear-gradient(150deg, #2c2c2c 0%, #dc3545 50%, #2c2c2c 100%);
+  background: linear-gradient(150deg, #2c2c2c 0%, #dc3545 50%, #2c2c2c 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-one', endColorstr='$color-two', GradientType=1);
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  background-size: 260% 100%;
+  background-position: right bottom;
+  border: 0;
+  line-height: 1.92;
+}
+
 .btn-grad.active, .btn-grad:active, .btn-grad:focus, .btn-grad:hover {
   color: #ffffff;
   background-position: left bottom;
@@ -17861,6 +17881,7 @@ xpush
   background: -moz-linear-gradient(150deg, #13547a, #80d0c7);
   background: linear-gradient(150deg, #13547a, #80d0c7);
 }
+
 .font-social-media {
   font-size: 23px;
   color: #727376;
@@ -17886,6 +17907,7 @@ xpush
   background-color: green;
   color: white;
 }
-.pointer:hover{
+
+.pointer:hover {
   text-decoration: none;
 }

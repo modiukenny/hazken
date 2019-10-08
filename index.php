@@ -493,7 +493,7 @@ Creativity as it speaks excellence!">
                     <div class="text-center">
                         <img src="src/img/porfolio.png" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">MY PORTFOLIO</h5>
-                        <p>Go to our link on<br><strong>INSTAGRAM</strong></p>
+                        <p id="graphics-designs">Go to our link on<br><strong>INSTAGRAM</strong></p>
                     </div>
                 </a>
 
@@ -505,7 +505,7 @@ Creativity as it speaks excellence!">
     </div>
 
     <!--GRAPHICS DESIGN DETAILS-->
-    <section class="container-fluid p-2" id="graphics-designs">
+    <section class="container-fluid p-2" >
         <h3 class=" text-center font-weight-bold">GRAPHIC DESIGNS AND PRINTING</h3>
         <div class="row mx-auto">
             <div class="col-4">
@@ -624,7 +624,7 @@ Creativity as it speaks excellence!">
                 <img src="src/img/75.png" class="img-fluid m-1"
                 alt="digital printing service birthday invitaion cards designs">
             </div>
-            <div class="col-4">
+            <div class="col-4" id="web-designs">
                 <img src="src/img/76.png" class="img-fluid m-1"
                 alt="digital printers in lagos nigeria business cards">
             </div>
@@ -632,7 +632,7 @@ Creativity as it speaks excellence!">
     </section>
 
     <!--WEB DESIGNS DESIGN DETAILS-->
-    <section class="container-fluid p-2 bg-dark m-auto" id="web-designs">
+    <section class="container-fluid p-2 bg-dark m-auto">
         <h3 class=" text-center font-weight-bold text-light" title="HAZKEN GRAPHICS WEB DESIGNS">WEB DESIGN</h3>
         <p class="text-center text-light">Web Design JavaScript for Mobile and Laptops
         </p>
@@ -703,7 +703,7 @@ Creativity as it speaks excellence!">
                     <img style="border-radius: 12px" src="src/img/88.png" class="img-fluid"
                     alt="web graphic design in lagos nigeria hazken web">
                 </div>
-                <div class="col-4">
+                <div class="col-4" id="branding-designs">
                     <img style="border-radius: 12px" src="src/img/89.png" class="img-fluid"
                     alt="website designer in lagos nigeria hazken web">
                 </div>
@@ -714,7 +714,7 @@ Creativity as it speaks excellence!">
 </body>
 <!--BRANDING DESIGN DETAILS-->
 <article class="container-fluid p-2 bg-light">
-    <div id="branding-designs">
+    <div>
         <h3 class=" text-center font-weight-bold">CREATIVE BRANDING</h3>
     </div>
     <div class="row mx-auto">

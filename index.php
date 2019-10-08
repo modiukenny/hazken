@@ -242,7 +242,7 @@ Creativity as it speaks excellence!">
             </span>
           </div>
           <!-- submit button -->
-          <div class="col-md-12 text-center"><button class="btn btn-dark btn-block">Send Message</button></div>
+          <div class="col-md-12 text-center"><button class="btn btn-dark btn-block btn-contact" disabled>Send Message</button></div>
         </div>
         <!-- End main form -->
       </form>
@@ -362,7 +362,7 @@ Creativity as it speaks excellence!">
             </span>
           </div>
           <!-- submit button -->
-          <div class="col-md-12 text-center"><button class="btn btn-dark btn-block">Send Message</button></div>
+          <div class="col-md-12 text-center"><button class="btn btn-dark btn-block btn-mailus" disabled>Send Message</button></div>
         </div>
         <!-- End main form -->
       </form>

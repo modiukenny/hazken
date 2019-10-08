@@ -155,6 +155,7 @@ const order = document.querySelectorAll(".allReact");
 order.forEach(orderAlert => {
   orderAlert.addEventListener("input", () => {
     console.log("input");
+    checkEmptyReact();
     if (orderAlert.value === "") {
       document.getElementById("react6").style.display = "block";
       document.getElementById("react2").style.display = "none";
@@ -171,6 +172,7 @@ const ordered = document.querySelectorAll(".allUiUxDesign");
 ordered.forEach(orderedAlert => {
   orderedAlert.addEventListener("input", () => {
     console.log("input");
+    checkEmptyUiUx();
     if (orderedAlert.value === "") {
       document.getElementById("uiUxDesign6").style.display = "block";
       document.getElementById("uiUxDesign2").style.display = "none";
@@ -187,6 +189,7 @@ const orderedgraphics = document.querySelectorAll(".allgraphics");
 orderedgraphics.forEach(orderedAlertgraphics => {
   orderedAlertgraphics.addEventListener("input", () => {
     console.log("input");
+    checkEmpty();
     if (orderedAlertgraphics.value === "") {
       document.getElementById("graphics6").style.display = "block";
       document.getElementById("graphics2").style.display = "none";
@@ -199,3 +202,63 @@ orderedgraphics.forEach(orderedAlertgraphics => {
     }
   });
 });
+const checkEmpty = () => {
+  console.log('clicked');
+  const inputSelectors = document.querySelectorAll('.allgraphics');
+  let oneEmpty = false;
+  for(let i = 0; i < inputSelectors.length; i++){
+    const selector = inputSelectors[i];
+    console.log(selector.value)
+    if(selector.value === ""){
+      oneEmpty = true;
+      break;
+    }
+  }
+  const submitBtn = document.querySelector('.btn-graphics');
+ 
+  if(oneEmpty){
+    submitBtn.disabled = true;
+  }else{
+    submitBtn.disabled = false;
+  }
+}
+const checkEmptyUiUx = () => {
+  console.log('clicked');
+  const inputSelectorsuiux = document.querySelectorAll('.allUiUxDesign');
+  let oneEmptyuiux = false;
+  for(let i = 0; i < inputSelectorsuiux.length; i++){
+    const selectoruiux = inputSelectorsuiux[i];
+    console.log(selectoruiux.value)
+    if(selectoruiux.value === ""){
+      oneEmptyuiux = true;
+      break;
+    }
+  }
+  const submitBtnuiux = document.querySelector('.btn-uiux');
+ 
+  if(oneEmptyuiux){
+    submitBtnuiux.disabled = true;
+  }else{
+    submitBtnuiux.disabled = false;
+  }
+}
+const checkEmptyReact= () => {
+  console.log('clicked');
+  const inputSelectorsReact = document.querySelectorAll('.allReact');
+  let oneEmptyReact = false;
+  for(let i = 0; i < inputSelectorsReact.length; i++){
+    const selectorReact = inputSelectorsReact[i];
+    console.log(selectorReact.value)
+    if(selectorReact.value === ""){
+      oneEmptyReact = true;
+      break;
+    }
+  }
+  const submitBtnReact = document.querySelector('.btn-react');
+ 
+  if(oneEmptyReact){
+    submitBtnReact.disabled = true;
+  }else{
+    submitBtnReact.disabled = false;
+  }
+}

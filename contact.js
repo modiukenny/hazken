@@ -99,6 +99,7 @@ const mark = document.querySelectorAll(".allContact");
 mark.forEach(eachMark => {
   eachMark.addEventListener("input", () => {
     console.log("input");
+    checkEmptyContact();
     if (eachMark.value === "") {
       document.getElementById("contact6").style.display = "block";
       document.getElementById("contact2").style.display = "none";
@@ -115,6 +116,7 @@ const order = document.querySelectorAll(".allMail");
 order.forEach(orderAlert => {
   orderAlert.addEventListener("input", () => {
     console.log("input");
+    checkEmptyMailUs();
     if (orderAlert.value === "") {
       document.getElementById("contact61").style.display = "block";
       document.getElementById("contact21").style.display = "none";
@@ -127,3 +129,43 @@ order.forEach(orderAlert => {
     }
   });
 });
+const checkEmptyContact= () => {
+  console.log('clicked');
+  const inputSelectorsReact = document.querySelectorAll('.allContact');
+  let oneEmptyReact = false;
+  for(let i = 0; i < inputSelectorsReact.length; i++){
+    const selectorReact = inputSelectorsReact[i];
+    console.log(selectorReact.value)
+    if(selectorReact.value === ""){
+      oneEmptyReact = true;
+      break;
+    }
+  }
+  const submitBtnReact = document.querySelector('.btn-contact');
+ 
+  if(oneEmptyReact){
+    submitBtnReact.disabled = true;
+  }else{
+    submitBtnReact.disabled = false;
+  }
+}
+const checkEmptyMailUs = () => {
+  console.log('clicked');
+  const inputSelectorsuiux = document.querySelectorAll('.allMail');
+  let oneEmptyuiux = false;
+  for(let i = 0; i < inputSelectorsuiux.length; i++){
+    const selectoruiux = inputSelectorsuiux[i];
+    console.log(selectoruiux.value)
+    if(selectoruiux.value === ""){
+      oneEmptyuiux = true;
+      break;
+    }
+  }
+  const submitBtnuiux = document.querySelector('.btn-mailus');
+ 
+  if(oneEmptyuiux){
+    submitBtnuiux.disabled = true;
+  }else{
+    submitBtnuiux.disabled = false;
+  }
+}

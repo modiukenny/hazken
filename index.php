@@ -477,9 +477,8 @@ Creativity as it speaks excellence!">
                     </div>
                 </a>
 
-                <a href="#branding-designs" class="col-lg-3 p-3 m-3 rounded 
-            shadow shadow-small border border-4 bg-light
-            text-dark" style="text-decoration: none">
+                <a href="#branding-designs" class="col-lg-3 p-3 m-3 rounded shadow 
+                shadow-small border border-4 bg-light text-dark" style="text-decoration: none">
                     <div class="text-center">
                         <img src="src/img/branding.png" style="width:48px; height:48px;">
                         <h5 class="font-weight-bold">CREATIVE BRANDING</h5>
@@ -703,7 +702,7 @@ Creativity as it speaks excellence!">
                     <img style="border-radius: 12px" src="src/img/88.png" class="img-fluid"
                     alt="web graphic design in lagos nigeria hazken web">
                 </div>
-                <div class="col-4" id="branding-designs">
+                <div class="col-4" >
                     <img style="border-radius: 12px" src="src/img/89.png" class="img-fluid"
                     alt="website designer in lagos nigeria hazken web">
                 </div>
@@ -711,11 +710,10 @@ Creativity as it speaks excellence!">
   </div>
 </div>
     </section>
-</body>
 <!--BRANDING DESIGN DETAIL-->
-<article class="container-fluid p-2 bg-light">
+<article class="container-fluid p-2 bg-light" id="branding-designs">
     <div>
-        <h3 class=" text-center font-weight-bold">CREATIVE BRANDING</h3>
+        <h3 class=" text-center font-weight-bold" >CREATIVE BRANDING</h3>
     </div>
     <div class="row mx-auto">
         <div class="col-4">

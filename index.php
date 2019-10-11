@@ -79,7 +79,7 @@ Creativity as it speaks excellence!">
 
 <body>
   <div class="preloader">
-		<img src="assets/images/preloader.svg" alt="Pre-loader">
+		<img src="assets/images/preloader.svg" alt="hazken graphics logo icon">
 	</div>
 <!--Header-->
 <div class="container-fluid bg-light" id="home-navigation" style="margin-bottom: 75px">
@@ -890,7 +890,7 @@ Creativity as it speaks excellence!">
       <div class="container">
         <div class="d-md-flex justify-content-between align-items-center py-3 text-center text-md-left">
           <!-- copyright text -->
-          <div class="copyright-text"><span class="text-secondary">©2019 All Rights Reserved by </span><a href="index.php" class="text-dark pointer"> Hazken Graphics</a></div>
+          <div class="copyright-text"><span class="text-secondary">©2020 All Rights Reserved by </span><a href="index.php" class="text-dark pointer"> Hazken Graphics</a></div>
           <!-- copyright links-->
           <div class="copyright-links primary-hover mt-3 mt-md-0">
             <ul class="social-icons">

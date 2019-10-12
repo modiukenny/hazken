@@ -141,16 +141,16 @@ Creativity as it speaks excellence!">
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="margin-top: 32px">
   <div class="carousel-inner">
     <div class="carousel-item active">
-    <img src="src/img/hazken-image.png" alt="Hazken Digital Graphics Web" width="1100" height="500">
+    <img src="src/img/hazken-image.png" alt="Hazken Graphics Digital Printing Service in Lagos" width="1100" height="500">
     </div>
     <div class="carousel-item">
-    <img src="src/img/hazken-image-printing-wedo.png" alt="Hazken Graphics Websites page ui web designer in lagos nigeria" width="1100" height="500">
+    <img src="src/img/hazken-image-printing-wedo.png" alt="Hazken Graphics web designer in lagos nigeria" width="1100" height="500">
     <div class="carousel-caption">
         <p>|WEB DESIGNS| |GRAPHICS DESIGNS| |CREATIVE BRANDING| |PRINTING|</p>
     </div>
     </div>
     <div class="carousel-item">
-    <img src="src/img/hazken-image-printing.png" alt="Hazken Web Digital Graphics Prints best graphic design in lagos nigeria" width="1100" height="500">
+    <img src="src/img/hazken-image-printing.png" alt="Hazken Graphic Design in lagos nigeria" width="1100" height="500">
     <div class="carousel-caption">
         <h3 class="text-uppercase">Call us today</h3>
         <p class="text-uppercase">We give out the best</p>
@@ -549,19 +549,19 @@ Creativity as it speaks excellence!">
             </div>
             <div class="col-4">
                 <img src="src/img/27.png" class="img-fluid m-1"
-                alt="church programs brochure hazken prints mockups psd">
+                alt="church programs brochure hazken prints">
             </div>
             <div class="col-4">
                 <img src="src/img/28.png" class="img-fluid m-1"
-                alt="birthday designs paper bag carrier bag mockups psd download">
+                alt="paper bag designs and printing">
             </div>
             <div class="col-4">
                 <img src="src/img/30.png" class="img-fluid m-1"
-                alt="brochure design mockups psd">
+                alt="branded brochure design">
             </div>
             <div class="col-4">
                 <img src="src/img/31.png" class="img-fluid m-1"
-                alt="wedding jotter memo pad mockups psd">
+                alt="wedding notepad design">
             </div>
             <div class="col-4">
                 <img src="src/img/32.png" class="img-fluid m-1"
@@ -601,7 +601,7 @@ Creativity as it speaks excellence!">
             </div>
             <div class="col-4">
                 <img src="src/img/70.png" class="img-fluid m-1"
-                alt="quality printing in lagos nigeria company brochures designs">
+                alt="quality printing service in lagos nigeria company brochures designs">
             </div>
             <div class="col-4">
                 <img src="src/img/71.png" class="img-fluid m-1"
@@ -676,7 +676,7 @@ Creativity as it speaks excellence!">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/83.png" class="img-fluid"
-                    alt="user interface design in lagos hazken web">
+                    alt="user interface designer in lagos hazken web">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
@@ -690,7 +690,7 @@ Creativity as it speaks excellence!">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/86.png" class="img-fluid"
-                    alt="web designers in lagos nigeria hazken web">
+                    alt="website designer in lagos nigeria hazken web">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
@@ -704,7 +704,7 @@ Creativity as it speaks excellence!">
                 </div>
                 <div class="col-4" >
                     <img style="border-radius: 12px" src="src/img/89.png" class="img-fluid"
-                    alt="website designer in lagos nigeria hazken web">
+                    alt="website design in lagos nigeria hazken web">
                 </div>
             </div>
   </div>
@@ -718,11 +718,11 @@ Creativity as it speaks excellence!">
     <div class="row mx-auto">
         <div class="col-4">
             <img src="src/img/41.png" class="img-fluid m-1"
-            alt="creative branding in lagos nigeria rcar branding">
+            alt="creative branding in lagos nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/42.png" class="img-fluid m-1"
-            alt="quality throw pillow brands in lagos nigeria">
+            alt="quality throw pillow branding in lagos nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/44.png" class="img-fluid m-1"
@@ -734,19 +734,19 @@ Creativity as it speaks excellence!">
         </div>
         <div class="col-4">
             <img src="src/img/47.png" class="img-fluid m-1"
-            alt="programs book graduation designs mockups download">
+            alt="programs book graduation designs">
         </div>
         <div class="col-4">
             <img src="src/img/48.png" class="img-fluid m-1"
-            alt="uiux designers in lagos nigeria">
+            alt="user interface designer in lagos nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/49.png" class="img-fluid m-1"
-            alt="table calendar designs mockups psd">
+            alt="table calendar designs and printing">
         </div>
         <div class="col-4">
             <img src="src/img/50.png" class="img-fluid m-1"
-            alt="creative branding in lagos nigeria hazken car branding">
+            alt="creative car branding in lagos nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/54.png" class="img-fluid m-1"
@@ -754,7 +754,7 @@ Creativity as it speaks excellence!">
         </div>
         <div class="col-4">
             <img src="src/img/55.png" class="img-fluid m-1"
-            alt="carrier paper bag printing in lagos nigeria">
+            alt="paper bag design and printing in lagos nigeria">
         </div>
         <div class="col-4">
           <img src="src/img/58.png" class="img-fluid m-1"
@@ -762,7 +762,7 @@ Creativity as it speaks excellence!">
       </div>
         <div class="col-4">
             <img src="src/img/59.png" class="img-fluid m-1"
-            alt="927 cakes int'l international carrier paper bag">
+            alt="927 cakes int'l international paper bag">
         </div>
         <div class="col-4">
             <img src="src/img/60.png" class="img-fluid m-1"

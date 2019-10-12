@@ -11166,7 +11166,7 @@ input, button, select, optgroup, textarea {
   padding: 13px 14px !important;
   position: fixed !important;
   bottom: 25px;
-  right: 25px;
+  left: 25px;
   border-radius: 3px;
   display: block;
   text-align: center;

@@ -156,11 +156,14 @@
 				</div>
 			</div>
 			<form>
+					<div class="alert alert-dark bg-danger col-sm-4 text-white text-center mx-auto" role="alert" id="contact61" style="display: none">
+							one input is empty.
+						</div>
 					<script src="https://js.paystack.co/v1/inline.js"></script>
 					  <span class="row justify-content-center">
-						<input name="email" type="email" id="input" class="form-control col-3 mr-3" placeholder="your email">
-						<input name="number" type="number" id="amt" class="form-control col-3 mr-3" value="1000">
-						<button type="button" class="btn h-25 btn-grad text-center" onclick="payWithPaystack()">Pay Online</button>
+						<input name="email" type="email" id="input" class="form-control col-3 mr-3 allMail" placeholder="email">
+						<input name="number" type="number" id="amt" class="form-control col-3 mr-3 allMail" placeholder="Amount">
+						<button type="button" class="btn h-25 btn-grad text-center btn-mailus" onclick="payWithPaystack()" disabled>Pay Online</button>
 					</span>
 				  </form>
 			<div class="row">

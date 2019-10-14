@@ -129,43 +129,43 @@ order.forEach(orderAlert => {
     }
   });
 });
-const checkEmptyContact= () => {
-  console.log('clicked');
-  const inputSelectorsReact = document.querySelectorAll('.allContact');
+const checkEmptyContact = () => {
+  console.log("clicked");
+  const inputSelectorsReact = document.querySelectorAll(".allContact");
   let oneEmptyReact = false;
-  for(let i = 0; i < inputSelectorsReact.length; i++){
+  for (let i = 0; i < inputSelectorsReact.length; i++) {
     const selectorReact = inputSelectorsReact[i];
-    console.log(selectorReact.value)
-    if(selectorReact.value === ""){
+    console.log(selectorReact.value);
+    if (selectorReact.value === "") {
       oneEmptyReact = true;
       break;
     }
   }
-  const submitBtnReact = document.querySelector('.btn-contact');
- 
-  if(oneEmptyReact){
+  const submitBtnReact = document.querySelector(".btn-contact");
+
+  if (oneEmptyReact) {
     submitBtnReact.disabled = true;
-  }else{
+  } else {
     submitBtnReact.disabled = false;
   }
-}
+};
 const checkEmptyMailUs = () => {
-  console.log('clicked');
-  const inputSelectorsuiux = document.querySelectorAll('.allMail');
+  console.log("clicked");
+  const inputSelectorsuiux = document.querySelectorAll(".allMail");
   let oneEmptyuiux = false;
-  for(let i = 0; i < inputSelectorsuiux.length; i++){
+  for (let i = 0; i < inputSelectorsuiux.length; i++) {
     const selectoruiux = inputSelectorsuiux[i];
-    console.log(selectoruiux.value)
-    if(selectoruiux.value === ""){
+    console.log(selectoruiux.value);
+    if (selectoruiux.value === "") {
       oneEmptyuiux = true;
       break;
     }
   }
-  const submitBtnuiux = document.querySelector('.btn-mailus');
- 
-  if(oneEmptyuiux){
+  const submitBtnuiux = document.querySelector(".btn-mailus");
+
+  if (oneEmptyuiux) {
     submitBtnuiux.disabled = true;
-  }else{
+  } else {
     submitBtnuiux.disabled = false;
   }
-}
+};

@@ -432,7 +432,7 @@ Creativity as it speaks excellence!">
                         shadow shadow-small border border-4 bg-light
                         text-dark" style="text-decoration: none">
                     <div class="text-center">
-                        <img src="src/img/graphics artist.png" style="width:48px; height:48px;">
+                      <h2 class="icon-primary"><i class="ti-pencil-alt"></i></h2>
                         <h5 class="font-weight-bold">GRAPHIC DESIGN</h5>
                         <p><span class="text-uppercase">logo design, Light-Packaging, Magazines, Brochures,
                           Office Stationary Designs, etc...</span></p>
@@ -443,7 +443,7 @@ Creativity as it speaks excellence!">
                     shadow shadow-small border border-4 bg-light
                     text-dark" style="text-decoration: none">
                     <div class="text-center">
-                        <img src="src/img/webdesign_icon.png" style="width:48px; height:48px;">
+                      <h2><i class="ti-world icon-white"></i></h2>
                         <h5 class="font-weight-bold">WEB DESIGNS</h5>
                         <p><span class="text-uppercase">UI/UX DESIGN, E-COMMERCE WEBSITE
                         FOR <br>WEB & MOBILE</span></p>
@@ -453,7 +453,7 @@ Creativity as it speaks excellence!">
                 shadow shadow-small border border-4 bg-light
                 text-dark" style="text-decoration: none">
                     <div class="text-center">
-                        <img src="src/img/printing.png" style="width:48px; height:48px;">
+                      <h2 class="icon-primary"><i class="ti-printer"></i></h2>
                         <h5 class="font-weight-bold">Digital Printing Service</h5>
                         <p>WEDDING PROGRAMS, MAGAZINES
                             OFFICE STATIONARIES, BOOK PUBLISHING,
@@ -464,7 +464,7 @@ Creativity as it speaks excellence!">
                 <a href="#branding-designs" class="col-lg-3 p-3 m-3 rounded shadow 
                 shadow-small border border-4 bg-light text-dark" style="text-decoration: none">
                     <div class="text-center">
-                        <img src="src/img/branding.png" style="width:48px; height:48px;">
+                      <h2 class="icon-primary"><i class="ti-bookmark-alt"></i></h2>
                         <h5 class="font-weight-bold">CREATIVE BRANDING</h5>
                         <p>CAR BRANDING, BROCHURE DESIGN, BOOK BRANDING, ETC...</p>
                     </div>
@@ -474,7 +474,7 @@ Creativity as it speaks excellence!">
                     shadow shadow-small border border-4 bg-light
                     text-dark" style="text-decoration: none">
                     <div class="text-center">
-                        <img src="src/img/porfolio.png" style="width:48px; height:48px;">
+                      <h2 class="icon-primary"><i class="ti-folder"></i></h2>
                         <h5 class="font-weight-bold">MY PORTFOLIO</h5>
                         <p id="graphics-designs">Go to our link on<br><strong>INSTAGRAM</strong></p>
                     </div>

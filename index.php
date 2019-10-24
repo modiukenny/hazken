@@ -134,7 +134,7 @@ Creativity as it speaks excellence!">
     </div>
     </div>
     <div class="carousel-item">
-    <img src="src/img/hazken-image-printing.png" alt="Hazken Graphic Design in lagos nigeria" width="1100" height="500">
+    <img src="src/img/hazken-image-printing.png" alt="Hazken Graphics Website Designer in lagos nigeria" width="1100" height="500">
     <div class="carousel-caption">
         <h3 class="text-uppercase text-white carousel-slides">Call us today</h3>
         <p class="text-uppercase">...We give out the best</p>

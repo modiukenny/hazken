@@ -760,7 +760,7 @@ Creativity as it speaks excellence!">
                   <div class="media-body mt-4 align-self-center">
                     <h4 class="font-weight-bolder" title="ABOUT HAZKEN GRAPHICS">ABOUT THE AUTHOR</h4>
                     <p style="font-size: 15px" class="text-dark"><span class="font-weight-bolder" title="Hazken Graphics CEO and Founder">
-                        MODIU KEHINDE HAZZAN</span><span title="A FREELANCE DESIGNER IN LAGOS"> a freelance web designer in Lagos</span>
+                        MODIU KEHINDE HAZZAN</span><span title="A FREELANCE DESIGNER IN LAGOS"> a freelance web designer and graphic designer in Lagos</span>
                         as an experienced professional, who is committed to raising awareness
                         about how to create a Responsive Website and Application,
                         also specialize in Graphics Design for Printing and Adverts.</p>

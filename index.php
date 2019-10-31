@@ -758,7 +758,7 @@ Creativity as it speaks excellence!">
                   <img src="./src/img/hazkenceo.png" title="Hazken Graphics CEO Founder" alt="Modiu Kehinde Hazzan Kenny Adeneye Hazken modiukenny"
                   class="mr-3 mt-4 align-self-lg-start" style="width:95px; height: 120px; border: 2px solid rgb(141, 141, 141); border-radius: 10px">
                   <div class="media-body mt-4 align-self-center">
-                    <h4 class="font-weight-bolder" title="graphic designer and web designer in lagos">ABOUT THE AUTHOR</h4>
+                    <h4 class="font-weight-bolder" title="Graphic Designer and Web Designer in Lagos">ABOUT THE AUTHOR</h4>
                     <p style="font-size: 15px" class="text-dark"><span class="font-weight-bolder" title="Hazken Graphics CEO and Founder">
                         MODIU KEHINDE HAZZAN</span><span title="A FREELANCE DESIGNER IN LAGOS"> a freelance web designer and graphic designer in Lagos</span>
                         as an experienced professional, who is committed to raising awareness

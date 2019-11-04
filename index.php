@@ -821,7 +821,7 @@ Creativity as it speaks excellence!">
                         MODIU KEHINDE HAZZAN</span><span title="A FREELANCE DESIGNER IN LAGOS"> a freelance web designer and graphic designer in Lagos</span>
                         as an experienced professional, who is committed to raising awareness
                         about how to create a Responsive Website and Application,
-                        also specialize in Graphics Design for Printing and Adverts.</p>
+                        also specialize in Graphics Design for Printing and Advertisement.</p>
                   </div>
                 </div>
               </div>

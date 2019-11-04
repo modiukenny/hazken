@@ -85,7 +85,7 @@ Creativity as it speaks excellence!">
                 style="color: #4B4B4D; font-size: 15px; font-weight: bold">HOME</a>
             </li>
             <li class="nav-item pr-2">
-                <a class="nav-link" title="OUR SERVICE" href="service.html"
+                <a class="nav-link" title="HAZKEN SERVICE" href="service.html"
                 style="color: #4B4B4D; font-size: 15px; font-weight: bold">OUR SERVICE</a>
             </li>
             <li class="nav-item pr-2">
@@ -125,16 +125,19 @@ Creativity as it speaks excellence!">
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="margin-top: 32px">
   <div class="carousel-inner">
     <div class="carousel-item active">
-    <img src="src/img/hazken-image.png" alt="Hazken Graphics Digital Printing Service in Lagos" width="1100" height="500">
+    <img src="src/img/hazken-image.png" alt="Hazken Graphics Digital Printing Service in Lagos" 
+    title="Hazken Graphics Digital Printing Service in Lagos" width="1100" height="500">
     </div>
     <div class="carousel-item">
-    <img src="src/img/hazken-image-printing-wedo.png" alt="Hazken Graphics web designer in lagos nigeria" width="1100" height="500">
+    <img src="src/img/hazken-image-printing-wedo.png" alt="Hazken Graphics web designer in lagos nigeria" 
+    title="Hazken Graphics Web Designer in Lagos" width="1100" height="500">
     <div class="carousel-caption carousel-slides carousel-slidespix">
         <p>|WEB DESIGNS| |GRAPHICS DESIGNS| |CREATIVE BRANDING| |PRINTING|</p>
     </div>
     </div>
     <div class="carousel-item">
-    <img src="src/img/hazken-image-printing.png" alt="Hazken Graphics Website Designer in lagos nigeria" width="1100" height="500">
+    <img src="src/img/hazken-image-printing.png" alt="Hazken Graphics Website Designer in lagos nigeria" 
+    title="Hazken Graphics Website Designer in Lagos Nigeria" width="1100" height="500">
     <div class="carousel-caption">
         <h3 class="text-uppercase text-white carousel-slides">Call us today</h3>
         <p class="text-uppercase">...We give out the best</p>
@@ -493,111 +496,137 @@ Creativity as it speaks excellence!">
         <div class="row mx-auto">
             <div class="col-4">
                 <img src="src/img/8.png" class="img-fluid m-1"
-                alt="quality fliers printing in lagos">
+                alt="quality fliers printing in lagos" title="Fliers Printing in Lagos">
             </div>
             <div class="col-4">
                 <img src="src/img/9.png" class="img-fluid m-1"
-                alt="calendar designs printing in lagos sierra leone airport authority">
+                alt="calendar design and printing in lagos sierra leone airport authority"
+                title="Calendar Design and Printing">
             </div>
             <div class="col-4">
                 <img src="src/img/12.png" class="img-fluid m-1"
-                alt="Graphic Design and Digital Printing Service in lagos Hazken Business Cards">
+                alt="Graphic Design and Digital Printing Service in lagos Hazken Business Cards"
+                title="Graphic Design and Digital Printing Service">
             </div>
             <div class="col-4">
                 <img src="src/img/13.png" class="img-fluid m-1"
-                alt="Paper Bag Printing in Lagos Nigeria Hazken">
+                alt="Paper Bag Printing and Design in Lagos Nigeria Hazken"
+                title="Paper Bag Printing and Design">
             </div>
             <div class="col-4">
                 <img src="src/img/14.png" class="img-fluid m-1"
-                alt="Tri fold brochure in lagos">
+                alt="Trifold brochure in lagos"
+                title="Trifold brochure">
             </div>
             <div class="col-4">
                 <img src="src/img/22.png" class="img-fluid m-1"
-                alt="jekalo t-shirts screen printing riders in lagos nigeria hazken brands">
+                alt="jekalo t-shirts screen printing riders in lagos nigeria hazken brands"
+                title="T-shirts Printing">
             </div>
             <div class="col-4">
                 <img src="src/img/24.png" class="img-fluid m-1"
-                alt="Programme Book Designs Mockups psd">
+                alt="Programme Book Designs Mockups psd"
+                title="Programme Book Designs">
             </div>
             <div class="col-4">
                 <img src="src/img/27.png" class="img-fluid m-1"
-                alt="church programs brochure hazken prints">
+                alt="Church Program Printing and Design hazken prints"
+                title="Church Program Printing and Design">
             </div>
             <div class="col-4">
                 <img src="src/img/28.png" class="img-fluid m-1"
-                alt="paper bag designs and printing">
+                alt="paper bag design and printing"
+                title="Paper Bag Designs and Printing">
             </div>
             <div class="col-4">
                 <img src="src/img/30.png" class="img-fluid m-1"
-                alt="branded brochure design">
+                alt="branded brochure design"
+                title="Branded Brochure and Printing">
             </div>
             <div class="col-4">
                 <img src="src/img/31.png" class="img-fluid m-1"
-                alt="wedding notepad design">
+                alt="wedding notepad design"
+                title="Wedding Notepad Design">
             </div>
             <div class="col-4">
                 <img src="src/img/32.png" class="img-fluid m-1"
-                alt="roll up banners printing in lagos nigeria">
+                alt="roll up banners printing in lagos nigeria"
+                title="Rollup Banners Printing and Design">
             </div>
             <div class="col-4">
                 <img src="src/img/34.png" class="img-fluid m-1"
-                alt="Quality birthday poster printing in lagos nigeria">
+                alt="Quality birthday poster printing in lagos nigeria"
+                title="Birthday Poster Printing and Design">
             </div>
             <div class="col-4">
                 <img src="src/img/35.png" class="img-fluid m-1"
-                alt="Digital printer in lagos nigeria birthday invitation card hazken prints">
+                alt="Digital printer in lagos nigeria birthday invitation card hazken prints"
+                title="Birthday Invitation Card">
             </div>
             <div class="col-4">
                 <img src="src/img/39.png" class="img-fluid m-1"
-                alt="business card mockups">
+                alt="business card Design and Printing"
+                title="business card Design and Printing">
             </div>
             <div class="col-4">
                 <img src="src/img/40.png" class="img-fluid m-1"
-                alt="carrier paper bag printing in lagos nigeria">
+                alt="paper bag printing in lagos nigeria"
+                title="Paper Bag Printing and Design in Lagos">
             </div>
             <div class="col-4">
                 <img src="src/img/66.png" class="img-fluid m-1"
-                alt="jekalo poster riders in lagos nigeria">
+                alt="jekalo poster riders in lagos nigeria"
+                title="Jekalo Poster">
             </div>
             <div class="col-4">
                 <img src="src/img/67.png" class="img-fluid m-1"
-                alt="Birthday Designs Rollup Banner @50">
+                alt="Birthday Designs Rollup Banner @50"
+                title="Rollup Banner Printing and Design">
             </div>
             <div class="col-4">
                 <img src="src/img/68.png" class="img-fluid m-1"
-                alt="Printing services in lagos nigeria Programme Birthday Designs">
+                alt="Printing service in lagos nigeria Programme Birthday Designs"
+                title="Printing service in lagos">
             </div>
             <div class="col-4">
                 <img src="src/img/69.png" class="img-fluid m-1"
-                alt="best printers in lagos nigeria 927 cakes int'l business cards">
+                alt="best printers in lagos nigeria 927 cakes int'l business cards"
+                title="927 Cakes Int'l Business Cards">
             </div>
             <div class="col-4">
                 <img src="src/img/70.png" class="img-fluid m-1"
-                alt="quality printing service in lagos nigeria company brochures designs">
+                alt="quality printing service in lagos nigeria company brochures designs"
+                title="Digital Printing Service in Lagos">
             </div>
             <div class="col-4">
                 <img src="src/img/71.png" class="img-fluid m-1"
-                alt="print anything within 24hrs programs graduation designs">
+                alt="print anything within 24hrs programs graduation designs"
+                title="Quality Printing Servicein Lagos">
             </div>
             <div class="col-4">
                 <img src="src/img/72.png" class="img-fluid m-1"
-                alt="print made easy in lagos nigeria carrier bags mockups psd">
+                alt="print made easy in lagos nigeria carrier bags"
+                title="Graphic Design and Printing Paper bag">
             </div>
             <div class="col-4">
                 <img src="src/img/73.png" class="img-fluid m-1"
-                alt="church programs design and printing in lagos">
+                alt="church programs design and printing in lagos"
+                title="Program Printing and Design in Lagos">
             </div>
             <div class="col-4">
                 <img src="src/img/74.png" class="img-fluid m-1"
-                alt="rollup banner printing in lagos nigeria">
+                alt="rollup banner printing in lagos nigeria"
+                title="Rollup Banner Printing and Design">
             </div>
             <div class="col-4">
                 <img src="src/img/75.png" class="img-fluid m-1"
-                alt="digital printing service birthday invitaion cards designs">
+                alt="digital printing service birthday invitaion cards designs"
+                title="Invitaion Cards Designs and Printing">
             </div>
             <div class="col-4" id="web-designs">
                 <img src="src/img/76.png" class="img-fluid m-1"
-                alt="digital printers in lagos nigeria business cards">
+                alt="digital printers in lagos nigeria business cards"
+                title="Digital Printers in lagos">
             </div>
         </div>
     </section>
@@ -607,8 +636,10 @@ Creativity as it speaks excellence!">
         <h3 class=" text-center font-weight-bold text-light" title="HAZKEN GRAPHICS WEB DESIGNS">WEB DESIGN</h3>
         <p class="text-center text-light">Web Design JavaScript for Mobile and Laptops
         </p>
-        <img src="src/img/responsive web.jpg" class="img-fluid mx-auto" alt="ui ux designs hazken web">
-        <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1" alt="ui ux designs hazken web">
+        <img src="src/img/responsive web.jpg" class="img-fluid mx-auto" alt="Website Design in Lagos hazken web"
+        title="Website Design in Lagos">
+        <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1" alt="web design in Lagos hazken web"
+        title="Web Design in Lagos">
         <h3 class=" text-center font-weight-bold text-light mt-2" title="HAZKEN GRAPHICS UI/UX DESIGNS">UI/UX DESIGNS</h3>
         <p class="text-center text-light">User Interface, focuses on the look and layouts.
                 <span class="text-primary">
@@ -626,57 +657,69 @@ Creativity as it speaks excellence!">
         <div class="d-flex flex-row justify-content-around mb-2">
                 <div class="col-4">
                     <img style="border-radius: 12px"src="src/img/78.png" class="img-fluid"
-                    alt="ui ux designs">
+                    alt="ui ux designs"
+                    title="UI UX Designs in Lagos">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" style="border-radius: 12px" src="src/img/79.png" class="img-fluid"
-                    alt="ui/ux designs in lagos nigeria">
+                    alt="ui/ux designs in lagos nigeria"
+                    title="UI/UX Designs in Lagos Nigeria">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/80.png" class="img-fluid"
-                    alt="uiux designers in lagos">
+                    alt="uiux designers in lagos"
+                    title="uiux designers in lagos">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/81.png" class="img-fluid"
-                    alt="ui ux designs in lagos hazken web">
+                    alt="ui ux designs in lagos hazken web"
+                    title="ui ux designs in lagos hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/82.png" class="img-fluid"
-                    alt="uiuxdesigns in lagos hazken web">
+                    alt="uiuxdesigns in lagos hazken web"
+                    title="uiuxdesigns in lagos hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/83.png" class="img-fluid"
-                    alt="user interface designer in lagos hazken web">
+                    alt="user interface designer in lagos hazken web"
+                    title="user interface designer in lagos hazken web">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/84.png" class="img-fluid"
-                    alt="user friendly design in lagos hazken web">
+                    alt="user friendly design in lagos hazken web"
+                    title="user friendly design in lagos hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/85.png" class="img-fluid"
-                    alt="user experience design in lagos hazken web">
+                    alt="user experience design in lagos hazken web"
+                    title="user experience design in lagos hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/86.png" class="img-fluid"
-                    alt="website designer in lagos nigeria hazken web">
+                    alt="website designer in lagos nigeria hazken web"
+                    title="website designer in lagos nigeria hazken web">
                 </div>
             </div>
             <div class="d-flex flex-row justify-content-around mb-2">
                 <div style="border-radius: 12px" class="col-4">
                     <img style="border-radius: 12px" src="src/img/91.png" class="img-fluid"
-                    alt="web designer in lagos nigeria hazken web">
+                    alt="web designer in lagos nigeria hazken web"
+                    title="web designer in lagos nigeria hazken web">
                 </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/88.png" class="img-fluid"
-                    alt="web graphic design in lagos nigeria hazken web">
+                    alt="web graphic design in lagos nigeria hazken web"
+                    title="web graphic design in lagos nigeria hazken web">
                 </div>
                 <div class="col-4" >
                     <img style="border-radius: 12px" src="src/img/89.png" class="img-fluid"
-                    alt="website design in lagos nigeria hazken web">
+                    alt="website design in lagos nigeria hazken web"
+                    title="website design in lagos nigeria hazken web">
                 </div>
             </div>
   </div>
@@ -690,63 +733,78 @@ Creativity as it speaks excellence!">
     <div class="row mx-auto">
         <div class="col-4">
             <img src="src/img/41.png" class="img-fluid m-1"
-            alt="creative branding in lagos nigeria">
+            alt="creative branding in lagos nigeria"
+            title="Creative Branding in Lagos Nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/42.png" class="img-fluid m-1"
-            alt="quality throw pillow branding in lagos nigeria">
+            alt="quality throw pillow branding in lagos nigeria"
+            title="Quality Throw Pillow Branding in Lagos">
         </div>
         <div class="col-4">
             <img src="src/img/44.png" class="img-fluid m-1"
-            alt="offer rides within lagos nigeria">
+            alt="offer rides within lagos nigeria"
+            title="Brand Identity in Lagos">
         </div>
         <div class="col-4">
             <img src="src/img/46.png" class="img-fluid m-1"
-            alt="quality table calendar printing and design in lagos">
+            alt="quality table calendar printing and design in lagos"
+            title="Table Calendar Printing and Design">
         </div>
         <div class="col-4">
             <img src="src/img/47.png" class="img-fluid m-1"
-            alt="programs book graduation designs">
+            alt="programs book graduation designs"
+            title="Programs Book Graduation Ddesigns">
         </div>
         <div class="col-4">
             <img src="src/img/48.png" class="img-fluid m-1"
-            alt="user interface designer in lagos nigeria">
+            alt="user interface designer in lagos nigeria"
+            title="User Interface Designer in Lagos Nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/49.png" class="img-fluid m-1"
-            alt="table calendar designs and printing">
+            alt="table calendar designs and printing"
+            title="Table Calendar Designs and Printing">
         </div>
         <div class="col-4">
             <img src="src/img/50.png" class="img-fluid m-1"
-            alt="creative car branding in lagos nigeria">
+            alt="creative car branding in lagos nigeria"
+            title="Creative Car Branding in Lagos Nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/54.png" class="img-fluid m-1"
-            alt="lanyard printing in lagos nigeria">
+            alt="lanyard printing in lagos nigeria"
+            title="Lanyard Printing in Lagos">
         </div>
         <div class="col-4">
             <img src="src/img/55.png" class="img-fluid m-1"
-            alt="paper bag design and printing in lagos nigeria">
+            alt="paper bag design and printing in lagos nigeria"
+            title="Paper Bag Design and Printing in Lagos">
         </div>
         <div class="col-4">
           <img src="src/img/58.png" class="img-fluid m-1"
-          alt="cosmectics printing in lagos nigeria">
+          alt="cosmectics printing in lagos nigeria"
+          title="Cosmectics Printing in Lagos">
       </div>
         <div class="col-4">
             <img src="src/img/59.png" class="img-fluid m-1"
-            alt="927 cakes int'l international paper bag">
+            alt="927 cakes int'l Confectionery paper bag"
+            title="927 Cakes Int'l Confectionery Paper Bag">
         </div>
         <div class="col-4">
             <img src="src/img/60.png" class="img-fluid m-1"
-            alt="Digital printing service in lagos nigeria">
+            alt="Digital printing service in lagos nigeria"
+            title="Printing Service in Lagos">
         </div>
         <div class="col-4">
             <img src="src/img/61.png" class="img-fluid m-1"
-            alt="mug printing in lagos nigeria">
+            alt="mug printing in lagos nigeria"
+            title="Mug Printing in Lagos">
         </div>
         <div class="col-4">
             <img src="src/img/62.png" class="img-fluid m-1"
-            alt="rubber plastic brand in lagos nigeria">
+            alt="rubber plastic brand in lagos nigeria"
+            title="Rubber Plastic Brand in Lagos">
         </div>
         </div>
 </article>

@@ -678,22 +678,11 @@ Creativity as it speaks excellence!">
                     title="ui ux designs in lagos hazken web">
                 </div>
                 <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/82.png" class="img-fluid"
-                    alt="uiuxdesigns in lagos hazken web"
-                    title="uiuxdesigns in lagos hazken web">
-                </div>
-                <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/83.png" class="img-fluid"
                     alt="user interface designer in lagos hazken web"
                     title="user interface designer in lagos hazken web">
                 </div>
             </div>
-            <div class="d-flex flex-row justify-content-around mb-2">
-                <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/84.png" class="img-fluid"
-                    alt="user friendly design in lagos hazken web"
-                    title="user friendly design in lagos hazken web">
-                </div>
                 <div class="col-4">
                     <img style="border-radius: 12px" src="src/img/85.png" class="img-fluid"
                     alt="user experience design in lagos hazken web"
@@ -715,11 +704,6 @@ Creativity as it speaks excellence!">
                     <img style="border-radius: 12px" src="src/img/88.png" class="img-fluid"
                     alt="web graphic design in lagos nigeria hazken web"
                     title="web graphic design in lagos nigeria hazken web">
-                </div>
-                <div class="col-4" >
-                    <img style="border-radius: 12px" src="src/img/89.png" class="img-fluid"
-                    alt="website design in lagos nigeria hazken web"
-                    title="website design in lagos nigeria hazken web">
                 </div>
             </div>
   </div>

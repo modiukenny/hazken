@@ -647,67 +647,6 @@ Creativity as it speaks excellence!">
                       </span>
         </p>
         <p>
-  <button class="btn btn-outline-light m-auto d-block btn-md font-weight-bold"  data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" >
-    VIEW
-  </button>
- 
-</p>
-<div class="collapse" id="collapseExample">
-  <div class="card card-body">
-        <div class="d-flex flex-row justify-content-around mb-2">
-                <div class="col-4">
-                    <img style="border-radius: 12px"src="src/img/78.png" class="img-fluid"
-                    alt="ui ux designs"
-                    title="UI UX Designs in Lagos">
-                </div>
-                <div class="col-4">
-                    <img style="border-radius: 12px" style="border-radius: 12px" src="src/img/79.png" class="img-fluid"
-                    alt="ui/ux designs in lagos nigeria"
-                    title="UI/UX Designs in Lagos Nigeria">
-                </div>
-                <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/80.png" class="img-fluid"
-                    alt="uiux designers in lagos"
-                    title="uiux designers in lagos">
-                </div>
-            </div>
-            <div class="d-flex flex-row justify-content-around mb-2">
-                <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/81.png" class="img-fluid"
-                    alt="ui ux designs in lagos hazken web"
-                    title="ui ux designs in lagos hazken web">
-                </div>
-                <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/83.png" class="img-fluid"
-                    alt="user interface designer in lagos hazken web"
-                    title="user interface designer in lagos hazken web">
-                </div>
-            </div>
-                <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/85.png" class="img-fluid"
-                    alt="user experience design in lagos hazken web"
-                    title="user experience design in lagos hazken web">
-                </div>
-                <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/86.png" class="img-fluid"
-                    alt="website designer in lagos nigeria hazken web"
-                    title="website designer in lagos nigeria hazken web">
-                </div>
-            </div>
-            <div class="d-flex flex-row justify-content-around mb-2">
-                <div style="border-radius: 12px" class="col-4">
-                    <img style="border-radius: 12px" src="src/img/91.png" class="img-fluid"
-                    alt="web designer in lagos nigeria hazken web"
-                    title="web designer in lagos nigeria hazken web">
-                </div>
-                <div class="col-4">
-                    <img style="border-radius: 12px" src="src/img/88.png" class="img-fluid"
-                    alt="web graphic design in lagos nigeria hazken web"
-                    title="web graphic design in lagos nigeria hazken web">
-                </div>
-            </div>
-  </div>
-</div>
     </section>
 <!--BRANDING DESIGN DETAIL-->
 <article class="container-fluid p-2 bg-light" id="branding-designs">

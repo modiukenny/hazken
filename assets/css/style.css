@@ -12361,16 +12361,16 @@ a.primary-hover:hover {
 =================================*/
 
 section {
-  padding-top: 5rem;
+  padding-top: 1rem;
   padding-bottom: 1rem;
 }
 
 .section-pt {
-  padding-top: 5rem;
+  padding-top: 1rem;
 }
 
 .section-pb {
-  padding-bottom: 3.8rem;
+  padding-bottom: 2.8rem;
 }
 
 .mt-30 {
@@ -12394,14 +12394,14 @@ section {
 
 @media (max-width: 991.98px) {
   section {
-    padding-top: 4rem;
+    padding-top: 1rem;
     padding-bottom: 1rem;
   }
   .section-pt {
-    padding-top: 4rem;
+    padding-top: 1rem;
   }
   .section-pb {
-    padding-bottom: 3rem;
+    padding-bottom: 1rem;
   }
   .height-700 {
     height: 500px;
@@ -12410,11 +12410,11 @@ section {
 
 @media (max-width: 767.98px) {
   section {
-    padding-top: 4rem;
+    padding-top: 1rem;
     padding-bottom: 1rem;
   }
   .section-pt {
-    padding-top: 4rem;
+    padding-top: 1rem;
   }
   .section-pb {
     padding-bottom: 1rem;

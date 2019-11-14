@@ -640,11 +640,6 @@ Creativity as it speaks excellence!">
         title="Website Design in Lagos">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1" alt="web design in Lagos hazken web"
         title="Web Design in Lagos">
-        <h3 class=" text-center font-weight-bold text-light mt-2" title="HAZKEN GRAPHICS UI/UX DESIGNS">UI/UX DESIGNS</h3>
-        <p class="text-center text-light">User Interface, focuses on the look and layouts.
-                <span class="text-primary">
-                        <strong class="u-text-animation u-text-animation--typing"></strong>
-                      </span>
         </p>
         <p>
     </section>

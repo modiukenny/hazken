@@ -253,3 +253,6 @@ const checkEmptyReact = () => {
     submitBtnReact.disabled = false;
   }
 };
+function myFunction(){
+  document.getElementById("showComment").style = "block"
+}

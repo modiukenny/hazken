@@ -65,61 +65,100 @@ Creativity as it speaks excellence!">
   <div class="preloader">
 		<img src="assets/images/preloader.svg" alt="hazken graphics logo icon">
 	</div>
-<!--Header-->
-<div class="container-fluid bg-light" id="home-navigation" style="margin-bottom: 75px">
-  <div class="container">
-      <nav class="navbar navbar-expand-lg bg-light navbar-light fixed-top"
-      style="border-bottom: 4px solid #7E2726;">
-          <a class="navbar-brand" href="index.php">
-              <img src="src/img/HAZ-KEN GRAPHICS.png" alt="hazken graphics logo"
-              title="HAZKEN GRAPHICS LOGO" style="width: 190px; height:50px;">
-          </a>
-          <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-              <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="collapsibleNavbar">
-            <ul class="navbar-nav ml-auto font-weight-bold text-capitalize"
-            style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
-            <li class="nav-item pr-2">
-                <a class="nav-link text-danger" title="WELCOME TO HAZKEN GRAPHICS" href="index.php"
-                style="color: #4B4B4D; font-size: 15px; font-weight: bold">HOME</a>
-            </li>
-            <li class="nav-item pr-2">
-                <a class="nav-link" title="HAZKEN SERVICE" href="service.html"
-                style="color: #4B4B4D; font-size: 15px; font-weight: bold">OUR SERVICE</a>
-            </li>
-            <li class="nav-item pr-2">
-              <a class="nav-link" title="OUR SERVICE" href="blog.html"
-              style="color: #4B4B4D; font-size: 15px; font-weight: bold">BLOG</a>
-          </li>
-            <li class="nav-item pr-2">
-                <a class="nav-link" title="HAZKEN PORTFOLIO" href="portfolio.html"
-                style="color: #4B4B4D; font-size: 15px; font-weight: bold">PORTFOLIO</a>
-            </li>
-            <li class="nav-item pr-2">
-                <a class="nav-link" title="ABOUT HAZKEN" href="aboutus.html"
-                style="color: #4B4B4D; font-size: 15px; font-weight: bold">ABOUT US</a>
-            </li>
-            <li class="nav-item pr-2">
-                <a class="nav-link" title="CONTACT HAZKEN" href="contact.html"
-                style="color: #4B4B4D; font-size: 15px; font-weight: bold">CONTACT</a>
-            </li>
-            <li class="nav-item" style="padding-top: 20px"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
-              title="HAZKEN GRAPHICS INSTAGRAM" ><i class="fa fa-instagram font-social-media"></i>
-                      </a></li>
-              <li class="nav-item" style="padding-top: 20px"><a href="https://www.facebook.com/hazkengraphics/" target="_blank"
-               title="HAZKEN GRAPHICS FACEBOOK">
-              <i class="fa fa-facebook-square font-social-media"></i></a>
-              </li>
-              <li class="nav-item" style="padding-top: 20px"><a href="https://twitter.com/HazkenG" target="_blank"
-              title="HAZKEN GRAPHICS TWITTER">
-              <i class="fa fa-twitter font-social-media"></i></a>
-              </li>
-          </ul>
-          </div>
-      </nav>
-  </div>
+	<!--Header-->
+<div class="container-fluid bg-light" id="home-navigation">
+	<div class="container">
+			<nav class="navbar navbar-expand-lg bg-light navbar-light fixed-top"
+			style="border-bottom: 4px solid #7E2726;">
+					<a class="navbar-brand" href="index.php">
+							<img src="src/img/HAZ-KEN GRAPHICS.png" alt="web designer in lagos"
+							title="HAZKEN GRAPHICS LOGO" style="width: 190px; height:50px;">
+					</a>
+					<button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+							<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse" id="collapsibleNavbar">
+						<ul class="navbar-nav ml-auto font-weight-bold text-capitalize"
+						style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+						<li class="nav-item">
+								<a class="nav-link text-danger" title="WELCOME TO HAZKEN GRAPHICS" href="index.php"
+								style="color: #4B4B4D; font-size: 15px; font-weight: bold">HOME</a>
+						</li>
+						
+						<!-- Menu item 2 Blog-->
+						<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" title="HAZKEN SERVICE" href="#" id="blogMenu" 
+								style="color: #4B4B4D; font-size: 15px; font-weight: bold" data-toggle="dropdown" aria-haspopup="true" 
+								aria-expanded="false">PAGE</a>
+								<ul class="dropdown-menu" aria-labelledby="blogMenu">
+									<li class="dropdown-submenu">
+										<a class="dropdown-item" href="service.html">Our Service</a>
+									</li>
+									<li class="dropdown-submenu">
+											<a class="dropdown-item" href="blog_page15.html">Graphic Design</a>
+										</li>
+										<li class="dropdown-submenu">
+												<a class="dropdown-item" href="blog_page3.html">Web Design and UIUX Design</a>
+											</li>
+									<li class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href="#">Corporate Branding</a>
+										<ul class="dropdown-menu">
+											<li> <a class="dropdown-item" href="blog_page10.html">Business Cards</a> </li>
+											<li> <a class="dropdown-item" href="blog_page5.html">Marketing Brochures</a> </li>
+											<li> <a class="dropdown-item" href="blog_page7.html">Billboard Branding</a> </li>
+											<li> <a class="dropdown-item" href="blog_page8.html">Outdoor Posters</a> </li>
+											<li> <a class="dropdown-item" href="blog_page11.html">Calendar</a> </li>
+											<li> <a class="dropdown-item" href="blog_page31.html">Large Format Printing</a> </li>
+											<li> <a class="dropdown-item" href="blog_page12.html">Flyer and Handbills</a> </li>
+											<li> <a class="dropdown-item" href="blog_page47.html">LetterHead and Branded Envelopes</a> </li>
+											<li> <a class="dropdown-item" href="blog_page41.html">Wedding Stationery</a> </li>
+											<li> <a class="dropdown-item" href="blog_page17.html">Plastic Identity Cards</a> </li>
+										</ul>
+									</li>
+									<li class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href="#">SOUVENIRS/GIFTS
+												</a>
+										<ul class="dropdown-menu">
+											<li> <a class="dropdown-item" href="blog_page48.html">Custom Mugs</a> </li>
+											<li> <a class="dropdown-item" href="blog_page6.html">Paper Bag</a> </li>
+											<li> <a class="dropdown-item" href="blog_page38.html">Season Greetings Card</a> </li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+						<li class="nav-item">
+							<a class="nav-link" title="HAZKEN BLOG" href="blog.html"
+							style="color: #4B4B4D; font-size: 15px; font-weight: bold">BLOG</a>
+					</li>
+						<li class="nav-item">
+								<a class="nav-link" title="HAZKEN PORTFOLIO" href="portfolio.html"
+								style="color: #4B4B4D; font-size: 15px; font-weight: bold">PORTFOLIO</a>
+						</li>
+						<li class="nav-item">
+								<a class="nav-link" title="ABOUT HAZKEN" href="aboutus.html"
+								style="color: #4B4B4D; font-size: 15px; font-weight: bold">ABOUT US</a>
+						</li>
+						<li class="nav-item">
+								<a class="nav-link" title="CONTACT HAZKEN" href="contact.html"
+								style="color: #4B4B4D; font-size: 15px; font-weight: bold">CONTACT</a>
+						</li>
+						<li class="nav-item" style="padding-top: 20px"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
+							title="HAZKEN GRAPHICS INSTAGRAM" ><i class="fa fa-instagram font-social-media"></i>
+											</a></li>
+							<li class="nav-item" style="padding-top: 20px"><a href="https://www.facebook.com/hazkengraphics/" target="_blank"
+							 title="HAZKEN GRAPHICS FACEBOOK">
+							<i class="fa fa-facebook-square font-social-media"></i></a>
+							</li>
+							<li class="nav-item" style="padding-top: 20px"><a href="https://twitter.com/HazkenG" target="_blank"
+							title="HAZKEN GRAPHICS TWITTER">
+							<i class="fa fa-twitter font-social-media"></i></a>
+							</li>
+					</ul>
+			</nav>
+	</div>
 </div>
+	<!-- =======================
+	header End-->
 
     <!--slide-->
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="margin-top: 32px">

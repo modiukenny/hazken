@@ -557,7 +557,7 @@ Creativity as it speaks excellence!">
             <div class="col-4">
                 <img src="src/img/14.png" class="img-fluid m-1"
                 alt="Trifold brochure in lagos"
-                title="Trifold brochure">
+                title="Trifold brochure printing and design in lagos">
             </div>
             <div class="col-4">
                 <img src="src/img/22.png" class="img-fluid m-1"

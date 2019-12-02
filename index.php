@@ -541,7 +541,7 @@ Creativity as it speaks excellence!">
             </div>
             <div class="col-4">
                 <img src="src/img/9.png" class="img-fluid m-1"
-                alt="calendar design and printing in lagos sierra leone airport authority"
+                alt="calendar design and printing in lagos"
                 title="Calendar Design and Printing">
             </div>
             <div class="col-4">

@@ -117,7 +117,7 @@ Creativity as it speaks excellence!">
 										</ul>
 									</li>
 									<li class="dropdown-submenu">
-										<a class="dropdown-item dropdown-toggle" href="#">SOUVENIRS/GIFTS
+										<a class="dropdown-item dropdown-toggle" href="#">Souvenirs/Gifts
 												</a>
 										<ul class="dropdown-menu">
 											<li> <a class="dropdown-item" href="blog_page48.html">Custom Mugs</a> </li>

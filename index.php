@@ -538,7 +538,7 @@ Creativity as it speaks excellence!">
         <div class="row mx-auto">
             <div class="col-4">
                 <img src="src/img/8.png" class="img-fluid m-1"
-                alt="quality fliers printing in lagos" title="Fliers Printing in Lagos">
+                alt="quality flyers printing in lagos" title="Flyers Printing in Lagos">
             </div>
             <div class="col-4">
                 <img src="src/img/9.png" class="img-fluid m-1"

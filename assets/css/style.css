@@ -5893,16 +5893,18 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
-@media only screen and (min-width: 600px){
-  .weOffer{
+@media only screen and (min-width: 600px) {
+  .weOffer {
     font-size: 36px;
-    }
+  }
 }
-@media only screen and (min-width: 600px){
-  .carousel-slides{
+
+@media only screen and (min-width: 600px) {
+  .carousel-slides {
     font-size: 26px;
-    }
+  }
 }
+
 .bg-primary {
   background-color: #111111 !important;
 }
@@ -9866,9 +9868,9 @@ a.bg-dark:hover, a.bg-dark:focus, button.bg-dark:hover, button.bg-dark:focus {
   text-transform: uppercase !important;
 }
 
-.text-capitalize {
+/* .text-capitalize {
   text-transform: capitalize !important;
-}
+} */
 
 .font-weight-light {
   font-weight: 400 !important;
@@ -10080,7 +10082,6 @@ a.text-dark:hover, a.text-dark:focus {
 
 .dropdown-item {
   font-weight: 400;
-  text-transform: capitalize;
   position: relative;
 }
 

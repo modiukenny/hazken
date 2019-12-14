@@ -164,7 +164,7 @@ Creativity as it speaks excellence!">
 	header End-->
 
     <!--slide-->
-    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="margin-top: 32px">
+    <div id="carouselExampleFade" class="carousel slide carousel-fade slide_margin  slide_margins" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
     <img src="src/img/hazken_image.png" alt="Hazken Graphics Digital Printing Service in Lagos" 

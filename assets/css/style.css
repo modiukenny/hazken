@@ -5905,6 +5905,18 @@ a.close.disabled {
   }
 }
 
+@media only screen and (max-width: 600px) {
+  .slide_margin {
+    margin-top: 70px;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .slide_margins {
+    margin-top: 40px;
+  }
+}
+
 .bg-primary {
   background-color: #111111 !important;
 }

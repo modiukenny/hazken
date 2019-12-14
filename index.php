@@ -167,18 +167,18 @@ Creativity as it speaks excellence!">
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="margin-top: 32px">
   <div class="carousel-inner">
     <div class="carousel-item active">
-    <img src="src/img/hazken-image.png" alt="Hazken Graphics Digital Printing Service in Lagos" 
+    <img src="src/img/hazken_image.png" alt="Hazken Graphics Digital Printing Service in Lagos" 
     title="Hazken Graphics Digital Printing Service in Lagos" width="1100" height="500">
     </div>
     <div class="carousel-item">
-    <img src="src/img/hazken-image-printing-wedo.png" alt="Hazken Graphics web designer in lagos nigeria" 
+    <img src="src/img/hazken_image_printing.png" alt="Hazken Graphics web designer in lagos nigeria" 
     title="Hazken Graphics Web Designer in Lagos" width="1100" height="500">
     <div class="carousel-caption carousel-slides carousel-slidespix">
         <p>|WEB DESIGNS| |GRAPHICS DESIGNS| |CREATIVE BRANDING| |PRINTING|</p>
     </div>
     </div>
     <div class="carousel-item">
-    <img src="src/img/hazken-image-printing.png" alt="Hazken Graphics Website Designer in lagos nigeria" 
+    <img src="src/img/hazken-image-printings.png" alt="Hazken Graphics Website Designer in lagos nigeria" 
     title="Hazken Graphics Website Designer in Lagos Nigeria" width="1100" height="500">
     <div class="carousel-caption">
         <h3 class="text-uppercase text-white carousel-slides">Call us today</h3>

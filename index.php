@@ -714,7 +714,7 @@ Creativity as it speaks excellence!">
         <div class="col-4">
             <img src="src/img/47.png" class="img-fluid m-1"
             alt="programs book graduation designs"
-            title="Programs Book Graduation Ddesigns">
+            title="Programs Book Graduation designs">
         </div>
         <div class="col-4">
             <img src="src/img/48.png" class="img-fluid m-1"

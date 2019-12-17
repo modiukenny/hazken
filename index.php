@@ -499,7 +499,7 @@ Creativity as it speaks excellence!">
                 text-dark" style="text-decoration: none">
                     <div class="text-center">
                       <h2 class="icon-primary"><i class="ti-printer"></i></h2>
-                        <h5 class="font-weight-bold">Digital Printing Service</h5>
+                        <h5 class="font-weight-bold">DIGITAL PRINTING SERVICE</h5>
                         <p>WEDDING PROGRAMS, MAGAZINES
                             OFFICE STATIONARIES, BOOK PUBLISHING,
                             LIGHT-PACKAGING, ETC...</p>

@@ -302,7 +302,7 @@ Creativity as it speaks excellence!">
               <div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/044.jpg); background-position: center top; background-size: cover;">
                 <h5 class="text-white">Personal Plan</h5>
                 <h1 class="text-warning">
-                  ₦7,000 </h1>
+                  ₦7,500 </h1>
                 <p class="text-white">Get a Pillow Branded with your Company Name.</p>
               </div>
             </a>

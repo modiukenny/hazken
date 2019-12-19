@@ -298,31 +298,37 @@ Creativity as it speaks excellence!">
 				<div class="row">
 					<!-- pricing item -->
 					<div class="col-md-4 mb-2 ">
-						<div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/044.jpg); background-position: center top; background-size: cover;">
-							<h5 class="text-white">Personal Plan</h5>
-              <h1 class="text-warning">
-								₦7,000 </h1>
-							<p class="text-white">Get a Pillow Branded with your Company Name.</p>
-						</div>
+            <a href="blog_page24.html">
+              <div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/044.jpg); background-position: center top; background-size: cover;">
+                <h5 class="text-white">Personal Plan</h5>
+                <h1 class="text-warning">
+                  ₦7,000 </h1>
+                <p class="text-white">Get a Pillow Branded with your Company Name.</p>
+              </div>
+            </a>
 					</div>
 					<!-- pricing item -->
 					<div class="col-md-4 mb-2">
-						<div class="pricing-box h-100 shadow no-border box rounded"style="background-image:url(assets/images/portfolio/013.jpg); background-position: center top; background-size: cover;">
-							<div class="ribbon"><span>POPULAR</span></div>
-							<h5 class="text-white">Business Plan</h5>
-              <h1 class="text-warning">
-								₦120,000</h1>
-							<p class="text-white">Responsive Website + UX UX Design + Web Hosting + Domain Name.</p>
-						</div>
+            <a href="blog_page3.html">
+              <div class="pricing-box h-100 shadow no-border box rounded"style="background-image:url(assets/images/portfolio/013.jpg); background-position: center top; background-size: cover;">
+                <div class="ribbon"><span>POPULAR</span></div>
+                <h5 class="text-white">Business Plan</h5>
+                <h1 class="text-warning">
+                  ₦90,000</h1>
+                <p class="text-white">Responsive Website + UX UX Design + Web Hosting + Domain Name.</p>
+              </div>
+            </a>
 					</div>
 					<!-- pricing item -->
 					<div class="col-md-4 mb-2">
-						<div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/07.jpg); background-position: center top; background-size: cover;">
-							<h5 class="text-white">Ultimate Plan</h5>
-								<h1 class="text-warning">
-								₦62,000 </h1>
-							<p class="text-white">Brochure Printing Square Size 100 Copies 8 X 8 (12 pages)</p>
-						</div>
+            <a href="blog_page5.html">
+              <div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/07.jpg); background-position: center top; background-size: cover;">
+                <h5 class="text-white">Ultimate Plan</h5>
+                  <h1 class="text-warning">
+                  ₦62,000 </h1>
+                <p class="text-white">Brochure Printing Square Size 100 Copies 8 X 8 (12 pages)</p>
+              </div>
+            </a>
 					</div>
         </div>
         <a class="btn btn-dark mt-4 font-weight-bold text-white" href="#!"

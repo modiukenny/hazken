@@ -886,7 +886,7 @@ Creativity as it speaks excellence!">
 			<div class="container">
 				<div class="d-md-flex justify-content-between align-items-center py-3 text-center text-md-left">
 					<!-- copyright text -->
-					<div class="copyright-text text-white">All Rights Reserved ©2019 by <a href="index.php" style="color: #d4d4d4"> Hazken Graphics</a></div>
+					<div class="copyright-text text-white">All Rights Reserved ©2020 by <a href="index.php" style="color: #d4d4d4"> Hazken Graphics</a></div>
 					<!-- copyright links-->
 					<div class="copyright-links primary-hover mt-3 mt-md-0">
 						<ul class="social-icons">

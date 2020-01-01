@@ -856,12 +856,12 @@ Creativity as it speaks excellence!">
 							<div class="widget">
 								<h6>Quick LInks</h6>
 								<ul class="nav flex-column primary-hover">
+                <li class="nav-item"><a class="nav-link text-danger" href="index.php">Home</a></li>
 								<li class="nav-item"><a class="nav-link" href="blog.html" >Blog</a></li>
 								<li class="nav-item"><a class="nav-link" href="aboutus.html" >About</a></li>
 								  <li class="nav-item"><a class="nav-link" href="service.html">Service</a></li>
 								<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
 								  <li class="nav-item"><a class="nav-link" href="portfolio.html">Portfolio</a></li>
-								  <li class="nav-item"><a class="nav-link text-danger" href="index.php">Home</a></li>
 								</ul>
 							</div>
 						</div>

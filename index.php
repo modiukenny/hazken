@@ -325,7 +325,7 @@ Creativity as it speaks excellence!">
               <div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/07.jpg); background-position: center top; background-size: cover;">
                 <h5 class="text-white">Ultimate Plan</h5>
                   <h1 class="text-warning">
-                  ₦62,000 </h1>
+                  ₦65,000 </h1>
                 <p class="text-white">Brochure Printing Square Size 100 Copies 8 X 8 (12 pages)</p>
               </div>
             </a>

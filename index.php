@@ -138,7 +138,7 @@ Creativity as it speaks excellence!">
 								style="color: #4B4B4D; font-size: 15px; font-weight: bold">PORTFOLIO</a>
 						</li>
 						<li class="nav-item">
-								<a class="nav-link" title="ABOUT HAZKEN" href="aboutus"
+								<a class="nav-link" title="ABOUT HAZKEN" href="about_us"
 								style="color: #4B4B4D; font-size: 15px; font-weight: bold">ABOUT US</a>
 						</li>
 						<li class="nav-item">
@@ -814,7 +814,7 @@ Creativity as it speaks excellence!">
                   </div>
                 </div>
                 <div class="d-flex flex-row justify-content-center mt-3 mb-2">
-                    <a href="aboutus" class="btn btn-dark font-weight-bolder"
+                    <a href="about_us" class="btn btn-dark font-weight-bolder"
                     title="HAZKEN MORE INFO ABOUT US">MORE INFO ABOUT US</a></div>
   </article>
   <!----Skills End---->
@@ -858,7 +858,7 @@ Creativity as it speaks excellence!">
 								<ul class="nav flex-column primary-hover">
                 <li class="nav-item"><a class="nav-link text-danger" href="home">Home</a></li>
 								<li class="nav-item"><a class="nav-link" href="blog" >Blog</a></li>
-								<li class="nav-item"><a class="nav-link" href="aboutus" >About</a></li>
+								<li class="nav-item"><a class="nav-link" href="about_us" >About</a></li>
 								  <li class="nav-item"><a class="nav-link" href="service">Service</a></li>
 								<li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>
 								  <li class="nav-item"><a class="nav-link" href="portfolio">Portfolio</a></li>

@@ -8,6 +8,7 @@ RewriteRule ^(.*)$ $1.html [NC,L]
 ErrorDocument 404 http://hazken.com/wrong_page
 Rewriterule ^wrong_page$ ErrorDocument.html 
 Rewriterule ^home$ index.php
+Rewriterule ^about_us$ aboutus.html
 Rewriterule ^web_design&uiux_design$ blog_page3.html 
 Rewriterule ^graphic_design&web_design$ blog_page15.html 
 Rewriterule ^office_stationery$ blog_page52.html 

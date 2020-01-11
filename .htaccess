@@ -5,5 +5,5 @@ RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [NC,L]
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
-RewriteRule ^blog_page5.html /brochures [QSA,L]
+Rewrit­eRule ^blog_page5.html$ brochures [R,NC,L]
 ErrorDocument 404 http://hazken.com/

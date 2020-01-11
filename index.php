@@ -70,7 +70,7 @@ Creativity as it speaks excellence!">
 	<div class="container">
 			<nav class="navbar navbar-expand-lg bg-light navbar-light fixed-top"
 			style="border-bottom: 4px solid #7E2726;">
-					<a class="navbar-brand" href="index.php">
+					<a class="navbar-brand" href="index">
 							<img src="src/img/HAZ-KEN GRAPHICS.png" alt="web designer in lagos"
 							title="HAZKEN GRAPHICS LOGO" style="width: 190px; height:50px;">
 					</a>
@@ -81,7 +81,7 @@ Creativity as it speaks excellence!">
 						<ul class="navbar-nav ml-auto font-weight-bold text-capitalize"
 						style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
 						<li class="nav-item">
-								<a class="nav-link text-danger" title="WELCOME TO HAZKEN GRAPHICS" href="index.php"
+								<a class="nav-link text-danger" title="WELCOME TO HAZKEN GRAPHICS" href="index"
 								style="color: #4B4B4D; font-size: 15px; font-weight: bold">HOME</a>
 						</li>
 						
@@ -92,57 +92,57 @@ Creativity as it speaks excellence!">
 								aria-expanded="false">WHAT WE DO</a>
 								<ul class="dropdown-menu" aria-labelledby="blogMenu">
 									<li class="dropdown-submenu">
-										<a class="dropdown-item" href="service.html">Our Service</a>
+										<a class="dropdown-item" href="service">Our Service</a>
 									</li>
 									<li class="dropdown-submenu">
-											<a class="dropdown-item" href="blog_page15.html">Graphic Design</a>
+											<a class="dropdown-item" href="blog_page15">Graphic Design</a>
 										</li>
 										<li class="dropdown-submenu">
-												<a class="dropdown-item" href="blog_page3.html">Web Design and UIUX Design</a>
+												<a class="dropdown-item" href="blog_page3">Web Design and UIUX Design</a>
 											</li>
 									<li class="dropdown-submenu">
 										<a class="dropdown-item dropdown-toggle" href="#">Corporate Branding</a>
 										<ul class="dropdown-menu">
-											<li> <a class="dropdown-item" href="blog_page10.html">Business Cards</a> </li>
-											<li> <a class="dropdown-item" href="blog_page5.html">Marketing Brochures</a> </li>
-											<li> <a class="dropdown-item" href="blog_page7.html">Billboard Branding</a> </li>
-											<li> <a class="dropdown-item" href="blog_page8.html">Posters</a> </li>
-											<li> <a class="dropdown-item" href="blog_page11.html">Calendar</a> </li>
-											<li> <a class="dropdown-item" href="blog_page31.html">Large Format Printing</a> </li>
-											<li> <a class="dropdown-item" href="blog_page12.html">Flyer and Handbills</a> </li>
-											<li> <a class="dropdown-item" href="blog_page47.html">LetterHead and Branded Envelopes</a> </li>
-											<li> <a class="dropdown-item" href="blog_page49.html">T-shirts Printing</a> </li>
-											<li> <a class="dropdown-item" href="blog_page17.html">Plastic Identity Cards</a> </li>
+											<li> <a class="dropdown-item" href="businesscards">Business Cards</a> </li>
+											<li> <a class="dropdown-item" href="brochures">Marketing Brochures</a> </li>
+											<li> <a class="dropdown-item" href="billboard_branding">Billboard Branding</a> </li>
+											<li> <a class="dropdown-item" href="posters">Posters</a> </li>
+											<li> <a class="dropdown-item" href="calendars">Calendar</a> </li>
+											<li> <a class="dropdown-item" href="large_format_printing">Large Format Printing</a> </li>
+											<li> <a class="dropdown-item" href="flyers">Flyer and Handbills</a> </li>
+											<li> <a class="dropdown-item" href="letterhead_&_envelopes">LetterHead and Branded Envelopes</a> </li>
+											<li> <a class="dropdown-item" href="t-shirts_printing">T-shirts Printing</a> </li>
+											<li> <a class="dropdown-item" href="id_card_printing">Plastic Identity Cards</a> </li>
 										</ul>
 									</li>
 									<li class="dropdown-submenu">
 										<a class="dropdown-item dropdown-toggle" href="#">Souvenirs/Gifts
 												</a>
 										<ul class="dropdown-menu">
-											<li> <a class="dropdown-item" href="blog_page48.html">Custom Mugs</a> </li>
-											<li> <a class="dropdown-item" href="blog_page13.html">Notepads</a> </li>
-											<li> <a class="dropdown-item" href="blog_page6.html">Paper Bag</a> </li>
-											<li> <a class="dropdown-item" href="blog_page24.html">Branded Pillows</a> </li>
-											<li> <a class="dropdown-item" href="blog_page41.html">Wedding Stationery</a> </li>
-											<li> <a class="dropdown-item" href="blog_page38.html">Season Greetings Card</a> </li>
+											<li> <a class="dropdown-item" href="mugs_printing">Custom Mugs</a> </li>
+											<li> <a class="dropdown-item" href="notepads">Notepads</a> </li>
+											<li> <a class="dropdown-item" href="paper_bags">Paper Bag</a> </li>
+											<li> <a class="dropdown-item" href="throw_pillows">Branded Pillows</a> </li>
+											<li> <a class="dropdown-item" href="wedding_stationery">Wedding Stationery</a> </li>
+											<li> <a class="dropdown-item" href="greetings_card">Season Greetings Card</a> </li>
 										</ul>
 									</li>
 								</ul>
 							</li>
 						<li class="nav-item">
-							<a class="nav-link" title="HAZKEN BLOG" href="blog.html"
+							<a class="nav-link" title="HAZKEN BLOG" href="blog"
 							style="color: #4B4B4D; font-size: 15px; font-weight: bold">BLOG</a>
 					</li>
 						<li class="nav-item">
-								<a class="nav-link" title="HAZKEN PORTFOLIO" href="portfolio.html"
+								<a class="nav-link" title="HAZKEN PORTFOLIO" href="portfolio"
 								style="color: #4B4B4D; font-size: 15px; font-weight: bold">PORTFOLIO</a>
 						</li>
 						<li class="nav-item">
-								<a class="nav-link" title="ABOUT HAZKEN" href="aboutus.html"
+								<a class="nav-link" title="ABOUT HAZKEN" href="aboutus"
 								style="color: #4B4B4D; font-size: 15px; font-weight: bold">ABOUT US</a>
 						</li>
 						<li class="nav-item">
-								<a class="nav-link" title="CONTACT HAZKEN" href="contact.html"
+								<a class="nav-link" title="CONTACT HAZKEN" href="contact"
 								style="color: #4B4B4D; font-size: 15px; font-weight: bold">CONTACT</a>
 						</li>
 						<li class="nav-item" style="padding-top: 20px"> <a href="https://www.instagram.com/hazken_graphics/" target="_blank"
@@ -281,7 +281,7 @@ Creativity as it speaks excellence!">
 <!--modal close-->
     <div>
       <button type="button" class="btn btn-dark m-auto d-block btn-md font-weight-bold">
-      <a href="blog.html" class="text-white" style="text-decoration: none">BLOG</a></button>
+      <a href="blog" class="text-white" style="text-decoration: none">BLOG</a></button>
     </div>
    <!-- =======================
   Pricing -->
@@ -298,7 +298,7 @@ Creativity as it speaks excellence!">
 				<div class="row">
 					<!-- pricing item -->
 					<div class="col-md-4 mb-2 ">
-            <a href="blog_page24.html">
+            <a href="throw_pillows">
               <div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/044.jpg); background-position: center top; background-size: cover;">
                 <h5 class="text-white">Personal Plan</h5>
                 <h1 class="text-warning">
@@ -309,7 +309,7 @@ Creativity as it speaks excellence!">
 					</div>
 					<!-- pricing item -->
 					<div class="col-md-4 mb-2">
-            <a href="blog_page3.html">
+            <a href="blog_page3">
               <div class="pricing-box h-100 shadow no-border box rounded"style="background-image:url(assets/images/portfolio/013.jpg); background-position: center top; background-size: cover;">
                 <div class="ribbon"><span>POPULAR</span></div>
                 <h5 class="text-white">Business Plan</h5>
@@ -321,7 +321,7 @@ Creativity as it speaks excellence!">
 					</div>
 					<!-- pricing item -->
 					<div class="col-md-4 mb-2">
-            <a href="blog_page5.html">
+            <a href="brochures">
               <div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/07.jpg); background-position: center top; background-size: cover;">
                 <h5 class="text-white">Ultimate Plan</h5>
                   <h1 class="text-warning">
@@ -814,7 +814,7 @@ Creativity as it speaks excellence!">
                   </div>
                 </div>
                 <div class="d-flex flex-row justify-content-center mt-3 mb-2">
-                    <a href="aboutus.html" class="btn btn-dark font-weight-bolder"
+                    <a href="aboutus" class="btn btn-dark font-weight-bolder"
                     title="HAZKEN MORE INFO ABOUT US">MORE INFO ABOUT US</a></div>
   </article>
   <!----Skills End---->
@@ -827,7 +827,7 @@ Creativity as it speaks excellence!">
 					<!-- Footer widget 1 -->
 					<div class="col-md-4">
 						<div class="widget">
-							<a href="index.php" class="footer-logo">
+							<a href="index" class="footer-logo">
 								<!-- footer IMG logo Start -->
 								<img src="src/img/hazken_graphics.png" alt="hazken_graphics_logo"
 										title="HAZKEN DIGITAL LOGO" style="width: 190px; height:50px;">
@@ -856,12 +856,12 @@ Creativity as it speaks excellence!">
 							<div class="widget">
 								<h6>Quick LInks</h6>
 								<ul class="nav flex-column primary-hover">
-                <li class="nav-item"><a class="nav-link text-danger" href="index.php">Home</a></li>
-								<li class="nav-item"><a class="nav-link" href="blog.html" >Blog</a></li>
-								<li class="nav-item"><a class="nav-link" href="aboutus.html" >About</a></li>
-								  <li class="nav-item"><a class="nav-link" href="service.html">Service</a></li>
-								<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
-								  <li class="nav-item"><a class="nav-link" href="portfolio.html">Portfolio</a></li>
+                <li class="nav-item"><a class="nav-link text-danger" href="index">Home</a></li>
+								<li class="nav-item"><a class="nav-link" href="blog" >Blog</a></li>
+								<li class="nav-item"><a class="nav-link" href="aboutus" >About</a></li>
+								  <li class="nav-item"><a class="nav-link" href="service">Service</a></li>
+								<li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>
+								  <li class="nav-item"><a class="nav-link" href="portfolio">Portfolio</a></li>
 								</ul>
 							</div>
 						</div>
@@ -886,7 +886,7 @@ Creativity as it speaks excellence!">
 			<div class="container">
 				<div class="d-md-flex justify-content-between align-items-center py-3 text-center text-md-left">
 					<!-- copyright text -->
-					<div class="copyright-text text-white">All Rights Reserved ©2020 by <a href="index.php" style="color: #d4d4d4"> Hazken Graphics</a></div>
+					<div class="copyright-text text-white">All Rights Reserved ©2020 by <a href="index" style="color: #d4d4d4"> Hazken Graphics</a></div>
 					<!-- copyright links-->
 					<div class="copyright-links primary-hover mt-3 mt-md-0">
 						<ul class="social-icons">

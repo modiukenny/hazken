@@ -1,7 +1,9 @@
+Options +FollowSymLinks
 RewriteEngine on 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [NC,L]
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
-RewriteRule ^/brochure blog_page5 [NC,L]
+RewriteRule ^blog_page5.html /brochures [QSA,L]
+ErrorDocument 404 http://hazken.com/

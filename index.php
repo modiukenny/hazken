@@ -95,10 +95,10 @@ Creativity as it speaks excellence!">
 										<a class="dropdown-item" href="service">Our Service</a>
 									</li>
 									<li class="dropdown-submenu">
-											<a class="dropdown-item" href="blog_page15">Graphic Design</a>
+											<a class="dropdown-item" href="graphic_design&web_design">Graphic Design</a>
 										</li>
 										<li class="dropdown-submenu">
-												<a class="dropdown-item" href="blog_page3">Web Design and UIUX Design</a>
+												<a class="dropdown-item" href="web_design&uiux_design">Web Design and UIUX Design</a>
 											</li>
 									<li class="dropdown-submenu">
 										<a class="dropdown-item dropdown-toggle" href="#">Corporate Branding</a>
@@ -109,7 +109,7 @@ Creativity as it speaks excellence!">
 											<li> <a class="dropdown-item" href="posters">Posters</a> </li>
 											<li> <a class="dropdown-item" href="calendars">Calendar</a> </li>
 											<li> <a class="dropdown-item" href="large_format_printing">Large Format Printing</a> </li>
-											<li> <a class="dropdown-item" href="flyers">Flyer and Handbills</a> </li>
+											<li> <a class="dropdown-item" href="flyers_&_handbills">Flyer and Handbills</a> </li>
 											<li> <a class="dropdown-item" href="letterhead_&_envelopes">LetterHead and Branded Envelopes</a> </li>
 											<li> <a class="dropdown-item" href="t-shirts_printing">T-shirts Printing</a> </li>
 											<li> <a class="dropdown-item" href="id_card_printing">Plastic Identity Cards</a> </li>
@@ -309,7 +309,7 @@ Creativity as it speaks excellence!">
 					</div>
 					<!-- pricing item -->
 					<div class="col-md-4 mb-2">
-            <a href="blog_page3">
+            <a href="web_design&uiux_design">
               <div class="pricing-box h-100 shadow no-border box rounded"style="background-image:url(assets/images/portfolio/013.jpg); background-position: center top; background-size: cover;">
                 <div class="ribbon"><span>POPULAR</span></div>
                 <h5 class="text-white">Business Plan</h5>

@@ -5,5 +5,26 @@ RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [NC,L]
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
-Rewrit­eRule ^blog_page5.html$ brochures [R,NC,L]
-ErrorDocument 404 http://hazken.com/
+ErrorDocument 404 http://localhost/hazken/wrong_page
+Rewriterule ^wrong_page$ ErrorDocument.html 
+Rewriterule ^web_design&uiux_design$ blog_page3.html 
+Rewriterule ^graphic_design&web_design$ blog_page15.html 
+Rewriterule ^office_stationery$ blog_page52.html 
+Rewriterule ^web_design$ blog_page51.html 
+Rewriterule ^uiux_designs$ blog_page53.html 
+Rewriterule ^brochures$ blog_page5.html 
+Rewriterule ^greetings_card$ blog_page38.html 
+Rewriterule ^wedding_stationery$ blog_page41.html 
+Rewriterule ^throw_pillows$ blog_page24.html 
+Rewriterule ^paper_bags$ blog_page6.html 
+Rewriterule ^notepads$ blog_page13.html 
+Rewriterule ^mugs_printing$ blog_page48.html 
+Rewriterule ^businesscards$ blog_page10.html 
+Rewriterule ^billboard_branding$ blog_page7.html 
+Rewriterule ^posters$ blog_page8.html 
+Rewriterule ^calendars$ blog_page11.html 
+Rewriterule ^large_format_printing$ blog_page31.html 
+Rewriterule ^flyers_&_handbills$ blog_page12.html 
+Rewriterule ^letterhead_&_envelopes$ blog_page47.html 
+Rewriterule ^t-shirts_printing$ blog_page49.html 
+Rewriterule ^id_card_printing$ blog_page17.html 

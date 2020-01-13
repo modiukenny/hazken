@@ -547,7 +547,7 @@ Creativity as it speaks excellence!">
                 alt="quality flyers printing in lagos" title="Flyers Printing in Lagos">
             </div>
             <div class="col-4">
-                <img src="src/img/9.png" class="img-fluid m-1"
+                <img src="src/img/calendar_design.png" class="img-fluid m-1"
                 alt="calendar design and printing in lagos"
                 title="Calendar Design and Printing">
             </div>

@@ -31,3 +31,4 @@ Rewriterule ^letterhead_&_envelopes$ blog_page47.html
 Rewriterule ^t-shirts$ blog_page49.html 
 Rewriterule ^id_cards$ blog_page17.html 
 Rewriterule ^wedding_cards$ blog_page22.html 
+Rewriterule ^notebooks$ blog_page56.html 

@@ -103,7 +103,7 @@ Creativity as it speaks excellence!">
 									<li class="dropdown-submenu">
 										<a class="dropdown-item dropdown-toggle" href="#">Corporate Branding</a>
 										<ul class="dropdown-menu">
-											<li> <a class="dropdown-item" href="businesscards">Business Cards</a> </li>
+											<li> <a class="dropdown-item" href="businesscards">Business Complimentary Cards</a> </li>
 											<li> <a class="dropdown-item" href="brochures">Marketing Brochures</a> </li>
 											<li> <a class="dropdown-item" href="billboard_branding">Billboard Branding</a> </li>
 											<li> <a class="dropdown-item" href="posters">Posters</a> </li>
@@ -553,7 +553,7 @@ Creativity as it speaks excellence!">
             </div>
             <div class="col-4">
                 <img src="src/img/12.png" class="img-fluid m-1"
-                alt="Graphic Design and Digital Printing Service in lagos Hazken Business Cards"
+                alt="Graphic Design and Digital Printing Service in lagos Hazken Business Complimentary Cards"
                 title="Graphic Design and Digital Printing Service">
             </div>
             <div class="col-4">
@@ -613,8 +613,8 @@ Creativity as it speaks excellence!">
             </div>
             <div class="col-4">
                 <img src="src/img/39.png" class="img-fluid m-1"
-                alt="business card Design and Printing"
-                title="business card Design and Printing">
+                alt="Business Complimentary Card Design and Printing"
+                title="Business Complimentary Card Design and Printing">
             </div>
             <div class="col-4">
                 <img src="src/img/40.png" class="img-fluid m-1"
@@ -638,8 +638,8 @@ Creativity as it speaks excellence!">
             </div>
             <div class="col-4">
                 <img src="src/img/69.png" class="img-fluid m-1"
-                alt="best printers in lagos nigeria 927 cakes int'l business cards"
-                title="927 Cakes Int'l Business Cards">
+                alt="best printers in lagos nigeria 927 cakes int'l Business Complimentary Cards"
+                title="927 Cakes Int'l Business Complimentary Cards">
             </div>
             <div class="col-4">
                 <img src="src/img/70.png" class="img-fluid m-1"
@@ -673,7 +673,7 @@ Creativity as it speaks excellence!">
             </div>
             <div class="col-4" id="web-designs">
                 <img src="src/img/76.png" class="img-fluid m-1"
-                alt="digital printers in lagos nigeria business cards"
+                alt="digital printers in lagos nigeria Business Complimentary Cards"
                 title="Digital Printers in lagos">
             </div>
         </div>

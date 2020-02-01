@@ -167,18 +167,18 @@ Creativity as it speaks excellence!">
     <div id="carouselExampleFade" class="carousel slide carousel-fade slide_margin  slide_margins" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-    <img src="src/img/hazken_image.png" alt="Hazken Digital Digital Printing Service in Lagos" 
+    <img src="src/img/hazken_brand.jpg" alt="Hazken Digital Digital Printing Service in Lagos" 
     title="Hazken Digital Digital Printing Service in Lagos" width="1100" height="500">
     </div>
     <div class="carousel-item">
-    <img src="src/img/hazken_image_printing.png" alt="Hazken Digital web designer in lagos nigeria" 
+    <img src="src/img/hazken_image_print.jpg" alt="Hazken Digital web designer in lagos nigeria" 
     title="Hazken Digital Web Designer in Lagos" width="1100" height="500">
     <div class="carousel-caption carousel-slides carousel-slidespix">
         <p>|WEB DESIGNS| |GRAPHICS DESIGNS| |CREATIVE BRANDING| |PRINTING|</p>
     </div>
     </div>
     <div class="carousel-item">
-    <img src="src/img/hazken-image-printings.png" alt="Hazken Digital Website Designer in lagos nigeria" 
+    <img src="src/img/hazken-image-printing.jpg" alt="Hazken Digital Website Designer in lagos nigeria" 
     title="Hazken Digital Website Designer in Lagos Nigeria" width="1100" height="500">
     <div class="carousel-caption">
         <h3 class="text-uppercase text-white carousel-slides">Call us today</h3>
@@ -547,7 +547,7 @@ Creativity as it speaks excellence!">
                 alt="quality flyers printing in lagos" title="Flyers Printing in Lagos">
             </div>
             <div class="col-4">
-                <img src="src/img/calendar_design.png" class="img-fluid m-1"
+                <img src="src/img/calendar_design.jpg" class="img-fluid m-1"
                 alt="calendar design and printing in lagos"
                 title="Calendar Design and Printing">
             </div>
@@ -612,7 +612,7 @@ Creativity as it speaks excellence!">
                 title="Birthday Invitation Card">
             </div>
             <div class="col-4">
-                <img src="src/img/39.png" class="img-fluid m-1"
+                <img src="src/img/39.jpg" class="img-fluid m-1"
                 alt="Business Complimentary Card Design and Printing"
                 title="Business Complimentary Card Design and Printing">
             </div>
@@ -622,7 +622,7 @@ Creativity as it speaks excellence!">
                 title="Paper Bag Printing and Design in Lagos">
             </div>
             <div class="col-4">
-                <img src="src/img/66.png" class="img-fluid m-1"
+                <img src="src/img/66.jpg" class="img-fluid m-1"
                 alt="jekalo poster riders in lagos nigeria"
                 title="Jekalo Poster">
             </div>
@@ -723,7 +723,7 @@ Creativity as it speaks excellence!">
             title="Programs Book Graduation designs">
         </div>
         <div class="col-4">
-            <img src="src/img/48.png" class="img-fluid m-1"
+            <img src="src/img/48.jpg" class="img-fluid m-1"
             alt="user interface designer in lagos nigeria"
             title="User Interface Designer in Lagos Nigeria">
         </div>

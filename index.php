@@ -543,7 +543,7 @@ Creativity as it speaks excellence!">
         <h3 class=" text-center font-weight-bold">GRAPHIC DESIGNS AND PRINTING</h3>
         <div class="row mx-auto">
             <div class="col-4">
-                <img src="src/img/8.png" class="img-fluid m-1"
+                <img src="src/img/8.jpg" class="img-fluid m-1"
                 alt="quality flyers printing in lagos" title="Flyers Printing in Lagos">
             </div>
             <div class="col-4">
@@ -552,8 +552,8 @@ Creativity as it speaks excellence!">
                 title="Calendar Design and Printing">
             </div>
             <div class="col-4">
-                <img src="src/img/12.png" class="img-fluid m-1"
-                alt="Graphic Design and Digital Printing Service in lagos Hazken Business Complimentary Cards"
+                <img src="src/img/12.jpg" class="img-fluid m-1"
+                alt="Business Complimentary Card Design and Printing in Lagos"
                 title="Graphic Design and Digital Printing Service">
             </div>
             <div class="col-4">

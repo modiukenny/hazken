@@ -599,7 +599,7 @@ Creativity as it speaks excellence!">
             <div class="col-4">
                 <img src="src/img/32.png" class="img-fluid m-1"
                 alt="roll up banners printing in lagos nigeria"
-                title="Rollup Banners Printing and Design">
+                title="Roll-up Banners Printing and Design">
             </div>
             <div class="col-4">
                 <img src="src/img/34.png" class="img-fluid m-1"
@@ -628,8 +628,8 @@ Creativity as it speaks excellence!">
             </div>
             <div class="col-4">
                 <img src="src/img/67.png" class="img-fluid m-1"
-                alt="Birthday Designs Rollup Banner @50"
-                title="Rollup Banner Printing and Design">
+                alt="Birthday Designs Roll-up Banner @50"
+                title="Roll-up Banner Printing and Design">
             </div>
             <div class="col-4">
                 <img src="src/img/68.png" class="img-fluid m-1"
@@ -663,8 +663,8 @@ Creativity as it speaks excellence!">
             </div>
             <div class="col-4">
                 <img src="src/img/74.png" class="img-fluid m-1"
-                alt="rollup banner printing in lagos nigeria"
-                title="Rollup Banner Printing and Design">
+                alt="Roll-up banner printing in lagos nigeria"
+                title="Roll-up Banner Printing and Design">
             </div>
             <div class="col-4">
                 <img src="src/img/75.png" class="img-fluid m-1"

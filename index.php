@@ -593,7 +593,7 @@ Creativity as it speaks excellence!">
                 title="Branded Brochure and Printing">
             </div>
             <div class="col-4">
-                <img src="src/img/31.png" class="img-fluid m-1"
+                <img src="src/img/31.jpg" class="img-fluid m-1"
                 alt="wedding notepad design"
                 title="Wedding Notepad Design">
             </div>
@@ -780,7 +780,7 @@ Creativity as it speaks excellence!">
         <div class="container bg-light">
                 <div class="media border p-3 d-flex flex-row border border-5"
                 style="background: #DCDDDF; border-radius: 25px">
-                  <img src="./src/img/hazkenceo.png" title="Hazken Digital CEO Founder" alt="Modiu Kehinde Hazzan Kenny Adeneye Hazken modiukenny"
+                  <img src="./src/img/hazkenceo.jpg" title="Hazken Digital CEO Founder" alt="Modiu Kehinde Hazzan Kenny Adeneye Hazken modiukenny"
                   class="mr-3 mt-4 align-self-lg-start" style="width:95px; height: 120px; border: 2px solid rgb(141, 141, 141); border-radius: 10px">
                   <div class="media-body mt-4 align-self-center">
                     <h4 class="font-weight-bolder" title="Graphic Designer and Web Designer in Lagos">ABOUT THE AUTHOR</h4>

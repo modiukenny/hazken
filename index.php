@@ -111,7 +111,7 @@
 											<li> <a class="dropdown-item" href="letterhead_&_envelopes">LetterHead & Branded Envelopes</a> </li>
 											<li> <a class="dropdown-item" href="logo_signage">Logo Signage</a> </li>
 											<li> <a class="dropdown-item" href="t-shirts">T-shirts Printing & Monogram</a> </li>
-											<li> <a class="dropdown-item" href="id_cards">Plastic Identity Cards & Lanyard</a> </li>
+											<li> <a class="dropdown-item" href="id_cards">Plastic ID Cards & Lanyard</a> </li>
 										</ul>
 									</li>
 									<li class="dropdown-submenu">

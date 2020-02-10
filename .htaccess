@@ -35,3 +35,4 @@ Rewriterule ^notebooks$ blog_page56.html
 Rewriterule ^leaflets$ blog_page43.html 
 Rewriterule ^bifold&trifold_brochures$ blog_page55.html 
 Rewriterule ^logo_signage$ blog_page39.html 
+Rewriterule ^frame&pillow_prints$ blog_page57.html 

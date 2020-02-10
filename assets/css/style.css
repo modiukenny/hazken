@@ -11624,12 +11624,12 @@ input, button, select, optgroup, textarea {
 }
 
 .icon-grad i:before {
-  background: -moz-linear-gradient(150deg, #6d6d6d 0%, #111111 100%);
-  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #6d6d6d), color-stop(100%, #111111));
-  background: -webkit-linear-gradient(150deg, #6d6d6d 0%, #111111 100%);
-  background: -o-linear-gradient(150deg, #6d6d6d 0%, #111111 100%);
-  background: -ms-linear-gradient(150deg, #6d6d6d 0%, #111111 100%);
-  background: linear-gradient(150deg, #6d6d6d 0%, #111111 100%);
+  background: -moz-linear-gradient(150deg, #dc3545 0%, #111111 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #dc3545), color-stop(100%, #111111));
+  background: -webkit-linear-gradient(150deg, #dc3545 0%, #111111 100%);
+  background: -o-linear-gradient(150deg, #dc3545 0%, #111111 100%);
+  background: -ms-linear-gradient(150deg, #dc3545 0%, #111111 100%);
+  background: linear-gradient(150deg, #dc3545 0%, #111111 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-one', endColorstr='$color-two', GradientType=1);
   -webkit-background-clip: text;
   -moz-background-clip: text;

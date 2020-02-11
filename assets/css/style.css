@@ -11603,6 +11603,26 @@ input, button, select, optgroup, textarea {
   text-fill-color: transparent;
   opacity: 1;
   z-index: 9;
+}.text-danger-grad {
+  background: -moz-linear-gradient(150deg, #dc3545 0%, #111111 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #dc3545), color-stop(100%, #111111));
+  background: -webkit-linear-gradient(150deg, #dc3545 0%, #111111 100%);
+  background: -o-linear-gradient(150deg, #dc3545 0%, #111111 100%);
+  background: -ms-linear-gradient(150deg, #dc3545 0%, #111111 100%);
+  background: linear-gradient(150deg, #dc3545 0%, #111111 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-one', endColorstr='$color-two', GradientType=1);
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -ms-background-clip: text;
+  -o-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  -ms-text-fill-color: transparent;
+  -o-text-fill-color: transparent;
+  text-fill-color: transparent;
+  opacity: 1;
+  z-index: 9;
 }
 
 /* icon color */

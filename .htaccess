@@ -6,7 +6,7 @@ RewriteRule ^(.*)$ $1.php [NC,L]
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
 ErrorDocument 404 http://hazken.com/wrong_page
-Rewriterule ^wrong_page$ ErrorDocument.html 
+Rewriterule ^wrong_page$ error-404.html 
 Rewriterule ^home$ index.php
 Rewriterule ^about_us$ aboutus.html
 Rewriterule ^web_design&uiux_design$ blog_page3.html 

@@ -3058,6 +3058,12 @@ fieldset:disabled a.btn {
   line-height: 1.4;
   border-radius: 3px;
 }
+.btn-sm-grad {
+  padding: 0.2rem 0.4rem;
+  font-size: 0.8rem;
+  line-height: 1;
+  border-radius: 3px;
+}
 
 .btn-block {
   display: block;

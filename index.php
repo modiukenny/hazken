@@ -198,7 +198,7 @@
     
     <!--TO E-MAIL-->
     <div class="m-4 text-center">
-        <h2 class="pb-2 font-weight-bolder weOffer" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Creativity as it speaks excellence to
+        <h2 class="pb-2 font-weight-bolder weOffer" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Creativity as it speaks excellence!
                 <a href="" class="typewrite" data-period="2000" data-type='[ "WEB DESIGN", "GRAPHIC DESIGN", "UI/UX DESIGN", "DIGITAL PRINTING SERVICE"]'>
                   <span class="wrap" style="text-decoration: none;"></span>
                 </a>

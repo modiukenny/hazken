@@ -178,8 +178,8 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade slide_margin  slide_margins" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-    <img src="src/img/hazken_brand.jpg" alt="Hazken Digital Digital Printing Service in Lagos" 
-    title="Hazken Digital Digital Printing Service in Lagos" width="1100" height="500">
+    <img src="src/img/hazken_brand.jpg" alt="Hazken Digital Printing Service in Lagos" 
+    title="Hazken Digital Printing Service in Lagos" width="1100" height="500">
     </div>
     <div class="carousel-item">
     <img src="src/img/hazken_image_print.jpg" alt="Hazken Digital web designer in lagos nigeria" 

@@ -597,7 +597,7 @@
                 title="Church Program Printing and Design">
             </div>
             <div class="col-4">
-                <img src="src/img/28.png" class="img-fluid m-1"
+                <img src="src/img/28.jpg" class="img-fluid m-1"
                 alt="paper bag design and printing"
                 title="Paper Bag Designs and Printing">
             </div>

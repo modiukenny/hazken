@@ -608,8 +608,8 @@
             </div>
             <div class="col-4">
                 <img src="src/img/31.jpg" class="img-fluid m-1"
-                alt="wedding notepad design"
-                title="Wedding Notepad Design">
+                alt="Notepad Print and Design in Lagos"
+                title="Notepad Print and Design in Lagos">
             </div>
             <div class="col-4">
                 <img src="src/img/32.png" class="img-fluid m-1"

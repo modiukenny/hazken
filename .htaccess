@@ -44,6 +44,7 @@ Rewriterule ^x_banners$ blog_page61.html
 Rewriterule ^vehicle_car&bus_branding$ blog_page62.html 
 Rewriterule ^frames$ blog_page63.html 
 Rewriterule ^uiux_design$ blog_page32.html 
+Rewriterule ^business_cards_print$ blog_page35.html 
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

@@ -9,10 +9,10 @@ ErrorDocument 404 http://hazken.com/wrong_page
 Rewriterule ^wrong_page$ error-404.html 
 Rewriterule ^home$ index.php
 Rewriterule ^about_us$ aboutus.html
-Rewriterule ^web_design&uiux_design$ blog_page3.html 
-Rewriterule ^graphic_design&web_design$ blog_page15.html 
+Rewriterule ^web_design$ blog_page3.html 
+Rewriterule ^graphic_design$ blog_page15.html 
 Rewriterule ^office_stationery$ blog_page52.html 
-Rewriterule ^web_design$ blog_page51.html 
+Rewriterule ^website_design$ blog_page51.html 
 Rewriterule ^uiux_designs$ blog_page53.html 
 Rewriterule ^brochures$ blog_page5.html 
 Rewriterule ^greetings_card$ blog_page38.html 
@@ -43,6 +43,7 @@ Rewriterule ^banners$ blog_page60.html
 Rewriterule ^x_banners$ blog_page61.html 
 Rewriterule ^vehicle_car&bus_branding$ blog_page62.html 
 Rewriterule ^frames$ blog_page63.html 
+Rewriterule ^uiux_design$ blog_page32.html 
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

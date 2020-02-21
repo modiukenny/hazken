@@ -93,10 +93,13 @@
 										<a class="dropdown-item" href="service">Our Service</a>
 									</li>
 									<li class="dropdown-submenu">
-											<a class="dropdown-item" href="graphic_design&web_design">Graphic Design & Print</a>
+											<a class="dropdown-item" href="graphic_design">Graphic Design & Print</a>
 										</li>
 										<li class="dropdown-submenu">
-												<a class="dropdown-item" href="web_design&uiux_design">Web Design & UIUX Design</a>
+												<a class="dropdown-item" href="web_design">Web Design</a>
+											</li>
+											<li class="dropdown-submenu">
+												<a class="dropdown-item" href="uiux_design">UI/UX Design</a>
 											</li>
 									<li class="dropdown-submenu">
 										<a class="dropdown-item dropdown-toggle" href="#">Corporate Branding</a>
@@ -321,7 +324,7 @@
 					</div>
 					<!-- pricing item -->
 					<div class="col-md-4 mb-2">
-            <a href="web_design&uiux_design">
+            <a href="web_design">
               <div class="pricing-box h-100 shadow no-border box rounded"style="background-image:url(assets/images/portfolio/013.jpg); background-position: center top; background-size: cover;">
                 <div class="ribbon"><span>POPULAR</span></div>
                 <h5 class="text-white">Business Plan</h5>

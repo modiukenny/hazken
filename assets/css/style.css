@@ -12644,7 +12644,7 @@ textarea {
   padding: 13px 14px !important;
   position: fixed !important;
   bottom: 10px;
-  left: 15px;
+  right: 15px;
   border-radius: 3px;
   display: block;
   text-align: center;

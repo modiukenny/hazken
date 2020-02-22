@@ -844,7 +844,7 @@
 						<div class="widget">
 							<a href="home" class="footer-logo">
 								<!-- footer IMG logo Start -->
-								<img src="src/img/hazken_digital.png" alt="hazken_digital_logo"
+								<img src="src/img/hazken_digital.png" alt="hazken digital white png"
 										title="HAZKEN DIGITAL LOGO" style="width: 190px; height:50px;">
 								<!-- footer IMG logo End -->
 							</a>

@@ -562,7 +562,7 @@
                 alt="quality flyers printing in lagos" title="Flyers Printing in Lagos">
             </div>
             <div class="col-4">
-                <img src="src/img/calendar_design.jpg" class="img-fluid m-1"
+                <img src="src/img/46.jpg" class="img-fluid m-1"
                 alt="calendar design and printing in lagos"
                 title="Calendar Design and Printing">
             </div>
@@ -647,7 +647,7 @@
                 title="Roll-up Banner Printing and Design">
             </div>
             <div class="col-4">
-                <img src="src/img/68.png" class="img-fluid m-1"
+                <img src="src/img/68.jpg" class="img-fluid m-1"
                 alt="Printing service in lagos nigeria Programme Birthday Designs"
                 title="Printing service in lagos">
             </div>
@@ -667,7 +667,7 @@
                 title="Quality Printing Servicein Lagos">
             </div>
             <div class="col-4">
-                <img src="src/img/72.png" class="img-fluid m-1"
+                <img src="src/img/72.jpg" class="img-fluid m-1"
                 alt="print made easy in lagos nigeria carrier bags"
                 title="Graphic Design and Printing Paper bag">
             </div>
@@ -682,7 +682,7 @@
                 title="Roll-up Banner Printing and Design">
             </div>
             <div class="col-4">
-                <img src="src/img/75.png" class="img-fluid m-1"
+                <img src="src/img/75.jpg" class="img-fluid m-1"
                 alt="digital printing service birthday invitaion cards designs"
                 title="Invitaion Cards Designs and Printing">
             </div>
@@ -728,12 +728,12 @@
             title="Brand Identity in Lagos">
         </div>
         <div class="col-4">
-            <img src="src/img/46.png" class="img-fluid m-1"
-            alt="quality table calendar printing and design in lagos"
-            title="Table Calendar Printing and Design">
+            <img src="src/img/calendar_design.jpg" class="img-fluid m-1"
+            alt="wall calendar printing and design in lagos"
+            title="Wall Calendar Printing and Design">
         </div>
         <div class="col-4">
-            <img src="src/img/47.png" class="img-fluid m-1"
+            <img src="src/img/47.jpg" class="img-fluid m-1"
             alt="programs book graduation designs"
             title="Programs Book Graduation designs">
         </div>

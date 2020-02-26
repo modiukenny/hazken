@@ -233,7 +233,7 @@
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <form class="contact-form p-2" id="contact-form" name="form" method="POST" onsubmit="contactUs()" action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec">
+      <form class="contact-form p-2" id="contact-form" name="form" method="POST" onsubmit="contactUs()" data-email="hazkendigital@gmail.com" action="https://script.google.com/macros/s/AKfycbz0zrg9yQyvMMqdmBxNrpiuoeBcuHhFCFKM0IoXrw/exec">
         <!-- Start form message -->
         <div class="row">
           <div class="col-12">
@@ -359,7 +359,7 @@
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <form class="contact-form p-2" id="contact-form" name="form1" method="POST" onsubmit="contactUs1()" action="https://script.google.com/macros/s/AKfycbw-2AdbOXk4xk9ZdbJzgei2c6BOpFKOvDT_Sxqn/exec">
+      <form class="contact-form p-2" id="contact-form" name="form1" method="POST" onsubmit="contactUs1()" data-email="hazkendigital@gmail.com" action="https://script.google.com/macros/s/AKfycbz0zrg9yQyvMMqdmBxNrpiuoeBcuHhFCFKM0IoXrw/exec">
         <!-- Start form message -->
         <div class="row">
           <div class="col-12">

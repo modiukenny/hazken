@@ -152,10 +152,10 @@ function contactUsForGraphics() {
   }
 }
 function contactUsForPrint() {
-  var inputprint = document.form3.name3.value;
-  var inputprint2 = document.form3.email3.value;
-  var inputprint3 = document.form3.subject3.value;
-  var inputprint4 = document.form3.message3.value;
+  var inputprint = document.form4.name4.value;
+  var inputprint2 = document.form4.email4.value;
+  var inputprint3 = document.form4.subject4.value;
+  var inputprint4 = document.form4.message4.value;
 
   if (inputprint === "") {
     document.getElementById("print2").style.display = "block";

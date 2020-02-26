@@ -151,57 +151,6 @@ function contactUsForGraphics() {
     return true;
   }
 }
-function contactUsForPrint() {
-  var inputprint = document.form4.name4.value;
-  var inputprint2 = document.form4.email4.value;
-  var inputprint3 = document.form4.subject4.value;
-  var inputprint4 = document.form4.message4.value;
-
-  if (inputprint === "") {
-    document.getElementById("print2").style.display = "block";
-    document.getElementById("print1").style.display = "none";
-    document.getElementById("print3").style.display = "none";
-    document.getElementById("print4").style.display = "none";
-    document.getElementById("print5").style.display = "none";
-    document.getElementById("print6").style.display = "none";
-    return false;
-  }
-  if (inputprint2 === "") {
-    document.getElementById("print3").style.display = "block";
-    document.getElementById("print1").style.display = "none";
-    document.getElementById("print2").style.display = "none";
-    document.getElementById("print4").style.display = "none";
-    document.getElementById("print5").style.display = "none";
-    document.getElementById("print6").style.display = "none";
-    return false;
-  }
-  if (inputprint3 === "") {
-    document.getElementById("print4").style.display = "block";
-    document.getElementById("print1").style.display = "none";
-    document.getElementById("print2").style.display = "none";
-    document.getElementById("print3").style.display = "none";
-    document.getElementById("print5").style.display = "none";
-    document.getElementById("print6").style.display = "none";
-    return false;
-  }
-  if (inputprint4 === "") {
-    document.getElementById("print5").style.display = "block";
-    document.getElementById("print1").style.display = "none";
-    document.getElementById("print2").style.display = "none";
-    document.getElementById("print3").style.display = "none";
-    document.getElementById("print4").style.display = "none";
-    document.getElementById("print6").style.display = "none";
-    return false;
-  } else {
-    document.getElementById("print1").style.display = "block";
-    document.getElementById("print2").style.display = "none";
-    document.getElementById("print3").style.display = "none";
-    document.getElementById("print4").style.display = "none";
-    document.getElementById("print5").style.display = "none";
-    document.getElementById("print6").style.display = "none";
-    return true;
-  }
-}
 const order = document.querySelectorAll(".allReact");
 order.forEach(orderAlert => {
   orderAlert.addEventListener("input", () => {
@@ -250,40 +199,6 @@ orderedgraphics.forEach(orderedAlertgraphics => {
     }
   });
 });
-const orderedprint = document.querySelectorAll(".allprint");
-orderedprint.forEach(orderedAlertprint => {
-  orderedAlertprint.addEventListener("input", () => {
-    checkEmptyPrint();
-    if (orderedAlertprint.value === "") {
-      document.getElementById("print6").style.display = "block";
-      document.getElementById("print2").style.display = "none";
-      document.getElementById("print3").style.display = "none";
-      document.getElementById("print4").style.display = "none";
-      document.getElementById("print5").style.display = "none";
-      document.getElementById("print1").style.display = "none";
-    } else if (orderedAlertprint.value !== "") {
-      document.getElementById("print6").style.display = "none";
-    }
-  });
-});
-const checkEmptyPrint = () => {
-  const inputSelectorsPrint = document.querySelectorAll(".allprint");
-  let oneEmptyPrint = false;
-  for (let i = 0; i < inputSelectorsPrint.length; i++) {
-    const selectorPrint = inputSelectorsPrint[i];
-    if (selectorPrint.value === "") {
-      oneEmptyPrint = true;
-      break;
-    }
-  }
-  const submitBtnPrint = document.querySelector(".btn-print");
-
-  if (oneEmptyPrint) {
-    submitBtnPrint.disabled = true;
-  } else {
-    submitBtnPrint.disabled = false;
-  }
-};
 const checkEmpty = () => {
   const inputSelectors = document.querySelectorAll(".allgraphics");
   let oneEmpty = false;

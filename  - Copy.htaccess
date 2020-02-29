@@ -1,0 +1,65 @@
+Options +FollowSymLinks
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html [NC,L]
+ErrorDocument 404 http://hazken.com/wrong_page
+Rewriterule ^wrong_page$ error-404.html 
+Rewriterule ^home$ index.php
+Rewriterule ^about_us$ aboutus.html
+Rewriterule ^web_design$ blog_page3.html 
+Rewriterule ^graphic_design$ blog_page15.html 
+Rewriterule ^office_stationery$ blog_page52.html 
+Rewriterule ^website_design$ blog_page51.html 
+Rewriterule ^uiux_designs$ blog_page53.html 
+Rewriterule ^brochures$ blog_page5.html 
+Rewriterule ^greetings_card$ blog_page38.html 
+Rewriterule ^wedding_stationery$ blog_page41.html 
+Rewriterule ^throw_pillows$ blog_page24.html 
+Rewriterule ^paper_bags$ blog_page6.html 
+Rewriterule ^notepads$ blog_page13.html 
+Rewriterule ^mugs$ blog_page48.html 
+Rewriterule ^businesscards$ blog_page10.html 
+Rewriterule ^billboard_branding$ blog_page7.html 
+Rewriterule ^posters$ blog_page2.html 
+Rewriterule ^calendars$ blog_page11.html 
+Rewriterule ^large_format_printing$ blog_page31.html 
+Rewriterule ^flyers$ blog_page12.html 
+Rewriterule ^letterhead_&_envelopes$ blog_page47.html 
+Rewriterule ^t-shirts$ blog_page49.html 
+Rewriterule ^id_cards$ blog_page17.html 
+Rewriterule ^wedding_cards$ blog_page22.html 
+Rewriterule ^notebooks$ blog_page56.html 
+Rewriterule ^leaflets$ blog_page43.html 
+Rewriterule ^bifold&trifold_brochures$ blog_page55.html 
+Rewriterule ^logo_signage$ blog_page39.html 
+Rewriterule ^pillow_prints$ blog_page57.html 
+Rewriterule ^rollup_banners$ blog_page16.html 
+Rewriterule ^backdrop_banners$ blog_page54.html 
+Rewriterule ^exercise_book&notebooks$ blog_page27.html 
+Rewriterule ^banners$ blog_page60.html 
+Rewriterule ^x_banners$ blog_page61.html 
+Rewriterule ^vehicle_car&bus_branding$ blog_page62.html 
+Rewriterule ^frames$ blog_page63.html 
+Rewriterule ^uiux_design$ blog_page32.html 
+Rewriterule ^business_cards_print$ blog_page35.html 
+Rewriterule ^branded_mugs$ blog_page64.html 
+##Force SSL
+#Normal way (in case you need to deploy to NON-heroku)
+RewriteCond %{HTTPS} !=on
+#Heroku way
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+#If neither above conditions are met, redirect to https
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+<ifModule mod_gzip.c>
+mod_gzip_on Yes
+mod_gzip_dechunk Yes
+mod_gzip_item_include file .(html?|txt|css|js|php|pl)$
+mod_gzip_item_include handler ^cgi-script$
+mod_gzip_item_include mime ^text/.*
+mod_gzip_item_include mime ^application/x-javascript.*
+mod_gzip_item_exclude mime ^image/.*
+mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
+</ifModule>

@@ -30,7 +30,7 @@
 <!-- CSS Front Template -->
 <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
-<title>Hazken Digital:: Website | Graphic Design & Digital Print in Lagos, Nigeria.</title>
+<title>Hazken Digital: Website | Graphic Design & Digital Print in Lagos, Nigeria.</title>
 <!-- Plugins CSS -->
 <link rel="stylesheet" type="text/css" href="assets/vendor/themify-icons/css/themify-icons.css" />
 

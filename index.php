@@ -213,11 +213,11 @@
     
     <!--TO E-MAIL-->
     <div class="m-4 text-center">
-        <h2 class="pb-2 font-weight-bolder weOffer" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Creativity as it speaks excellence!
+        <h1 class="pb-2 font-weight-bolder weOffer" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Creativity as it speaks excellence!
                 <a href="" class="typewrite" data-period="2000" data-type='[ "WEB DESIGN", "GRAPHIC DESIGN", "UI/UX DESIGN", "DIGITAL PRINTING SERVICE"]'>
                   <span class="wrap" style="text-decoration: none;"></span>
                 </a>
-            </h2>
+            </h1>
     <button type="button" class="btn btn-danger m-auto d-block btn-md font-weight-bold"
         data-toggle="modal" data-target="#exampleModal112">
         <span class="bell fa fa-bell"></span> SEND US A MAIL
@@ -316,8 +316,8 @@
             <a href="throw_pillows">
               <div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/044.jpg); background-position: center top; background-size: cover;">
                 <h5 class="text-white">Personal Plan</h5>
-                <h1 class="text-warning">
-                  ₦7,500 </h1>
+                <h2 class="text-warning">
+                  ₦7,500 </h2>
                 <p class="text-white">Get a Pillow Branded with your Company Name.</p>
               </div>
             </a>
@@ -328,8 +328,8 @@
               <div class="pricing-box h-100 shadow no-border box rounded"style="background-image:url(assets/images/portfolio/013.jpg); background-position: center top; background-size: cover;">
                 <div class="ribbon"><span>POPULAR</span></div>
                 <h5 class="text-white">Business Plan</h5>
-                <h1 class="text-warning">
-                  ₦90,000</h1>
+                <h2 class="text-warning">
+                  ₦150,000</h2>
                 <p class="text-white">Responsive Website + UX UX Design + Web Hosting + Domain Name.</p>
               </div>
             </a>
@@ -339,8 +339,8 @@
             <a href="brochures">
               <div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/07.jpg); background-position: center top; background-size: cover;">
                 <h5 class="text-white">Ultimate Plan</h5>
-                  <h1 class="text-warning">
-                  ₦75,000 </h1>
+                  <h2 class="text-warning">
+                  ₦75,000 </h2>
                 <p class="text-white">Brochure Printing Square Size 100 Copies 8 X 8 (12 pages)</p>
               </div>
             </a>

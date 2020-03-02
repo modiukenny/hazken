@@ -69,7 +69,7 @@
 			<nav class="navbar navbar-expand-lg bg-light navbar-light fixed-top"
 			style="border-bottom: 4px solid #7E2726;">
 					<a class="navbar-brand" href="home">
-							<img src="src/img/HAZ-KEN DIGITAL.png" alt="web designer in Lagos, Nigeria"
+							<img src="src/img/HAZ-KEN DIGITAL.png" alt="web designer in Lagos Nigeria"
 							title="HAZKEN DIGITAL LOGO" style="width: 190px; height:50px;">
 					</a>
 					<button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -182,12 +182,12 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade slide_margin  slide_margins" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-    <img src="src/img/hazken_brand.jpg" alt="Hazken Digital Printing Service in Lagos, Nigeria" 
-    title="Hazken Digital Printing Service in Lagos, Nigeria" width="1100" height="500">
+    <img src="src/img/hazken_brand.jpg" alt="Hazken Digital Printing Service in Lagos Nigeria" 
+    title="Hazken Digital Printing Service in Lagos Nigeria" width="1100" height="500">
     </div>
     <div class="carousel-item">
     <img src="src/img/hazken_image_print.jpg" alt="Hazken Digital web designer in lagos nigeria" 
-    title="Hazken Digital Web Designer in Lagos, Nigeria" width="1100" height="500">
+    title="Hazken Digital Web Designer in Lagos Nigeria" width="1100" height="500">
     <div class="carousel-caption carousel-slides carousel-slidespix">
         <p>|WEB DESIGNS| |GRAPHICS DESIGNS| |CREATIVE BRANDING| |PRINTING|</p>
     </div>
@@ -559,16 +559,16 @@
         <div class="row mx-auto">
             <div class="col-4">
                 <img src="src/img/8.jpg" class="img-fluid m-1"
-                alt="quality flyers printing in Lagos, Nigeria" title="Flyers Printing in Lagos, Nigeria">
+                alt="quality flyers printing in Lagos Nigeria" title="Flyers Printing in Lagos Nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/46.jpg" class="img-fluid m-1"
-                alt="calendar design and printing in Lagos, Nigeria"
+                alt="calendar design and printing in Lagos Nigeria"
                 title="Calendar Design and Printing">
             </div>
             <div class="col-4">
                 <img src="src/img/12.jpg" class="img-fluid m-1"
-                alt="Business Card Design and Printing in Lagos, Nigeria"
+                alt="Business Card Design and Printing in Lagos Nigeria"
                 title="Graphic Design and Digital Printing Service">
             </div>
             <div class="col-4">
@@ -578,8 +578,8 @@
             </div>
             <div class="col-4">
                 <img src="src/img/14.png" class="img-fluid m-1"
-                alt="Tri-fold brochure in Lagos, Nigeria"
-                title="Tri-fold brochure printing and design in Lagos, Nigeria">
+                alt="Tri-fold brochure in Lagos Nigeria"
+                title="Tri-fold brochure printing and design in Lagos Nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/22.png" class="img-fluid m-1"
@@ -608,8 +608,8 @@
             </div>
             <div class="col-4">
                 <img src="src/img/31.jpg" class="img-fluid m-1"
-                alt="Notepad Print and Design in Lagos, Nigeria"
-                title="Notepad Print and Design in Lagos, Nigeria">
+                alt="Notepad Print and Design in Lagos Nigeria"
+                title="Notepad Print and Design in Lagos Nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/32.png" class="img-fluid m-1"
@@ -634,7 +634,7 @@
             <div class="col-4">
                 <img src="src/img/40.png" class="img-fluid m-1"
                 alt="paper bag printing in lagos nigeria"
-                title="Paper Bag Printing and Design in Lagos, Nigeria">
+                title="Paper Bag Printing and Design in Lagos Nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/66.jpg" class="img-fluid m-1"
@@ -649,7 +649,7 @@
             <div class="col-4">
                 <img src="src/img/68.jpg" class="img-fluid m-1"
                 alt="Printing service in lagos nigeria Programme Birthday Designs"
-                title="Printing service in Lagos, Nigeria">
+                title="Printing service in Lagos Nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/69.png" class="img-fluid m-1"
@@ -659,12 +659,12 @@
             <div class="col-4">
                 <img src="src/img/70.png" class="img-fluid m-1"
                 alt="quality printing service in lagos nigeria company brochures designs"
-                title="Digital Printing Service in Lagos, Nigeria">
+                title="Digital Printing Service in Lagos Nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/71.png" class="img-fluid m-1"
                 alt="print anything within 24hrs programs graduation designs"
-                title="Quality Printing Servicein Lagos, Nigeria">
+                title="Quality Printing Servicein Lagos Nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/72.jpg" class="img-fluid m-1"
@@ -673,8 +673,8 @@
             </div>
             <div class="col-4">
                 <img src="src/img/73.png" class="img-fluid m-1"
-                alt="church programs design and printing in Lagos, Nigeria"
-                title="Program Printing and Design in Lagos, Nigeria">
+                alt="church programs design and printing in Lagos Nigeria"
+                title="Program Printing and Design in Lagos Nigeria">
             </div>
             <div class="col-4">
                 <img src="src/img/74.png" class="img-fluid m-1"
@@ -689,7 +689,7 @@
             <div class="col-4" id="web-designs">
                 <img src="src/img/76.png" class="img-fluid m-1"
                 alt="digital printers in lagos nigeria Business Cards"
-                title="Digital Printers in Lagos, Nigeria">
+                title="Digital Printers in Lagos Nigeria">
             </div>
         </div>
     </section>
@@ -700,9 +700,9 @@
         <p class="text-center text-light">Web Design JavaScript for Mobile and Laptops
         </p>
         <img src="src/img/responsive web.jpg" class="img-fluid mx-auto" alt="Website Design in Lagos hazken web"
-        title="Website Design in Lagos, Nigeria">
+        title="Website Design in Lagos Nigeria">
         <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1" alt="web design in Lagos hazken web"
-        title="Web Design in Lagos, Nigeria">
+        title="Web Design in Lagos Nigeria">
         </p>
         <p>
     </section>
@@ -720,16 +720,16 @@
         <div class="col-4">
             <img src="src/img/42.png" class="img-fluid m-1"
             alt="quality throw pillow branding in lagos nigeria"
-            title="Quality Throw Pillow Branding in Lagos, Nigeria">
+            title="Quality Throw Pillow Branding in Lagos Nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/44.png" class="img-fluid m-1"
             alt="offer rides within lagos nigeria"
-            title="Brand Identity in Lagos, Nigeria">
+            title="Brand Identity in Lagos Nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/calendar_design.jpg" class="img-fluid m-1"
-            alt="wall calendar printing and design in Lagos, Nigeria"
+            alt="wall calendar printing and design in Lagos Nigeria"
             title="Wall Calendar Printing and Design">
         </div>
         <div class="col-4">
@@ -755,17 +755,17 @@
         <div class="col-4">
             <img src="src/img/54.png" class="img-fluid m-1"
             alt="lanyard printing in lagos nigeria"
-            title="Lanyard Printing in Lagos, Nigeria">
+            title="Lanyard Printing in Lagos Nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/55.png" class="img-fluid m-1"
             alt="paper bag design and printing in lagos nigeria"
-            title="Paper Bag Design and Printing in Lagos, Nigeria">
+            title="Paper Bag Design and Printing in Lagos Nigeria">
         </div>
         <div class="col-4">
           <img src="src/img/58.png" class="img-fluid m-1"
           alt="cosmectics printing in lagos nigeria"
-          title="Cosmectics Printing in Lagos, Nigeria">
+          title="Cosmectics Printing in Lagos Nigeria">
       </div>
         <div class="col-4">
             <img src="src/img/59.png" class="img-fluid m-1"
@@ -775,17 +775,17 @@
         <div class="col-4">
             <img src="src/img/60.png" class="img-fluid m-1"
             alt="Digital printing service in lagos nigeria"
-            title="Printing Service in Lagos, Nigeria">
+            title="Printing Service in Lagos Nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/61.png" class="img-fluid m-1"
             alt="mug printing in lagos nigeria"
-            title="Mug Printing in Lagos, Nigeria">
+            title="Mug Printing in Lagos Nigeria">
         </div>
         <div class="col-4">
             <img src="src/img/62.png" class="img-fluid m-1"
             alt="rubber plastic brand in lagos nigeria"
-            title="Rubber Plastic Brand in Lagos, Nigeria">
+            title="Rubber Plastic Brand in Lagos Nigeria">
         </div>
         </div>
 </article>
@@ -797,9 +797,9 @@
                   <img src="./src/img/hazkenceo.jpg" title="Hazken Digital CEO Founder" alt="Modiu Kehinde Hazzan Kenny Adeneye Hazken modiukenny"
                   class="mr-3 mt-4 align-self-lg-start" style="width:95px; height: 120px; border: 2px solid rgb(141, 141, 141); border-radius: 10px">
                   <div class="media-body mt-4 align-self-center">
-                    <h4 class="font-weight-bolder" title="Graphic Designer and Web Designer in Lagos, Nigeria">ABOUT THE AUTHOR</h4>
+                    <h4 class="font-weight-bolder" title="Graphic Designer and Web Designer in Lagos Nigeria">ABOUT THE AUTHOR</h4>
                     <p style="font-size: 15px" class="text-dark"><span class="font-weight-bolder" title="Hazken Digital Chief Executive Officer (CEO), Managing Director (MD) and Founder">
-                        MODIU KEHINDE HAZZAN</span><span title="A FREELANCE DESIGNER IN Lagos, Nigeria"> a freelance web designer and graphic designer in Lagos</span>
+                        MODIU KEHINDE HAZZAN</span><span title="A FREELANCE DESIGNER IN Lagos Nigeria"> a freelance web designer and graphic designer in Lagos</span>
                         as an experienced professional, who is committed to raising awareness
                         about how to create a Responsive Website and Application,
                         also specialize in Graphics Design for Printing and Advertisement in Lagos, Nigeria.</p>

@@ -48,7 +48,6 @@ Rewriterule ^business_cards_print$ blog_page35.html
 Rewriterule ^branded_mugs$ blog_page64.html 
 Rewriterule ^programme_of_events$ blog_page26.html 
 Rewriterule ^magazines_yearbooks$ blog_page28.html 
-Redirect 301 /redirect blog_page58.html https://www.hazken.com/brand
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

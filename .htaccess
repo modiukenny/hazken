@@ -16,7 +16,7 @@ Rewriterule ^website_design$ blog_page51.html
 Rewriterule ^uiux_designs$ blog_page53.html 
 Rewriterule ^brochures$ blog_page5.html 
 Rewriterule ^greetings_card$ blog_page38.html 
-Rewriterule ^wedding_stationery$ blog_page41.html 
+Rewriterule ^customized_gifts$ blog_page41.html 
 Rewriterule ^throw_pillows$ blog_page24.html 
 Rewriterule ^paper_bags$ blog_page6.html 
 Rewriterule ^notepads$ blog_page13.html 

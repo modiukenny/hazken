@@ -19609,3 +19609,8 @@ xpush
   height: 300px;
   overflow-y: auto;
 }
+.chat-now-btn {
+  position: fixed !important;
+  bottom: 10px;
+  right: 15px;
+}

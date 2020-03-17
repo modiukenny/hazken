@@ -954,7 +954,7 @@
 	footer  -->
 <!--Scroll-->
 <button type="button" id="btnPopover" 
-data-html="true" class="btn btn-sm btn-success chat-now-btn" data-trigger="focus"
+data-html="true" class="btn btn-sm btn-success chat-now-btn"
 data-toggle="popover" title="Hi there! Click one of our representatives below to chat with one of our available agent." 
 data-placement="top"
 data-content="<div class='my-1''><a href='https://twitter.com/messages/compose?recipient_id=1097615721847316482&text=Let%20us%20know%20how%20we%20can%20assist%20you?'

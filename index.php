@@ -955,7 +955,7 @@
 <!--Scroll-->
 <div> <a href="#" class="back-top btn btn-grad-danger"><i class="fa fa-arrow-up"></i></a> </div>
 		<button type="button" id="btnPopover" 
-data-php="true" class="btn btn-sm btn-success chat-now-btn"
+data-html="true" class="btn btn-sm btn-success chat-now-btn"
 data-toggle="popover" title="Hi there! Click one of our representatives below to chat with one of our available agent." 
 data-placement="top"
 data-content="<div class='my-1''><a href='https://twitter.com/messages/compose?recipient_id=1097615721847316482&text=Let%20us%20know%20how%20we%20can%20assist%20you?'
@@ -967,7 +967,6 @@ data-content="<div class='my-1''><a href='https://twitter.com/messages/compose?r
                       ><img src='./assets/images/icons8-facebook-messenger.svg' /></a><a class='btn btn-sm btn-danger' href='https://tawk.to/chat/5da23ed9fbec0f2fe3b97247/default'
                       target='_blank'
                       >Tawk.to</a></div>">Chat with us</button>
-		<script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function(){

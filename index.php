@@ -815,7 +815,7 @@
                   class="mr-3 mt-4 align-self-lg-start" style="width:95px; height: 120px; border: 2px solid rgb(141, 141, 141); border-radius: 10px">
                   <div class="media-body mt-4 align-self-center">
                     <h4 class="font-weight-bolder" title="Graphic Designer and Web Designer in Lagos Nigeria">ABOUT THE AUTHOR</h4>
-                    <p style="font-size: 15px" class="text-dark"><span class="font-weight-bolder" title="Hazken Digital Chief Executive Officer (CEO) and Co-founder">
+                    <p style="font-size: 15px" class="text-dark"><span class="font-weight-bolder" title="Hazken Digital CEO and Co-founder">
                         MODIU KEHINDE HAZZAN</span><span title="A FREELANCE DESIGNER IN Lagos Nigeria"> a freelance web designer and graphic designer in Lagos</span>
                         as an experienced professional, who is committed to raising awareness
                         about how to create a Responsive Website and Application,

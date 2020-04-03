@@ -19,8 +19,8 @@
         "url": "https://www.hazken.com",
         "sameAs": [
           "https://www.facebook.com/hazkendigital/",
-          "https://twitter.com/HazkenD",
-          "https://www.instagram.com/hazken_digital/",
+          "https://twitter.com/HazkenDigital",
+          "https://www.instagram.com/hazkendigital/",
           "https://wa.me/2348176246387",
           "https://www.linkedin.com/in/hazken-digital-868054187"
         ],
@@ -177,14 +177,14 @@
 								<a class="nav-link" title="CONTACT HAZKEN" href="contact"
 								style="color: #4B4B4D; font-size: 15px; font-weight: bold">CONTACT</a>
 						</li>
-						<li class="nav-item"> <a class="nav-link" href="https://www.instagram.com/hazken_digital/" target="_blank"
+						<li class="nav-item"> <a class="nav-link" href="https://www.instagram.com/hazkendigital/" target="_blank"
 							title="HAZKEN DIGITAL INSTAGRAM" ><i class="text-danger fa fa-instagram font-social-media"></i>
 											</a></li>
 							<li class="nav-item"><a class="nav-link" href="https://www.facebook.com/hazkendigital/" target="_blank"
 							 title="HAZKEN DIGITAL FACEBOOK">
 							<i class="fa fa-facebook-square font-social-media" style="color: blue"></i></a>
 							</li>
-							<li class="nav-item"><a class="nav-link" href="https://twitter.com/HazkenD" target="_blank"
+							<li class="nav-item"><a class="nav-link" href="https://twitter.com/HazkenDigital" target="_blank"
 							title="HAZKEN DIGITAL TWITTER">
 							<i class="fa fa-twitter font-social-media" style="color: #40bff5;"></i></a>
 							</li>
@@ -553,7 +553,7 @@
                     </div>
                 </a>
 
-                <a href="https://www.instagram.com/hazken_digital/" target="_blank" class="col-lg-3 p-3 m-3 rounded 
+                <a href="https://www.instagram.com/hazkendigital/" target="_blank" class="col-lg-3 p-3 m-3 rounded 
                     shadow shadow-small border border-4 bg-light
                     text-dark" style="text-decoration: none">
                     <div class="text-center">
@@ -923,13 +923,13 @@
 					<div class="copyright-links primary-hover mt-3 mt-md-0">
 						<ul class="social-icons">
 								<li class="social-icons-item social-instagram m-0">
-										<a class="social-icons-link w-auto px-2" href="https://www.instagram.com/hazken_digital/" target="_blank"><i class="fa fa-instagram"></i></a>
+										<a class="social-icons-link w-auto px-2" href="https://www.instagram.com/hazkendigital/" target="_blank"><i class="fa fa-instagram"></i></a>
 									</li>
 							<li class="social-icons-item social-facebook m-0">
 								<a class="social-icons-link w-auto px-2" href="https://www.facebook.com/hazkendigital/" target="_blank"><i class="fa fa-facebook"></i></a>
 							</li>
 							<li class="social-icons-item social-twitter m-0">
-								<a class="social-icons-link w-auto pl-2" href="https://twitter.com/HazkenD" target="_blank"><i class="fa fa-twitter"></i></a>
+								<a class="social-icons-link w-auto pl-2" href="https://twitter.com/HazkenDigital" target="_blank"><i class="fa fa-twitter"></i></a>
 							</li>
 							<li class="social-icons-item social-whatsapp m-0">
 								<a class="social-icons-link w-auto pl-3" href="https://wa.me/2348176246387" target="_blank"><i class="fa fa-whatsapp"></i></a>

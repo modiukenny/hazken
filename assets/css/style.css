@@ -17053,7 +17053,7 @@ footer .widget {
 }
 
 .divider:before {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid whitesmoke;
   content: "";
   display: inline-block;
   height: 0em;
@@ -17063,7 +17063,7 @@ footer .widget {
 }
 
 .divider:after {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid whitesmoke;
   content: "";
   display: inline-block;
   height: 0;
@@ -17241,7 +17241,15 @@ footer .widget {
 .social-icons.si-colored-bg-on-hover
   .social-instagram
   .social-icons-link:hover {
-  background-color: #ee2309;
+  background: #d6249f;
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
 }
 
 .social-icons.si-colored-bg .social-twitter .social-icons-link,

@@ -938,7 +938,7 @@
                     ></a>
                   </li>
 				</ul>
-				<br><h6 class="text-warning">Chat with us</h6>
+				<br><h6 class="text-warning">Chat with us on</h6>
 				<ul
                   class="social-icons si-colored-bg light mx-auto d-block mt-3"
                 >

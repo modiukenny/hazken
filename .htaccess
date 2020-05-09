@@ -51,6 +51,7 @@ Rewriterule ^magazines_yearbooks$ blog_page28.html
 Rewriterule ^receipt_invoice_waybill_prints$ blog_page65.html 
 Rewriterule ^tote_bags$ blog_page66.html 
 Rewriterule ^design&print$ blog_page25.html 
+Rewriterule ^stickers$ blog_page25.html 
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

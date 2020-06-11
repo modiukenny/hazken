@@ -57,7 +57,7 @@ Rewriterule ^nylon_bags$ blog_page68.html
 Rewriterule ^iPhone&Phone_cases$ blog_page46.html 
 Rewriterule ^cartoon_design$ blog_page69.html 
 Rewriterule ^customized_pen$ blog_page70.html 
-Rewriterule ^customized_mouspad$ blog_page71.html 
+Rewriterule ^customized_mousepad$ blog_page71.html 
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

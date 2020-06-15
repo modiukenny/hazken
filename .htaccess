@@ -59,7 +59,7 @@ Rewriterule ^cartoon_design$ blog_page69.html
 Rewriterule ^customized_pen$ blog_page70.html 
 Rewriterule ^customized_mousepad$ blog_page71.html 
 Rewriterule ^vinyl&sticker_pasting$ blog_page72.html 
-Rewriterule ^jumbo_360_clock$ blog_page73.html 
+Rewriterule ^wall_clock$ blog_page73.html 
 Rewriterule ^table_top$ blog_page74.html 
 Rewriterule ^printed_keyholders$ blog_page75.html 
 ##Force SSL

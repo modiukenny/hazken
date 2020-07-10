@@ -1036,7 +1036,11 @@
                                     </li> <span class="mx-1">+</span>
                                     <li class="social-icons-item">
                                         <img src="./assets/fez_delivery.svg"></img>
-                                    </li> <span class="mx-1">+</span>
+                                    </li>  <span class="mx-1">+</span>
+                                    <li class="social-icons-item">
+                                        <img src="./assets/dhl.svg"></img>
+                                    </li>
+                                    <span class="mx-1">+</span>
                                     <li class="social-icons-item">
                                         <img src="./assets/hazken_direct.svg"></img>
                                     </li>

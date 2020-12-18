@@ -46,7 +46,7 @@ Rewriterule ^vehicle_car&bus_branding$ blog_page62.html
 Rewriterule ^frames$ blog_page63.html 
 Rewriterule ^uiux_design$ blog_page32.html 
 Rewriterule ^business_cards_print$ blog_page35.html 
-Rewriterule ^branded_mugs$ blog_page64.html 
+Rewriterule ^magic_mugs$ blog_page64.html 
 Rewriterule ^programme_of_events$ blog_page26.html 
 Rewriterule ^magazines_yearbooks$ blog_page28.html 
 Rewriterule ^receipt_invoice_waybill_prints$ blog_page65.html 

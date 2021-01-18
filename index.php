@@ -57,6 +57,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
     <title>Hazken Digital</title>
+<script data-ad-client="ca-pub-8051429122336690" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />

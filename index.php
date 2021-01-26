@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+<script data-ad-client="ca-pub-8051429122336690" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-138230632-1"></script>
     <script>
@@ -57,6 +58,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
     <title>Hazken Digital</title>
+
 
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />

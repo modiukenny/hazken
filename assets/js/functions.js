@@ -184,7 +184,7 @@
 
     // BEGIN: 07 Back To top
      var backTotop = function(){
-        var $backtotop = $('.back-top');
+        var $backtotop = $('.back-top1');
         $(window).on('scroll', function() {
             if ($(this).scrollTop() > 500) {
                 $backtotop.addClass('btn-show');

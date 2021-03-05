@@ -12640,32 +12640,24 @@ textarea {
   width: 40px;
   height: 40px;
   line-height: 40px;
-  padding: 13px 14px !important;
+  padding: 8px 9px !important;
   position: fixed !important;
   bottom: 10px;
   left: 15px;
-  border-radius: 3px;
+  border-radius: 50%;
   display: block;
   text-align: center;
-  z-index: 9999;
-  visibility: hidden;
-  opacity: 0;
-  transform: translateY(50%);
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  -ms-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
+ 
 }
 
 .back-top i {
-  font-size: 12px;
+  font-size: 20px;
   color: #ffffff;
   margin: 0 !important;
   display: block;
 }
 
-.back-top.btn-show {
+.btn-show {
   visibility: visible;
   opacity: 1;
   transform: translateY(0%);

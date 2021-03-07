@@ -72,6 +72,8 @@ Rewriterule ^simple_mugs$ blog_page82.html
 Rewriterule ^single-sided-business-cards$ blog_page83.html 
 Rewriterule ^double-sided-business-cards$ blog_page84.html 
 Rewriterule ^lanyards$ blog_page85.html 
+Rewriterule ^bifold_brochure$ blog_page86.html 
+Rewriterule ^trifold_brochure$ blog_page87.html 
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

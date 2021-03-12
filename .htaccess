@@ -80,7 +80,8 @@ Rewriterule ^a4_flyers$ blog_page90.html
 Rewriterule ^full-color_idcards$ blog_page91.html
 Rewriterule ^custom_flask$ blog_page92.html  
 Rewriterule ^company_seal$ blog_page93.html 
-Rewriterule ^rubber&dater_stamp$ blog_page94.html 
+Rewriterule ^rubber&dater_stamp$ blog_page94.html
+Rewriterule ^travel_mugs$ blog_page95.html  
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

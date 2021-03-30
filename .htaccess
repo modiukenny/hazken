@@ -89,6 +89,10 @@ Rewriterule ^pylon_sign$ blog_page99.html
 Rewriterule ^polo_tshirts$ blog_page100.html  
 Rewriterule ^wedding_programme$ blog_page101.html 
 Rewriterule ^glitters-businesscards$ blog_page102.html 
+Rewriterule ^a2-wall-calendars$ blog_page103.html 
+Rewriterule ^a3-wall-calendars$ blog_page104.html 
+Rewriterule ^table-calendars$ blog_page105.html 
+Rewriterule ^round-neck$ blog_page106.html 
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

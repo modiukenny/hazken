@@ -100,6 +100,7 @@ Rewriterule ^vinyl_balloon$ blog_page110.html
 Rewriterule ^logo_design$ blog_page111.html 
 Rewriterule ^woven_labels$ blog_page112.html 
 Rewriterule ^cloth_tags$ blog_page113.html 
+Rewriterule ^magic_throw_pillows$ blog_page114.html 
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

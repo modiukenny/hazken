@@ -286,7 +286,6 @@
                                             </ul>
                                         </li>
                                        
-                                        <li> <a class="dropdown-item" href="frames">Picture Frames</a> </li>
                                         <li class="dropdown-submenu">
                                             <a class="dropdown-item dropdown-toggle" href="#">Wedding Cards</a>
                                             <ul class="dropdown-menu">
@@ -294,6 +293,7 @@
                                                 <li> <a class="dropdown-item" href="acrylic_wedding_cards">Acrylic Foil Cards</a></li>
                                             </ul>
                                         </li>
+                                        <li> <a class="dropdown-item" href="frames">Picture Frames</a> </li>
                                         <li> <a class="dropdown-item" href="greetings_card">Season's Greetings Card</a>
                                         </li>
                                     </ul>

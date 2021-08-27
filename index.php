@@ -290,6 +290,7 @@
                                             <a class="dropdown-item dropdown-toggle" href="#">Wedding Cards</a>
                                             <ul class="dropdown-menu">
                                                 <li> <a class="dropdown-item" href="wedding_cards">Wedding Invitation Cards</a></li>
+                                                <li> <a class="dropdown-item" href="premium_wedding_cards">Premium Wedding Cards</a></li>
                                                 <li> <a class="dropdown-item" href="acrylic_wedding_cards">Acrylic Foil Cards</a></li>
                                             </ul>
                                         </li>

@@ -106,7 +106,7 @@ Rewriterule ^Award_plaque$ blog_page116.html
 Rewriterule ^Cap_print$ blog_page117.html
 Rewriterule ^premium_wedding_cards$ blog_page118.html
 Rewriterule ^flash_drive$ blog_page119.html
-Rewriterule ^pylon_stand$ blog_page120.html
+Rewriterule ^pylon_signage$ blog_page120.html
 Rewriterule ^company_signs$ blog_page121.html
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)

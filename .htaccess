@@ -109,6 +109,7 @@ Rewriterule ^flash_drive$ blog_page119.html
 Rewriterule ^pylon_signage$ blog_page120.html
 Rewriterule ^company_signs$ blog_page121.html
 Rewriterule ^instagram_frame$ blog_page122.html
+Rewriterule ^funeral_programme$ blog_page123.html
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

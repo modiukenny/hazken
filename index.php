@@ -117,8 +117,11 @@
                                 aria-haspopup="true" aria-expanded="false">ALL PRODUCTS</a>
                             <ul class="dropdown-menu" aria-labelledby="blogMenu">
                                 
+                                 <li class="dropdown-submenu">
+                                    <a class="dropdown-item" href="print">Printing</a>
+                                </li>
                                 <li class="dropdown-submenu">
-                                    <a class="dropdown-item" href="graphic_design">Graphic Design & Print</a>
+                                    <a class="dropdown-item" href="graphic_design">Graphic Design</a>
                                 </li>
                                 <li class="dropdown-submenu">
                                     <a class="dropdown-item" href="logo_design">Logo Design</a>

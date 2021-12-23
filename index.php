@@ -129,9 +129,7 @@
                                 <li class="dropdown-submenu">
                                     <a class="dropdown-item" href="website_design">Web Design</a>
                                 </li>
-                                <li class="dropdown-submenu">
-                                    <a class="dropdown-item" href="uiux_design">UI/UX Design</a>
-                                </li>
+                                
                                 <li class="dropdown-submenu">
                                     <a class="dropdown-item" href="cartoon_design">Cartoon Design</a>
                                 </li>

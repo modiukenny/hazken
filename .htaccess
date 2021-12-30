@@ -115,6 +115,7 @@ Rewriterule ^golden_metal_businesscard$ blog_page124.html
 Rewriterule ^awards$ blog_page125.html
 Rewriterule ^dome_stickers$ blog_page126.html
 Rewriterule ^car_branding$ blog_page127.html
+Rewriterule ^phone_case$ blog_page128.html
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

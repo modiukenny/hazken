@@ -233,7 +233,7 @@
                                             </ul>
                                         </li>
                                         <li class="dropdown-submenu">
-                                            <a class="dropdown-item dropdown-toggle" href="#">Custom Identity Card</a>
+                                            <a class="dropdown-item dropdown-toggle" href="#">Custom Identity Cards</a>
                                             <ul class="dropdown-menu">
                                                 <li> <a class="dropdown-item" href="id_cards">ID Cards & Hologram</a> </li>
                                                 <li> <a class="dropdown-item" href="full-color_idcards">Full-color ID Cards</a> </li>
@@ -255,7 +255,7 @@
                                                 <li> <a class="dropdown-item" href="customized_alarm_clock">Digital Alarm Clock</a> </li>
                                                 <li> <a class="dropdown-item" href="customized_bedside_lamp">Bedside Lamp</a> </li>
                                                 <li> <a class="dropdown-item" href="iPhone&Phone_cases">iPhone & Phone Cases</a> </li>
-                                                <li> <a class="dropdown-item" href="customized_wallets">Custom Wallets</a> </li>
+                                                <li> <a class="dropdown-item" href="customized_wallets">Custom Wallet</a> </li>
                                                 <li> <a class="dropdown-item" href="customized_mousepad">Mouse Pads</a> </li>
                                                 <li> <a class="dropdown-item" href="printed_keyholders">Key Holders</a> </li>
                                                 <li> <a class="dropdown-item" href="water_bottle_print">Water Bottles</a> </li>

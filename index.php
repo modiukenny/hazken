@@ -1066,7 +1066,7 @@
                         <div class="widget address text-all-white">
                             <ul class="list-unstyled">
                                 <li class="media mb-3"><i class="mr-3 display-8 ti-map-alt"></i>2, Adeola Street, Off Apata Street,
-                                    Somolu, Lagos Nigeria. </li>
+                                    Somolu, Lagos Nigeria. <br><br> Lawebod Filling Station Building, Opposite Ijegun Comprehensive High School, Ijegun, Ikotun Lagos, Nigeria.</li>
                                 <li class="media mb-3"><i class="mr-3 display-8 ti-headphone-alt"></i> <a class="mr-1"
                                         href="tel:+2348176246387">+234 817 624 6387</a> </li>
                                 <li class="media mb-3"><i class="mr-3 display-8 ti-email"></i><a

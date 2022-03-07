@@ -129,6 +129,9 @@ Rewriterule ^carotenoid-complex-90$ blog_page203.html
 Rewriterule ^carotenoid-complex-30$ blog_page204.html
 Rewriterule ^tre-en-en120$ blog_page205.html
 Rewriterule ^tre-en-en60$ blog_page206.html
+Rewriterule ^all-natural-fibre$ blog_page207.html
+Rewriterule ^aloe-vera-plus-orange$ blog_page208.html
+Rewriterule ^ami-tone$ blog_page209.html
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

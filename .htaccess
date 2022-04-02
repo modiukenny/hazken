@@ -132,6 +132,13 @@ Rewriterule ^tre-en-en60$ blog_page206.html
 Rewriterule ^all-natural-fibre$ blog_page207.html
 Rewriterule ^aloe-vera-plus-orange$ blog_page208.html
 Rewriterule ^ami-tone$ blog_page209.html
+Rewriterule ^beta-guard$ blog_page210.html
+Rewriterule ^botanical-healthy-balance$ blog_page211.html
+Rewriterule ^cal-mag$ blog_page212.html
+Rewriterule ^zinc$ blog_page213.html
+Rewriterule ^all-c$ blog_page214.html
+Rewriterule ^coq10$ blog_page215.html
+Rewriterule ^cruciferous-plus$ blog_page216.html
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

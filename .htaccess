@@ -139,6 +139,17 @@ Rewriterule ^zinc$ blog_page213.html
 Rewriterule ^all-c$ blog_page214.html
 Rewriterule ^coq10$ blog_page215.html
 Rewriterule ^cruciferous-plus$ blog_page216.html
+Rewriterule ^feminine-herbal-complex$ blog_page217.html
+Rewriterule ^fibre-tablets$ blog_page218.html
+Rewriterule ^flavonoid-complex$ blog_page219.html
+Rewriterule ^formula-iv-plus30$ blog_page220.html
+Rewriterule ^formula-iv-plus60$ blog_page221.html
+Rewriterule ^full-motion$ blog_page222.html
+Rewriterule ^garlic-allium-complex$ blog_page223.html
+Rewriterule ^light-duty-cleaner$ blog_page224.html
+Rewriterule ^lipotropic-adjunct$ blog_page225.html
+Rewriterule ^masculine-herbal-complex$ blog_page226.html
+Rewriterule ^neolifetea$ blog_page227.html
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

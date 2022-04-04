@@ -150,6 +150,16 @@ Rewriterule ^light-duty-cleaner$ blog_page224.html
 Rewriterule ^lipotropic-adjunct$ blog_page225.html
 Rewriterule ^masculine-herbal-complex$ blog_page226.html
 Rewriterule ^neolifetea$ blog_page227.html
+Rewriterule ^smart-8$ blog_page228.html
+Rewriterule ^super-10-fragranced$ blog_page229.html
+Rewriterule ^super-gro-1ltr$ blog_page230.html
+Rewriterule ^super-gro-5ltr$ blog_page231.html
+Rewriterule ^vita-guard$ blog_page232.html
+Rewriterule ^vita-squares$ blog_page233.html
+Rewriterule ^vitamin-b$ blog_page234.html
+Rewriterule ^vitamin-c$ blog_page235.html
+Rewriterule ^vitamin-e$ blog_page236.html
+Rewriterule ^wheat-germ-oil$ blog_page237.html
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

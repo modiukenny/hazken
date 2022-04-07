@@ -160,6 +160,9 @@ Rewriterule ^vitamin-b$ blog_page234.html
 Rewriterule ^vitamin-c$ blog_page235.html
 Rewriterule ^vitamin-e$ blog_page236.html
 Rewriterule ^wheat-germ-oil$ blog_page237.html
+Rewriterule ^weight-management$ blog_page238.html
+Rewriterule ^heart-health$ blog_page239.html
+Rewriterule ^digestive-health$ blog_page240.html
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

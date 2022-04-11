@@ -57,7 +57,7 @@
     <!-- CSS Front Template -->
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
-    <title>Hazken Digital</title>
+    <title>Hazken Digital :: Print | Web & Graphic Design</title>
 
 
     <meta name="msapplication-TileColor" content="#ffffff">

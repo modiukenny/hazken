@@ -759,7 +759,7 @@
                     <div class="text-center">
                         <h2 class="icon-primary"><i class="ti-folder"></i></h2>
                         <h5 class="font-weight-bold">MY PORTFOLIO</h5>
-                        <p id="graphics-designs">Go to our link on<br><strong class="text-danger">INSTAGRAM</strong></p>
+                        <p id="graphics-designs">Go to our link on<br><strong class="text-dark">INSTAGRAM</strong></p>
                     </div>
                 </a>
 
@@ -1073,8 +1073,8 @@
                                         href="mailto:hazkendigital@gmail.com"
                                         class="text-all-white">hazkendigital<br>@gmail.com</a></li>
                                 <li class="media mb-3"><i class="mr-3 display-8 ti-time"></i>
-                                    <p>Mon - Fri: <strong class="text-danger">09:00 - 17:00.</strong> <br>Sat: <strong class="text-danger">10:00 -
-                                            18:00.</strong> Sun: <strong class="text-danger">Closed</strong></p>
+                                    <p>Mon - Fri: <strong class="text-dark">09:00 - 17:00.</strong> <br>Sat: <strong class="text-dark">10:00 -
+                                            18:00.</strong> Sun: <strong class="text-dark">Closed</strong></p>
                                 </li>
                             </ul>
                         </div>

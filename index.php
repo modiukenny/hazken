@@ -1073,7 +1073,7 @@
                                         href="mailto:hazkendigital@gmail.com"
                                         class="text-all-white">hazkendigital<br>@gmail.com</a></li>
                                 <li class="media mb-3"><i class="mr-3 display-8 ti-time"></i>
-                                    <p>Mon - Fri: <strong class="text-dark">09:00 - 17:00.</strong> <br>Sat: <strong class="text-dark">10:00 -
+                                    <p>Mon - Fri: <strong class="text-white">09:00 - 17:00.</strong> <br>Sat: <strong class="text-white">10:00 -
                                             18:00.</strong> Sun: <strong class="text-dark">Closed</strong></p>
                                 </li>
                             </ul>

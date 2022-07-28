@@ -116,24 +116,7 @@
                                 style="color: #4B4B4D; font-size: 15px; font-weight: bold" data-toggle="dropdown"
                                 aria-haspopup="true" aria-expanded="false">ALL PRODUCTS</a>
                             <ul class="dropdown-menu" aria-labelledby="blogMenu">
-                                
-                                 <li class="dropdown-submenu">
-                                    <a class="dropdown-item" href="print">Printing</a>
-                                </li>
-                                <li class="dropdown-submenu">
-                                    <a class="dropdown-item" href="graphic_design">Graphic Design</a>
-                                </li>
-                                <li class="dropdown-submenu">
-                                    <a class="dropdown-item" href="logo_design">Logo Design</a>
-                                </li>
-                                <li class="dropdown-submenu">
-                                    <a class="dropdown-item" href="website_design">Web Design</a>
-                                </li>
-                                
-                                <li class="dropdown-submenu">
-                                    <a class="dropdown-item" href="cartoon_design">Cartoon Design</a>
-                                </li>
-                                <li class="dropdown-submenu">
+                            <li class="dropdown-submenu">
                                     <a class="dropdown-item dropdown-toggle" href="#">Corporate Branding</a>
                                     <ul class="dropdown-menu">
                                         <li class="dropdown-submenu">
@@ -313,6 +296,23 @@
                                         </li>
                                     </ul>
                                 </li>
+                                 <li class="dropdown-submenu">
+                                    <a class="dropdown-item" href="print">Printing</a>
+                                </li>
+                                <li class="dropdown-submenu">
+                                    <a class="dropdown-item" href="graphic_design">Graphic Design</a>
+                                </li>
+                                <li class="dropdown-submenu">
+                                    <a class="dropdown-item" href="logo_design">Logo Design</a>
+                                </li>
+                                <li class="dropdown-submenu">
+                                    <a class="dropdown-item" href="website_design">Web Design</a>
+                                </li>
+                                
+                                <li class="dropdown-submenu">
+                                    <a class="dropdown-item" href="cartoon_design">Cartoon Design</a>
+                                </li>
+                                
                             </ul>
                         </li>
                         <li class="nav-item">

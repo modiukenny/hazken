@@ -172,12 +172,15 @@ Rewriterule ^bone&joint$ blog_page247.html
 Rewriterule ^bone&joint$ blog_page248.html
 Rewriterule ^specialty$ blog_page249.html
 Rewriterule ^home-care$ blog_page250.html
+Rewriterule ^magnesium-complex$ blog_page251.html
+Rewriterule ^vegan-d$ blog_page252.html
 Rewriterule ^fashion-design$ blog_page300.html
 Rewriterule ^bridal-shower$ blog_page301.html
 Rewriterule ^wedding-wears$ blog_page302.html
 Rewriterule ^men-wears$ blog_page303.html
 Rewriterule ^lady-wears$ blog_page303.html
 Rewriterule ^owanbe-party$ blog_page303.html
+
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on

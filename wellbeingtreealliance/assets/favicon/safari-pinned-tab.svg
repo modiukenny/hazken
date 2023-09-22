@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.87668in" height="1.87668in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1876.68 1876.68"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:none}
+    .fil0 {fill:#ED3237}
+   ]]>
+  </style>
+     <clipPath id="id0">
+      <path d="M38.08 1713.33l1800.51 0 0 -1001.26 -1800.51 0 0 1001.26z"/>
+     </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2450771145136">
+   <g>
+    <path class="fil0" d="M410.65 109.12c193.29,156.37 475.52,399.97 526.4,654.36 99.72,498.62 -64.09,656.83 -315.54,1045.55 -8,12.36 -6.53,16.73 3.63,10.19 166.06,-106.8 407.55,-570.51 415.73,-788.7 17.33,-462.26 -250.57,-689.18 -630.22,-921.4z"/>
+    <path class="fil0" d="M935.63 1592.64c246.8,-187.56 229.33,-506.83 254.96,-788.94 29.84,-328.46 50.16,-495.54 275.42,-749.27 -281.36,201.44 -344.83,453.21 -352.37,785.35 -8.18,360.05 16.24,411.31 -178.01,752.85z"/>
+    <path class="fil0" d="M913.57 259.58c42.98,-26.24 105.6,2.19 139.87,63.52 34.28,61.31 27.24,132.29 -15.74,158.54 -42.98,26.24 -105.6,-2.2 -139.88,-63.52 -34.28,-61.31 -27.23,-132.29 15.74,-158.54z"/>
+    <g style="clip-path:url(#id0)">
+     <image x="38.08" y="711.79" width="1801.02" height="1001.54" xlink:href="safari-pinned-tab_Images\safari-pinned-tab_ImgID1.png"/>
+    </g>
+   </g>
+   <rect class="fil1" width="1876.68" height="1876.68"/>
+  </g>
+ </g>
+</svg>

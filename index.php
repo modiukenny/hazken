@@ -1109,7 +1109,7 @@
                                     </li>
                                     <li class="social-icons-item social-twitter">
                                         <a class="social-icons-link" href="https://twitter.com/HazkenDigital"
-                                            target="_blank"><i class="fa fa-twitter"></i></a>
+                                            target="_blank"><i class="fa text-white">𝕏</i></a>
                                     </li>
                                     <li class="social-icons-item social-facebook">
                                         <a class="social-icons-link"

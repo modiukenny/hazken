@@ -59,6 +59,17 @@
 
     <title>Hazken Digital :: Print | Web & Graphic Design in Lagos Nigeria</title>
 
+    <!-- Og -->
+    <meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Hazken Digital :: Print | Web & Graphic Design in Lagos Nigeria" />
+	<meta property="og:description" content="We create a unique website, professional graphic design, best quality digital printing and branding identity for your business in Lagos Nigeria." />
+    <meta property="og:image" content="https://hazken.com/src/img/hazken_brand.jpg" />
+	<meta property="og:url" content="https://hazken.com" />
+	<meta property="og:site_name" content="Hazken Digital" />
+    <meta property="og:image:width" content="410" />
+	<meta property="og:image:height" content="214" />
+	<meta property="og:image:type" content="image/jpeg" />
 
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />

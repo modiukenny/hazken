@@ -171,7 +171,7 @@ Rewriterule ^mens-health$ blog_page244.html
 Rewriterule ^childrens-health$ blog_page245.html
 Rewriterule ^sharper-mind$ blog_page246.html
 Rewriterule ^bone&joint$ blog_page247.html
-Rewriterule ^bone&joint$ blog_page248.html
+Rewriterule ^vitamins&minerals$ blog_page248.html
 Rewriterule ^specialty$ blog_page249.html
 Rewriterule ^home-care$ blog_page250.html
 Rewriterule ^magnesium-complex$ blog_page251.html

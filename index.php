@@ -525,7 +525,7 @@
                             style="background-image:url(assets/images/portfolio/044.jpg); background-position: center top; background-size: cover;">
                             <h5 class="text-white">Personal Plan</h5>
                             <h2 class="text-warning">
-                                ₦7,500 </h2>
+                                ₦10,500 </h2>
                             <p class="text-white">Get a Pillow Branded with your Company Name.</p>
                         </div>
                     </a>
@@ -538,7 +538,7 @@
                             <div class="ribbon"><span>POPULAR</span></div>
                             <h5 class="text-white">Business Plan</h5>
                             <h2 class="text-warning">
-                                ₦150,000</h2>
+                                ₦300,000</h2>
                             <p class="text-white">Responsive Website + UX UX Design + Web Hosting + Domain Name.</p>
                         </div>
                     </a>
@@ -550,7 +550,7 @@
                             style="background-image:url(assets/images/portfolio/07.jpg); background-position: center top; background-size: cover;">
                             <h5 class="text-white">Ultimate Plan</h5>
                             <h2 class="text-warning">
-                                ₦75,000 </h2>
+                                ₦7145,000 </h2>
                             <p class="text-white">Brochure Printing Square Size 100 Copies 8 X 8 (12 pages)</p>
                         </div>
                     </a>

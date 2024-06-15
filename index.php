@@ -511,7 +511,8 @@
                 <div class="col-md-8 mb-0 mb-md-5">
                     <div class="p-0 text-center text-md-left">
                         <h2>Affordable Pricing Packages</h2>
-                        <p class="text-dark">We can design and develop a website that specifically meets your unique
+                        <p class="text-dark">We create a unique website, professional graphic design, best quality digital printing and branding identity for your business in Lagos Nigeria.<br>
+                        We can design and develop a website that specifically meets your unique
                             needs, and meets your required standards as well as industry related standards.</p>
                     </div>
                 </div>

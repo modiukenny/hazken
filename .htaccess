@@ -125,6 +125,7 @@ Rewriterule ^horsebit$ blog_page133.html
 Rewriterule ^tag_strings$ blog_page134.html
 Rewriterule ^hoodie&Sweatshirt$ blog_page135.html
 Rewriterule ^diary$ blog_page136.html
+Rewriterule ^box$ blog_page137.html
 Rewriterule ^phytodefence$ blog_page200.html
 Rewriterule ^omega-3-salmon-oil-plus$ blog_page201.html
 Rewriterule ^pro-vitality$ blog_page202.html

@@ -25,6 +25,7 @@ Rewriterule ^mugs$ blog_page48.html
 Rewriterule ^businesscards$ blog_page10.html 
 Rewriterule ^billboard_branding$ blog_page7.html 
 Rewriterule ^posters$ blog_page2.html 
+Rewriterule ^shomolu_prints$ blog_page4.html 
 Rewriterule ^calendars$ blog_page11.html 
 Rewriterule ^large_format_printing$ blog_page31.html 
 Rewriterule ^flyers$ blog_page12.html 

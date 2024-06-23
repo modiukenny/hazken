@@ -130,6 +130,7 @@ Rewriterule ^box$ blog_page137.html
 Rewriterule ^teardrop_feather_banner$ blog_page138.html
 Rewriterule ^hardbook_print$ blog_page139.html
 Rewriterule ^window_graphics$ blog_page140.html
+Rewriterule ^hand_fan$ blog_page141.html
 Rewriterule ^phytodefence$ blog_page200.html
 Rewriterule ^omega-3-salmon-oil-plus$ blog_page201.html
 Rewriterule ^pro-vitality$ blog_page202.html

@@ -126,7 +126,6 @@ Rewriterule ^horsebit$ blog_page133.html
 Rewriterule ^tag_strings$ blog_page134.html
 Rewriterule ^hoodie&Sweatshirt$ blog_page135.html
 Rewriterule ^diary$ blog_page136.html
-Rewriterule ^box$ blog_page137.html
 Rewriterule ^teardrop_feather_banner$ blog_page138.html
 Rewriterule ^hardbook_print$ blog_page139.html
 Rewriterule ^window_graphics$ blog_page140.html

@@ -102,7 +102,6 @@ Rewriterule ^vinyl_balloon$ blog_page110.html
 Rewriterule ^magic_throw_pillows$ blog_page114.html 
 Rewriterule ^singlet_nylons$ blog_page115.html 
 Rewriterule ^Award_plaque$ blog_page116.html
-Rewriterule ^Cap_print$ blog_page117.html
 Rewriterule ^premium_wedding_cards$ blog_page118.html
 Rewriterule ^flash_drive$ blog_page119.html
 Rewriterule ^pylon_signage$ blog_page120.html

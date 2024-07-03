@@ -66,7 +66,6 @@ Rewriterule ^wall_clock$ blog_page73.html
 Rewriterule ^table_top$ blog_page74.html 
 Rewriterule ^printed_keyholders$ blog_page75.html 
 Rewriterule ^water_bottle_print$ blog_page76.html 
-Rewriterule ^cloths_woven$ blog_page77.html 
 Rewriterule ^customized_wallets$ blog_page78.html 
 Rewriterule ^customized_bedside_lamp$ blog_page79.html 
 Rewriterule ^customized_alarm_clock$ blog_page80.html 
@@ -100,9 +99,6 @@ Rewriterule ^acrylic_wedding_cards$ blog_page107.html
 Rewriterule ^letterheads$ blog_page108.html 
 Rewriterule ^envelopes$ blog_page109.html 
 Rewriterule ^vinyl_balloon$ blog_page110.html 
-Rewriterule ^logo_design$ blog_page111.html 
-Rewriterule ^woven_labels$ blog_page112.html 
-Rewriterule ^cloth_tags$ blog_page113.html 
 Rewriterule ^magic_throw_pillows$ blog_page114.html 
 Rewriterule ^singlet_nylons$ blog_page115.html 
 Rewriterule ^Award_plaque$ blog_page116.html

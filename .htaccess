@@ -10,7 +10,6 @@ Rewriterule ^wrong_page$ error-404.html
 Rewriterule ^home$ index.php
 Rewriterule ^about_us$ aboutus.html
 Rewriterule ^web_design$ blog_page3.html 
-Rewriterule ^graphic_design$ blog_page15.html 
 Rewriterule ^wedding_iv$ blog_page23.html 
 Rewriterule ^office_stationery$ blog_page52.html 
 Rewriterule ^website_design$ blog_page51.html 

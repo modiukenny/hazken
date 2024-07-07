@@ -168,6 +168,7 @@
                                     </li>
                                         <li> <a class="dropdown-item" href="posters">Posters</a> </li>
                                         <li> <a class="dropdown-item" href="diary">Custom Diaries</a> </li>
+                                        <li> <a class="dropdown-item" href="monogram_design">Monogram Designs</a> </li>
 
                                         <li class="dropdown-submenu">
                                             <a class="dropdown-item dropdown-toggle" href="#">Large Format Prints</a>

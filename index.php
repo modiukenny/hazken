@@ -323,7 +323,14 @@
                                                 <li> <a class="dropdown-item" href="access-cards&drivers-meal">Access Card & Drivers Meal Ticket</a></li>
                                             </ul>
                                         </li>
-                                        <li> <a class="dropdown-item" href="frames">Picture Frame</a> </li>
+                                        <li class="dropdown-submenu">
+                                            <a class="dropdown-item dropdown-toggle" href="#">Picture Frame</a>
+                                            <ul class="dropdown-menu">
+                                                <li> <a class="dropdown-item" href="frames">Cartoon/Photo Frame</a></li>
+                                                <li> <a class="dropdown-item" href="frame">Picture Frame</a></li>
+                                                <li> <a class="dropdown-item" href="canvas-frame">Wall Canvas Frame</a></li>
+                                            </ul>
+                                        </li>
                                         <li> <a class="dropdown-item" href="greetings_card">Season's Greetings Card</a>
                                         </li>
                                     </ul>

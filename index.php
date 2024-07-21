@@ -547,7 +547,7 @@
                             style="background-image:url(assets/images/portfolio/07.jpg); background-position: center top; background-size: cover;">
                             <h5 class="text-white">Ultimate Plan</h5>
                             <h2 class="text-warning">
-                                ₦7145,000 </h2>
+                                ₦714,500 </h2>
                             <p class="text-white">Brochure Printing Square Size 100 Copies 8 X 8 (12 pages)</p>
                         </div>
                     </a>

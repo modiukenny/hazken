@@ -514,7 +514,9 @@
                         <br>Design and print <a class="btn btn-sm btn-outline-dark" href="posters">Posters</a> <a class="btn btn-sm btn-outline-dark" href="businesscards">Business Card</a> <a class="btn btn-sm btn-outline-dark" href="banners">Flex Banner</a>
                                     
                                     <a class="btn btn-sm btn-outline-dark" href="mugs">Mugs</a> <a class="btn btn-sm btn-outline-dark" href="brochures">Brochures</a> 
-                                    <a class="btn btn-sm btn-outline-dark" href="flex-banner">Banner</a> <a class="btn btn-sm btn-outline-dark" href="flyers">Flyers</a> and other print products online
+                                    <a class="btn btn-sm btn-outline-dark" href="flex-banner">Banner</a> 
+                                    <a class="btn btn-sm btn-outline-dark" href="pvc-identity-cards">ID Cards</a> 
+                                    <a class="btn btn-sm btn-outline-dark" href="diary">Diary</a> <a class="btn btn-sm btn-outline-dark" href="flyers">Flyers</a> and other print products online
                                     <strong class="text-dark"><a href="https://wa.me/2348176246387">@HazkenDigital</a></strong> in Lagos Nigeria.</p>
                     </div>
                 </div>

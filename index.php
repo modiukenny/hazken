@@ -800,7 +800,7 @@
                     <div>
                         <a href="mailto:hazkendigital@gmail.com" class="btn btn-outline-dark">Contact us</a>
                         <!-- Modal -->
-                        <a href="https://www.instagram.com/hazkendigital/" class="btn btn-link" target="_blank">View Portfolio</a>
+                        <a href="https://www.instagram.com/hazkendigital/" class="btn btn-danger btn-link" target="_blank">View Portfolio</a>
                     </div>
                 </div>
             </div>

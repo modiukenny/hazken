@@ -1383,7 +1383,7 @@
                             <div class="col-md-3 col-6">
                                 <div class="counter-item text-center">
                                     <i class="counter-item-icon ti-write"></i>
-                                    <h2 class="counter-item-digit" data-from="0" data-to="385,523,257" data-speed="3000" data-refresh-interval="10">75257</h2>
+                                    <h2 class="counter-item-digit" data-from="0" data-to="7895561" data-speed="3000" data-refresh-interval="10">7895561</h2>
                                     <p class="counter-item-text">Lines of code</p>
                                 </div>
                             </div>
@@ -1391,7 +1391,7 @@
                             <div class="col-md-3 col-6">
                                 <div class="counter-item text-center">
                                     <i class="counter-item-icon ti-truck"></i>
-                                    <h2 class="counter-item-digit" data-from="0" data-to="328,890" data-speed="3000" data-refresh-interval="10">328,890</h2>
+                                    <h2 class="counter-item-digit" data-from="0" data-to="325810" data-speed="3000" data-refresh-interval="10">325810</h2>
                                     <p class="counter-item-text">Project Delivered</p>
                                 </div>
                             </div>
@@ -1399,7 +1399,7 @@
                             <div class="col-md-3 col-6">
                                 <div class="counter-item text-center">
                                     <i class="counter-item-icon ti-face-smile"></i>
-                                    <h2 class="counter-item-digit" data-from="0" data-to="125,348" data-speed="3000" data-refresh-interval="10">125,348</h2>
+                                    <h2 class="counter-item-digit" data-from="0" data-to="128538" data-speed="3000" data-refresh-interval="10">128538</h2>
                                     <p class="counter-item-text">Satisfied clients</p>
                                 </div>
                             </div>

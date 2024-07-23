@@ -893,7 +893,7 @@
                                     <img src="assets/images/portfolio/hazken_web.jpg" alt="Ui Ux design in lagos nigeria Hazken Digital">
                                 </div>
                                 <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/hazken_web.jpg" data-fancybox="portfolio" data-caption="Hazken UI"><i class="ti-fullscreen"></i></a>
+                                    <a class="full-screen" href="assets/images/portfolio/hazken_web.jpg" data-fancybox="portfolio" data-caption="Ui Ux Design"><i class="ti-fullscreen"></i></a>
                                     <h6 class="info-title text-white"><a href="uiux_design">Ui Ux Design</a></h6>
                                     <p>UI/UX Design</p>
                                 </div>

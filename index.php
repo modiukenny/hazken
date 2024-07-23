@@ -1450,7 +1450,7 @@
         <div class="container">
             <div class="d-block d-md-flex bg-dark p-4 p-sm-5 all-text-white border-radius-3 pattern-overlay-3">
                 <div class="align-self-center text-center text-md-left">
-                    <h3>Crafting visually stunning memorable experiences for web designs and graphic designs.</h3>
+                    <h3>Crafting visually stunning memorable experiences for website designs, graphic design, digital print and creative branding.</h3>
                     <p class="m-0">We provide digital transformation solutions, enabling companies to make their visions reality.</p>
                 </div>
             </div>

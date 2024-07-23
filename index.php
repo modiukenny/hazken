@@ -798,7 +798,7 @@
                     </p>
                     <p>For your Photoshop Tutorials |Designs| |Mockups| |Animations| and CorelDraw Tutorials.</p>
                     <div>
-                        <a href="mailto:hazkendigital@gmail.com" class="btn btn-outline-dark">Contact us</a>
+                        <a href="tel:+2349029480399" class="btn btn-outline-dark">Contact us</a>
                         <!-- Modal -->
                         <a href="https://www.instagram.com/hazkendigital/" class="btn btn-danger btn-link text-white" target="_blank">View Portfolio</a>
                     </div>

@@ -868,7 +868,7 @@
                                 <div class="portfolio-card-footer">
                                     <a class="full-screen" href="assets/images/portfolio/hazken_business_card.jpg" data-fancybox="portfolio" data-caption="Business Card"><i class="ti-fullscreen"></i></a>
                                     <h6 class="info-title text-white"><a href="businesscards">Business Card</a></h6>
-                                    <p>Business Card Design</p>
+                                    <p>Business Card Design and Print</p>
                                 </div>
                             </div>
                         </div>
@@ -894,7 +894,7 @@
                                 </div>
                                 <div class="portfolio-card-footer">
                                     <a class="full-screen" href="assets/images/portfolio/hazken_web.jpg" data-fancybox="portfolio" data-caption="Hazken UI"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title text-white"><a href="uiux_design">@HazkenDigital</a></h6>
+                                    <h6 class="info-title text-white"><a href="uiux_design">Ui Ux Design</a></h6>
                                     <p>UI/UX Design</p>
                                 </div>
                             </div>

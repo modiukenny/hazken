@@ -1188,7 +1188,7 @@
                                 </div>
                                 <div class="portfolio-card-footer">
                                     <a class="full-screen" href="assets/images/portfolio/cap.jpg" data-fancybox="portfolio" data-caption="Cap"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title text-white"><a href="paper-bag">Cap</a></h6>
+                                    <h6 class="info-title text-white"><a href="Cap_print">Cap</a></h6>
                                     <p>Printing/Design</p>
                                 </div>
                             </div>
@@ -1299,7 +1299,7 @@
                                 </div>
                                 <div class="portfolio-card-footer">
                                     <a class="full-screen" href="assets/images/portfolio/towel.jpg" data-fancybox="portfolio" data-caption="Towel"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title text-white"><a href="canvas-frame">Towel</a></h6>
+                                    <h6 class="info-title text-white"><a href="towel">Towel</a></h6>
                                     <p>Design and Printing</p>
                                 </div>
                             </div>

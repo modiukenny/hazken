@@ -1255,7 +1255,7 @@
                                     <img src="assets/images/portfolio/box.jpg" alt="Gift Box printing in Lagos Nigeria">
                                 </div>
                                 <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/box.jpg" data-fancybox="portfolio" data-caption="Gift Boxes"><i class="ti-fullscreen"></i></a>
+                                    <a class="full-screen" href="assets/images/portfolio/box.jpg" data-fancybox="portfolio" data-caption="Gift Boxes"><i class="ti-fullscreen"></i></a>
                                     <h6 class="info-title text-white"><a href="boxes">Gift Boxes</a></h6>
                                     <p>Design and Printing</p>
                                 </div>
@@ -1391,7 +1391,7 @@
                             <div class="col-md-3 col-6">
                                 <div class="counter-item text-center">
                                     <i class="counter-item-icon ti-truck"></i>
-                                    <h2 class="counter-item-digit" data-from="0" data-to="42,890" data-speed="3000" data-refresh-interval="10">34340</h2>
+                                    <h2 class="counter-item-digit" data-from="0" data-to="328,890" data-speed="3000" data-refresh-interval="10">328,890</h2>
                                     <p class="counter-item-text">Project Delivered</p>
                                 </div>
                             </div>
@@ -1399,7 +1399,7 @@
                             <div class="col-md-3 col-6">
                                 <div class="counter-item text-center">
                                     <i class="counter-item-icon ti-face-smile"></i>
-                                    <h2 class="counter-item-digit" data-from="0" data-to="67,348" data-speed="3000" data-refresh-interval="10">8948</h2>
+                                    <h2 class="counter-item-digit" data-from="0" data-to="125,348" data-speed="3000" data-refresh-interval="10">125,348</h2>
                                     <p class="counter-item-text">Satisfied clients</p>
                                 </div>
                             </div>

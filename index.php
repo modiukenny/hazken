@@ -916,32 +916,6 @@
                         <div class="portfolio-card isotope-item photo creative-branding">
                             <div class="portfolio-card-body">
                                 <div class="portfolio-card-header">
-                                    <img src="assets/images/portfolio/jekalo_billboard1.jpg" alt="jekalo billboard offer or get a ride within Lagos Nigeria">
-                                </div>
-                                <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/jekalo_billboard1.jpg" data-fancybox="portfolio" data-caption="Jekalo Billboard Design"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title text-white"><a href="billboard_branding">Billboard</a></h6>
-                                    <p>Jekalo Advert</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- portfolio-card -->
-                        <div class="portfolio-card isotope-item photo creative-branding">
-                            <div class="portfolio-card-body">
-                                <div class="portfolio-card-header">
-                                    <img src="assets/images/portfolio/jekalo_billboard2.jpg" alt="jekalo Outdoor Branding Design in Lagos Nigeria">
-                                </div>
-                                <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/jekalo_billboard2.jpg" data-fancybox="portfolio" data-caption="Jekalo Ads"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title text-white"><a href="billboard_branding">Wall Billboard</a></h6>
-                                    <p>Jekalo Ads</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- portfolio-card -->
-                        <div class="portfolio-card isotope-item photo creative-branding">
-                            <div class="portfolio-card-body">
-                                <div class="portfolio-card-header">
                                     <img src="assets/images/portfolio/hazken_shoe_branded_shoes_mockups_download_psd_graphic_designs_all_stars.jpg" alt="hazken sneaker creative branding in lagos nigeria">
                                 </div>
                                 <div class="portfolio-card-footer">
@@ -985,19 +959,6 @@
                                 </div>
                                 <div class="portfolio-card-footer">
                                     <a class="full-screen" href="assets/images/portfolio/jekalo_riders_in_lagos.jpg" data-fancybox="portfolio" data-caption="Jekalo Billboard"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title text-white"><a href="billboard_branding">Billboard</a></h6>
-                                    <p>Jekalo Adverts</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- portfolio-card -->
-                        <div class="portfolio-card isotope-item photo creative-branding">
-                            <div class="portfolio-card-body">
-                                <div class="portfolio-card-header">
-                                    <img src="assets/images/portfolio/billboard_for_riders_in_Lagos.jpg" alt="roadside billboard design branding in Lagos Nigeria">
-                                </div>
-                                <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/billboard_for_riders_in_Lagos.jpg" data-fancybox="portfolio" data-caption="Jekalo Billboard"><i class="ti-fullscreen"></i></a>
                                     <h6 class="info-title text-white"><a href="billboard_branding">Billboard</a></h6>
                                     <p>Jekalo Adverts</p>
                                 </div>

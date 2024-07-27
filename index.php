@@ -728,7 +728,7 @@
                         <h2 class="icon-primary"><i class="ti-ruler-pencil"></i></h2>
                         <h5>Graphic Design</h5>
                         <p class="mb-0">We creates graphics primarily for Book Publishing, and Printing such as brochures and
-                            advertising, responsible illustration, user interfaces, and UI Design. A core
+                            advertising and responsible illustration. A core
                             responsibility of the designer's job is to present information in a way that is both
                             accessible and memorable.</p>
                     </div>

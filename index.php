@@ -824,8 +824,38 @@
 	Portfolio -->
     <section class="portfolio portfolio-style-2 pb-0">
         <div class="container">
+            <div class="row mb-4">
+				<div class="col-md-4 mt-30">
+					<div class="feature-box f-style-2 icon-grad h-100">
+						<div class="feature-box-icon"><i class="ti-truck"></i></div>
+						<h3 class="feature-box-title">FAST DELIVERY</h3>
+						<p class="feature-box-desc">We deliver to your doorstep anywhere in Lagos, Nigeria or Nationwide.</p>
+					</div>
+				</div>
+				<div class="col-md-4 mt-30">
+					<div class="feature-box f-style-2 icon-grad h-100">
+						<div class="feature-box-icon"><i class="ti-face-smile"></i></div>
+						<h3 class="feature-box-title">CLIENT SATISFACTION</h3>
+						<p class="feature-box-desc">With our high-quality print on high grade materials, 
+                            you can order now to get your order within 36hrs.</p>
+						<a class="mt-3 btn btn-grad col-4" href="https://wa.me/2348176246387">Order now</a>
+					</div>
+				</div>
+				<div class="col-md-4 mt-30">
+					<div class="feature-box f-style-2 icon-grad h-100">
+						<div class="feature-box-icon"><i class="ti-printer"></i></div>
+						<h3 class="feature-box-title">DIGITAL PRINTING SOLUTIONS</h3>
+						<p class="feature-box-desc">As top leading digital printing services in Lagos Nigeria, we deliver the best professional 
+                            graphic design, and top notch quality printing for all your products, corporate event or business needs.
+                        </p>
+						<a class="mt-3 btn btn-grad col-4" href="print">Know more!</a>
+					</div>
+				</div>
+			</div>
             <div class="row">
+                
                 <div class="col-12 col-lg-7 mx-auto">
+                    
                     <!-- title -->
                     <div class="title text-center">
                         <span class="pre-title">Check out some of our latest work.</span>

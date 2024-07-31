@@ -192,6 +192,7 @@
                                                                 <li> <a class="dropdown-item" href="dome_stickers">Dome Stickers</a> </li>
                                                             <li> <a class="dropdown-item" href="exhibition-stand">Exhibition</a> </li>
                                                             <li> <a class="dropdown-item" href="trade-stand">Trade Stand</a> </li>
+                                                            <li> <a class="dropdown-item" href="cutouts-image">Image Cutouts</a> </li>
                                                             </li>
 
                                                         </ul>

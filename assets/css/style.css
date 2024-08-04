@@ -4827,7 +4827,7 @@ input[type="button"].btn-block {
 .page-link {
     position: relative;
     display: block;
-    padding: 0.5rem 0.75rem;
+    padding: 0.5rem 0.5rem;
     margin-left: -1px;
     line-height: 1.25;
     color: #007bff;
@@ -4876,7 +4876,7 @@ input[type="button"].btn-block {
 }
 
 .pagination-lg .page-link {
-    padding: 0.75rem 1.5rem;
+    padding: 0.75rem 1rem;
     font-size: 1.09375rem;
     line-height: 1.7;
 }
@@ -15137,7 +15137,7 @@ footer .widget {
 
 .page-link {
     color: #111111;
-    padding: 0.75rem 1rem;
+    padding: 0.5em 0.5rem;
     text-transform: uppercase;
     border-radius: 0;
 }

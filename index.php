@@ -29,7 +29,6 @@
 <meta property="og:image:height" content="214" />
 
     <meta property="og:image:type" content="image/jpeg" />
-    <meta property="og:image:type" content="image/jpeg" />
     <link rel="canonical" href="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="" />

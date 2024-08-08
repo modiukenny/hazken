@@ -1372,7 +1372,7 @@
                                 <div class="portfolio-card-footer">
                                     <a class="full-screen" href="assets/images/portfolio/customized_mug.jpg" data-fancybox="portfolio" data-caption="Customized Mug"><i class="ti-fullscreen"></i></a>
                                     <h6 class="info-title text-white text-white"><a href="mug">Customized Mug</a></h6>
-                                    <p>Sublimation Printing</p>
+                                    <p>Sublimation Print</p>
                                 </div>
                             </div>
                         </div>

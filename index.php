@@ -1370,9 +1370,9 @@
                                     <img src="assets/images/portfolio/customized_mug.jpg" alt="printed mugs and design in Lagos Nigeria">
                                 </div>
                                 <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/customized_mug.jpg" data-fancybox="portfolio" data-caption="Mug Printing"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title text-white text-white"><a href="mug">Ceramic Mug</a></h6>
-                                    <p>Screen Printing</p>
+                                    <a class="full-screen" href="assets/images/portfolio/customized_mug.jpg" data-fancybox="portfolio" data-caption="Customized Mug"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title text-white text-white"><a href="mug">Customized Mug</a></h6>
+                                    <p>Sublimation Printing</p>
                                 </div>
                             </div>
                         </div>

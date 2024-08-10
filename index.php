@@ -1638,7 +1638,7 @@
     <script src="assets/vendor/popper.js/umd/popper.min.js"></script>
     <script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="assets/vendor/jquery-easing/jquery.easing.min.js"></script>
-
+    <script src="https://widget.trustmary.com/kqohPtNxp"></script>
     
 	<!--Vendors-->
 	<script src="assets/vendor/aos/aos.js"></script>

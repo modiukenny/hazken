@@ -65,6 +65,15 @@
     <link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
     <link rel="manifest" href="favicon/manifest.json">
+    <script>(function (w,d,s,o,r,js,fjs) {
+    w[r]=w[r]||function() {(w[r].q = w[r].q || []).push(arguments)}
+    w[r]('app', 'NWFdCa68vU');
+    if(d.getElementById(o)) return;
+    js = d.createElement(s), fjs = d.getElementsByTagName(s)[0];
+    js.id = o; js.src = 'https://embed.trustmary.com/embed.js';
+    js.async = 1; fjs.parentNode.insertBefore(js, fjs);
+  }(window, document, 'script', 'trustmary-embed', 'tmary'));
+</script>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900%7CPlayfair+Display:400,400i,700,700i%7CRoboto:400,400i,500,700" rel="stylesheet">

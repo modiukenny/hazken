@@ -1657,6 +1657,7 @@
 
     <!--Template Functions-->
     <script src="assets/js/functions.js"></script>
+    <script src="https://widget.trustmary.com/kqohPtNxp"></script>
     
     <!-- Bootstrap JS -->
 <script src="/assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>

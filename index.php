@@ -65,15 +65,7 @@
     <link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
     <link rel="manifest" href="favicon/manifest.json">
-    <script>(function (w,d,s,o,r,js,fjs) {
-    w[r]=w[r]||function() {(w[r].q = w[r].q || []).push(arguments)}
-    w[r]('app', 'NWFdCa68vU');
-    if(d.getElementById(o)) return;
-    js = d.createElement(s), fjs = d.getElementsByTagName(s)[0];
-    js.id = o; js.src = 'https://embed.trustmary.com/embed.js';
-    js.async = 1; fjs.parentNode.insertBefore(js, fjs);
-  }(window, document, 'script', 'trustmary-embed', 'tmary'));
-</script>
+    
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900%7CPlayfair+Display:400,400i,700,700i%7CRoboto:400,400i,500,700" rel="stylesheet">
@@ -1507,7 +1499,8 @@
 
     <!-- =======================
 	footer  -->
-    <script src="https://widget.trustmary.com/kqohPtNxp"></script>
+    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-c6dede2f-b0cc-4a0e-9c8c-132f631613c5" data-elfsight-app-lazy></div>
     <footer class="footer pt-6 bg-dark ">
         <div class="footer-content pb-3 text-all-white">
             <div class="container">
@@ -1651,7 +1644,6 @@
     <script src="assets/vendor/popper.js/umd/popper.min.js"></script>
     <script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="assets/vendor/jquery-easing/jquery.easing.min.js"></script>
-    <script src="https://widget.trustmary.com/kqohPtNxp"></script>
     
 	<!--Vendors-->
 	<script src="assets/vendor/aos/aos.js"></script>

@@ -937,7 +937,7 @@
                     <div class="container">
                         <div class="d-md-flex justify-content-between align-items-center py-3 text-center text-md-left">
                             <!-- copyright text -->
-                            <div class="copyright-text text-white">Copyright © 2025 <a href="home" style="color: #d4d4d4"> Hazken Digital.</a> All Rights Reserved. BN: 3067429</div>
+                            <div class="copyright-text text-white">Copyright © <span id="demo"></span> <a href="home" style="color: #d4d4d4"> Hazken Digital.</a> All Rights Reserved. BN: 3067429</div>
 
                         </div>
                     </div>
@@ -963,7 +963,12 @@
             </script>
             <!--End of Tawk.to Script-->
 
-            <!--Global JS-->
+            <script>
+        const d = new Date();
+        document.getElementById("demo").innerHTML = d.getFullYear();
+        </script>
+
+    <!--Global JS-->
             <script src="assets/vendor/jquery/jquery.min.js"></script>
             <script src="assets/vendor/popper.js/umd/popper.min.js"></script>
             <script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>

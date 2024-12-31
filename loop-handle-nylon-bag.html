@@ -1337,7 +1337,7 @@
             <div class="container">
                 <div class="d-md-flex justify-content-between align-items-center py-3 text-center text-md-left">
                     <!-- copyright text -->
-                    <div class="copyright-text text-white">Copyright © 2025 <a href="home" style="color: #d4d4d4">
+                    <div class="copyright-text text-white">Copyright © <span id="demo"></span> <a href="home" style="color: #d4d4d4">
                             Hazken Digital.</a> All Rights Reserved. BN: 3067429</div>
 
                 </div>
@@ -1365,6 +1365,11 @@
     <!--End of Tawk.to Script-->
     <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 
+
+    <script>
+        const d = new Date();
+        document.getElementById("demo").innerHTML = d.getFullYear();
+        </script>
 
     <!--Global JS-->
     <script src="assets/vendor/jquery/jquery.min.js"></script>

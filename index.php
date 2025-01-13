@@ -821,7 +821,7 @@
                             <img class="border-radius-3 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s" src="assets/images/service/hazken-tshirt.jpg" alt="tshirt printing in Lagos Nigeria">
                         </div>
                         <div class="col-6 px-2 mb-3">
-                            <img class="border-radius-3 wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.6s" src="assets/images/service/hazken_digital_billboard.jpg" alt="Hazken Digital Printing Service in lLagos Nigeria">
+                            <img class="border-radius-3 wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.6s" src="assets/images/service/hazken_digital_office.jpg" alt="Hazken Digital Printing Service in lLagos Nigeria">
                         </div>
                         <div class="col-7 px-2 mb-3">
                             <div class="border-radius-3 wow fadeInLeft bg-dark p-2 p-sm-3 p-lg-4 p-xl-5 all-text-white" data-wow-duration="0.8s" data-wow-delay="0s">

@@ -16,11 +16,11 @@
         gtag('config', 'UA-138230632-1');
     </script>
 
-    <title>Hazken Digital :: Print | Web & Graphic Design in Lagos Nigeria</title>
+    <title>Hazken Digital Print | Web & Graphic Design in Lagos Nigeria</title>
 <!-- Og -->
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Hazken Digital :: Print | Web & Graphic Design in Lagos Nigeria" />
+<meta property="og:title" content="Hazken Digital Print | Web & Graphic Design in Lagos Nigeria" />
 <meta property="og:description" content="We create a unique website, professional graphic design, best quality digital printing and branding identity for your business in Lagos Nigeria." />
 <meta property="og:image" content="https://hazken.com/src/img/hazken_brand.jpg" />
 <meta property="og:url" content="https://hazken.com" />
@@ -40,7 +40,7 @@
     <link rel="canonical" href="https://hazken.com" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="We create a unique website, professional graphic design, best quality digital printing and branding identity for your business in Lagos Nigeria." />
-    <meta name="twitter:title" content="Hazken Digital :: Print | Web & Graphic Design in Lagos Nigeria" />
+    <meta name="twitter:title" content="Hazken Digital Print | Web & Graphic Design in Lagos Nigeria" />
     <meta name="twitter:site" content="@hazkendigital" />
     <meta name="twitter:image" content="https://hazken.com/src/img/hazken_brand.jpg" />
     <meta name="twitter:creator" content="@hazkendigital" />

@@ -423,7 +423,7 @@
                                             <li> <a class="dropdown-item" href="greetings_card">Season's Greetings Card</a> </li>
                                         </ul>
                                     </li>
-                                    <a class="dropdown-item" href="print">Printing</a>
+                                    <a class="dropdown-item" href="print">Print</a>
                                 </li>
                                 <li class="dropdown-submenu">
                                     <a class="dropdown-item" href="graphic_design">Graphic Design</a>

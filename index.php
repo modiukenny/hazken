@@ -1115,11 +1115,11 @@
                         <div class="portfolio-card isotope-item photo creative-branding">
                             <div class="portfolio-card-body">
                                 <div class="portfolio-card-header">
-                                    <img src="assets/images/portfolio/sign.jpg" alt="Company Sign Makers Branding in Lagos Nigeria">
+                                    <img src="assets/images/portfolio/sign.jpg" alt="Hazken Company Logo Sign Design Branding in Lagos Nigeria">
                                 </div>
                                 <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/sign.jpg" data-fancybox="portfolio" data-caption="Company Sign Makers Branding"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title text-white"><a href="company_signs">Company Sign Makers Branding</a></h6>
+                                    <a class="full-screen" href="assets/images/portfolio/sign.jpg" data-fancybox="portfolio" data-caption="Company Logo Sign Design Branding"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title text-white"><a href="company_signs">Company Logo Sign Design Branding</a></h6>
                                     <p>Branding</p>
                                 </div>
                             </div>

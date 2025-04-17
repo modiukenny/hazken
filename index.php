@@ -1562,7 +1562,7 @@
                             <h6 class="text-warning">Quick Links</h6>
                             <ul class="nav flex-column primary-hover">
                                 <li class="nav-item"><a class="nav-link" href="service">Service</a></li>
-                                <li class="nav-item"><a class="nav-link" href="hazkendelight/index.html">Hazken Delight</a></li>
+                                <li class="nav-item"><a class="nav-link" href="hazkendelight/index">Hazken Delight</a></li>
                                 <li class="nav-item"><a class="nav-link" href="blog">Blog</a></li>
                                 <li class="nav-item"><a class="nav-link" href="about_us">About</a></li>
                                 <li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>

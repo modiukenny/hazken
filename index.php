@@ -272,7 +272,7 @@
                                         </ul>
                                     </li>
                                             <li class="dropdown-submenu">
-                                                <a class="dropdown-item dropdown-toggle" href="#">Sign & Signage</a>
+                                                <a class="dropdown-item dropdown-toggle" href="#">Signs & Signage</a>
                                                 <ul class="dropdown-menu">
                                                     <li> <a class="dropdown-item" href="logo_signage">LED Logo Signs Maker</a> </li>
                                                     <li> <a class="dropdown-item" href="3d_logo_sign">3D Logo Signage</a> </li>
@@ -804,7 +804,8 @@
                     <div class="bg-light p-4 p-lg-5 ">
                         <h2 class="icon-primary"><i class="ti-ruler-pencil"></i></h2>
                         <h5>Graphic Design</h5>
-                        <p class="mb-0">We creates graphics primarily for Book Publishing, and Printing such as brochures and
+                        <p class="mb-0">We creates graphics primarily for Comapny such as logo, branding identity, and Printing such as banner, 
+                            flyers, Id card, souvenirs, brochures
                             advertising and responsible illustration. A core
                             responsibility of the designer's job is to present information in a way that is both
                             accessible and memorable.</p>

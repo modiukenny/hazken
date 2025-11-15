@@ -5,8 +5,8 @@ RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [NC,L]
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
-Rewriterule ^wrong_page$ error-404.html 
-Rewriterule ^home$ index.php
+RewriteRule ^wrong_page$ error-404.html 
+RewriteRule ^home$ index.php
 
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)

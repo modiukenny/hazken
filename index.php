@@ -25,14 +25,14 @@
 <meta property="og:image" content="https://hazken.com/src/img/hazken_brand.jpg" />
 <meta property="og:url" content="https://hazken.com" />
 <meta property="og:site_name" content="Hazken Digital" />
-    <meta property="og:updated_time" content="2026-02-18T11:14:44+00:00" />
+    <meta property="og:updated_time" content="2026-02-21T12:03:50+00:00" />
 <meta property="og:image:width" content="410" />
 <meta property="og:image:height" content="214" />
 <meta name="keywords" content="Hazken Digital, Print Company in Lagos Nigeria, Web Design in Lagos Nigeria, 
 Graphic Design in Lagos Nigeria Hazken Digital, Top Print Company in Lagos Nigeria, Print, Graphic Design" />
 
     <meta property="article:publisher" content="https://web.facebook.com/hazkendigital" />
-	<meta property="article:modified_time" content="2026-02-18T11:14:44+00:00" />
+	<meta property="article:modified_time" content="2026-02-21T12:03:50+00:00" />
     <link rel="profile" href="//gmpg.org/xfn/11">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
     <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />

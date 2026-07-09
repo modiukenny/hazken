@@ -267,7 +267,7 @@ Graphic Design in Lagos Nigeria Hazken Digital, Top Print Company in Lagos Niger
                                             </li>
                                             
                                     <li class="dropdown-submenu">
-                                        <a class="dropdown-item dropdown-toggle" href="#">Indoor/Outdoor Sign</a>
+                                        <a class="dropdown-item dropdown-toggle" href="#">Indoor/Outdoor Signs</a>
                                         <ul class="dropdown-menu">
                                             <li> <a class="dropdown-item" href="sign&signage">Indoor/Outdoor Signs Maker</a> </li>
                                             <li> <a class="dropdown-item" href="company_signs">Company Signs Making</a> </li>

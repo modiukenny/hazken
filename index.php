@@ -314,6 +314,7 @@ Graphic Design in Lagos Nigeria Hazken Digital, Top Print Company in Lagos Niger
                                                         <li> <a class="dropdown-item" href="customized_gifts">Souvenir Gifts</a> </li>
                                                         <li> <a class="dropdown-item" href="spin-wheel">Spin Wheel</a> </li>
                                                         <li> <a class="dropdown-item" href="air-freshener">Air Freshener</a> </li>
+                                                        <li> <a class="dropdown-item" href="dummy-fake-money-print.html">Event Fake Money</a> </li>
                                                     </ul>
                                                 </li>
                                                         <li> <a class="dropdown-item" href="umbrella">Umbrella</a> </li>

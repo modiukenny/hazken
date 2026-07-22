@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/download/52275d522-97b8999de/sitemap.xsl"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
@@ -254,6 +254,12 @@
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
+   <url>
+       <loc>https://hazken.com/foldable-hand-fan</loc>
+       <lastmod>2026-07-20T09:23:50+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
   <url>
        <loc>https://hazken.com/office-shirt</loc>
        <lastmod>2026-07-20T09:23:50+00:00</lastmod>
@@ -274,12 +280,6 @@
   </url>
   <url>
        <loc>https://hazken.com/patches</loc>
-       <lastmod>2026-07-20T09:23:50+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://hazken.com/dummy-fake-money-print</loc>
        <lastmod>2026-07-20T09:23:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
@@ -1677,6 +1677,12 @@
        <priority>0.6400</priority>
   </url>
   <url>
+       <loc>https://hazken.com/gazebo-canopy</loc>
+       <lastmod>2026-07-20T09:23:50+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
        <loc>https://hazken.com/beach-umbrella</loc>
        <lastmod>2026-07-20T09:23:50+00:00</lastmod>
        <changefreq>daily</changefreq>
@@ -1690,12 +1696,6 @@
   </url>
   <url>
        <loc>https://hazken.com/blog_page42</loc>
-       <lastmod>2026-07-20T09:23:50+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://hazken.com/gazebo-canopy</loc>
        <lastmod>2026-07-20T09:23:50+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>

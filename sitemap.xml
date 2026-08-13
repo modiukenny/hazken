@@ -2042,6 +2042,12 @@
        <changefreq>daily</changefreq>
        <priority>0.4096</priority>
   </url>
+   <url>
+       <loc>https://hazken.com/stanley-cup</loc>
+       <lastmod>2026-08-12T11:10:50+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
   <url>
        <loc>https://hazken.com/branded_cufflinks</loc>
        <lastmod>2026-08-12T11:10:50+00:00</lastmod>
